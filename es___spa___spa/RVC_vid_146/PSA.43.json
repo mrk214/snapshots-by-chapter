@@ -1,1 +1,117 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Salmos 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Salmos 43"},"next":{"usfm":"PSA.44","human":"Salmos 44","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Súplica de liberación"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios mío, ¡hazme justicia! ¡Defiéndeme!","¡Líbrame de gente impía, mentirosa e inicua!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tú eres mi Dios, mi fortaleza;","¿por qué me has abandonado?","¿Por qué debo andar acongojado","y sufrir por la opresión del enemigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Envía tu luz y tu verdad;","ellas me guiarán hasta tu santo monte,","me conducirán hasta el templo donde habitas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Me acercaré entonces a tu altar, mi Dios,","y allí, mi Dios, te alabaré al son del arpa,","pues tú eres mi Dios, mi gozo y alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Por qué te desanimas, alma mía?","¿Por qué te inquietas dentro de mí?","Espera en Dios, porque aún debo alabarlo.","¡Él es mi Dios! ¡Él es mi salvador!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Salmos 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Salmos 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Salmos 44"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Súplica de liberación"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios mío, ¡hazme justicia! ¡Defiéndeme!",
+          "¡Líbrame de gente impía, mentirosa e inicua!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tú eres mi Dios, mi fortaleza;",
+          "¿por qué me has abandonado?",
+          "¿Por qué debo andar acongojado",
+          "y sufrir por la opresión del enemigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Envía tu luz y tu verdad;",
+          "ellas me guiarán hasta tu santo monte,",
+          "me conducirán hasta el templo donde habitas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Me acercaré entonces a tu altar, mi Dios,",
+          "y allí, mi Dios, te alabaré al son del arpa,",
+          "pues tú eres mi Dios, mi gozo y alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Por qué te desanimas, alma mía?",
+          "¿Por qué te inquietas dentro de mí?",
+          "Espera en Dios, porque aún debo alabarlo.",
+          "¡Él es mi Dios! ¡Él es mi salvador!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

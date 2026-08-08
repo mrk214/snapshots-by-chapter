@@ -1,1 +1,206 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"TIT","name":"Tito"},"chapter":{"chapter_usfm":"TIT.2","is_chapter":true,"previous":{"usfm":"TIT.1","human":"Tito 1","canonical":true,"toc":true},"current":{"usfm":"TIT.2","human":"Tito 2"},"next":{"usfm":"TIT.3","human":"Tito 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Lo que se debe enseñar"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Tú, en cambio, predica lo que está de acuerdo con la sana doctrina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A los ancianos, enséñalos que sean moderados, respetables, sensatos, e íntegros en la fe, en el amor y en la constancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A las ancianas, enséñalas que sean reverentes en su conducta, y no calumniadoras ni adictas al mucho vino. Deben enseñar lo bueno"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["y aconsejar a las jóvenes a amar a sus esposos y a sus hijos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["a ser sensatas y puras, cuidadosas del hogar, bondadosas y sumisas a sus esposos, para que no se hable mal de la palabra de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A los jóvenes, exhórtalos a ser sensatos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Con tus buenas obras, dales tú mismo ejemplo en todo. Cuando enseñes, hazlo con integridad y seriedad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["y con un mensaje sano e intachable. Así se avergonzará cualquiera que se oponga, pues no podrá decir nada malo de nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Enseña a los esclavos a someterse en todo a sus amos, a procurar agradarles y a no ser respondones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No deben robarles, sino demostrar que son dignos de toda confianza, para que en todo hagan honor a la enseñanza de Dios nuestro Salvador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["En verdad, Dios ha manifestado a toda la humanidad su gracia, la cual trae salvación"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["y nos enseña a rechazar la impiedad y las pasiones mundanas. Así podremos vivir en este mundo con justicia, piedad y dominio propio,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["mientras aguardamos la bendita esperanza, es decir, la gloriosa venida de nuestro gran Dios y Salvador Jesucristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Él se entregó por nosotros para rescatarnos de toda maldad y purificar para sí un pueblo elegido, dedicado a hacer el bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Esto es lo que debes enseñar. Exhorta y reprende con toda autoridad. Que nadie te menosprecie."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/TIT.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/TIT.3.json"
+  },
+  "book": {
+    "book_usfm": "TIT",
+    "name": "Tito"
+  },
+  "chapter": {
+    "chapter_usfm": "TIT.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "TIT.1",
+      "human": "Tito 1"
+    },
+    "current": {
+      "usfm": "TIT.2",
+      "human": "Tito 2"
+    },
+    "next": {
+      "usfm": "TIT.3",
+      "human": "Tito 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lo que se debe enseñar"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Tú, en cambio, predica lo que está de acuerdo con la sana doctrina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A los ancianos, enséñalos que sean moderados, respetables, sensatos, e íntegros en la fe, en el amor y en la constancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A las ancianas, enséñalas que sean reverentes en su conducta, y no calumniadoras ni adictas al mucho vino. Deben enseñar lo bueno"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "y aconsejar a las jóvenes a amar a sus esposos y a sus hijos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "a ser sensatas y puras, cuidadosas del hogar, bondadosas y sumisas a sus esposos, para que no se hable mal de la palabra de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A los jóvenes, exhórtalos a ser sensatos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Con tus buenas obras, dales tú mismo ejemplo en todo. Cuando enseñes, hazlo con integridad y seriedad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "y con un mensaje sano e intachable. Así se avergonzará cualquiera que se oponga, pues no podrá decir nada malo de nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Enseña a los esclavos a someterse en todo a sus amos, a procurar agradarles y a no ser respondones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No deben robarles, sino demostrar que son dignos de toda confianza, para que en todo hagan honor a la enseñanza de Dios nuestro Salvador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "En verdad, Dios ha manifestado a toda la humanidad su gracia, la cual trae salvación"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "y nos enseña a rechazar la impiedad y las pasiones mundanas. Así podremos vivir en este mundo con justicia, piedad y dominio propio,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "mientras aguardamos la bendita esperanza, es decir, la gloriosa venida de nuestro gran Dios y Salvador Jesucristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Él se entregó por nosotros para rescatarnos de toda maldad y purificar para sí un pueblo elegido, dedicado a hacer el bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Esto es lo que debes enseñar. Exhorta y reprende con toda autoridad. Que nadie te menosprecie."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,283 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"MIC","name":"Miqueas"},"chapter":{"chapter_usfm":"MIC.1","is_chapter":true,"previous":{"usfm":"MIC.INTRO1","human":"Miqueas Introducción","canonical":false,"toc":true},"current":{"usfm":"MIC.1","human":"Miqueas 1"},"next":{"usfm":"MIC.2","human":"Miqueas 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Yo soy Miqueas de Moréset. Dios me comunicó lo que pensaba hacer contra las ciudades de Samaria y Jerusalén. Esto sucedió cuando Jotán, Ahaz y Ezequías eran reyes de Judá. Esto es lo que Dios me dijo:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Juicio contra Samaria"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¡Escúchenme bien,","pueblos todos de la tierra!","¡Préstenme atención,","habitantes de este país!","Yo soy el Dios de Israel","y desde mi santo templo","voy a denunciar sus maldades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["»Ya estoy por salir","y destruiré los pequeños templos","que han construido","en los cerros de este país."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Cuando ponga mis pies","sobre las montañas,","ellas se derretirán","como la cera en el fuego,","y los valles se partirán en dos,","como se parten las montañas","cuando los ríos bajan por ellas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Todo esto sucederá","por la rebeldía de los israelitas,","pues ya son muchos sus pecados.","Los de Israel pecaron","en la ciudad de Samaria;","los de Judá adoraron a otros dioses","en la ciudad de Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Por eso convertiré a Samaria","en un montón de ruinas;","esparciré sus piedras por el valle","y la dejaré al descubierto.","¡Solo servirá para plantar viñedos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["»Por eso haré pedazos","todos los ídolos de Samaria.","Los hicieron con las monedas","que ganaron las prostitutas;","¡pues yo los fundiré en el fuego","y en monedas los convertiré de nuevo!»"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Lamento de Miqueas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8,9],"lines":["Entonces yo dije:","«Samaria y mi pueblo Judá","han sido heridos de muerte.","La muerte también amenaza","a Jerusalén, capital de Judá.","»Por eso lloro y estoy triste;","por eso ando desnudo y descalzo;","por eso chillo como avestruz,","por eso lanzo aullidos como chacal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Pero no se pongan a llorar","ni digan nada a los de Gat.","Más bien retuérzanse de dolor","en ese pueblo polvoriento","que se llama Polvareda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Ustedes, habitantes de Bellavista,","serán llevados como esclavos;","avanzarán desnudos y avergonzados.","Habrá lágrimas en el pueblo vecino,","pero los habitantes de Zaanán","no saldrán en su ayuda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Los habitantes del pueblo de Amargura","se quedarán esperando ayuda,","pero Dios enviará la desgracia","hasta la entrada misma de Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»Ustedes, habitantes de Laquis,","¡enganchen sus caballos a los carros!","Fue en la ciudad de ustedes","donde todos nuestros males comenzaron.","Allí pecaron los israelitas,","y allí pecaron los de Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Por eso tendrán que despedirse","de su amado pueblo de Moréset-gat.","Los reyes de Israel serán engañados","en el pueblo llamado Trampa»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y Dios dijo:","«Contra ustedes,","habitantes del pueblo llamado Conquista,","voy a enviar un conquistador,","y aun los israelitas más valientes","huirán hasta la cueva de Adulam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Habitantes de Jerusalén,","¡lloren y aféitense la barba!,","¡lloren y córtense el cabello","hasta quedar calvos como un buitre!","¡Sus hijos queridos serán llevados","a un país lejos de aquí!»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/MIC.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/MIC.2.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Miqueas"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.INTRO1",
+      "human": "Miqueas Introducción"
+    },
+    "current": {
+      "usfm": "MIC.1",
+      "human": "Miqueas 1"
+    },
+    "next": {
+      "usfm": "MIC.2",
+      "human": "Miqueas 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Yo soy Miqueas de Moréset. Dios me comunicó lo que pensaba hacer contra las ciudades de Samaria y Jerusalén. Esto sucedió cuando Jotán, Ahaz y Ezequías eran reyes de Judá. Esto es lo que Dios me dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juicio contra Samaria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¡Escúchenme bien,",
+          "pueblos todos de la tierra!",
+          "¡Préstenme atención,",
+          "habitantes de este país!",
+          "Yo soy el Dios de Israel",
+          "y desde mi santo templo",
+          "voy a denunciar sus maldades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "»Ya estoy por salir",
+          "y destruiré los pequeños templos",
+          "que han construido",
+          "en los cerros de este país."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Cuando ponga mis pies",
+          "sobre las montañas,",
+          "ellas se derretirán",
+          "como la cera en el fuego,",
+          "y los valles se partirán en dos,",
+          "como se parten las montañas",
+          "cuando los ríos bajan por ellas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Todo esto sucederá",
+          "por la rebeldía de los israelitas,",
+          "pues ya son muchos sus pecados.",
+          "Los de Israel pecaron",
+          "en la ciudad de Samaria;",
+          "los de Judá adoraron a otros dioses",
+          "en la ciudad de Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Por eso convertiré a Samaria",
+          "en un montón de ruinas;",
+          "esparciré sus piedras por el valle",
+          "y la dejaré al descubierto.",
+          "¡Solo servirá para plantar viñedos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "»Por eso haré pedazos",
+          "todos los ídolos de Samaria.",
+          "Los hicieron con las monedas",
+          "que ganaron las prostitutas;",
+          "¡pues yo los fundiré en el fuego",
+          "y en monedas los convertiré de nuevo!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lamento de Miqueas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8,
+          9
+        ],
+        "lines": [
+          "Entonces yo dije:",
+          "«Samaria y mi pueblo Judá",
+          "han sido heridos de muerte.",
+          "La muerte también amenaza",
+          "a Jerusalén, capital de Judá.",
+          "»Por eso lloro y estoy triste;",
+          "por eso ando desnudo y descalzo;",
+          "por eso chillo como avestruz,",
+          "por eso lanzo aullidos como chacal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Pero no se pongan a llorar",
+          "ni digan nada a los de Gat.",
+          "Más bien retuérzanse de dolor",
+          "en ese pueblo polvoriento",
+          "que se llama Polvareda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Ustedes, habitantes de Bellavista,",
+          "serán llevados como esclavos;",
+          "avanzarán desnudos y avergonzados.",
+          "Habrá lágrimas en el pueblo vecino,",
+          "pero los habitantes de Zaanán",
+          "no saldrán en su ayuda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Los habitantes del pueblo de Amargura",
+          "se quedarán esperando ayuda,",
+          "pero Dios enviará la desgracia",
+          "hasta la entrada misma de Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»Ustedes, habitantes de Laquis,",
+          "¡enganchen sus caballos a los carros!",
+          "Fue en la ciudad de ustedes",
+          "donde todos nuestros males comenzaron.",
+          "Allí pecaron los israelitas,",
+          "y allí pecaron los de Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Por eso tendrán que despedirse",
+          "de su amado pueblo de Moréset-gat.",
+          "Los reyes de Israel serán engañados",
+          "en el pueblo llamado Trampa»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y Dios dijo:",
+          "«Contra ustedes,",
+          "habitantes del pueblo llamado Conquista,",
+          "voy a enviar un conquistador,",
+          "y aun los israelitas más valientes",
+          "huirán hasta la cueva de Adulam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Habitantes de Jerusalén,",
+          "¡lloren y aféitense la barba!,",
+          "¡lloren y córtense el cabello",
+          "hasta quedar calvos como un buitre!",
+          "¡Sus hijos queridos serán llevados",
+          "a un país lejos de aquí!»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

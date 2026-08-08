@@ -1,1 +1,206 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.143","is_chapter":true,"previous":{"usfm":"PSA.142","human":"Salmos 142","canonical":true,"toc":true},"current":{"usfm":"PSA.143","human":"Salmos 143"},"next":{"usfm":"PSA.144","human":"Salmos 144","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oye mi oración, oh Señor;","¡escucha mi ruego!","Respóndeme, porque eres fiel y justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No lleves a juicio a tu siervo,","porque ante ti nadie es inocente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El enemigo me ha perseguido;","me ha tirado al suelo","y me obliga a vivir en la oscuridad como los que están en la tumba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Estoy perdiendo toda esperanza;","quedo paralizado de miedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Recuerdo los días de antaño.","Medito en todas tus grandes obras","y pienso en lo que has hecho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A ti levanto mis manos en oración;","tengo sed de ti como la tierra reseca tiene sed de lluvia."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ven pronto, Señor, y respóndeme,","porque mi abatimiento se profundiza.","No te apartes de mí,","o moriré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Hazme oír cada mañana acerca de tu amor inagotable,","porque en ti confío.","Muéstrame por dónde debo andar,","porque a ti me entrego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Rescátame de mis enemigos, Señor;","corro a ti para que me escondas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Enséñame a hacer tu voluntad,","porque tú eres mi Dios.","Que tu buen Espíritu me lleve hacia adelante","con pasos firmes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Para gloria de tu nombre, oh Señor, preserva mi vida;","por tu fidelidad, sácame de esta angustia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["En tu amor inagotable, silencia a todos mis enemigos","y destruye a todos mis adversarios,","porque soy tu siervo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.142.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.144.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.143",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.142",
+      "human": "Salmos 142"
+    },
+    "current": {
+      "usfm": "PSA.143",
+      "human": "Salmos 143"
+    },
+    "next": {
+      "usfm": "PSA.144",
+      "human": "Salmos 144"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oye mi oración, oh Señor;",
+          "¡escucha mi ruego!",
+          "Respóndeme, porque eres fiel y justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No lleves a juicio a tu siervo,",
+          "porque ante ti nadie es inocente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El enemigo me ha perseguido;",
+          "me ha tirado al suelo",
+          "y me obliga a vivir en la oscuridad como los que están en la tumba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Estoy perdiendo toda esperanza;",
+          "quedo paralizado de miedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Recuerdo los días de antaño.",
+          "Medito en todas tus grandes obras",
+          "y pienso en lo que has hecho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A ti levanto mis manos en oración;",
+          "tengo sed de ti como la tierra reseca tiene sed de lluvia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ven pronto, Señor, y respóndeme,",
+          "porque mi abatimiento se profundiza.",
+          "No te apartes de mí,",
+          "o moriré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Hazme oír cada mañana acerca de tu amor inagotable,",
+          "porque en ti confío.",
+          "Muéstrame por dónde debo andar,",
+          "porque a ti me entrego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Rescátame de mis enemigos, Señor;",
+          "corro a ti para que me escondas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Enséñame a hacer tu voluntad,",
+          "porque tú eres mi Dios.",
+          "Que tu buen Espíritu me lleve hacia adelante",
+          "con pasos firmes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Para gloria de tu nombre, oh Señor, preserva mi vida;",
+          "por tu fidelidad, sácame de esta angustia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "En tu amor inagotable, silencia a todos mis enemigos",
+          "y destruye a todos mis adversarios,",
+          "porque soy tu siervo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

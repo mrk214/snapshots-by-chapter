@@ -1,1 +1,122 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.15","is_chapter":true,"previous":{"usfm":"PSA.14","human":"Psalm 14","canonical":true,"toc":true},"current":{"usfm":"PSA.15","human":"Psalm 15"},"next":{"usfm":"PSA.16","human":"Psalm 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Who Shall Dwell on Your Holy Hill?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Lord, who shall sojourn in your tent?","Who shall dwell on your holy hill?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He who walks blamelessly and does what is right","and speaks truth in his heart;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["who does not slander with his tongue","and does no evil to his neighbor,","nor takes up a reproach against his friend;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["in whose eyes a vile person is despised,","but who honors those who fear the Lord;","who swears to his own hurt and does not change;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["who does not put out his money at interest","and does not take a bribe against the innocent.","He who does these things shall never be moved."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.16.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.14",
+      "human": "Psalm 14"
+    },
+    "current": {
+      "usfm": "PSA.15",
+      "human": "Psalm 15"
+    },
+    "next": {
+      "usfm": "PSA.16",
+      "human": "Psalm 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Who Shall Dwell on Your Holy Hill?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Lord, who shall sojourn in your tent?",
+          "Who shall dwell on your holy hill?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He who walks blamelessly and does what is right",
+          "and speaks truth in his heart;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "who does not slander with his tongue",
+          "and does no evil to his neighbor,",
+          "nor takes up a reproach against his friend;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "in whose eyes a vile person is despised,",
+          "but who honors those who fear the Lord;",
+          "who swears to his own hurt and does not change;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "who does not put out his money at interest",
+          "and does not take a bribe against the innocent.",
+          "He who does these things shall never be moved."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

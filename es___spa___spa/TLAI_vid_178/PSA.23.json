@@ -1,1 +1,141 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.23","is_chapter":true,"previous":{"usfm":"PSA.22","human":"Salmos 22","canonical":true,"toc":true},"current":{"usfm":"PSA.23","human":"Salmos 23"},"next":{"usfm":"PSA.24","human":"Salmos 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios cuida de mí"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1a) Himno de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Tú, Dios mío, eres mi pastor;","contigo nada me falta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Me haces descansar en verdes pastos,","y para calmar mi sed","me llevas a tranquilas aguas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Me das nuevas fuerzas","y me guías por el mejor camino,","porque así eres tú."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Puedo cruzar lugares peligrosos","y no tener miedo de nada,","porque tú eres mi pastor","y siempre estás a mi lado;","me guías por el buen camino","y me llenas de confianza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Aunque se enojen mis enemigos,","tú me ofreces un banquete","y me llenas de felicidad;","¡me das un trato especial!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Estoy completamente seguro","de que tu bondad y tu amor","me acompañarán mientras yo viva,","y de que para siempre","viviré donde tú vives."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.24.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.22",
+      "human": "Salmos 22"
+    },
+    "current": {
+      "usfm": "PSA.23",
+      "human": "Salmos 23"
+    },
+    "next": {
+      "usfm": "PSA.24",
+      "human": "Salmos 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios cuida de mí"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1a) Himno de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Tú, Dios mío, eres mi pastor;",
+          "contigo nada me falta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Me haces descansar en verdes pastos,",
+          "y para calmar mi sed",
+          "me llevas a tranquilas aguas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Me das nuevas fuerzas",
+          "y me guías por el mejor camino,",
+          "porque así eres tú."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Puedo cruzar lugares peligrosos",
+          "y no tener miedo de nada,",
+          "porque tú eres mi pastor",
+          "y siempre estás a mi lado;",
+          "me guías por el buen camino",
+          "y me llenas de confianza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Aunque se enojen mis enemigos,",
+          "tú me ofreces un banquete",
+          "y me llenas de felicidad;",
+          "¡me das un trato especial!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Estoy completamente seguro",
+          "de que tu bondad y tu amor",
+          "me acompañarán mientras yo viva,",
+          "y de que para siempre",
+          "viviré donde tú vives."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

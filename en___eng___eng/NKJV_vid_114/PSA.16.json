@@ -1,1 +1,187 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.16","is_chapter":true,"previous":{"usfm":"PSA.15","human":"Psalms 15","canonical":true,"toc":true},"current":{"usfm":"PSA.16","human":"Psalms 16"},"next":{"usfm":"PSA.17","human":"Psalms 17","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Hope of the Faithful, and the Messiah’s Victory"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Michtam of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Preserve me, O God, for in You I put my trust."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O my soul, you have said to the Lord,","“You are my Lord,","My goodness is nothing apart from You.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["As for the saints who are on the earth,","“They are the excellent ones, in whom is all my delight.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Their sorrows shall be multiplied who hasten after another god;","Their drink offerings of blood I will not offer,","Nor take up their names on my lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Lord, You are the portion of my inheritance and my cup;","You maintain my lot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The lines have fallen to me in pleasant places;","Yes, I have a good inheritance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I will bless the Lord who has given me counsel;","My heart also instructs me in the night seasons."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I have set the Lord always before me;","Because He is at my right hand I shall not be moved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Therefore my heart is glad, and my glory rejoices;","My flesh also will rest in hope."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["For You will not leave my soul in Sheol,","Nor will You allow Your Holy One to see corruption."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["You will show me the path of life;","In Your presence is fullness of joy;","At Your right hand are pleasures forevermore."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.17.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.15",
+      "human": "Psalms 15"
+    },
+    "current": {
+      "usfm": "PSA.16",
+      "human": "Psalms 16"
+    },
+    "next": {
+      "usfm": "PSA.17",
+      "human": "Psalms 17"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Hope of the Faithful, and the Messiah’s Victory"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Michtam of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Preserve me, O God, for in You I put my trust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O my soul, you have said to the Lord,",
+          "“You are my Lord,",
+          "My goodness is nothing apart from You.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "As for the saints who are on the earth,",
+          "“They are the excellent ones, in whom is all my delight.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Their sorrows shall be multiplied who hasten after another god;",
+          "Their drink offerings of blood I will not offer,",
+          "Nor take up their names on my lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Lord, You are the portion of my inheritance and my cup;",
+          "You maintain my lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The lines have fallen to me in pleasant places;",
+          "Yes, I have a good inheritance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I will bless the Lord who has given me counsel;",
+          "My heart also instructs me in the night seasons."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I have set the Lord always before me;",
+          "Because He is at my right hand I shall not be moved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Therefore my heart is glad, and my glory rejoices;",
+          "My flesh also will rest in hope."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "For You will not leave my soul in Sheol,",
+          "Nor will You allow Your Holy One to see corruption."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "You will show me the path of life;",
+          "In Your presence is fullness of joy;",
+          "At Your right hand are pleasures forevermore."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,139 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.110","is_chapter":true,"previous":{"usfm":"PSA.109","human":"Salmos 109","canonical":true,"toc":true},"current":{"usfm":"PSA.110","human":"Salmos 110"},"next":{"usfm":"PSA.111","human":"Salmos 111","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor disse ao meu Senhor:","“Senta-te à minha direita","até que eu faça dos teus inimigos","um estrado para os teus pés”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Senhor estenderá o cetro de teu poder desde Sião,","e dominarás sobre os teus inimigos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quando convocares as tuas tropas,","o teu povo se apresentará voluntariamente.","Trajando vestes santas,","desde o romper da alvorada","os teus jovens virão como o orvalho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["O Senhor jurou e não se arrependerá:","“Tu és sacerdote para sempre,","segundo a ordem de Melquisedeque”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor está à tua direita;","ele esmagará reis no dia da sua ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Julgará as nações, amontoando os mortos","e esmagando governantes em toda a extensão da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No caminho beberá de um ribeiro,","e então erguerá a cabeça."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.109.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.111.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.110",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.109",
+      "human": "Salmos 109"
+    },
+    "current": {
+      "usfm": "PSA.110",
+      "human": "Salmos 110"
+    },
+    "next": {
+      "usfm": "PSA.111",
+      "human": "Salmos 111"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor disse ao meu Senhor:",
+          "“Senta-te à minha direita",
+          "até que eu faça dos teus inimigos",
+          "um estrado para os teus pés”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Senhor estenderá o cetro de teu poder desde Sião,",
+          "e dominarás sobre os teus inimigos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quando convocares as tuas tropas,",
+          "o teu povo se apresentará voluntariamente.",
+          "Trajando vestes santas,",
+          "desde o romper da alvorada",
+          "os teus jovens virão como o orvalho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "O Senhor jurou e não se arrependerá:",
+          "“Tu és sacerdote para sempre,",
+          "segundo a ordem de Melquisedeque”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor está à tua direita;",
+          "ele esmagará reis no dia da sua ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Julgará as nações, amontoando os mortos",
+          "e esmagando governantes em toda a extensão da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No caminho beberá de um ribeiro,",
+          "e então erguerá a cabeça."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

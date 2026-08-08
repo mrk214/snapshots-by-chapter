@@ -1,1 +1,157 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.113","is_chapter":true,"previous":{"usfm":"PSA.112","human":"Psalm 112","canonical":true,"toc":true},"current":{"usfm":"PSA.113","human":"Psalm 113"},"next":{"usfm":"PSA.114","human":"Psalm 114","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Who Is like the Lord Our God?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","Praise, O servants of the Lord,","praise the name of the Lord!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Blessed be the name of the Lord","from this time forth and forevermore!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["From the rising of the sun to its setting,","the name of the Lord is to be praised!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord is high above all nations,","and his glory above the heavens!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Who is like the Lord our God,","who is seated on high,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["who looks far down","on the heavens and the earth?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He raises the poor from the dust","and lifts the needy from the ash heap,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["to make them sit with princes,","with the princes of his people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He gives the barren woman a home,","making her the joyous mother of children.","Praise the Lord!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.112.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.114.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.113",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.112",
+      "human": "Psalm 112"
+    },
+    "current": {
+      "usfm": "PSA.113",
+      "human": "Psalm 113"
+    },
+    "next": {
+      "usfm": "PSA.114",
+      "human": "Psalm 114"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Who Is like the Lord Our God?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "Praise, O servants of the Lord,",
+          "praise the name of the Lord!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Blessed be the name of the Lord",
+          "from this time forth and forevermore!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "From the rising of the sun to its setting,",
+          "the name of the Lord is to be praised!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord is high above all nations,",
+          "and his glory above the heavens!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Who is like the Lord our God,",
+          "who is seated on high,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "who looks far down",
+          "on the heavens and the earth?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He raises the poor from the dust",
+          "and lifts the needy from the ash heap,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "to make them sit with princes,",
+          "with the princes of his people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He gives the barren woman a home,",
+          "making her the joyous mother of children.",
+          "Praise the Lord!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

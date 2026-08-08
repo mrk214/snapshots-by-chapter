@@ -1,1 +1,161 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.112","is_chapter":true,"previous":{"usfm":"PSA.111","human":"Psalms 111","canonical":true,"toc":true},"current":{"usfm":"PSA.112","human":"Psalms 112"},"next":{"usfm":"PSA.113","human":"Psalms 113","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","How joyful are those who fear the Lord","and delight in obeying his commands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Their children will be successful everywhere;","an entire generation of godly people will be blessed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They themselves will be wealthy,","and their good deeds will last forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Light shines in the darkness for the godly.","They are generous, compassionate, and righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Good comes to those who lend money generously","and conduct their business fairly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Such people will not be overcome by evil.","Those who are righteous will be long remembered."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["They do not fear bad news;","they confidently trust the Lord to care for them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They are confident and fearless","and can face their foes triumphantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["They share freely and give generously to those in need.","Their good deeds will be remembered forever.","They will have influence and honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The wicked will see this and be infuriated.","They will grind their teeth in anger;","they will slink away, their hopes thwarted."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.111.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.113.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.112",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.111",
+      "human": "Psalms 111"
+    },
+    "current": {
+      "usfm": "PSA.112",
+      "human": "Psalms 112"
+    },
+    "next": {
+      "usfm": "PSA.113",
+      "human": "Psalms 113"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "How joyful are those who fear the Lord",
+          "and delight in obeying his commands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Their children will be successful everywhere;",
+          "an entire generation of godly people will be blessed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They themselves will be wealthy,",
+          "and their good deeds will last forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Light shines in the darkness for the godly.",
+          "They are generous, compassionate, and righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Good comes to those who lend money generously",
+          "and conduct their business fairly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Such people will not be overcome by evil.",
+          "Those who are righteous will be long remembered."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "They do not fear bad news;",
+          "they confidently trust the Lord to care for them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They are confident and fearless",
+          "and can face their foes triumphantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "They share freely and give generously to those in need.",
+          "Their good deeds will be remembered forever.",
+          "They will have influence and honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The wicked will see this and be infuriated.",
+          "They will grind their teeth in anger;",
+          "they will slink away, their hopes thwarted."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

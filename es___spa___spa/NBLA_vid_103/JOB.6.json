@@ -1,1 +1,387 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.6","is_chapter":true,"previous":{"usfm":"JOB.5","human":"Job 5","canonical":true,"toc":true},"current":{"usfm":"JOB.6","human":"Job 6"},"next":{"usfm":"JOB.7","human":"Job 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Respuesta de Job a Elifaz"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces Job respondió:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¡Oh, si pudiera pesarse mi sufrimiento,","Y ponerse en la balanza junto con mi calamidad!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["-»Porque pesarían ahora más que la arena de los mares;","Por eso mis palabras han sido precipitadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["-»Porque las flechas del Todopoderoso están clavadas en mí,","Cuyo veneno bebe mi espíritu;","Contra mí se juntan los terrores de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["-»¿Acaso rebuzna el asno montés junto a su hierba,","O muge el buey junto a su forraje?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["-»¿Se come sin sal lo insípido,","O hay gusto en la clara del huevo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Mi alma se niega a tocar estas cosas;","Son alimento repugnante para mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶»¡Quién me diera que mi petición se cumpliera,","Que Dios me concediera mi anhelo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Que Dios consintiera en aplastarme,","Que soltara Su mano y acabara conmigo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["-»Pero aún tengo consuelo,","Y me regocijo en el dolor sin tregua,","Que no he negado las palabras del Santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["-»¿Cuál es mi fuerza, para que yo espere,","Y cuál es mi fin, para que yo resista?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["-»¿Es mi fuerza la fuerza de las piedras,","O es mi carne de bronce?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["-»¿Es que mi ayuda no está dentro de mí,","Y está alejado de mí todo auxilio?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¶»Para el abatido, debe haber compasión de parte de su amigo;","No sea que abandone el temor del Todopoderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["-»Mis hermanos han obrado engañosamente como un torrente,","Como las corrientes de los arroyos que se desvanecen,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Que a causa del hielo están turbios","Y en los que la nieve se derrite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["-»Cuando se quedan sin agua, están silenciosos,","Cuando hace calor, desaparecen de su lugar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["-»Serpentean las sendas de su curso,","Se evaporan en la nada y perecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["-»Las caravanas de Temán los buscaron,","Los viajeros de Sabá contaban con ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["-»Quedaron frustrados porque habían confiado,","Llegaron allí y fueron confundidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["-»Ciertamente, así son ustedes ahora,","Ven algo aterrador y se espantan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["-»¿Acaso he dicho: “Denme algo,","De su riqueza ofrézcanme un soborno,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Líbrenme de la mano del adversario”,","O: “Rescátenme de la mano de los tiranos”?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["¶»Instrúyanme, y yo me callaré;","Muéstrenme en qué he errado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["-»¡Cuán dolorosas son las palabras sinceras!","Pero ¿qué prueba el argumento de ustedes?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["-»¿Piensan censurar mis palabras,","Cuando las palabras del desesperado se las lleva el viento?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["-»Aun echarían suerte sobre los huérfanos,","Y especularían con su amigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["-»Y ahora, traten de mirarme,","Y vean si miento en sus propias caras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["-»Desistan, por favor; que no haya injusticia;","Sí, desistan; en ello está aún mi justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["-»¿Acaso hay injusticia en mi lengua?","¿No puede mi paladar discernir calamidades?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOB.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOB.7.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.5",
+      "human": "Job 5"
+    },
+    "current": {
+      "usfm": "JOB.6",
+      "human": "Job 6"
+    },
+    "next": {
+      "usfm": "JOB.7",
+      "human": "Job 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Respuesta de Job a Elifaz"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces Job respondió:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¡Oh, si pudiera pesarse mi sufrimiento,",
+          "Y ponerse en la balanza junto con mi calamidad!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "-»Porque pesarían ahora más que la arena de los mares;",
+          "Por eso mis palabras han sido precipitadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "-»Porque las flechas del Todopoderoso están clavadas en mí,",
+          "Cuyo veneno bebe mi espíritu;",
+          "Contra mí se juntan los terrores de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "-»¿Acaso rebuzna el asno montés junto a su hierba,",
+          "O muge el buey junto a su forraje?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "-»¿Se come sin sal lo insípido,",
+          "O hay gusto en la clara del huevo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Mi alma se niega a tocar estas cosas;",
+          "Son alimento repugnante para mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶»¡Quién me diera que mi petición se cumpliera,",
+          "Que Dios me concediera mi anhelo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Que Dios consintiera en aplastarme,",
+          "Que soltara Su mano y acabara conmigo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "-»Pero aún tengo consuelo,",
+          "Y me regocijo en el dolor sin tregua,",
+          "Que no he negado las palabras del Santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "-»¿Cuál es mi fuerza, para que yo espere,",
+          "Y cuál es mi fin, para que yo resista?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "-»¿Es mi fuerza la fuerza de las piedras,",
+          "O es mi carne de bronce?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "-»¿Es que mi ayuda no está dentro de mí,",
+          "Y está alejado de mí todo auxilio?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¶»Para el abatido, debe haber compasión de parte de su amigo;",
+          "No sea que abandone el temor del Todopoderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "-»Mis hermanos han obrado engañosamente como un torrente,",
+          "Como las corrientes de los arroyos que se desvanecen,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Que a causa del hielo están turbios",
+          "Y en los que la nieve se derrite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "-»Cuando se quedan sin agua, están silenciosos,",
+          "Cuando hace calor, desaparecen de su lugar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "-»Serpentean las sendas de su curso,",
+          "Se evaporan en la nada y perecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "-»Las caravanas de Temán los buscaron,",
+          "Los viajeros de Sabá contaban con ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "-»Quedaron frustrados porque habían confiado,",
+          "Llegaron allí y fueron confundidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "-»Ciertamente, así son ustedes ahora,",
+          "Ven algo aterrador y se espantan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "-»¿Acaso he dicho: “Denme algo,",
+          "De su riqueza ofrézcanme un soborno,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Líbrenme de la mano del adversario”,",
+          "O: “Rescátenme de la mano de los tiranos”?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "¶»Instrúyanme, y yo me callaré;",
+          "Muéstrenme en qué he errado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "-»¡Cuán dolorosas son las palabras sinceras!",
+          "Pero ¿qué prueba el argumento de ustedes?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "-»¿Piensan censurar mis palabras,",
+          "Cuando las palabras del desesperado se las lleva el viento?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "-»Aun echarían suerte sobre los huérfanos,",
+          "Y especularían con su amigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "-»Y ahora, traten de mirarme,",
+          "Y vean si miento en sus propias caras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "-»Desistan, por favor; que no haya injusticia;",
+          "Sí, desistan; en ello está aún mi justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "-»¿Acaso hay injusticia en mi lengua?",
+          "¿No puede mi paladar discernir calamidades?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

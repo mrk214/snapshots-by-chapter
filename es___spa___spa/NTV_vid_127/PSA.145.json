@@ -1,1 +1,290 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.145","is_chapter":true,"previous":{"usfm":"PSA.144","human":"Salmos 144","canonical":true,"toc":true},"current":{"usfm":"PSA.145","human":"Salmos 145"},"next":{"usfm":"PSA.146","human":"Salmos 146","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de alabanza de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Te exaltaré, mi Dios y Rey,","y alabaré tu nombre por siempre y para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Te alabaré todos los días;","sí, te alabaré por siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Grande es el Señor, el más digno de alabanza!","Nadie puede medir su grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Que cada generación cuente a sus hijos de tus poderosos actos","y que proclame tu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Meditaré en la gloria y la majestad de tu esplendor,","y en tus maravillosos milagros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tus obras imponentes estarán en boca de todos;","proclamaré tu grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos contarán la historia de tu maravillosa bondad;","cantarán de alegría acerca de tu justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor es misericordioso y compasivo,","lento para enojarse y lleno de amor inagotable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El Señor es bueno con todos;","desborda compasión sobre toda su creación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Todas tus obras te agradecerán, Señor,","y tus fieles seguidores te darán alabanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Hablarán de la gloria de tu reino;","darán ejemplos de tu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Contarán de tus obras poderosas","y de la majestad y la gloria de tu reinado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pues tu reino es un reino eterno;","gobiernas de generación en generación.","El Señor siempre cumple sus promesas;","es bondadoso en todo lo que hace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["El Señor ayuda a los caídos","y levanta a los que están agobiados por sus cargas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los ojos de todos buscan en ti la esperanza;","les das su alimento según la necesidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Cuando abres tu mano,","sacias el hambre y la sed de todo ser viviente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El Señor es justo en todo lo que hace;","está lleno de bondad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["El Señor está cerca de todos los que lo invocan,","sí, de todos los que lo invocan de verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Él concede los deseos de los que le temen;","oye sus gritos de auxilio y los rescata."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El Señor protege a todos los que lo aman,","pero destruye a los perversos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Alabaré al Señor,","y que todo el mundo bendiga su santo nombre","por siempre y para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.144.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.146.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.145",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.144",
+      "human": "Salmos 144"
+    },
+    "current": {
+      "usfm": "PSA.145",
+      "human": "Salmos 145"
+    },
+    "next": {
+      "usfm": "PSA.146",
+      "human": "Salmos 146"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de alabanza de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Te exaltaré, mi Dios y Rey,",
+          "y alabaré tu nombre por siempre y para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Te alabaré todos los días;",
+          "sí, te alabaré por siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Grande es el Señor, el más digno de alabanza!",
+          "Nadie puede medir su grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Que cada generación cuente a sus hijos de tus poderosos actos",
+          "y que proclame tu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Meditaré en la gloria y la majestad de tu esplendor,",
+          "y en tus maravillosos milagros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tus obras imponentes estarán en boca de todos;",
+          "proclamaré tu grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos contarán la historia de tu maravillosa bondad;",
+          "cantarán de alegría acerca de tu justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor es misericordioso y compasivo,",
+          "lento para enojarse y lleno de amor inagotable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El Señor es bueno con todos;",
+          "desborda compasión sobre toda su creación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Todas tus obras te agradecerán, Señor,",
+          "y tus fieles seguidores te darán alabanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Hablarán de la gloria de tu reino;",
+          "darán ejemplos de tu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Contarán de tus obras poderosas",
+          "y de la majestad y la gloria de tu reinado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pues tu reino es un reino eterno;",
+          "gobiernas de generación en generación.",
+          "El Señor siempre cumple sus promesas;",
+          "es bondadoso en todo lo que hace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "El Señor ayuda a los caídos",
+          "y levanta a los que están agobiados por sus cargas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los ojos de todos buscan en ti la esperanza;",
+          "les das su alimento según la necesidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Cuando abres tu mano,",
+          "sacias el hambre y la sed de todo ser viviente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El Señor es justo en todo lo que hace;",
+          "está lleno de bondad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "El Señor está cerca de todos los que lo invocan,",
+          "sí, de todos los que lo invocan de verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Él concede los deseos de los que le temen;",
+          "oye sus gritos de auxilio y los rescata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El Señor protege a todos los que lo aman,",
+          "pero destruye a los perversos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Alabaré al Señor,",
+          "y que todo el mundo bendiga su santo nombre",
+          "por siempre y para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

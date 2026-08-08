@@ -1,1 +1,336 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JAS","name":"James"},"chapter":{"chapter_usfm":"JAS.1","is_chapter":true,"previous":{"usfm":"JAS.INTRO1","human":"James Intro","canonical":false,"toc":true},"current":{"usfm":"JAS.1","human":"James 1"},"next":{"usfm":"JAS.2","human":"James 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["James, a servant of God and of the Lord Jesus Christ,","To the twelve tribes scattered among the nations:","Greetings."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Trials and Temptations"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["because you know that the testing of your faith produces perseverance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Let perseverance finish its work so that you may be mature and complete, not lacking anything."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["That person should not expect to receive anything from the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Such a person is double-minded and unstable in all they do."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Believers in humble circumstances ought to take pride in their high position."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["But the rich should take pride in their humiliation—since they will pass away like a wild flower."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["For the sun rises with scorching heat and withers the plant; its blossom falls and its beauty is destroyed. In the same way, the rich will fade away even while they go about their business."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["but each person is tempted when they are dragged away by their own evil desire and enticed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Don’t be deceived, my dear brothers and sisters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Listening and Doing"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["because human anger does not produce the righteousness that God desires."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word planted in you, which can save you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Do not merely listen to the word, and so deceive yourselves. Do what it says."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["and, after looking at himself, goes away and immediately forgets what he looks like."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["But whoever looks intently into the perfect law that gives freedom, and continues in it—not forgetting what they have heard, but doing it—they will be blessed in what they do."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Those who consider themselves religious and yet do not keep a tight rein on their tongues deceive themselves, and their religion is worthless."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JAS.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JAS.2.json"
+  },
+  "book": {
+    "book_usfm": "JAS",
+    "name": "James"
+  },
+  "chapter": {
+    "chapter_usfm": "JAS.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JAS.INTRO1",
+      "human": "James Intro"
+    },
+    "current": {
+      "usfm": "JAS.1",
+      "human": "James 1"
+    },
+    "next": {
+      "usfm": "JAS.2",
+      "human": "James 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "James, a servant of God and of the Lord Jesus Christ,",
+          "To the twelve tribes scattered among the nations:",
+          "Greetings."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Trials and Temptations"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Consider it pure joy, my brothers and sisters, whenever you face trials of many kinds,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "because you know that the testing of your faith produces perseverance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Let perseverance finish its work so that you may be mature and complete, not lacking anything."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "If any of you lacks wisdom, you should ask God, who gives generously to all without finding fault, and it will be given to you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "But when you ask, you must believe and not doubt, because the one who doubts is like a wave of the sea, blown and tossed by the wind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "That person should not expect to receive anything from the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Such a person is double-minded and unstable in all they do."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Believers in humble circumstances ought to take pride in their high position."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "But the rich should take pride in their humiliation—since they will pass away like a wild flower."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "For the sun rises with scorching heat and withers the plant; its blossom falls and its beauty is destroyed. In the same way, the rich will fade away even while they go about their business."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Blessed is the one who perseveres under trial because, having stood the test, that person will receive the crown of life that the Lord has promised to those who love him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "When tempted, no one should say, “God is tempting me.” For God cannot be tempted by evil, nor does he tempt anyone;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "but each person is tempted when they are dragged away by their own evil desire and enticed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Then, after desire has conceived, it gives birth to sin; and sin, when it is full-grown, gives birth to death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Don’t be deceived, my dear brothers and sisters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Every good and perfect gift is from above, coming down from the Father of the heavenly lights, who does not change like shifting shadows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "He chose to give us birth through the word of truth, that we might be a kind of firstfruits of all he created."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Listening and Doing"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "My dear brothers and sisters, take note of this: Everyone should be quick to listen, slow to speak and slow to become angry,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "because human anger does not produce the righteousness that God desires."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Therefore, get rid of all moral filth and the evil that is so prevalent and humbly accept the word planted in you, which can save you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Do not merely listen to the word, and so deceive yourselves. Do what it says."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Anyone who listens to the word but does not do what it says is like someone who looks at his face in a mirror"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "and, after looking at himself, goes away and immediately forgets what he looks like."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "But whoever looks intently into the perfect law that gives freedom, and continues in it—not forgetting what they have heard, but doing it—they will be blessed in what they do."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Those who consider themselves religious and yet do not keep a tight rein on their tongues deceive themselves, and their religion is worthless."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Religion that God our Father accepts as pure and faultless is this: to look after orphans and widows in their distress and to keep oneself from being polluted by the world."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

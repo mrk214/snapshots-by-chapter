@@ -1,1 +1,323 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Proverbios 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Proverbios 13"},"next":{"usfm":"PRO.14","human":"Proverbios 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El hijo sabio acepta la disciplina de sus padres;","el burlón se niega a escuchar la corrección."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Con palabras sabias te conseguirás una buena comida,","pero la gente traicionera tiene hambre de violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Los que controlan su lengua tendrán una larga vida;","el abrir la boca puede arruinarlo todo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Los perezosos ambicionan mucho y obtienen poco,","pero los que trabajan con esmero prosperarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los justos odian las mentiras;","los perversos son motivo de vergüenza y deshonra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La justicia protege el camino del intachable,","pero el pecado engaña a los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Hay quienes son pobres y se hacen pasar por ricos;","hay otros que, siendo ricos, se hacen pasar por pobres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El rico puede pagar rescate por su vida,","pero al pobre ni siquiera lo amenazan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La vida del justo está llena de luz y de alegría,","pero la luz del pecador se apagará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El orgullo lleva a conflictos;","los que siguen el consejo son sabios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La riqueza lograda de la noche a la mañana pronto desaparece;","pero la que es fruto del arduo trabajo aumenta con el tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["La esperanza postergada aflige al corazón,","pero un sueño cumplido es un árbol de vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Los que desprecian el consejo buscan problemas;","los que respetan un mandato tendrán éxito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["La instrucción de los sabios es como una fuente que da vida;","los que la aceptan evitan las trampas de la muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Una persona de buen juicio es respetada;","una persona traicionera va directo a la destrucción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Las personas sabias piensan antes de actuar;","los necios no lo hacen y hasta se jactan de su necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El mensajero no confiable cae en problemas,","pero el mensajero fiel trae alivio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si desprecias la crítica constructiva, acabarás en pobreza y deshonra;","si aceptas la corrección, recibirás honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Es agradable ver que los sueños se hacen realidad,","pero los necios se niegan a abandonar el mal para alcanzarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Camina con sabios y te harás sabio;","júntate con necios y te meterás en dificultades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Los problemas persiguen a los pecadores,","mientras que las bendiciones recompensan a los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["La gente buena deja una herencia a sus nietos,","pero la riqueza de los pecadores pasa a manos de los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["La granja del pobre puede que produzca mucho alimento,","pero la injusticia arrasa con todo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Quienes no emplean la vara de disciplina odian a sus hijos.","Los que en verdad aman a sus hijos se preocupan lo suficiente para disciplinarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Los justos comen hasta quedar bien satisfechos,","pero el estómago de los perversos quedará vacío."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Proverbios 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Proverbios 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Proverbios 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El hijo sabio acepta la disciplina de sus padres;",
+          "el burlón se niega a escuchar la corrección."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Con palabras sabias te conseguirás una buena comida,",
+          "pero la gente traicionera tiene hambre de violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Los que controlan su lengua tendrán una larga vida;",
+          "el abrir la boca puede arruinarlo todo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Los perezosos ambicionan mucho y obtienen poco,",
+          "pero los que trabajan con esmero prosperarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los justos odian las mentiras;",
+          "los perversos son motivo de vergüenza y deshonra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La justicia protege el camino del intachable,",
+          "pero el pecado engaña a los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Hay quienes son pobres y se hacen pasar por ricos;",
+          "hay otros que, siendo ricos, se hacen pasar por pobres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El rico puede pagar rescate por su vida,",
+          "pero al pobre ni siquiera lo amenazan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La vida del justo está llena de luz y de alegría,",
+          "pero la luz del pecador se apagará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El orgullo lleva a conflictos;",
+          "los que siguen el consejo son sabios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La riqueza lograda de la noche a la mañana pronto desaparece;",
+          "pero la que es fruto del arduo trabajo aumenta con el tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "La esperanza postergada aflige al corazón,",
+          "pero un sueño cumplido es un árbol de vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Los que desprecian el consejo buscan problemas;",
+          "los que respetan un mandato tendrán éxito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "La instrucción de los sabios es como una fuente que da vida;",
+          "los que la aceptan evitan las trampas de la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Una persona de buen juicio es respetada;",
+          "una persona traicionera va directo a la destrucción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Las personas sabias piensan antes de actuar;",
+          "los necios no lo hacen y hasta se jactan de su necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El mensajero no confiable cae en problemas,",
+          "pero el mensajero fiel trae alivio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si desprecias la crítica constructiva, acabarás en pobreza y deshonra;",
+          "si aceptas la corrección, recibirás honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Es agradable ver que los sueños se hacen realidad,",
+          "pero los necios se niegan a abandonar el mal para alcanzarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Camina con sabios y te harás sabio;",
+          "júntate con necios y te meterás en dificultades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Los problemas persiguen a los pecadores,",
+          "mientras que las bendiciones recompensan a los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "La gente buena deja una herencia a sus nietos,",
+          "pero la riqueza de los pecadores pasa a manos de los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "La granja del pobre puede que produzca mucho alimento,",
+          "pero la injusticia arrasa con todo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Quienes no emplean la vara de disciplina odian a sus hijos.",
+          "Los que en verdad aman a sus hijos se preocupan lo suficiente para disciplinarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Los justos comen hasta quedar bien satisfechos,",
+          "pero el estómago de los perversos quedará vacío."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

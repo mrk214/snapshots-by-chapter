@@ -1,1 +1,262 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.83","is_chapter":true,"previous":{"usfm":"PSA.82","human":"Psalm 82","canonical":true,"toc":true},"current":{"usfm":"PSA.83","human":"Psalm 83"},"next":{"usfm":"PSA.84","human":"Psalm 84","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song or Psalm of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Keep not thou silence, O God:","Hold not thy peace, and be not still, O God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For, lo, thine enemies make a tumult:","And they that hate thee have lifted up the head."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They have taken crafty counsel against thy people,","And consulted against thy hidden ones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["They have said, Come, and let us cut them off from being a nation;","That the name of Israel may be no more in remembrance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For they have consulted together with one consent:","They are confederate against thee:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The tabernacles of Edom, and the Ishmaelites;","Of Moab, and the Hagarenes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Gebal, and Ammon, and Amalek;","The Philistines with the inhabitants of Tyre;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Assur also is joined with them:","They have holpen the children of Lot."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Do unto them as unto the Midianites;","As to Sisera, as to Jabin, at the brook of Kison:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Which perished at Endor:","They became as dung for the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Make their nobles like Oreb, and like Zeeb:","Yea, all their princes as Zebah, and as Zalmunna:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Who said, Let us take to ourselves","The houses of God in possession."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["O my God, make them like a wheel;","As the stubble before the wind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["As the fire burneth a wood,","And as the flame setteth the mountains on fire;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["So persecute them with thy tempest,","And make them afraid with thy storm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Fill their faces with shame;","That they may seek thy name, O LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Let them be confounded and troubled for ever;","Yea, let them be put to shame, and perish:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["That men may know that thou, whose name alone is JEHOVAH,","Art the Most High over all the earth."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.82.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.84.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.83",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.82",
+      "human": "Psalm 82"
+    },
+    "current": {
+      "usfm": "PSA.83",
+      "human": "Psalm 83"
+    },
+    "next": {
+      "usfm": "PSA.84",
+      "human": "Psalm 84"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song or Psalm of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Keep not thou silence, O God:",
+          "Hold not thy peace, and be not still, O God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For, lo, thine enemies make a tumult:",
+          "And they that hate thee have lifted up the head."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They have taken crafty counsel against thy people,",
+          "And consulted against thy hidden ones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "They have said, Come, and let us cut them off from being a nation;",
+          "That the name of Israel may be no more in remembrance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For they have consulted together with one consent:",
+          "They are confederate against thee:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The tabernacles of Edom, and the Ishmaelites;",
+          "Of Moab, and the Hagarenes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Gebal, and Ammon, and Amalek;",
+          "The Philistines with the inhabitants of Tyre;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Assur also is joined with them:",
+          "They have holpen the children of Lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Do unto them as unto the Midianites;",
+          "As to Sisera, as to Jabin, at the brook of Kison:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Which perished at Endor:",
+          "They became as dung for the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Make their nobles like Oreb, and like Zeeb:",
+          "Yea, all their princes as Zebah, and as Zalmunna:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Who said, Let us take to ourselves",
+          "The houses of God in possession."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "O my God, make them like a wheel;",
+          "As the stubble before the wind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "As the fire burneth a wood,",
+          "And as the flame setteth the mountains on fire;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "So persecute them with thy tempest,",
+          "And make them afraid with thy storm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Fill their faces with shame;",
+          "That they may seek thy name, O LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Let them be confounded and troubled for ever;",
+          "Yea, let them be put to shame, and perish:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "That men may know that thou, whose name alone is JEHOVAH,",
+          "Art the Most High over all the earth."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

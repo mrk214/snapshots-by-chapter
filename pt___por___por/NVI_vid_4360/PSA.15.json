@@ -1,1 +1,117 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.15","is_chapter":true,"previous":{"usfm":"PSA.14","human":"Salmos 14","canonical":true,"toc":true},"current":{"usfm":"PSA.15","human":"Salmos 15"},"next":{"usfm":"PSA.16","human":"Salmos 16","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Senhor, quem habitará no teu santuário?","Quem poderá morar no teu santo monte?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Aquele que é íntegro em sua conduta","e pratica o que é justo;","que de coração fala a verdade"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["e não usa a língua para difamar;","que nenhum mal faz ao seu semelhante","e não lança calúnia contra o seu próximo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["que rejeita quem merece desprezo,","mas honra os que temem o Senhor;","que mantém a sua palavra,","mesmo quando sai prejudicado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["que não empresta o seu dinheiro visando a algum lucro","nem aceita suborno contra o inocente.","Quem assim procede","nunca será abalado!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.16.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "current": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "next": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Senhor, quem habitará no teu santuário?",
+          "Quem poderá morar no teu santo monte?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Aquele que é íntegro em sua conduta",
+          "e pratica o que é justo;",
+          "que de coração fala a verdade"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "e não usa a língua para difamar;",
+          "que nenhum mal faz ao seu semelhante",
+          "e não lança calúnia contra o seu próximo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "que rejeita quem merece desprezo,",
+          "mas honra os que temem o Senhor;",
+          "que mantém a sua palavra,",
+          "mesmo quando sai prejudicado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "que não empresta o seu dinheiro visando a algum lucro",
+          "nem aceita suborno contra o inocente.",
+          "Quem assim procede",
+          "nunca será abalado!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

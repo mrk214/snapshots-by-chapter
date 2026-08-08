@@ -1,1 +1,187 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.58","is_chapter":true,"previous":{"usfm":"PSA.57","human":"Salmos 57","canonical":true,"toc":true},"current":{"usfm":"PSA.58","human":"Salmos 58"},"next":{"usfm":"PSA.59","human":"Salmos 59","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios, el Juez de la tierra"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Sobre “No destruyas”. Mictam de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh magistrados, ¿en verdad pronuncian justicia?","¿ Juzgan rectamente a los hijos del hombre?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Más bien, con el corazón obran iniquidad en la tierra","y a la violencia abren camino con sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Los impíos se alienaron desde la matriz;","se descarriaron desde el vientre hablando mentira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tienen veneno como veneno de serpiente;","son como una cobra sorda que tapa sus oídos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["y no oye la voz de los encantadores,","aun del más experto encantador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oh Dios, rompe sus dientes en su boca;","quiebra, oh SEÑOR, los colmillos de los leones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Escúrranse como aguas que se pierden;","que cuando apunten con sus flechas","estas queden despuntadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pasen como la babosa que se deshace;","y, como un abortivo de mujer, no vean el sol."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Antes que sus espinos produzcan espinas,","con su ira los arrebatará cual vendaval."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El justo se alegrará cuando vea la venganza,","y lavará sus pies en la sangre del impío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Entonces dirá el hombre:","“Ciertamente el justo tiene frutos;","ciertamente hay un Dios que juzga la tierra”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.57.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.59.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.58",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.57",
+      "human": "Salmos 57"
+    },
+    "current": {
+      "usfm": "PSA.58",
+      "human": "Salmos 58"
+    },
+    "next": {
+      "usfm": "PSA.59",
+      "human": "Salmos 59"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios, el Juez de la tierra"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Sobre “No destruyas”. Mictam de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh magistrados, ¿en verdad pronuncian justicia?",
+          "¿ Juzgan rectamente a los hijos del hombre?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Más bien, con el corazón obran iniquidad en la tierra",
+          "y a la violencia abren camino con sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Los impíos se alienaron desde la matriz;",
+          "se descarriaron desde el vientre hablando mentira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tienen veneno como veneno de serpiente;",
+          "son como una cobra sorda que tapa sus oídos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "y no oye la voz de los encantadores,",
+          "aun del más experto encantador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oh Dios, rompe sus dientes en su boca;",
+          "quiebra, oh SEÑOR, los colmillos de los leones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Escúrranse como aguas que se pierden;",
+          "que cuando apunten con sus flechas",
+          "estas queden despuntadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pasen como la babosa que se deshace;",
+          "y, como un abortivo de mujer, no vean el sol."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Antes que sus espinos produzcan espinas,",
+          "con su ira los arrebatará cual vendaval."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El justo se alegrará cuando vea la venganza,",
+          "y lavará sus pies en la sangre del impío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Entonces dirá el hombre:",
+          "“Ciertamente el justo tiene frutos;",
+          "ciertamente hay un Dios que juzga la tierra”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

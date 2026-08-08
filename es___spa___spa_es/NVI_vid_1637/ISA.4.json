@@ -1,1 +1,113 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.4","is_chapter":true,"previous":{"usfm":"ISA.3","human":"Isaías 3","canonical":true,"toc":true},"current":{"usfm":"ISA.4","human":"Isaías 4"},"next":{"usfm":"ISA.5","human":"Isaías 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["En aquel día, siete mujeres agarrarán","a un solo hombre y le dirán:","«De alimentarnos y de vestirnos","nosotras nos ocuparemos;","tan solo déjanos llevar tu nombre:","¡Líbranos de nuestra afrenta!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En aquel día, el retoño del Señor será bello y glorioso, y el fruto de la tierra será el orgullo y el honor de los sobrevivientes de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Entonces tanto el que quede en Sión como el que sobreviva en Jerusalén serán llamados santos, e inscritos para vida en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Con espíritu de juicio y espíritu abrasador, el Señor lavará la inmundicia de las hijas de Sión y limpiará la sangre que haya en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces el Señor creará una nube de humo durante el día y un resplandor de fuego llameante durante la noche, sobre el monte Sión y sobre los que allí se reúnan. Sobre toda la gloria habrá un toldo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["que servirá de cobertizo, para dar sombra contra el calor del día, y de refugio y protección contra la lluvia y la tormenta."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ISA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ISA.5.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.3",
+      "human": "Isaías 3"
+    },
+    "current": {
+      "usfm": "ISA.4",
+      "human": "Isaías 4"
+    },
+    "next": {
+      "usfm": "ISA.5",
+      "human": "Isaías 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En aquel día, siete mujeres agarrarán",
+          "a un solo hombre y le dirán:",
+          "«De alimentarnos y de vestirnos",
+          "nosotras nos ocuparemos;",
+          "tan solo déjanos llevar tu nombre:",
+          "¡Líbranos de nuestra afrenta!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En aquel día, el retoño del Señor será bello y glorioso, y el fruto de la tierra será el orgullo y el honor de los sobrevivientes de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Entonces tanto el que quede en Sión como el que sobreviva en Jerusalén serán llamados santos, e inscritos para vida en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Con espíritu de juicio y espíritu abrasador, el Señor lavará la inmundicia de las hijas de Sión y limpiará la sangre que haya en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces el Señor creará una nube de humo durante el día y un resplandor de fuego llameante durante la noche, sobre el monte Sión y sobre los que allí se reúnan. Sobre toda la gloria habrá un toldo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "que servirá de cobertizo, para dar sombra contra el calor del día, y de refugio y protección contra la lluvia y la tormenta."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

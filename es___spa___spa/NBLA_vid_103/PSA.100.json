@@ -1,1 +1,129 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.100","is_chapter":true,"previous":{"usfm":"PSA.99","human":"Salmo 99","canonical":true,"toc":true},"current":{"usfm":"PSA.100","human":"Salmo 100"},"next":{"usfm":"PSA.101","human":"Salmo 101","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 100"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Alaben a Dios todos los hombres"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de acción de gracias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aclamen con júbilo al Señor, toda la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sirvan al Señor con alegría;","Vengan ante Él con cánticos de júbilo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sepan que Él, el Señor, es Dios;","Él nos hizo, y no nosotros a nosotros mismos;","Pueblo Suyo somos y ovejas de Su prado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Entren por Sus puertas con acción de gracias,","Y a Sus atrios con alabanza.","Denle gracias, bendigan Su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque el Señor es bueno;","Para siempre es Su misericordia,","Y Su fidelidad por todas las generaciones."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.99.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.101.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.100",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.99",
+      "human": "Salmo 99"
+    },
+    "current": {
+      "usfm": "PSA.100",
+      "human": "Salmo 100"
+    },
+    "next": {
+      "usfm": "PSA.101",
+      "human": "Salmo 101"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 100"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alaben a Dios todos los hombres"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de acción de gracias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aclamen con júbilo al Señor, toda la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sirvan al Señor con alegría;",
+          "Vengan ante Él con cánticos de júbilo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sepan que Él, el Señor, es Dios;",
+          "Él nos hizo, y no nosotros a nosotros mismos;",
+          "Pueblo Suyo somos y ovejas de Su prado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Entren por Sus puertas con acción de gracias,",
+          "Y a Sus atrios con alabanza.",
+          "Denle gracias, bendigan Su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque el Señor es bueno;",
+          "Para siempre es Su misericordia,",
+          "Y Su fidelidad por todas las generaciones."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

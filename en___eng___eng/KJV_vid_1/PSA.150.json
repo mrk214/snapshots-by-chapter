@@ -1,1 +1,115 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Psalm 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Psalm 150"},"next":{"usfm":"PRO.1","human":"Proverbs 1","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Praise ye the LORD. Praise God in his sanctuary:","Praise him in the firmament of his power."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Praise him for his mighty acts:","Praise him according to his excellent greatness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Praise him with the sound of the trumpet:","Praise him with the psaltery and harp."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Praise him with the timbrel and dance:","Praise him with stringed instruments and organs."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Praise him upon the loud cymbals:","Praise him upon the high sounding cymbals."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let every thing that hath breath","Praise the LORD.","Praise ye the LORD."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Psalm 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Psalm 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Proverbs 1"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise ye the LORD. Praise God in his sanctuary:",
+          "Praise him in the firmament of his power."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Praise him for his mighty acts:",
+          "Praise him according to his excellent greatness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Praise him with the sound of the trumpet:",
+          "Praise him with the psaltery and harp."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Praise him with the timbrel and dance:",
+          "Praise him with stringed instruments and organs."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Praise him upon the loud cymbals:",
+          "Praise him upon the high sounding cymbals."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let every thing that hath breath",
+          "Praise the LORD.",
+          "Praise ye the LORD."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

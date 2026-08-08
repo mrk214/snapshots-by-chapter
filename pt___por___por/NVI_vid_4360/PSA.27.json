@@ -1,1 +1,231 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.27","is_chapter":true,"previous":{"usfm":"PSA.26","human":"Salmos 26","canonical":true,"toc":true},"current":{"usfm":"PSA.27","human":"Salmos 27"},"next":{"usfm":"PSA.28","human":"Salmos 28","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor é a minha luz e a minha salvação;","de quem terei temor?","O Senhor é o meu forte refúgio;","de quem terei medo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Quando homens maus avançarem contra mim","para destruir-me,","eles, meus inimigos e meus adversários,","é que tropeçarão e cairão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ainda que um exército se acampe contra mim,","meu coração não temerá;","ainda que se declare guerra contra mim,","mesmo assim estarei confiante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Uma coisa pedi ao Senhor","e a procuro:","que eu possa viver na casa do Senhor","todos os dias da minha vida,","para contemplar a bondade do Senhor","e buscar sua orientação no seu templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois no dia da adversidade","ele me guardará protegido em sua habitação;","no seu tabernáculo me esconderá","e me porá em segurança sobre um rochedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Então triunfarei sobre os inimigos que me cercam.","Em seu tabernáculo oferecerei sacrifícios com aclamações;","cantarei e louvarei ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ouve a minha voz quando clamo, ó Senhor;","tem misericórdia de mim e responde-me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A teu respeito diz o meu coração:","Busque a minha face!","A tua face, Senhor, buscarei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Não escondas de mim a tua face,","não rejeites com ira o teu servo;","tu tens sido o meu ajudador.","Não me desampares nem me abandones,","ó Deus, meu salvador!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ainda que me abandonem pai e mãe,","o Senhor me acolherá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ensina-me o teu caminho, Senhor;","conduze-me por uma vereda segura","por causa dos meus inimigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Não me entregues","ao capricho dos meus adversários,","pois testemunhas falsas se levantam contra mim,","respirando violência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Apesar disso, esta certeza eu tenho:","viverei até ver a bondade do Senhor na terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Espere no Senhor.","Seja forte! Coragem!","Espere no Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.26.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.28.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.27",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.26",
+      "human": "Salmos 26"
+    },
+    "current": {
+      "usfm": "PSA.27",
+      "human": "Salmos 27"
+    },
+    "next": {
+      "usfm": "PSA.28",
+      "human": "Salmos 28"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor é a minha luz e a minha salvação;",
+          "de quem terei temor?",
+          "O Senhor é o meu forte refúgio;",
+          "de quem terei medo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Quando homens maus avançarem contra mim",
+          "para destruir-me,",
+          "eles, meus inimigos e meus adversários,",
+          "é que tropeçarão e cairão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ainda que um exército se acampe contra mim,",
+          "meu coração não temerá;",
+          "ainda que se declare guerra contra mim,",
+          "mesmo assim estarei confiante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Uma coisa pedi ao Senhor",
+          "e a procuro:",
+          "que eu possa viver na casa do Senhor",
+          "todos os dias da minha vida,",
+          "para contemplar a bondade do Senhor",
+          "e buscar sua orientação no seu templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois no dia da adversidade",
+          "ele me guardará protegido em sua habitação;",
+          "no seu tabernáculo me esconderá",
+          "e me porá em segurança sobre um rochedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Então triunfarei sobre os inimigos que me cercam.",
+          "Em seu tabernáculo oferecerei sacrifícios com aclamações;",
+          "cantarei e louvarei ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ouve a minha voz quando clamo, ó Senhor;",
+          "tem misericórdia de mim e responde-me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A teu respeito diz o meu coração:",
+          "Busque a minha face!",
+          "A tua face, Senhor, buscarei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Não escondas de mim a tua face,",
+          "não rejeites com ira o teu servo;",
+          "tu tens sido o meu ajudador.",
+          "Não me desampares nem me abandones,",
+          "ó Deus, meu salvador!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ainda que me abandonem pai e mãe,",
+          "o Senhor me acolherá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ensina-me o teu caminho, Senhor;",
+          "conduze-me por uma vereda segura",
+          "por causa dos meus inimigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Não me entregues",
+          "ao capricho dos meus adversários,",
+          "pois testemunhas falsas se levantam contra mim,",
+          "respirando violência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Apesar disso, esta certeza eu tenho:",
+          "viverei até ver a bondade do Senhor na terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Espere no Senhor.",
+          "Seja forte! Coragem!",
+          "Espere no Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

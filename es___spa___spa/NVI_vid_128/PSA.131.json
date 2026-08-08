@@ -1,1 +1,93 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.131","is_chapter":true,"previous":{"usfm":"PSA.130","human":"Salmo 130","canonical":true,"toc":true},"current":{"usfm":"PSA.131","human":"Salmo 131"},"next":{"usfm":"PSA.132","human":"Salmo 132","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico de los peregrinos. De David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Señor, mi corazón no es orgulloso","ni son altivos mis ojos;","no busco grandezas desmedidas","ni proezas que excedan a mis fuerzas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Todo lo contrario:","he calmado y aquietado mis ansias.","Soy como un niño recién amamantado en el regazo de su madre.","¡Sí, como un niño recién amamantado soy!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Israel, pon tu esperanza en el Señor","desde ahora y para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.130.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.132.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.131",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.130",
+      "human": "Salmo 130"
+    },
+    "current": {
+      "usfm": "PSA.131",
+      "human": "Salmo 131"
+    },
+    "next": {
+      "usfm": "PSA.132",
+      "human": "Salmo 132"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de los peregrinos. De David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Señor, mi corazón no es orgulloso",
+          "ni son altivos mis ojos;",
+          "no busco grandezas desmedidas",
+          "ni proezas que excedan a mis fuerzas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Todo lo contrario:",
+          "he calmado y aquietado mis ansias.",
+          "Soy como un niño recién amamantado en el regazo de su madre.",
+          "¡Sí, como un niño recién amamantado soy!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Israel, pon tu esperanza en el Señor",
+          "desde ahora y para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

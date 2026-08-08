@@ -1,1 +1,135 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.14","is_chapter":true,"previous":{"usfm":"PSA.13","human":"Psalm 13","canonical":true,"toc":true},"current":{"usfm":"PSA.14","human":"Psalm 14"},"next":{"usfm":"PSA.15","human":"Psalm 15","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician, A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The fool hath said in his heart, there is no God.","They are corrupt, they have done abominable works,","There is none that doeth good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The LORD looked down from heaven upon the children of men,","To see if there were any that did understand, And seek God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They are all gone aside, they are all together become filthy:","There is none that doeth good, no, not one."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Have all the workers of iniquity no knowledge?","Who eat up my people as they eat bread, and call not upon the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["There were they in great fear:","For God is in the generation of the righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ye have shamed the counsel of the poor,","Because the LORD is his refuge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Oh that the salvation of Israel were come out of Zion!","When the LORD bringeth back the captivity of his people,","Jacob shall rejoice, and Israel shall be glad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.15.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.14",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.13",
+      "human": "Psalm 13"
+    },
+    "current": {
+      "usfm": "PSA.14",
+      "human": "Psalm 14"
+    },
+    "next": {
+      "usfm": "PSA.15",
+      "human": "Psalm 15"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician, A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The fool hath said in his heart, there is no God.",
+          "They are corrupt, they have done abominable works,",
+          "There is none that doeth good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The LORD looked down from heaven upon the children of men,",
+          "To see if there were any that did understand, And seek God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They are all gone aside, they are all together become filthy:",
+          "There is none that doeth good, no, not one."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Have all the workers of iniquity no knowledge?",
+          "Who eat up my people as they eat bread, and call not upon the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "There were they in great fear:",
+          "For God is in the generation of the righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ye have shamed the counsel of the poor,",
+          "Because the LORD is his refuge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Oh that the salvation of Israel were come out of Zion!",
+          "When the LORD bringeth back the captivity of his people,",
+          "Jacob shall rejoice, and Israel shall be glad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

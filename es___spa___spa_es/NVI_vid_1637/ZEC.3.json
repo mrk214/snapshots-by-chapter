@@ -1,1 +1,178 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"ZEC","name":"Zacarías"},"chapter":{"chapter_usfm":"ZEC.3","is_chapter":true,"previous":{"usfm":"ZEC.2","human":"Zacarías 2","canonical":true,"toc":true},"current":{"usfm":"ZEC.3","human":"Zacarías 3"},"next":{"usfm":"ZEC.4","human":"Zacarías 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ropas limpias para el sumo sacerdote"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces me mostró a Josué, el sumo sacerdote, que estaba de pie ante el ángel del Señor, y a Satanás, que estaba a su mano derecha como parte acusadora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El ángel del Señor le dijo a Satanás:","«¡Que te reprenda el Señor,","que ha escogido a Jerusalén!","¡Que el Señor te reprenda, Satanás!","¿Acaso no es este hombre","un tizón rescatado del fuego?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Josué estaba vestido con ropas sucias en presencia del ángel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Así que el ángel les dijo a los que estaban allí, dispuestos a servirle: «¡Quitadle las ropas sucias!» Y a Josué le dijo: «Como puedes ver, ya te he liberado de tu culpa, y ahora voy a vestirte con ropas espléndidas»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces dije yo: «¡Ponedle también un turbante limpio en la cabeza!» Y le pusieron en la cabeza un turbante limpio, y le vistieron, mientras el ángel del Señor permanecía de pie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Luego el ángel del Señor le hizo esta advertencia a Josué:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["«Así dice el Señor Todopoderoso:","»“Si andas en mis caminos","y cumples como sacerdote,","entonces gobernarás mi templo","y te harás cargo de mis atrios.","¡Yo te concederé un lugar","entre estos que están aquí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»”Escucha, Josué, sumo sacerdote,","y que lo oigan tus compañeros,","que se sientan en tu presencia","y que son un buen presagio:","Voy a traer a mi siervo,","voy a traer al Renuevo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Mira, Josué, la piedra","que ante ti he puesto!","Hay en ella siete ojos,","y en ella pondré una inscripción.","¡En un solo día borraré","el pecado de esta tierra!","—afirma el Señor Todopoderoso—."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»”En aquel día, cada uno de vosotros invitará a su vecino a sentarse debajo de su vid y de su higuera, afirma el Señor Todopoderoso”»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ZEC.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ZEC.4.json"
+  },
+  "book": {
+    "book_usfm": "ZEC",
+    "name": "Zacarías"
+  },
+  "chapter": {
+    "chapter_usfm": "ZEC.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ZEC.2",
+      "human": "Zacarías 2"
+    },
+    "current": {
+      "usfm": "ZEC.3",
+      "human": "Zacarías 3"
+    },
+    "next": {
+      "usfm": "ZEC.4",
+      "human": "Zacarías 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ropas limpias para el sumo sacerdote"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces me mostró a Josué, el sumo sacerdote, que estaba de pie ante el ángel del Señor, y a Satanás, que estaba a su mano derecha como parte acusadora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El ángel del Señor le dijo a Satanás:",
+          "«¡Que te reprenda el Señor,",
+          "que ha escogido a Jerusalén!",
+          "¡Que el Señor te reprenda, Satanás!",
+          "¿Acaso no es este hombre",
+          "un tizón rescatado del fuego?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Josué estaba vestido con ropas sucias en presencia del ángel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Así que el ángel les dijo a los que estaban allí, dispuestos a servirle: «¡Quitadle las ropas sucias!» Y a Josué le dijo: «Como puedes ver, ya te he liberado de tu culpa, y ahora voy a vestirte con ropas espléndidas»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces dije yo: «¡Ponedle también un turbante limpio en la cabeza!» Y le pusieron en la cabeza un turbante limpio, y le vistieron, mientras el ángel del Señor permanecía de pie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Luego el ángel del Señor le hizo esta advertencia a Josué:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "«Así dice el Señor Todopoderoso:",
+          "»“Si andas en mis caminos",
+          "y cumples como sacerdote,",
+          "entonces gobernarás mi templo",
+          "y te harás cargo de mis atrios.",
+          "¡Yo te concederé un lugar",
+          "entre estos que están aquí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»”Escucha, Josué, sumo sacerdote,",
+          "y que lo oigan tus compañeros,",
+          "que se sientan en tu presencia",
+          "y que son un buen presagio:",
+          "Voy a traer a mi siervo,",
+          "voy a traer al Renuevo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Mira, Josué, la piedra",
+          "que ante ti he puesto!",
+          "Hay en ella siete ojos,",
+          "y en ella pondré una inscripción.",
+          "¡En un solo día borraré",
+          "el pecado de esta tierra!",
+          "—afirma el Señor Todopoderoso—."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»”En aquel día, cada uno de vosotros invitará a su vecino a sentarse debajo de su vid y de su higuera, afirma el Señor Todopoderoso”»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

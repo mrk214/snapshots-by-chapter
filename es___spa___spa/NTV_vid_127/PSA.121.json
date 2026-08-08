@@ -1,1 +1,144 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.121","is_chapter":true,"previous":{"usfm":"PSA.120","human":"Salmos 120","canonical":true,"toc":true},"current":{"usfm":"PSA.121","human":"Salmos 121"},"next":{"usfm":"PSA.122","human":"Salmos 122","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico para los peregrinos que suben a Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Levanto la vista hacia las montañas;","¿viene de allí mi ayuda?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Mi ayuda viene del Señor,","quien hizo el cielo y la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Él no permitirá que tropieces;","el que te cuida no se dormirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En efecto, el que cuida a Israel","nunca duerme ni se adormece."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡El Señor mismo te cuida!","El Señor está a tu lado como tu sombra protectora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El sol no te hará daño durante el día,","ni la luna durante la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El Señor te libra de todo mal","y cuida tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor te protege al entrar y al salir,","ahora y para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.120.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.122.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.121",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.120",
+      "human": "Salmos 120"
+    },
+    "current": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "next": {
+      "usfm": "PSA.122",
+      "human": "Salmos 122"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico para los peregrinos que suben a Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Levanto la vista hacia las montañas;",
+          "¿viene de allí mi ayuda?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Mi ayuda viene del Señor,",
+          "quien hizo el cielo y la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Él no permitirá que tropieces;",
+          "el que te cuida no se dormirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En efecto, el que cuida a Israel",
+          "nunca duerme ni se adormece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡El Señor mismo te cuida!",
+          "El Señor está a tu lado como tu sombra protectora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El sol no te hará daño durante el día,",
+          "ni la luna durante la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El Señor te libra de todo mal",
+          "y cuida tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor te protege al entrar y al salir,",
+          "ahora y para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,181 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.20","is_chapter":true,"previous":{"usfm":"PSA.19","human":"Salmo 19","canonical":true,"toc":true},"current":{"usfm":"PSA.20","human":"Salmo 20"},"next":{"usfm":"PSA.21","human":"Salmo 21","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 20"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Oración por la victoria sobre los enemigos"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Que el Señor te responda en el día de la angustia;","Que el nombre del Dios de Jacob te ponga en alto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que desde el santuario te envíe ayuda","Y desde Sión te sostenga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que se acuerde de todas tus ofrendas,","Y halle aceptable tu holocausto."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Que te conceda el deseo de tu corazón,","Y cumpla todos tus anhelos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Nosotros cantaremos con gozo por tu victoria,","Y en el nombre de nuestro Dios alzaremos bandera.","Que el Señor cumpla todas tus peticiones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Ahora sé que el Señor salva a Su ungido;","Le responderá desde Su santo cielo","Con la potencia salvadora de Su diestra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Algunos confían en carros y otros en caballos,","Pero nosotros en el nombre del Señor nuestro Dios confiaremos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ellos se doblegaron y cayeron,","Pero nosotros nos hemos levantado y nos mantenemos en pie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Salva, oh Señor!","Que el Rey nos responda el día que clamemos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.21.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.19",
+      "human": "Salmo 19"
+    },
+    "current": {
+      "usfm": "PSA.20",
+      "human": "Salmo 20"
+    },
+    "next": {
+      "usfm": "PSA.21",
+      "human": "Salmo 21"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 20"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración por la victoria sobre los enemigos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Que el Señor te responda en el día de la angustia;",
+          "Que el nombre del Dios de Jacob te ponga en alto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que desde el santuario te envíe ayuda",
+          "Y desde Sión te sostenga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que se acuerde de todas tus ofrendas,",
+          "Y halle aceptable tu holocausto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Que te conceda el deseo de tu corazón,",
+          "Y cumpla todos tus anhelos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Nosotros cantaremos con gozo por tu victoria,",
+          "Y en el nombre de nuestro Dios alzaremos bandera.",
+          "Que el Señor cumpla todas tus peticiones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Ahora sé que el Señor salva a Su ungido;",
+          "Le responderá desde Su santo cielo",
+          "Con la potencia salvadora de Su diestra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Algunos confían en carros y otros en caballos,",
+          "Pero nosotros en el nombre del Señor nuestro Dios confiaremos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ellos se doblegaron y cayeron,",
+          "Pero nosotros nos hemos levantado y nos mantenemos en pie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Salva, oh Señor!",
+          "Que el Rey nos responda el día que clamemos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

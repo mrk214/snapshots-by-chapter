@@ -1,1 +1,173 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.98","is_chapter":true,"previous":{"usfm":"PSA.97","human":"Salmo 97","canonical":true,"toc":true},"current":{"usfm":"PSA.98","human":"Salmo 98"},"next":{"usfm":"PSA.99","human":"Salmo 99","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 98"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Alabad al Señor por su justicia"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantad al Señor un cántico nuevo,","porque ha hecho maravillas,","su diestra y su santo brazo le han dado la victoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor ha dado a conocer su salvación;","a la vista de las naciones ha revelado su justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Se ha acordado de su misericordia y de su fidelidad para con la casa de Israel;","todos los términos de la tierra han visto la salvación de nuestro Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Aclamad con júbilo al Señor, toda la tierra;","prorrumpid y cantad con gozo, cantad alabanzas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cantad alabanzas al Señor con la lira,","con la lira y al son de la melodía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Con trompetas y sonido de cuerno,","dad voces ante el Rey, el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Ruja el mar y cuanto contiene,","el mundo y los que en él habitan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Batan palmas los ríos;","a una canten jubilosos los montes"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["delante del Señor, pues viene a juzgar la tierra;","Él juzgará al mundo con justicia,","y a los pueblos con equidad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.97.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.99.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.98",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.97",
+      "human": "Salmo 97"
+    },
+    "current": {
+      "usfm": "PSA.98",
+      "human": "Salmo 98"
+    },
+    "next": {
+      "usfm": "PSA.99",
+      "human": "Salmo 99"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 98"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabad al Señor por su justicia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantad al Señor un cántico nuevo,",
+          "porque ha hecho maravillas,",
+          "su diestra y su santo brazo le han dado la victoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor ha dado a conocer su salvación;",
+          "a la vista de las naciones ha revelado su justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Se ha acordado de su misericordia y de su fidelidad para con la casa de Israel;",
+          "todos los términos de la tierra han visto la salvación de nuestro Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Aclamad con júbilo al Señor, toda la tierra;",
+          "prorrumpid y cantad con gozo, cantad alabanzas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cantad alabanzas al Señor con la lira,",
+          "con la lira y al son de la melodía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Con trompetas y sonido de cuerno,",
+          "dad voces ante el Rey, el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Ruja el mar y cuanto contiene,",
+          "el mundo y los que en él habitan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Batan palmas los ríos;",
+          "a una canten jubilosos los montes"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "delante del Señor, pues viene a juzgar la tierra;",
+          "Él juzgará al mundo con justicia,",
+          "y a los pueblos con equidad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

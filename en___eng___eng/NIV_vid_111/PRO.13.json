@@ -1,1 +1,324 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Proverbs 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Proverbs 13"},"next":{"usfm":"PRO.14","human":"Proverbs 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["A wise son heeds his father’s instruction,","but a mocker does not respond to rebukes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["From the fruit of their lips people enjoy good things,","but the unfaithful have an appetite for violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Those who guard their lips preserve their lives,","but those who speak rashly will come to ruin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A sluggard’s appetite is never filled,","but the desires of the diligent are fully satisfied."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The righteous hate what is false,","but the wicked make themselves a stench","and bring shame on themselves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Righteousness guards the person of integrity,","but wickedness overthrows the sinner."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["One person pretends to be rich, yet has nothing;","another pretends to be poor, yet has great wealth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A person’s riches may ransom their life,","but the poor cannot respond to threatening rebukes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The light of the righteous shines brightly,","but the lamp of the wicked is snuffed out."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Where there is strife, there is pride,","but wisdom is found in those who take advice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Dishonest money dwindles away,","but whoever gathers money little by little makes it grow."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Hope deferred makes the heart sick,","but a longing fulfilled is a tree of life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Whoever scorns instruction will pay for it,","but whoever respects a command is rewarded."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The teaching of the wise is a fountain of life,","turning a person from the snares of death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Good judgment wins favor,","but the way of the unfaithful leads to their destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["All who are prudent act with knowledge,","but fools expose their folly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["A wicked messenger falls into trouble,","but a trustworthy envoy brings healing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Whoever disregards discipline comes to poverty and shame,","but whoever heeds correction is honored."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A longing fulfilled is sweet to the soul,","but fools detest turning from evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Walk with the wise and become wise,","for a companion of fools suffers harm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Trouble pursues the sinner,","but the righteous are rewarded with good things."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["A good person leaves an inheritance for their children’s children,","but a sinner’s wealth is stored up for the righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["An unplowed field produces food for the poor,","but injustice sweeps it away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Whoever spares the rod hates their children,","but the one who loves their children is careful to discipline them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["The righteous eat to their hearts’ content,","but the stomach of the wicked goes hungry."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Proverbs 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Proverbs 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Proverbs 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A wise son heeds his father’s instruction,",
+          "but a mocker does not respond to rebukes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "From the fruit of their lips people enjoy good things,",
+          "but the unfaithful have an appetite for violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Those who guard their lips preserve their lives,",
+          "but those who speak rashly will come to ruin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A sluggard’s appetite is never filled,",
+          "but the desires of the diligent are fully satisfied."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The righteous hate what is false,",
+          "but the wicked make themselves a stench",
+          "and bring shame on themselves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Righteousness guards the person of integrity,",
+          "but wickedness overthrows the sinner."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "One person pretends to be rich, yet has nothing;",
+          "another pretends to be poor, yet has great wealth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A person’s riches may ransom their life,",
+          "but the poor cannot respond to threatening rebukes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The light of the righteous shines brightly,",
+          "but the lamp of the wicked is snuffed out."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Where there is strife, there is pride,",
+          "but wisdom is found in those who take advice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Dishonest money dwindles away,",
+          "but whoever gathers money little by little makes it grow."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Hope deferred makes the heart sick,",
+          "but a longing fulfilled is a tree of life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Whoever scorns instruction will pay for it,",
+          "but whoever respects a command is rewarded."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The teaching of the wise is a fountain of life,",
+          "turning a person from the snares of death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Good judgment wins favor,",
+          "but the way of the unfaithful leads to their destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "All who are prudent act with knowledge,",
+          "but fools expose their folly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "A wicked messenger falls into trouble,",
+          "but a trustworthy envoy brings healing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Whoever disregards discipline comes to poverty and shame,",
+          "but whoever heeds correction is honored."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A longing fulfilled is sweet to the soul,",
+          "but fools detest turning from evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Walk with the wise and become wise,",
+          "for a companion of fools suffers harm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Trouble pursues the sinner,",
+          "but the righteous are rewarded with good things."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "A good person leaves an inheritance for their children’s children,",
+          "but a sinner’s wealth is stored up for the righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "An unplowed field produces food for the poor,",
+          "but injustice sweeps it away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Whoever spares the rod hates their children,",
+          "but the one who loves their children is careful to discipline them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "The righteous eat to their hearts’ content,",
+          "but the stomach of the wicked goes hungry."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

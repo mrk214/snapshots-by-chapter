@@ -1,1 +1,252 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"MAT","name":"Mateo"},"chapter":{"chapter_usfm":"MAT.3","is_chapter":true,"previous":{"usfm":"MAT.2","human":"Mateo 2","canonical":true,"toc":true},"current":{"usfm":"MAT.3","human":"Mateo 3"},"next":{"usfm":"MAT.4","human":"Mateo 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Predicación de Juan el Bautista"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En aquellos días llegó* Juan el Bautista predicando en el desierto de Judea, diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Arrepentíos, porque el reino de los cielos se ha acercado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque este es aquel a quien se refirió el profeta Isaías, diciendo:","Voz del que clama en el desierto:","«Preparad el camino del Señor,","haced derechas sus sendas»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Y él, Juan, tenía un vestido de pelo de camello y un cinto de cuero a la cintura; y su comida era de langostas y miel silvestre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Acudía entonces a él Jerusalén, toda Judea y toda la región alrededor del Jordán;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["y confesando sus pecados, eran bautizados por él en el río Jordán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién os enseñó a huir de la ira que vendrá?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Por tanto, dad frutos dignos de arrepentimiento;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["y no presumáis que podéis deciros a vosotros mismos: «Tenemos a Abraham por padre», porque os digo que Dios puede levantar hijos a Abraham de estas piedras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y el hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Yo a la verdad os bautizo con agua para arrepentimiento, pero el que viene detrás de mí es más poderoso que yo, a quien no soy digno de quitarle las sandalias; Él os bautizará con el Espíritu Santo y con fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El bieldo está en su mano y limpiará completamente su era; y recogerá su trigo en el granero, pero quemará la paja en fuego inextinguible."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Bautismo de Jesús"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Entonces Jesús llegó* de Galilea al Jordán, a donde estaba Juan, para ser bautizado por él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Pero Juan trató de impedírselo, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y respondiendo Jesús, le dijo: Permítelo ahora; porque es conveniente que cumplamos así toda justicia. Entonces Juan se lo permitió*."],"rlw_lines":[[{"text":"Y respondiendo Jesús, le dijo:","rl":false},{"text":"Permítelo ahora; porque es conveniente que cumplamos así toda justicia.","rl":true},{"text":"EntoncesJuan se lo permitió*.","rl":false}]]},{"type":"verse","verse_numbers":[16],"lines":["Después de ser bautizado, Jesús salió del agua inmediatamente; y he aquí, los cielos se abrieron, y él vio al Espíritu de Dios que descendía como una paloma y venía sobre Él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Y he aquí, se oyó una voz de los cielos que decía: Este es mi Hijo amado en quien me he complacido."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/MAT.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/MAT.4.json"
+  },
+  "book": {
+    "book_usfm": "MAT",
+    "name": "Mateo"
+  },
+  "chapter": {
+    "chapter_usfm": "MAT.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAT.2",
+      "human": "Mateo 2"
+    },
+    "current": {
+      "usfm": "MAT.3",
+      "human": "Mateo 3"
+    },
+    "next": {
+      "usfm": "MAT.4",
+      "human": "Mateo 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Predicación de Juan el Bautista"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En aquellos días llegó* Juan el Bautista predicando en el desierto de Judea, diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Arrepentíos, porque el reino de los cielos se ha acercado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque este es aquel a quien se refirió el profeta Isaías, diciendo:",
+          "Voz del que clama en el desierto:",
+          "«Preparad el camino del Señor,",
+          "haced derechas sus sendas»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Y él, Juan, tenía un vestido de pelo de camello y un cinto de cuero a la cintura; y su comida era de langostas y miel silvestre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Acudía entonces a él Jerusalén, toda Judea y toda la región alrededor del Jordán;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "y confesando sus pecados, eran bautizados por él en el río Jordán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero cuando vio que muchos de los fariseos y saduceos venían para el bautismo, les dijo: ¡Camada de víboras! ¿Quién os enseñó a huir de la ira que vendrá?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Por tanto, dad frutos dignos de arrepentimiento;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "y no presumáis que podéis deciros a vosotros mismos: «Tenemos a Abraham por padre», porque os digo que Dios puede levantar hijos a Abraham de estas piedras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y el hacha ya está puesta a la raíz de los árboles; por tanto, todo árbol que no da buen fruto es cortado y echado al fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Yo a la verdad os bautizo con agua para arrepentimiento, pero el que viene detrás de mí es más poderoso que yo, a quien no soy digno de quitarle las sandalias; Él os bautizará con el Espíritu Santo y con fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El bieldo está en su mano y limpiará completamente su era; y recogerá su trigo en el granero, pero quemará la paja en fuego inextinguible."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Bautismo de Jesús"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Entonces Jesús llegó* de Galilea al Jordán, a donde estaba Juan, para ser bautizado por él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Pero Juan trató de impedírselo, diciendo: Yo necesito ser bautizado por ti, ¿y tú vienes a mí?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y respondiendo Jesús, le dijo: Permítelo ahora; porque es conveniente que cumplamos así toda justicia. Entonces Juan se lo permitió*."
+        ],
+        "rlw_lines": [
+          [
+            {
+              "text": "Y respondiendo Jesús, le dijo:",
+              "rl": false
+            },
+            {
+              "text": "Permítelo ahora; porque es conveniente que cumplamos así toda justicia.",
+              "rl": true
+            },
+            {
+              "text": "EntoncesJuan se lo permitió*.",
+              "rl": false
+            }
+          ]
+        ]
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Después de ser bautizado, Jesús salió del agua inmediatamente; y he aquí, los cielos se abrieron, y él vio al Espíritu de Dios que descendía como una paloma y venía sobre Él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Y he aquí, se oyó una voz de los cielos que decía: Este es mi Hijo amado en quien me he complacido."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,160 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.99","is_chapter":true,"previous":{"usfm":"PSA.98","human":"Salmos 98","canonical":true,"toc":true},"current":{"usfm":"PSA.99","human":"Salmos 99"},"next":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Fidelidad de Jehová para con Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Jehová reina; temblarán los pueblos.","Él está sentado sobre los querubines, se conmoverá la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Jehová en Sion es grande,","Y exaltado sobre todos los pueblos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alaben tu nombre grande y temible;","Él es santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Y la gloria del rey ama el juicio;","Tú confirmas la rectitud;","Tú has hecho en Jacob juicio y justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Exaltad a Jehová nuestro Dios,","Y postraos ante el estrado de sus pies;","Él es santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moisés y Aarón entre sus sacerdotes,","Y Samuel entre los que invocaron su nombre;","Invocaban a Jehová, y él les respondía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En columna de nube hablaba con ellos;","Guardaban sus testimonios, y el estatuto que les había dado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Jehová Dios nuestro, tú les respondías;","Les fuiste un Dios perdonador,","Y retribuidor de sus obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Exaltad a Jehová nuestro Dios,","Y postraos ante su santo monte,","Porque Jehová nuestro Dios es santo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.98.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.100.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.99",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "current": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "next": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Fidelidad de Jehová para con Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Jehová reina; temblarán los pueblos.",
+          "Él está sentado sobre los querubines, se conmoverá la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Jehová en Sion es grande,",
+          "Y exaltado sobre todos los pueblos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alaben tu nombre grande y temible;",
+          "Él es santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Y la gloria del rey ama el juicio;",
+          "Tú confirmas la rectitud;",
+          "Tú has hecho en Jacob juicio y justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Exaltad a Jehová nuestro Dios,",
+          "Y postraos ante el estrado de sus pies;",
+          "Él es santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moisés y Aarón entre sus sacerdotes,",
+          "Y Samuel entre los que invocaron su nombre;",
+          "Invocaban a Jehová, y él les respondía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En columna de nube hablaba con ellos;",
+          "Guardaban sus testimonios, y el estatuto que les había dado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Jehová Dios nuestro, tú les respondías;",
+          "Les fuiste un Dios perdonador,",
+          "Y retribuidor de sus obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Exaltad a Jehová nuestro Dios,",
+          "Y postraos ante su santo monte,",
+          "Porque Jehová nuestro Dios es santo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,208 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.85","is_chapter":true,"previous":{"usfm":"PSA.84","human":"Salmos 84","canonical":true,"toc":true},"current":{"usfm":"PSA.85","human":"Salmos 85"},"next":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de los descendientes de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Señor, tú derramaste bendiciones sobre tu tierra!","Devolviste el bienestar a Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Perdonaste la culpa de tu pueblo;","sí, cubriste todos sus pecados."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Contuviste tu furia","y refrenaste tu enojo encendido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ahora, restáuranos, oh Dios de nuestra salvación;","aparta tu enojo de nosotros una vez más."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Seguirás enojado con nosotros para siempre?","¿Extenderás tu ira a todas las generaciones?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¿No volverás a darnos vida,","para que tu pueblo pueda alegrarse en ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Muéstranos tu amor inagotable, oh Señor,","y concédenos tu salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Presto mucha atención a lo que dice Dios el Señor,","pues él da palabras de paz a su pueblo fiel.","Pero no le permitas volver a sus necios caminos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Sin duda, la salvación de Dios está cerca de los que le temen;","por lo tanto, nuestra tierra se llenará de su gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El amor inagotable y la verdad se encontraron;","¡la justicia y la paz se besaron!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La verdad brota desde la tierra,","y la justicia sonríe desde los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Sí, el Señor derrama sus bendiciones,","y nuestra tierra dará una abundante cosecha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La justicia va delante de él como un heraldo,","preparando el camino para sus pasos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.84.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.86.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.85",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.84",
+      "human": "Salmos 84"
+    },
+    "current": {
+      "usfm": "PSA.85",
+      "human": "Salmos 85"
+    },
+    "next": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de los descendientes de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Señor, tú derramaste bendiciones sobre tu tierra!",
+          "Devolviste el bienestar a Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Perdonaste la culpa de tu pueblo;",
+          "sí, cubriste todos sus pecados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Contuviste tu furia",
+          "y refrenaste tu enojo encendido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ahora, restáuranos, oh Dios de nuestra salvación;",
+          "aparta tu enojo de nosotros una vez más."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Seguirás enojado con nosotros para siempre?",
+          "¿Extenderás tu ira a todas las generaciones?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¿No volverás a darnos vida,",
+          "para que tu pueblo pueda alegrarse en ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Muéstranos tu amor inagotable, oh Señor,",
+          "y concédenos tu salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Presto mucha atención a lo que dice Dios el Señor,",
+          "pues él da palabras de paz a su pueblo fiel.",
+          "Pero no le permitas volver a sus necios caminos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Sin duda, la salvación de Dios está cerca de los que le temen;",
+          "por lo tanto, nuestra tierra se llenará de su gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El amor inagotable y la verdad se encontraron;",
+          "¡la justicia y la paz se besaron!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La verdad brota desde la tierra,",
+          "y la justicia sonríe desde los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Sí, el Señor derrama sus bendiciones,",
+          "y nuestra tierra dará una abundante cosecha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La justicia va delante de él como un heraldo,",
+          "preparando el camino para sus pasos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

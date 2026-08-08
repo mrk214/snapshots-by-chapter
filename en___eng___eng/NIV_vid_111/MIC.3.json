@@ -1,1 +1,216 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"MIC","name":"Micah"},"chapter":{"chapter_usfm":"MIC.3","is_chapter":true,"previous":{"usfm":"MIC.2","human":"Micah 2","canonical":true,"toc":true},"current":{"usfm":"MIC.3","human":"Micah 3"},"next":{"usfm":"MIC.4","human":"Micah 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Leaders and Prophets Rebuked"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then I said,","“Listen, you leaders of Jacob,","you rulers of Israel.","Should you not embrace justice,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["you who hate good and love evil;","who tear the skin from my people","and the flesh from their bones;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["who eat my people’s flesh,","strip off their skin","and break their bones in pieces;","who chop them up like meat for the pan,","like flesh for the pot?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then they will cry out to the Lord,","but he will not answer them.","At that time he will hide his face from them","because of the evil they have done."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["This is what the Lord says:","“As for the prophets","who lead my people astray,","they proclaim ‘peace’","if they have something to eat,","but prepare to wage war against anyone","who refuses to feed them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Therefore night will come over you, without visions,","and darkness, without divination.","The sun will set for the prophets,","and the day will go dark for them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The seers will be ashamed","and the diviners disgraced.","They will all cover their faces","because there is no answer from God.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But as for me, I am filled with power,","with the Spirit of the Lord,","and with justice and might,","to declare to Jacob his transgression,","to Israel his sin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Hear this, you leaders of Jacob,","you rulers of Israel,","who despise justice","and distort all that is right;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["who build Zion with bloodshed,","and Jerusalem with wickedness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Her leaders judge for a bribe,","her priests teach for a price,","and her prophets tell fortunes for money.","Yet they look for the Lord’s support and say,","“Is not the Lord among us?","No disaster will come upon us.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Therefore because of you,","Zion will be plowed like a field,","Jerusalem will become a heap of rubble,","the temple hill a mound overgrown with thickets."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MIC.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MIC.4.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Micah"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.2",
+      "human": "Micah 2"
+    },
+    "current": {
+      "usfm": "MIC.3",
+      "human": "Micah 3"
+    },
+    "next": {
+      "usfm": "MIC.4",
+      "human": "Micah 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Leaders and Prophets Rebuked"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then I said,",
+          "“Listen, you leaders of Jacob,",
+          "you rulers of Israel.",
+          "Should you not embrace justice,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "you who hate good and love evil;",
+          "who tear the skin from my people",
+          "and the flesh from their bones;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "who eat my people’s flesh,",
+          "strip off their skin",
+          "and break their bones in pieces;",
+          "who chop them up like meat for the pan,",
+          "like flesh for the pot?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then they will cry out to the Lord,",
+          "but he will not answer them.",
+          "At that time he will hide his face from them",
+          "because of the evil they have done."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“As for the prophets",
+          "who lead my people astray,",
+          "they proclaim ‘peace’",
+          "if they have something to eat,",
+          "but prepare to wage war against anyone",
+          "who refuses to feed them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Therefore night will come over you, without visions,",
+          "and darkness, without divination.",
+          "The sun will set for the prophets,",
+          "and the day will go dark for them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The seers will be ashamed",
+          "and the diviners disgraced.",
+          "They will all cover their faces",
+          "because there is no answer from God.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But as for me, I am filled with power,",
+          "with the Spirit of the Lord,",
+          "and with justice and might,",
+          "to declare to Jacob his transgression,",
+          "to Israel his sin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Hear this, you leaders of Jacob,",
+          "you rulers of Israel,",
+          "who despise justice",
+          "and distort all that is right;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "who build Zion with bloodshed,",
+          "and Jerusalem with wickedness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Her leaders judge for a bribe,",
+          "her priests teach for a price,",
+          "and her prophets tell fortunes for money.",
+          "Yet they look for the Lord’s support and say,",
+          "“Is not the Lord among us?",
+          "No disaster will come upon us.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Therefore because of you,",
+          "Zion will be plowed like a field,",
+          "Jerusalem will become a heap of rubble,",
+          "the temple hill a mound overgrown with thickets."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

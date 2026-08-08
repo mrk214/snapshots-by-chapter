@@ -1,1 +1,140 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.110","is_chapter":true,"previous":{"usfm":"PSA.109","human":"Psalms 109","canonical":true,"toc":true},"current":{"usfm":"PSA.110","human":"Psalms 110"},"next":{"usfm":"PSA.111","human":"Psalms 111","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Of David. A psalm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord says to my lord:","“Sit at my right hand","until I make your enemies","a footstool for your feet.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The Lord will extend your mighty scepter from Zion, saying,","“Rule in the midst of your enemies!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Your troops will be willing","on your day of battle.","Arrayed in holy splendor,","your young men will come to you","like dew from the morning’s womb."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord has sworn","and will not change his mind:","“You are a priest forever,","in the order of Melchizedek.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The Lord is at your right hand;","he will crush kings on the day of his wrath."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He will judge the nations, heaping up the dead","and crushing the rulers of the whole earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He will drink from a brook along the way,","and so he will lift his head high."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.109.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.111.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.110",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.109",
+      "human": "Psalms 109"
+    },
+    "current": {
+      "usfm": "PSA.110",
+      "human": "Psalms 110"
+    },
+    "next": {
+      "usfm": "PSA.111",
+      "human": "Psalms 111"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Of David. A psalm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord says to my lord:",
+          "“Sit at my right hand",
+          "until I make your enemies",
+          "a footstool for your feet.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The Lord will extend your mighty scepter from Zion, saying,",
+          "“Rule in the midst of your enemies!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Your troops will be willing",
+          "on your day of battle.",
+          "Arrayed in holy splendor,",
+          "your young men will come to you",
+          "like dew from the morning’s womb."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord has sworn",
+          "and will not change his mind:",
+          "“You are a priest forever,",
+          "in the order of Melchizedek.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The Lord is at your right hand;",
+          "he will crush kings on the day of his wrath."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He will judge the nations, heaping up the dead",
+          "and crushing the rulers of the whole earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He will drink from a brook along the way,",
+          "and so he will lift his head high."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

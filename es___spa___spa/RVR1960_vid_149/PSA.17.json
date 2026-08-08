@@ -1,1 +1,234 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.17","is_chapter":true,"previous":{"usfm":"PSA.16","human":"Salmos 16","canonical":true,"toc":true},"current":{"usfm":"PSA.17","human":"Salmos 17"},"next":{"usfm":"PSA.18","human":"Salmos 18","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plegaria pidiendo protección contra los opresores"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Oración de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oye, oh Jehová, una causa justa; está atento a mi clamor.","Escucha mi oración hecha de labios sin engaño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De tu presencia proceda mi vindicación;","Vean tus ojos la rectitud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tú has probado mi corazón, me has visitado de noche;","Me has puesto a prueba, y nada inicuo hallaste;","He resuelto que mi boca no haga transgresión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En cuanto a las obras humanas, por la palabra de tus labios","Yo me he guardado de las sendas de los violentos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sustenta mis pasos en tus caminos,","Para que mis pies no resbalen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Yo te he invocado, por cuanto tú me oirás, oh Dios;","Inclina a mí tu oído, escucha mi palabra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Muestra tus maravillosas misericordias, tú que salvas a los que se refugian a tu diestra,","De los que se levantan contra ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Guárdame como a la niña de tus ojos;","Escóndeme bajo la sombra de tus alas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["De la vista de los malos que me oprimen,","De mis enemigos que buscan mi vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Envueltos están con su grosura;","Con su boca hablan arrogantemente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Han cercado ahora nuestros pasos;","Tienen puestos sus ojos para echarnos por tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Son como león que desea hacer presa,","Y como leoncillo que está en su escondite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Levántate, oh Jehová;","Sal a su encuentro, póstrales;","Libra mi alma de los malos con tu espada,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["De los hombres con tu mano, oh Jehová,","De los hombres mundanos, cuya porción la tienen en esta vida,","Y cuyo vientre está lleno de tu tesoro.","Sacian a sus hijos,","Y aun sobra para sus pequeñuelos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["En cuanto a mí, veré tu rostro en justicia;","Estaré satisfecho cuando despierte a tu semejanza."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.18.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "current": {
+      "usfm": "PSA.17",
+      "human": "Salmos 17"
+    },
+    "next": {
+      "usfm": "PSA.18",
+      "human": "Salmos 18"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plegaria pidiendo protección contra los opresores"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Oración de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oye, oh Jehová, una causa justa; está atento a mi clamor.",
+          "Escucha mi oración hecha de labios sin engaño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De tu presencia proceda mi vindicación;",
+          "Vean tus ojos la rectitud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tú has probado mi corazón, me has visitado de noche;",
+          "Me has puesto a prueba, y nada inicuo hallaste;",
+          "He resuelto que mi boca no haga transgresión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En cuanto a las obras humanas, por la palabra de tus labios",
+          "Yo me he guardado de las sendas de los violentos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sustenta mis pasos en tus caminos,",
+          "Para que mis pies no resbalen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Yo te he invocado, por cuanto tú me oirás, oh Dios;",
+          "Inclina a mí tu oído, escucha mi palabra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Muestra tus maravillosas misericordias, tú que salvas a los que se refugian a tu diestra,",
+          "De los que se levantan contra ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Guárdame como a la niña de tus ojos;",
+          "Escóndeme bajo la sombra de tus alas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "De la vista de los malos que me oprimen,",
+          "De mis enemigos que buscan mi vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Envueltos están con su grosura;",
+          "Con su boca hablan arrogantemente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Han cercado ahora nuestros pasos;",
+          "Tienen puestos sus ojos para echarnos por tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Son como león que desea hacer presa,",
+          "Y como leoncillo que está en su escondite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Levántate, oh Jehová;",
+          "Sal a su encuentro, póstrales;",
+          "Libra mi alma de los malos con tu espada,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "De los hombres con tu mano, oh Jehová,",
+          "De los hombres mundanos, cuya porción la tienen en esta vida,",
+          "Y cuyo vientre está lleno de tu tesoro.",
+          "Sacian a sus hijos,",
+          "Y aun sobra para sus pequeñuelos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "En cuanto a mí, veré tu rostro en justicia;",
+          "Estaré satisfecho cuando despierte a tu semejanza."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

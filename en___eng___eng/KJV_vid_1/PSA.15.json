@@ -1,1 +1,113 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.15","is_chapter":true,"previous":{"usfm":"PSA.14","human":"Psalm 14","canonical":true,"toc":true},"current":{"usfm":"PSA.15","human":"Psalm 15"},"next":{"usfm":"PSA.16","human":"Psalm 16","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["LORD, who shall abide in thy tabernacle?","Who shall dwell in thy holy hill?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He that walketh uprightly,","and worketh righteousness, and speaketh the truth in his heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He that backbiteth not with his tongue, nor doeth evil to his neighbour,","Nor taketh up a reproach against his neighbour."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["In whose eyes a vile person is contemned;","But he honoureth them that fear the LORD.","He that sweareth to his own hurt, and changeth not."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He that putteth not out his money to usury,","Nor taketh reward against the innocent.","He that doeth these things shall never be moved."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.16.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.14",
+      "human": "Psalm 14"
+    },
+    "current": {
+      "usfm": "PSA.15",
+      "human": "Psalm 15"
+    },
+    "next": {
+      "usfm": "PSA.16",
+      "human": "Psalm 16"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "LORD, who shall abide in thy tabernacle?",
+          "Who shall dwell in thy holy hill?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He that walketh uprightly,",
+          "and worketh righteousness, and speaketh the truth in his heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He that backbiteth not with his tongue, nor doeth evil to his neighbour,",
+          "Nor taketh up a reproach against his neighbour."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "In whose eyes a vile person is contemned;",
+          "But he honoureth them that fear the LORD.",
+          "He that sweareth to his own hurt, and changeth not."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He that putteth not out his money to usury,",
+          "Nor taketh reward against the innocent.",
+          "He that doeth these things shall never be moved."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

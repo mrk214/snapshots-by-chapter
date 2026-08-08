@@ -1,1 +1,225 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"TIT","name":"Tito"},"chapter":{"chapter_usfm":"TIT.1","is_chapter":true,"previous":{"usfm":"2TI.4","human":"2 Timoteo 4","canonical":true,"toc":true},"current":{"usfm":"TIT.1","human":"Tito 1"},"next":{"usfm":"TIT.2","human":"Tito 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Saludos de Pablo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Yo, Pablo, esclavo de Dios y apóstol de Jesucristo, escribo esta carta. Fui enviado para proclamar fe a los que Dios ha elegido y para enseñarles a conocer la verdad que les muestra cómo vivir una vida dedicada a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Esta verdad les da la confianza de que tienen la vida eterna, la cual Dios —quien no miente— les prometió antes de que comenzara el mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y ahora, en el momento preciso, él dio a conocer este mensaje, que nosotros anunciamos a todos. Es por mandato de Dios nuestro Salvador que se me ha confiado esta tarea para él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Le escribo a Tito, mi verdadero hijo en la fe que compartimos.","Que Dios Padre y Cristo Jesús nuestro Salvador te den gracia y paz."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Tarea de Tito en Creta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Te dejé en la isla de Creta para que pudieras terminar nuestro trabajo ahí y nombrar ancianos en cada ciudad, tal como te lo indiqué."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El anciano debe llevar una vida intachable. Tiene que serle fiel a su esposa, y sus hijos deben ser creyentes que no tengan una reputación de ser desenfrenados ni rebeldes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pues un líder de la iglesia es un administrador de la casa de Dios, y debe vivir de manera intachable. No debe ser arrogante, ni iracundo, ni emborracharse, ni ser violento, ni deshonesto con el dinero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Al contrario, debe recibir huéspedes en su casa con agrado y amar lo que es bueno. Debe vivir sabiamente y ser justo. Tiene que llevar una vida de devoción y disciplina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Debe tener una fuerte creencia en el mensaje fiel que se le enseñó; entonces podrá animar a otros con la sana enseñanza y demostrar a los que se oponen en qué están equivocados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pues hay muchos rebeldes que participan en conversaciones inútiles y engañan a otros. Me refiero especialmente a los que insisten en que es necesario circuncidarse para ser salvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Hay que callarlos, porque, con su falsa enseñanza, alejan a familias enteras de la verdad, y solo lo hacen por dinero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Incluso uno de sus propios hombres, un profeta de Creta, dijo acerca de ellos: «Todos los cretenses son mentirosos, animales crueles y glotones perezosos»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Es la verdad. Así que repréndelos con severidad para fortalecerlos en la fe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Tienen que dejar de prestar atención a mitos judíos y a los mandatos de aquellos que se han apartado de la verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Todo es puro para los de corazón puro. En cambio, para los corruptos e incrédulos nada es puro, porque tienen la mente y la conciencia corrompidas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Tales personas afirman que conocen a Dios, pero lo niegan con su manera de vivir. Son detestables y desobedientes, no sirven para hacer nada bueno."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/2TI.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/TIT.2.json"
+  },
+  "book": {
+    "book_usfm": "TIT",
+    "name": "Tito"
+  },
+  "chapter": {
+    "chapter_usfm": "TIT.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2TI.4",
+      "human": "2 Timoteo 4"
+    },
+    "current": {
+      "usfm": "TIT.1",
+      "human": "Tito 1"
+    },
+    "next": {
+      "usfm": "TIT.2",
+      "human": "Tito 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Saludos de Pablo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Yo, Pablo, esclavo de Dios y apóstol de Jesucristo, escribo esta carta. Fui enviado para proclamar fe a los que Dios ha elegido y para enseñarles a conocer la verdad que les muestra cómo vivir una vida dedicada a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Esta verdad les da la confianza de que tienen la vida eterna, la cual Dios —quien no miente— les prometió antes de que comenzara el mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y ahora, en el momento preciso, él dio a conocer este mensaje, que nosotros anunciamos a todos. Es por mandato de Dios nuestro Salvador que se me ha confiado esta tarea para él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Le escribo a Tito, mi verdadero hijo en la fe que compartimos.",
+          "Que Dios Padre y Cristo Jesús nuestro Salvador te den gracia y paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Tarea de Tito en Creta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Te dejé en la isla de Creta para que pudieras terminar nuestro trabajo ahí y nombrar ancianos en cada ciudad, tal como te lo indiqué."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El anciano debe llevar una vida intachable. Tiene que serle fiel a su esposa, y sus hijos deben ser creyentes que no tengan una reputación de ser desenfrenados ni rebeldes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pues un líder de la iglesia es un administrador de la casa de Dios, y debe vivir de manera intachable. No debe ser arrogante, ni iracundo, ni emborracharse, ni ser violento, ni deshonesto con el dinero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Al contrario, debe recibir huéspedes en su casa con agrado y amar lo que es bueno. Debe vivir sabiamente y ser justo. Tiene que llevar una vida de devoción y disciplina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Debe tener una fuerte creencia en el mensaje fiel que se le enseñó; entonces podrá animar a otros con la sana enseñanza y demostrar a los que se oponen en qué están equivocados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pues hay muchos rebeldes que participan en conversaciones inútiles y engañan a otros. Me refiero especialmente a los que insisten en que es necesario circuncidarse para ser salvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Hay que callarlos, porque, con su falsa enseñanza, alejan a familias enteras de la verdad, y solo lo hacen por dinero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Incluso uno de sus propios hombres, un profeta de Creta, dijo acerca de ellos: «Todos los cretenses son mentirosos, animales crueles y glotones perezosos»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Es la verdad. Así que repréndelos con severidad para fortalecerlos en la fe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Tienen que dejar de prestar atención a mitos judíos y a los mandatos de aquellos que se han apartado de la verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Todo es puro para los de corazón puro. En cambio, para los corruptos e incrédulos nada es puro, porque tienen la mente y la conciencia corrompidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Tales personas afirman que conocen a Dios, pero lo niegan con su manera de vivir. Son detestables y desobedientes, no sirven para hacer nada bueno."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

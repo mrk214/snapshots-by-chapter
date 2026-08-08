@@ -1,1 +1,134 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.110","is_chapter":true,"previous":{"usfm":"PSA.109","human":"Salmos 109","canonical":true,"toc":true},"current":{"usfm":"PSA.110","human":"Salmos 110"},"next":{"usfm":"PSA.111","human":"Salmos 111","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O reino, o sacerdócio e a conquista do Messias"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["DISSE o Senhor ao meu Senhor: Assenta-te à minha mão direita, até que ponha os teus inimigos por escabelo dos teus pés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Senhor enviará o cetro da tua fortaleza desde Sião, dizendo: Domina no meio dos teus inimigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O teu povo se apresentará voluntàriamente no dia do teu poder, com santos ornamentos: como vindo do próprio seio da alva será o orvalho da tua mocidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Jurou o Senhor, e não se arrependerá: tu és um sacerdote eterno, segundo a ordem de Melquisedec."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor, à tua direita, ferirá os reis, no dia da sua ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Julgará entre as nações: enchê-las-á de cadáveres: ferirá os cabeças de grandes terras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pelo caminho dessedentar-se-á no ribeiro, e prosseguirá de cabeça erguida."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.109.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.111.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.110",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.109",
+      "human": "Salmos 109"
+    },
+    "current": {
+      "usfm": "PSA.110",
+      "human": "Salmos 110"
+    },
+    "next": {
+      "usfm": "PSA.111",
+      "human": "Salmos 111"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O reino, o sacerdócio e a conquista do Messias"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "DISSE o Senhor ao meu Senhor: Assenta-te à minha mão direita, até que ponha os teus inimigos por escabelo dos teus pés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Senhor enviará o cetro da tua fortaleza desde Sião, dizendo: Domina no meio dos teus inimigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O teu povo se apresentará voluntàriamente no dia do teu poder, com santos ornamentos: como vindo do próprio seio da alva será o orvalho da tua mocidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Jurou o Senhor, e não se arrependerá: tu és um sacerdote eterno, segundo a ordem de Melquisedec."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor, à tua direita, ferirá os reis, no dia da sua ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Julgará entre as nações: enchê-las-á de cadáveres: ferirá os cabeças de grandes terras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pelo caminho dessedentar-se-á no ribeiro, e prosseguirá de cabeça erguida."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

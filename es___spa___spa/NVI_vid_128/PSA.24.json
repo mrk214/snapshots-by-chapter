@@ -1,1 +1,187 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.24","is_chapter":true,"previous":{"usfm":"PSA.23","human":"Salmo 23","canonical":true,"toc":true},"current":{"usfm":"PSA.24","human":"Salmo 24"},"next":{"usfm":"PSA.25","human":"Salmo 25","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Del Señor es la tierra y todo cuanto hay en ella,","el mundo y cuantos lo habitan;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["porque él afirmó la tierra sobre los mares,","la estableció sobre los ríos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Quién puede subir al monte del Señor?","¿Quién puede estar en su Lugar Santo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Solo el de manos limpias y corazón puro,","el que no adora ídolos vanos","ni jura por dioses falsos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quien es así recibe bendiciones del Señor;","el Dios de su salvación le hará justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tal es la generación de los que a ti acuden,","de los que buscan tu rostro, oh Dios de Jacob."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Eleven, puertas, sus dinteles;","levántense, puertas antiguas,","que va a entrar el Rey de la gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¿Quién es este Rey de la gloria?","El Señor, el fuerte y valiente,","el Señor, el valiente en la batalla."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Eleven, puertas, sus dinteles;","levántense, puertas antiguas,","que va a entrar el Rey de la gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¿Quién es este Rey de la gloria?","Es el Señor de los Ejércitos;","¡él es el Rey de la gloria!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.23.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.25.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.24",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.23",
+      "human": "Salmo 23"
+    },
+    "current": {
+      "usfm": "PSA.24",
+      "human": "Salmo 24"
+    },
+    "next": {
+      "usfm": "PSA.25",
+      "human": "Salmo 25"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Del Señor es la tierra y todo cuanto hay en ella,",
+          "el mundo y cuantos lo habitan;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "porque él afirmó la tierra sobre los mares,",
+          "la estableció sobre los ríos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Quién puede subir al monte del Señor?",
+          "¿Quién puede estar en su Lugar Santo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Solo el de manos limpias y corazón puro,",
+          "el que no adora ídolos vanos",
+          "ni jura por dioses falsos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quien es así recibe bendiciones del Señor;",
+          "el Dios de su salvación le hará justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tal es la generación de los que a ti acuden,",
+          "de los que buscan tu rostro, oh Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Eleven, puertas, sus dinteles;",
+          "levántense, puertas antiguas,",
+          "que va a entrar el Rey de la gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¿Quién es este Rey de la gloria?",
+          "El Señor, el fuerte y valiente,",
+          "el Señor, el valiente en la batalla."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Eleven, puertas, sus dinteles;",
+          "levántense, puertas antiguas,",
+          "que va a entrar el Rey de la gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¿Quién es este Rey de la gloria?",
+          "Es el Señor de los Ejércitos;",
+          "¡él es el Rey de la gloria!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

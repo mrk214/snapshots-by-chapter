@@ -1,1 +1,260 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.2","is_chapter":true,"previous":{"usfm":"AMO.1","human":"Amós 1","canonical":true,"toc":true},"current":{"usfm":"AMO.2","human":"Amós 2"},"next":{"usfm":"AMO.3","human":"Amós 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Así dice el Señor:","«Por tres pecados de Moab y por el cuarto,","no anularé su castigo,","porque quemaron los huesos del rey de Edom","hasta calcinarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Por eso yo enviaré fuego sobre Moab","que consumirá las fortalezas de Queriot.","Y morirá Moab en medio del estrépito","de gritos de guerra y toques de trompeta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Destruiré al gobernante en medio de su pueblo","y junto con él mataré a todos sus oficiales»,","dice el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Así dice el Señor:","«Por tres pecados de Judá y por el cuarto,","no anularé su castigo,","porque rechazaron la Ley del Señor","y no obedecieron sus estatutos;","porque se dejaron descarriar por falsos dioses,","tras los que anduvieron sus antepasados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por eso yo enviaré fuego sobre Judá","que consumirá las fortalezas de Jerusalén»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Juicio contra Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Así dice el Señor:","«Por tres pecados de Israel y por el cuarto,","no anularé su castigo:","Venden al justo por plata","y al necesitado, por un par de sandalias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pisan la cabeza de los desvalidos","como si fuera el polvo de la tierra","y niegan la justicia al oprimido.","Padre e hijo se acuestan con la misma joven,","profanando así mi santo nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Junto a cualquier altar","se acuestan sobre ropa que tomaron en prenda,","y el vino que han cobrado como multa","lo beben en la casa de su dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["»Fui yo quien destruí a los amorreos delante de ellos;","aunque eran altos como el cedro","y fuertes como la encina;","destruí su fruto arriba","y sus raíces abajo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo mismo los saqué a ustedes de Egipto","y los conduje cuarenta años por el desierto","para que tomaran posesión de la tierra de los amorreos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»También levanté profetas de entre sus hijos","y nazareos de entre sus jóvenes.","¿Acaso no fue así, israelitas?»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["«Pero ustedes hicieron beber vino a los nazareos","y ordenaron a los profetas que no profetizaran."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»Pues bien, estoy por aplastarlos a ustedes","como aplasta una carreta cargada de trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Entonces no habrá escapatoria para el ágil,","ni el fuerte podrá valerse de su fuerza,","ni el guerrero librará su vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El arquero no se mantendrá firme,","ni escapará con vida el ágil de piernas,","ni se salvará el que monta a caballo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["En aquel día huirá desnudo","aun el más valiente de los guerreros»,","afirma el Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/AMO.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/AMO.3.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.1",
+      "human": "Amós 1"
+    },
+    "current": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
+    },
+    "next": {
+      "usfm": "AMO.3",
+      "human": "Amós 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "«Por tres pecados de Moab y por el cuarto,",
+          "no anularé su castigo,",
+          "porque quemaron los huesos del rey de Edom",
+          "hasta calcinarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Por eso yo enviaré fuego sobre Moab",
+          "que consumirá las fortalezas de Queriot.",
+          "Y morirá Moab en medio del estrépito",
+          "de gritos de guerra y toques de trompeta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Destruiré al gobernante en medio de su pueblo",
+          "y junto con él mataré a todos sus oficiales»,",
+          "dice el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "«Por tres pecados de Judá y por el cuarto,",
+          "no anularé su castigo,",
+          "porque rechazaron la Ley del Señor",
+          "y no obedecieron sus estatutos;",
+          "porque se dejaron descarriar por falsos dioses,",
+          "tras los que anduvieron sus antepasados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por eso yo enviaré fuego sobre Judá",
+          "que consumirá las fortalezas de Jerusalén»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juicio contra Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "«Por tres pecados de Israel y por el cuarto,",
+          "no anularé su castigo:",
+          "Venden al justo por plata",
+          "y al necesitado, por un par de sandalias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pisan la cabeza de los desvalidos",
+          "como si fuera el polvo de la tierra",
+          "y niegan la justicia al oprimido.",
+          "Padre e hijo se acuestan con la misma joven,",
+          "profanando así mi santo nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Junto a cualquier altar",
+          "se acuestan sobre ropa que tomaron en prenda,",
+          "y el vino que han cobrado como multa",
+          "lo beben en la casa de su dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "»Fui yo quien destruí a los amorreos delante de ellos;",
+          "aunque eran altos como el cedro",
+          "y fuertes como la encina;",
+          "destruí su fruto arriba",
+          "y sus raíces abajo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo mismo los saqué a ustedes de Egipto",
+          "y los conduje cuarenta años por el desierto",
+          "para que tomaran posesión de la tierra de los amorreos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»También levanté profetas de entre sus hijos",
+          "y nazareos de entre sus jóvenes.",
+          "¿Acaso no fue así, israelitas?»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "«Pero ustedes hicieron beber vino a los nazareos",
+          "y ordenaron a los profetas que no profetizaran."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»Pues bien, estoy por aplastarlos a ustedes",
+          "como aplasta una carreta cargada de trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Entonces no habrá escapatoria para el ágil,",
+          "ni el fuerte podrá valerse de su fuerza,",
+          "ni el guerrero librará su vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El arquero no se mantendrá firme,",
+          "ni escapará con vida el ágil de piernas,",
+          "ni se salvará el que monta a caballo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "En aquel día huirá desnudo",
+          "aun el más valiente de los guerreros»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

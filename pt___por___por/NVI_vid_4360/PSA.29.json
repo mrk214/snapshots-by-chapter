@@ -1,1 +1,181 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.29","is_chapter":true,"previous":{"usfm":"PSA.28","human":"Salmos 28","canonical":true,"toc":true},"current":{"usfm":"PSA.29","human":"Salmos 29"},"next":{"usfm":"PSA.30","human":"Salmos 30","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Atribuam ao Senhor, ó seres celestiais,","atribuam ao Senhor glória e força."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Atribuam ao Senhor","a glória que o seu nome merece;","adorem o Senhor","no esplendor do seu santuário."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A voz do Senhor ressoa sobre as águas;","o Deus da glória troveja,","o Senhor troveja sobre as muitas águas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A voz do Senhor é poderosa;","a voz do Senhor é majestosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A voz do Senhor quebra os cedros;","o Senhor despedaça os cedros do Líbano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ele faz o Líbano saltar como bezerro,","o Siriom como novilho selvagem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["A voz do Senhor corta os céus","com raios flamejantes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A voz do Senhor faz tremer o deserto;","o Senhor faz tremer o deserto de Cades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A voz do Senhor retorce os carvalhos","e despe as florestas.","E no seu templo todos clamam: “Glória!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O Senhor assentou-se soberano sobre o Dilúvio;","o Senhor reina soberano para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["O Senhor dá força ao seu povo;","o Senhor dá a seu povo a bênção da paz."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.28.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.30.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.29",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.28",
+      "human": "Salmos 28"
+    },
+    "current": {
+      "usfm": "PSA.29",
+      "human": "Salmos 29"
+    },
+    "next": {
+      "usfm": "PSA.30",
+      "human": "Salmos 30"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Atribuam ao Senhor, ó seres celestiais,",
+          "atribuam ao Senhor glória e força."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Atribuam ao Senhor",
+          "a glória que o seu nome merece;",
+          "adorem o Senhor",
+          "no esplendor do seu santuário."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A voz do Senhor ressoa sobre as águas;",
+          "o Deus da glória troveja,",
+          "o Senhor troveja sobre as muitas águas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A voz do Senhor é poderosa;",
+          "a voz do Senhor é majestosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A voz do Senhor quebra os cedros;",
+          "o Senhor despedaça os cedros do Líbano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ele faz o Líbano saltar como bezerro,",
+          "o Siriom como novilho selvagem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "A voz do Senhor corta os céus",
+          "com raios flamejantes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A voz do Senhor faz tremer o deserto;",
+          "o Senhor faz tremer o deserto de Cades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A voz do Senhor retorce os carvalhos",
+          "e despe as florestas.",
+          "E no seu templo todos clamam: “Glória!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O Senhor assentou-se soberano sobre o Dilúvio;",
+          "o Senhor reina soberano para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "O Senhor dá força ao seu povo;",
+          "o Senhor dá a seu povo a bênção da paz."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

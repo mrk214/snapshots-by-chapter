@@ -1,1 +1,208 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.42","is_chapter":true,"previous":{"usfm":"PSA.41","human":"Salmo 41","canonical":true,"toc":true},"current":{"usfm":"PSA.42","human":"Salmo 42"},"next":{"usfm":"PSA.43","human":"Salmo 43","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["LIBRO SEGUNDO"],"rlw_lines":[]},{"type":"heading2","verse_numbers":[],"lines":["Salmo 42"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Sed de Dios en la angustia y en el destierro"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro. Masquil de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Como el ciervo anhela las corrientes de agua,","Así suspira por Ti, oh Dios, el alma mía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mi alma tiene sed de Dios, del Dios viviente;","¿Cuándo vendré y me presentaré delante de Dios?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mis lágrimas han sido mi alimento de día y de noche,","Mientras me dicen todo el día: «¿Dónde está tu Dios?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Me acuerdo de estas cosas y derramo mi alma dentro de mí;","De cómo iba yo con la multitud y la guiaba hasta la casa de Dios,","Con voz de alegría y de acción de gracias, con la muchedumbre en fiesta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶¿Por qué te desesperas, alma mía,","Y por qué te turbas dentro de mí?","Espera en Dios, pues he de alabarlo otra vez","Por la salvación de Su presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Dios mío, mi alma está en mí deprimida;","Por eso me acuerdo de Ti desde la tierra del Jordán,","Y desde las cumbres del Hermón, desde el monte Mizar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Un abismo llama a otro abismo a la voz de Tus cascadas;","Todas Tus ondas y Tus olas han pasado sobre mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["De día mandará el Señor Su misericordia,","Y de noche Su cántico estará conmigo;","Elevaré una oración al Dios de mi vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶A Dios, mi roca, diré: «¿Por qué me has olvidado?","¿Por qué ando sombrío por la opresión del enemigo?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Como quien quebranta mis huesos, mis adversarios me afrentan,","Mientras me dicen todo el día: «¿Dónde está tu Dios?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿Por qué te desesperas, alma mía,","Y por qué te turbas dentro de mí?","Espera en Dios, pues lo he de alabar otra vez.","¡Él es la salvación de mi ser, y mi Dios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.41.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.43.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.42",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.41",
+      "human": "Salmo 41"
+    },
+    "current": {
+      "usfm": "PSA.42",
+      "human": "Salmo 42"
+    },
+    "next": {
+      "usfm": "PSA.43",
+      "human": "Salmo 43"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "LIBRO SEGUNDO"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 42"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Sed de Dios en la angustia y en el destierro"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro. Masquil de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como el ciervo anhela las corrientes de agua,",
+          "Así suspira por Ti, oh Dios, el alma mía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mi alma tiene sed de Dios, del Dios viviente;",
+          "¿Cuándo vendré y me presentaré delante de Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mis lágrimas han sido mi alimento de día y de noche,",
+          "Mientras me dicen todo el día: «¿Dónde está tu Dios?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Me acuerdo de estas cosas y derramo mi alma dentro de mí;",
+          "De cómo iba yo con la multitud y la guiaba hasta la casa de Dios,",
+          "Con voz de alegría y de acción de gracias, con la muchedumbre en fiesta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶¿Por qué te desesperas, alma mía,",
+          "Y por qué te turbas dentro de mí?",
+          "Espera en Dios, pues he de alabarlo otra vez",
+          "Por la salvación de Su presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Dios mío, mi alma está en mí deprimida;",
+          "Por eso me acuerdo de Ti desde la tierra del Jordán,",
+          "Y desde las cumbres del Hermón, desde el monte Mizar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Un abismo llama a otro abismo a la voz de Tus cascadas;",
+          "Todas Tus ondas y Tus olas han pasado sobre mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "De día mandará el Señor Su misericordia,",
+          "Y de noche Su cántico estará conmigo;",
+          "Elevaré una oración al Dios de mi vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶A Dios, mi roca, diré: «¿Por qué me has olvidado?",
+          "¿Por qué ando sombrío por la opresión del enemigo?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Como quien quebranta mis huesos, mis adversarios me afrentan,",
+          "Mientras me dicen todo el día: «¿Dónde está tu Dios?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿Por qué te desesperas, alma mía,",
+          "Y por qué te turbas dentro de mí?",
+          "Espera en Dios, pues lo he de alabar otra vez.",
+          "¡Él es la salvación de mi ser, y mi Dios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

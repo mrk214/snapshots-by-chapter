@@ -1,1 +1,241 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.39","is_chapter":true,"previous":{"usfm":"PSA.38","human":"Salmo 38","canonical":true,"toc":true},"current":{"usfm":"PSA.39","human":"Salmo 39"},"next":{"usfm":"PSA.40","human":"Salmo 40","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 39"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Vanidad de la vida"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro, para Jedutún. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Yo dije: Guardaré mis caminos,","para no pecar con mi lengua;","guardaré mi boca como con mordaza,","mientras el impío esté en mi presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Enmudecí y callé;","guardé silencio aun acerca de lo bueno,","y se agravó mi dolor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ardía mi corazón dentro de mí;","mientras meditaba, se encendió el fuego;","entonces dije con mi lengua:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Señor, hazme saber mi fin,","y cuál es la medida de mis días,","para que yo sepa cuán efímero soy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He aquí, tú has hecho mis días muy breves,","y mi existencia es como nada delante de ti;","ciertamente todo hombre, aun en la plenitud de su vigor, es solo un soplo."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sí, como una sombra anda el hombre;","ciertamente en vano se afana;","acumula riquezas, y no sabe quién las recogerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Y ahora, Señor, ¿qué espero?","En ti está mi esperanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Líbrame de todas mis transgresiones;","no me hagas la burla de los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mudo me he quedado, no abro la boca,","porque tú eres el que ha obrado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Quita de mí tu plaga;","por la dureza de tu mano estoy pereciendo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Con castigos corriges al hombre por su iniquidad;","como la polilla, consumes lo que es más precioso para él;","ciertamente, todo hombre es solo un soplo."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶Escucha mi oración, oh Señor, y presta oído a mi clamor;","no guardes silencio ante mis lágrimas;","porque extranjero soy junto a ti,","peregrino, como todos mis padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Aparta de mí tu mirada, para poder alegrarme,","antes de que me vaya de aquí, y ya no exista."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.38.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.40.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.39",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.38",
+      "human": "Salmo 38"
+    },
+    "current": {
+      "usfm": "PSA.39",
+      "human": "Salmo 39"
+    },
+    "next": {
+      "usfm": "PSA.40",
+      "human": "Salmo 40"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 39"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Vanidad de la vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro, para Jedutún. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Yo dije: Guardaré mis caminos,",
+          "para no pecar con mi lengua;",
+          "guardaré mi boca como con mordaza,",
+          "mientras el impío esté en mi presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Enmudecí y callé;",
+          "guardé silencio aun acerca de lo bueno,",
+          "y se agravó mi dolor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ardía mi corazón dentro de mí;",
+          "mientras meditaba, se encendió el fuego;",
+          "entonces dije con mi lengua:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Señor, hazme saber mi fin,",
+          "y cuál es la medida de mis días,",
+          "para que yo sepa cuán efímero soy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He aquí, tú has hecho mis días muy breves,",
+          "y mi existencia es como nada delante de ti;",
+          "ciertamente todo hombre, aun en la plenitud de su vigor, es solo un soplo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sí, como una sombra anda el hombre;",
+          "ciertamente en vano se afana;",
+          "acumula riquezas, y no sabe quién las recogerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Y ahora, Señor, ¿qué espero?",
+          "En ti está mi esperanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Líbrame de todas mis transgresiones;",
+          "no me hagas la burla de los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mudo me he quedado, no abro la boca,",
+          "porque tú eres el que ha obrado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Quita de mí tu plaga;",
+          "por la dureza de tu mano estoy pereciendo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Con castigos corriges al hombre por su iniquidad;",
+          "como la polilla, consumes lo que es más precioso para él;",
+          "ciertamente, todo hombre es solo un soplo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶Escucha mi oración, oh Señor, y presta oído a mi clamor;",
+          "no guardes silencio ante mis lágrimas;",
+          "porque extranjero soy junto a ti,",
+          "peregrino, como todos mis padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Aparta de mí tu mirada, para poder alegrarme,",
+          "antes de que me vaya de aquí, y ya no exista."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

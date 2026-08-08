@@ -1,1 +1,106 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.3","is_chapter":true,"previous":{"usfm":"HOS.2","human":"Oseas 2","canonical":true,"toc":true},"current":{"usfm":"HOS.3","human":"Oseas 3"},"next":{"usfm":"HOS.4","human":"Oseas 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oseas se reconcilia con su esposa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Me habló una vez más el Señor, y me dijo: «Ve y ama a esa mujer adúltera, que es amante de otro. Ámala como ama el Señor a los israelitas, aunque se hayan vuelto a dioses ajenos y se deleiten con las tortas de pasas que les ofrecen»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Compré entonces a esa mujer por quince monedas de plata y una carga y media de cebada,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y le dije: «Vas a vivir conmigo mucho tiempo, pero sin prostituirte. No tendrás relaciones sexuales con ningún otro hombre. ¡Ni yo te voy a tocar!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ciertamente los israelitas vivirán mucho tiempo sin rey ni gobernante, sin sacrificio ni altares, ni efod ni ídolos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pero después los israelitas buscarán nuevamente al Señor su Dios, y a David su rey. En los últimos días acudirán con temor reverente al Señor y a sus bondades."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/HOS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/HOS.4.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Oseas 2"
+    },
+    "current": {
+      "usfm": "HOS.3",
+      "human": "Oseas 3"
+    },
+    "next": {
+      "usfm": "HOS.4",
+      "human": "Oseas 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oseas se reconcilia con su esposa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Me habló una vez más el Señor, y me dijo: «Ve y ama a esa mujer adúltera, que es amante de otro. Ámala como ama el Señor a los israelitas, aunque se hayan vuelto a dioses ajenos y se deleiten con las tortas de pasas que les ofrecen»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Compré entonces a esa mujer por quince monedas de plata y una carga y media de cebada,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y le dije: «Vas a vivir conmigo mucho tiempo, pero sin prostituirte. No tendrás relaciones sexuales con ningún otro hombre. ¡Ni yo te voy a tocar!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ciertamente los israelitas vivirán mucho tiempo sin rey ni gobernante, sin sacrificio ni altares, ni efod ni ídolos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pero después los israelitas buscarán nuevamente al Señor su Dios, y a David su rey. En los últimos días acudirán con temor reverente al Señor y a sus bondades."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

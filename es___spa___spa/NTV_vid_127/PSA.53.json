@@ -1,1 +1,132 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.53","is_chapter":true,"previous":{"usfm":"PSA.52","human":"Salmos 52","canonical":true,"toc":true},"current":{"usfm":"PSA.53","human":"Salmos 53"},"next":{"usfm":"PSA.54","human":"Salmos 54","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: meditación, salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Solo los necios dicen en su corazón:","«No hay Dios».","Ellos son corruptos y sus acciones son malas;","¡no hay ni uno solo que haga lo bueno!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Dios mira desde los cielos","a toda la raza humana;","observa para ver si hay alguien realmente sabio,","si alguien busca a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pero no, todos se desviaron;","todos se corrompieron.","No hay ni uno que haga lo bueno,","¡ni uno solo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Será posible que nunca aprendan los que hacen el mal?","Devoran a mi pueblo como si fuera pan","y ni siquiera piensan en orar a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El terror se apoderará de ellos,","un terror como nunca han conocido.","Dios esparcirá los huesos de tus enemigos.","Los avergonzarás, porque Dios los ha rechazado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¿Quién vendrá del monte Sion para rescatar a Israel?","Cuando Dios restaure a su pueblo,","Jacob gritará de alegría e Israel se gozará."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.52.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.54.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.53",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.52",
+      "human": "Salmos 52"
+    },
+    "current": {
+      "usfm": "PSA.53",
+      "human": "Salmos 53"
+    },
+    "next": {
+      "usfm": "PSA.54",
+      "human": "Salmos 54"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: meditación, salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Solo los necios dicen en su corazón:",
+          "«No hay Dios».",
+          "Ellos son corruptos y sus acciones son malas;",
+          "¡no hay ni uno solo que haga lo bueno!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Dios mira desde los cielos",
+          "a toda la raza humana;",
+          "observa para ver si hay alguien realmente sabio,",
+          "si alguien busca a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pero no, todos se desviaron;",
+          "todos se corrompieron.",
+          "No hay ni uno que haga lo bueno,",
+          "¡ni uno solo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Será posible que nunca aprendan los que hacen el mal?",
+          "Devoran a mi pueblo como si fuera pan",
+          "y ni siquiera piensan en orar a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El terror se apoderará de ellos,",
+          "un terror como nunca han conocido.",
+          "Dios esparcirá los huesos de tus enemigos.",
+          "Los avergonzarás, porque Dios los ha rechazado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¿Quién vendrá del monte Sion para rescatar a Israel?",
+          "Cuando Dios restaure a su pueblo,",
+          "Jacob gritará de alegría e Israel se gozará."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

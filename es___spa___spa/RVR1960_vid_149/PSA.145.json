@@ -1,1 +1,295 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.145","is_chapter":true,"previous":{"usfm":"PSA.144","human":"Salmos 144","canonical":true,"toc":true},"current":{"usfm":"PSA.145","human":"Salmos 145"},"next":{"usfm":"PSA.146","human":"Salmos 146","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza por la bondad y el poder de Dios"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de alabanza; de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Te exaltaré, mi Dios, mi Rey,","Y bendeciré tu nombre eternamente y para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cada día te bendeciré,","Y alabaré tu nombre eternamente y para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Grande es Jehová, y digno de suprema alabanza;","Y su grandeza es inescrutable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Generación a generación celebrará tus obras,","Y anunciará tus poderosos hechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En la hermosura de la gloria de tu magnificencia,","Y en tus hechos maravillosos meditaré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Del poder de tus hechos estupendos hablarán los hombres,","Y yo publicaré tu grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Proclamarán la memoria de tu inmensa bondad,","Y cantarán tu justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Clemente y misericordioso es Jehová,","Lento para la ira, y grande en misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Bueno es Jehová para con todos,","Y sus misericordias sobre todas sus obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Te alaben, oh Jehová, todas tus obras,","Y tus santos te bendigan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La gloria de tu reino digan,","Y hablen de tu poder,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Para hacer saber a los hijos de los hombres sus poderosos hechos,","Y la gloria de la magnificencia de su reino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Tu reino es reino de todos los siglos,","Y tu señorío en todas las generaciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Sostiene Jehová a todos los que caen,","Y levanta a todos los oprimidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los ojos de todos esperan en ti,","Y tú les das su comida a su tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Abres tu mano,","Y colmas de bendición a todo ser viviente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Justo es Jehová en todos sus caminos,","Y misericordioso en todas sus obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Cercano está Jehová a todos los que le invocan,","A todos los que le invocan de veras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Cumplirá el deseo de los que le temen;","Oirá asimismo el clamor de ellos, y los salvará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Jehová guarda a todos los que le aman,","Mas destruirá a todos los impíos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["La alabanza de Jehová proclamará mi boca;","Y todos bendigan su santo nombre eternamente y para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.144.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.146.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.145",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.144",
+      "human": "Salmos 144"
+    },
+    "current": {
+      "usfm": "PSA.145",
+      "human": "Salmos 145"
+    },
+    "next": {
+      "usfm": "PSA.146",
+      "human": "Salmos 146"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza por la bondad y el poder de Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de alabanza; de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Te exaltaré, mi Dios, mi Rey,",
+          "Y bendeciré tu nombre eternamente y para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cada día te bendeciré,",
+          "Y alabaré tu nombre eternamente y para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Grande es Jehová, y digno de suprema alabanza;",
+          "Y su grandeza es inescrutable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Generación a generación celebrará tus obras,",
+          "Y anunciará tus poderosos hechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En la hermosura de la gloria de tu magnificencia,",
+          "Y en tus hechos maravillosos meditaré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Del poder de tus hechos estupendos hablarán los hombres,",
+          "Y yo publicaré tu grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Proclamarán la memoria de tu inmensa bondad,",
+          "Y cantarán tu justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Clemente y misericordioso es Jehová,",
+          "Lento para la ira, y grande en misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Bueno es Jehová para con todos,",
+          "Y sus misericordias sobre todas sus obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Te alaben, oh Jehová, todas tus obras,",
+          "Y tus santos te bendigan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La gloria de tu reino digan,",
+          "Y hablen de tu poder,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Para hacer saber a los hijos de los hombres sus poderosos hechos,",
+          "Y la gloria de la magnificencia de su reino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Tu reino es reino de todos los siglos,",
+          "Y tu señorío en todas las generaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Sostiene Jehová a todos los que caen,",
+          "Y levanta a todos los oprimidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los ojos de todos esperan en ti,",
+          "Y tú les das su comida a su tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Abres tu mano,",
+          "Y colmas de bendición a todo ser viviente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Justo es Jehová en todos sus caminos,",
+          "Y misericordioso en todas sus obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Cercano está Jehová a todos los que le invocan,",
+          "A todos los que le invocan de veras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Cumplirá el deseo de los que le temen;",
+          "Oirá asimismo el clamor de ellos, y los salvará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Jehová guarda a todos los que le aman,",
+          "Mas destruirá a todos los impíos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "La alabanza de Jehová proclamará mi boca;",
+          "Y todos bendigan su santo nombre eternamente y para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

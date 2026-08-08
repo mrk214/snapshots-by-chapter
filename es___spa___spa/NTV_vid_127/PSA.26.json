@@ -1,1 +1,189 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.26","is_chapter":true,"previous":{"usfm":"PSA.25","human":"Salmos 25","canonical":true,"toc":true},"current":{"usfm":"PSA.26","human":"Salmos 26"},"next":{"usfm":"PSA.27","human":"Salmos 27","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Declárame inocente, oh Señor,","porque he actuado con integridad;","he confiado en el Señor sin vacilar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ponme a prueba, Señor, e interrógame;","examina mis intenciones y mi corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pues siempre estoy consciente de tu amor inagotable,","y he vivido de acuerdo con tu verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No paso tiempo con mentirosos","ni ando con hipócritas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Detesto las reuniones de los que hacen el mal","y me niego a juntarme con los perversos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Me lavo las manos para declarar mi inocencia.","Vengo ante tu altar, oh Señor,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["entonando un cántico de gratitud,","y contando de todas tus maravillas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Amo tu santuario, Señor,","el lugar donde habita tu gloriosa presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No permitas que sufra el destino de los pecadores","ni me condenes junto con los asesinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tienen las manos sucias de maquinaciones malignas","y constantemente aceptan sobornos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero yo no soy así; llevo una vida intachable.","Por eso, rescátame y muéstrame tu misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ahora piso tierra firme,","y en público alabaré al Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.27.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.25",
+      "human": "Salmos 25"
+    },
+    "current": {
+      "usfm": "PSA.26",
+      "human": "Salmos 26"
+    },
+    "next": {
+      "usfm": "PSA.27",
+      "human": "Salmos 27"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Declárame inocente, oh Señor,",
+          "porque he actuado con integridad;",
+          "he confiado en el Señor sin vacilar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ponme a prueba, Señor, e interrógame;",
+          "examina mis intenciones y mi corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pues siempre estoy consciente de tu amor inagotable,",
+          "y he vivido de acuerdo con tu verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No paso tiempo con mentirosos",
+          "ni ando con hipócritas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Detesto las reuniones de los que hacen el mal",
+          "y me niego a juntarme con los perversos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Me lavo las manos para declarar mi inocencia.",
+          "Vengo ante tu altar, oh Señor,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "entonando un cántico de gratitud,",
+          "y contando de todas tus maravillas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Amo tu santuario, Señor,",
+          "el lugar donde habita tu gloriosa presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No permitas que sufra el destino de los pecadores",
+          "ni me condenes junto con los asesinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tienen las manos sucias de maquinaciones malignas",
+          "y constantemente aceptan sobornos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero yo no soy así; llevo una vida intachable.",
+          "Por eso, rescátame y muéstrame tu misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ahora piso tierra firme,",
+          "y en público alabaré al Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

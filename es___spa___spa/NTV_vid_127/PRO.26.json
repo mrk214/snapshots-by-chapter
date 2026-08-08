@@ -1,1 +1,358 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.26","is_chapter":true,"previous":{"usfm":"PRO.25","human":"Proverbios 25","canonical":true,"toc":true},"current":{"usfm":"PRO.26","human":"Proverbios 26"},"next":{"usfm":"PRO.27","human":"Proverbios 27","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Como la nieve no es para el verano ni la lluvia para la cosecha,","tampoco el honor es para los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como gorrión que revolotea o golondrina que vuela sin rumbo,","la maldición inmerecida no llegará a quien iba dirigida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Guía al caballo con el látigo, al burro con el freno,","¡y al necio con la vara en la espalda!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No respondas a los argumentos absurdos de los necios","o te volverás tan necio como ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Responde a los argumentos absurdos de los necios","o se creerán sabios en su propia opinión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Confiarle a un necio que lleve un mensaje","¡es como cortarse los pies o tomar veneno!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Un proverbio en boca de un necio","es tan inútil como una pierna paralizada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Honrar a un necio","es tan absurdo como atar la piedra a la honda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Un proverbio en boca de un necio","es como una rama espinosa agitada por un borracho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El patrón que contrata a un necio o a cualquiera que pasa","es como un arquero que lanza su flecha al azar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Así como el perro vuelve a su vómito,","el necio repite su necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Hay más esperanza para los necios","que para los que se creen sabios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El perezoso afirma: «¡Hay un león en el camino!","¡Sí, estoy seguro de que allí afuera hay un león!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Así como la puerta gira sobre sus bisagras,","el perezoso da vueltas en la cama."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los perezosos toman la comida con la mano","pero ni siquiera se la llevan a la boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Los perezosos se creen más listos","que siete consejeros sabios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Entrometerse en los pleitos ajenos","es tan necio como jalarle las orejas a un perro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Tanto daña","un loco que dispara un arma mortal"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["como el que miente a un amigo","y luego le dice: «Solo estaba bromeando»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El fuego se apaga cuando falta madera,","y las peleas se acaban cuando termina el chisme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["El buscapleitos inicia disputas con tanta facilidad","como las brasas calientes encienden el carbón o el fuego prende la madera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Los rumores son deliciosos bocaditos","que penetran en lo profundo del corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Las palabras suaves pueden ocultar un corazón perverso,","así como un barniz atractivo cubre una olla de barro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["La gente podrá encubrir su odio con palabras agradables,","pero te están engañando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Fingen ser amables, pero no les creas;","tienen el corazón lleno de muchas maldades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Aunque su odio esté encubierto por engaños,","sus fechorías serán expuestas en público."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Si tiendes una trampa para otros,","tú mismo caerás en ella.","Si echas a rodar una roca sobre otros,","no los aplastará a ellos sino a ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["La lengua mentirosa odia a sus víctimas,","y las palabras aduladoras llevan a la ruina."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.27.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.25",
+      "human": "Proverbios 25"
+    },
+    "current": {
+      "usfm": "PRO.26",
+      "human": "Proverbios 26"
+    },
+    "next": {
+      "usfm": "PRO.27",
+      "human": "Proverbios 27"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como la nieve no es para el verano ni la lluvia para la cosecha,",
+          "tampoco el honor es para los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como gorrión que revolotea o golondrina que vuela sin rumbo,",
+          "la maldición inmerecida no llegará a quien iba dirigida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Guía al caballo con el látigo, al burro con el freno,",
+          "¡y al necio con la vara en la espalda!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No respondas a los argumentos absurdos de los necios",
+          "o te volverás tan necio como ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Responde a los argumentos absurdos de los necios",
+          "o se creerán sabios en su propia opinión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Confiarle a un necio que lleve un mensaje",
+          "¡es como cortarse los pies o tomar veneno!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Un proverbio en boca de un necio",
+          "es tan inútil como una pierna paralizada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Honrar a un necio",
+          "es tan absurdo como atar la piedra a la honda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Un proverbio en boca de un necio",
+          "es como una rama espinosa agitada por un borracho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El patrón que contrata a un necio o a cualquiera que pasa",
+          "es como un arquero que lanza su flecha al azar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Así como el perro vuelve a su vómito,",
+          "el necio repite su necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Hay más esperanza para los necios",
+          "que para los que se creen sabios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El perezoso afirma: «¡Hay un león en el camino!",
+          "¡Sí, estoy seguro de que allí afuera hay un león!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Así como la puerta gira sobre sus bisagras,",
+          "el perezoso da vueltas en la cama."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los perezosos toman la comida con la mano",
+          "pero ni siquiera se la llevan a la boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Los perezosos se creen más listos",
+          "que siete consejeros sabios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Entrometerse en los pleitos ajenos",
+          "es tan necio como jalarle las orejas a un perro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Tanto daña",
+          "un loco que dispara un arma mortal"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "como el que miente a un amigo",
+          "y luego le dice: «Solo estaba bromeando»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El fuego se apaga cuando falta madera,",
+          "y las peleas se acaban cuando termina el chisme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "El buscapleitos inicia disputas con tanta facilidad",
+          "como las brasas calientes encienden el carbón o el fuego prende la madera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Los rumores son deliciosos bocaditos",
+          "que penetran en lo profundo del corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Las palabras suaves pueden ocultar un corazón perverso,",
+          "así como un barniz atractivo cubre una olla de barro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "La gente podrá encubrir su odio con palabras agradables,",
+          "pero te están engañando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Fingen ser amables, pero no les creas;",
+          "tienen el corazón lleno de muchas maldades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Aunque su odio esté encubierto por engaños,",
+          "sus fechorías serán expuestas en público."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Si tiendes una trampa para otros,",
+          "tú mismo caerás en ella.",
+          "Si echas a rodar una roca sobre otros,",
+          "no los aplastará a ellos sino a ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "La lengua mentirosa odia a sus víctimas,",
+          "y las palabras aduladoras llevan a la ruina."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

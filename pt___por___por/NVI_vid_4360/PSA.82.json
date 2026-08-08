@@ -1,1 +1,153 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Salmos 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Salmos 82"},"next":{"usfm":"PSA.83","human":"Salmos 83","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. Salmo da família de Asafe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["É Deus quem preside a assembleia divina;","no meio dos deuses, ele é o juiz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Até quando vocês vão absolver os culpados","e favorecer os ímpios?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Pausa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Garantam justiça para os fracos e para os órfãos;","mantenham os direitos dos necessitados e dos oprimidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Livrem os fracos e os pobres;","libertem-nos das mãos dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“Eles nada sabem, nada entendem.","Vagueiam pelas trevas;","todos os fundamentos da terra estão abalados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Eu disse: ‘Vocês são deuses,","todos vocês são filhos do Altíssimo’."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas vocês morrerão como simples homens;","cairão como qualquer outro governante.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levanta-te, ó Deus, julga a terra,","pois todas as nações te pertencem."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Salmos 83"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. Salmo da família de Asafe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "É Deus quem preside a assembleia divina;",
+          "no meio dos deuses, ele é o juiz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Até quando vocês vão absolver os culpados",
+          "e favorecer os ímpios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Pausa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Garantam justiça para os fracos e para os órfãos;",
+          "mantenham os direitos dos necessitados e dos oprimidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Livrem os fracos e os pobres;",
+          "libertem-nos das mãos dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“Eles nada sabem, nada entendem.",
+          "Vagueiam pelas trevas;",
+          "todos os fundamentos da terra estão abalados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Eu disse: ‘Vocês são deuses,",
+          "todos vocês são filhos do Altíssimo’."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas vocês morrerão como simples homens;",
+          "cairão como qualquer outro governante.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levanta-te, ó Deus, julga a terra,",
+          "pois todas as nações te pertencem."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

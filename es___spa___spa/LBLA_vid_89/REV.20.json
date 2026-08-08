@@ -1,1 +1,222 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"REV","name":"Apocalipsis"},"chapter":{"chapter_usfm":"REV.20","is_chapter":true,"previous":{"usfm":"REV.19","human":"Apocalipsis 19","canonical":true,"toc":true},"current":{"usfm":"REV.20","human":"Apocalipsis 20"},"next":{"usfm":"REV.21","human":"Apocalipsis 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Satanás atado durante el milenio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Y vi a un ángel que descendía del cielo, con la llave del abismo y una gran cadena en su mano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Prendió al dragón, la serpiente antigua, que es el Diablo y Satanás, y lo ató por mil años;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y lo arrojó al abismo, y lo cerró y lo selló sobre él, para que no engañara más a las naciones, hasta que se cumplieran los mil años; después de esto debe ser desatado por un poco de tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["También vi tronos, y se sentaron sobre ellos, y se les concedió autoridad para juzgar. Y vi las almas de los que habían sido decapitados por causa del testimonio de Jesús y de la palabra de Dios, y a los que no habían adorado a la bestia ni a su imagen, ni habían recibido la marca sobre su frente ni sobre su mano; y volvieron a la vida y reinaron con Cristo por mil años."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los demás muertos no volvieron a la vida hasta que se cumplieron los mil años. Esta es la primera resurrección."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Bienaventurado y santo es el que tiene parte en la primera resurrección; la muerte segunda no tiene poder sobre estos sino que serán sacerdotes de Dios y de Cristo, y reinarán con Él por mil años."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La derrota de Satanás"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuando los mil años se cumplan, Satanás será soltado de su prisión,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["y saldrá a engañar a las naciones que están en los cuatro extremos de la tierra, a Gog y a Magog, a fin de reunirlas para la batalla; el número de ellas es como la arena del mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Y subieron sobre la anchura de la tierra, rodearon el campamento de los santos y la ciudad amada. Pero descendió fuego del cielo y los devoró."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El juicio ante el trono blanco"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Y vi un gran trono blanco y al que estaba sentado en él, de cuya presencia huyeron la tierra y el cielo, y no se halló lugar para ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Y vi a los muertos, grandes y pequeños, de pie delante del trono, y los libros fueron abiertos; y otro libro fue abierto, que es el libro de la vida, y los muertos fueron juzgados por lo que estaba escrito en los libros, según sus obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Y el mar entregó los muertos que estaban en él, y la Muerte y el Hades entregaron a los muertos que estaban en ellos; y fueron juzgados, cada uno según sus obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Y la Muerte y el Hades fueron arrojados al lago de fuego. Esta es la muerte segunda: el lago de fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y el que no se encontraba inscrito en el libro de la vida fue arrojado al lago de fuego."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.21.json"
+  },
+  "book": {
+    "book_usfm": "REV",
+    "name": "Apocalipsis"
+  },
+  "chapter": {
+    "chapter_usfm": "REV.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "REV.19",
+      "human": "Apocalipsis 19"
+    },
+    "current": {
+      "usfm": "REV.20",
+      "human": "Apocalipsis 20"
+    },
+    "next": {
+      "usfm": "REV.21",
+      "human": "Apocalipsis 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Satanás atado durante el milenio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Y vi a un ángel que descendía del cielo, con la llave del abismo y una gran cadena en su mano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Prendió al dragón, la serpiente antigua, que es el Diablo y Satanás, y lo ató por mil años;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y lo arrojó al abismo, y lo cerró y lo selló sobre él, para que no engañara más a las naciones, hasta que se cumplieran los mil años; después de esto debe ser desatado por un poco de tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "También vi tronos, y se sentaron sobre ellos, y se les concedió autoridad para juzgar. Y vi las almas de los que habían sido decapitados por causa del testimonio de Jesús y de la palabra de Dios, y a los que no habían adorado a la bestia ni a su imagen, ni habían recibido la marca sobre su frente ni sobre su mano; y volvieron a la vida y reinaron con Cristo por mil años."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los demás muertos no volvieron a la vida hasta que se cumplieron los mil años. Esta es la primera resurrección."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Bienaventurado y santo es el que tiene parte en la primera resurrección; la muerte segunda no tiene poder sobre estos sino que serán sacerdotes de Dios y de Cristo, y reinarán con Él por mil años."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La derrota de Satanás"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuando los mil años se cumplan, Satanás será soltado de su prisión,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "y saldrá a engañar a las naciones que están en los cuatro extremos de la tierra, a Gog y a Magog, a fin de reunirlas para la batalla; el número de ellas es como la arena del mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Y subieron sobre la anchura de la tierra, rodearon el campamento de los santos y la ciudad amada. Pero descendió fuego del cielo y los devoró."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y el diablo que los engañaba fue arrojado al lago de fuego y azufre, donde también están la bestia y el falso profeta; y serán atormentados día y noche por los siglos de los siglos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El juicio ante el trono blanco"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Y vi un gran trono blanco y al que estaba sentado en él, de cuya presencia huyeron la tierra y el cielo, y no se halló lugar para ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Y vi a los muertos, grandes y pequeños, de pie delante del trono, y los libros fueron abiertos; y otro libro fue abierto, que es el libro de la vida, y los muertos fueron juzgados por lo que estaba escrito en los libros, según sus obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Y el mar entregó los muertos que estaban en él, y la Muerte y el Hades entregaron a los muertos que estaban en ellos; y fueron juzgados, cada uno según sus obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Y la Muerte y el Hades fueron arrojados al lago de fuego. Esta es la muerte segunda: el lago de fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y el que no se encontraba inscrito en el libro de la vida fue arrojado al lago de fuego."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,191 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.2","is_chapter":true,"previous":{"usfm":"PSA.1","human":"Salmos 1","canonical":true,"toc":true},"current":{"usfm":"PSA.2","human":"Salmos 2"},"next":{"usfm":"PSA.3","human":"Salmos 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O reinado do Ungido de Deus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Por que se enfurecem os gentios","e os povos imaginam coisas vãs?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Os reis da terra se levantam,","e os príncipes conspiram","contra o Senhor e contra o seu Ungido, dizendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Rompamos os seus laços","e sacudamos de nós as suas algemas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ri-se aquele que habita nos céus;","o Senhor zomba deles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Na sua ira, a seu tempo, lhes há de falar","e no seu furor os confundirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Eu, porém, constituí o meu Rei","sobre o meu santo monte Sião."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Proclamarei o decreto do Senhor:","Ele me disse: Tu és meu Filho,","eu, hoje, te gerei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pede-me, e eu te darei as nações por herança","e as extremidades da terra por tua possessão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Com vara de ferro as regerás","e as despedaçarás como um vaso de oleiro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Agora, pois, ó reis, sede prudentes;","deixai-vos advertir, juízes da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Servi ao Senhor com temor","e alegrai-vos nele com tremor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Beijai o Filho para que se não irrite, e não pereçais no caminho;","porque dentro em pouco se lhe inflamará a ira.","Bem-aventurados todos os que nele se refugiam."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.3.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "current": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "next": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O reinado do Ungido de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Por que se enfurecem os gentios",
+          "e os povos imaginam coisas vãs?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Os reis da terra se levantam,",
+          "e os príncipes conspiram",
+          "contra o Senhor e contra o seu Ungido, dizendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Rompamos os seus laços",
+          "e sacudamos de nós as suas algemas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ri-se aquele que habita nos céus;",
+          "o Senhor zomba deles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Na sua ira, a seu tempo, lhes há de falar",
+          "e no seu furor os confundirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Eu, porém, constituí o meu Rei",
+          "sobre o meu santo monte Sião."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Proclamarei o decreto do Senhor:",
+          "Ele me disse: Tu és meu Filho,",
+          "eu, hoje, te gerei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pede-me, e eu te darei as nações por herança",
+          "e as extremidades da terra por tua possessão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Com vara de ferro as regerás",
+          "e as despedaçarás como um vaso de oleiro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Agora, pois, ó reis, sede prudentes;",
+          "deixai-vos advertir, juízes da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Servi ao Senhor com temor",
+          "e alegrai-vos nele com tremor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Beijai o Filho para que se não irrite, e não pereçais no caminho;",
+          "porque dentro em pouco se lhe inflamará a ira.",
+          "Bem-aventurados todos os que nele se refugiam."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

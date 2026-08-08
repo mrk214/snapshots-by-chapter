@@ -1,1 +1,304 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"GAL","name":"Gálatas"},"chapter":{"chapter_usfm":"GAL.1","is_chapter":true,"previous":{"usfm":"2CO.13","human":"2Coríntios 13","canonical":true,"toc":true},"current":{"usfm":"GAL.1","human":"Gálatas 1"},"next":{"usfm":"GAL.2","human":"Gálatas 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prefácio e cumprimentos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Paulo, apóstolo, não da parte de homens, nem por meio de homem algum, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dentre os mortos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["e todos os irmãos que estão comigo, às igrejas da Galácia:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Graça a vós e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["que se entregou a si mesmo pelos nossos pecados, para nos livrar deste mundo mau, segundo a vontade de nosso Deus e Pai,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["a quem seja a glória para todo o sempre. Amém."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A inconstância dos gálatas Paulo defende seu apostolado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Estou admirado de que estejais vos desviando tão depressa daquele que vos chamou pela graça de Cristo para outro evangelho,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["que de fato não é outro evangelho, senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mas, ainda que nós mesmos ou um anjo do céu vos pregue um evangelho diferente do que já vos pregamos, seja maldito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Conforme disse antes, digo outra vez agora: Se alguém vos pregar um evangelho diferente daquele que já recebestes, seja maldito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pois, será que eu procuro agora o favor dos homens ou o favor de Deus? Será que procuro agradar a homens? Se estivesse ainda agradando a homens, eu não seria servo de Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Mas, irmãos, quero que saibais que o evangelho por mim anunciado não se baseia nos homens;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["porque não o recebi de homem algum nem me foi ensinado, mas o recebi por uma revelação de Jesus Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pois já ouvistes como era o meu procedimento no judaísmo, como eu perseguia violentamente a igreja de Deus, tentando destruí-la."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["E no judaísmo eu ultrapassava a muitos da minha idade entre meu povo, sendo extremamente zeloso das tradições de meus antepassados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Quando Deus, porém, que desde o ventre de minha mãe me separou e me chamou pela sua graça, se agradou"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["em revelar seu Filho em mim, para que eu o pregasse entre os gentios, não consultei ninguém."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Também não subi a Jerusalém para encontrar os que já eram apóstolos antes de mim, mas parti para a Arábia e voltei outra vez para Damasco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Depois de três anos, subi a Jerusalém para conhecer Cefas; e passei quinze dias com ele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Mas não vi nenhum dos outros apóstolos, a não ser Tiago, irmão do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Sobre tudo isso que vos escrevo, declaro diante de Deus que não estou mentindo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Depois, fui para as regiões da Síria e da Cilícia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Eu não era conhecido pessoalmente pelas igrejas de Cristo na Judeia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Apenas tinham ouvido dizer: Aquele que nos perseguia agora prega a fé que antes tentava destruir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["E glorificavam a Deus por minha causa."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/2CO.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/GAL.2.json"
+  },
+  "book": {
+    "book_usfm": "GAL",
+    "name": "Gálatas"
+  },
+  "chapter": {
+    "chapter_usfm": "GAL.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2CO.13",
+      "human": "2Coríntios 13"
+    },
+    "current": {
+      "usfm": "GAL.1",
+      "human": "Gálatas 1"
+    },
+    "next": {
+      "usfm": "GAL.2",
+      "human": "Gálatas 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prefácio e cumprimentos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Paulo, apóstolo, não da parte de homens, nem por meio de homem algum, mas por Jesus Cristo e por Deus Pai, que o ressuscitou dentre os mortos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "e todos os irmãos que estão comigo, às igrejas da Galácia:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Graça a vós e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "que se entregou a si mesmo pelos nossos pecados, para nos livrar deste mundo mau, segundo a vontade de nosso Deus e Pai,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "a quem seja a glória para todo o sempre. Amém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A inconstância dos gálatas Paulo defende seu apostolado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Estou admirado de que estejais vos desviando tão depressa daquele que vos chamou pela graça de Cristo para outro evangelho,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "que de fato não é outro evangelho, senão que há alguns que vos perturbam e querem perverter o evangelho de Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mas, ainda que nós mesmos ou um anjo do céu vos pregue um evangelho diferente do que já vos pregamos, seja maldito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Conforme disse antes, digo outra vez agora: Se alguém vos pregar um evangelho diferente daquele que já recebestes, seja maldito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pois, será que eu procuro agora o favor dos homens ou o favor de Deus? Será que procuro agradar a homens? Se estivesse ainda agradando a homens, eu não seria servo de Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Mas, irmãos, quero que saibais que o evangelho por mim anunciado não se baseia nos homens;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "porque não o recebi de homem algum nem me foi ensinado, mas o recebi por uma revelação de Jesus Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pois já ouvistes como era o meu procedimento no judaísmo, como eu perseguia violentamente a igreja de Deus, tentando destruí-la."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "E no judaísmo eu ultrapassava a muitos da minha idade entre meu povo, sendo extremamente zeloso das tradições de meus antepassados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Quando Deus, porém, que desde o ventre de minha mãe me separou e me chamou pela sua graça, se agradou"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "em revelar seu Filho em mim, para que eu o pregasse entre os gentios, não consultei ninguém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Também não subi a Jerusalém para encontrar os que já eram apóstolos antes de mim, mas parti para a Arábia e voltei outra vez para Damasco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Depois de três anos, subi a Jerusalém para conhecer Cefas; e passei quinze dias com ele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Mas não vi nenhum dos outros apóstolos, a não ser Tiago, irmão do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Sobre tudo isso que vos escrevo, declaro diante de Deus que não estou mentindo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Depois, fui para as regiões da Síria e da Cilícia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Eu não era conhecido pessoalmente pelas igrejas de Cristo na Judeia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Apenas tinham ouvido dizer: Aquele que nos perseguia agora prega a fé que antes tentava destruir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "E glorificavam a Deus por minha causa."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

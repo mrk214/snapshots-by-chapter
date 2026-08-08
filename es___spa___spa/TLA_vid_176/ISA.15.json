@@ -1,1 +1,173 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.15","is_chapter":true,"previous":{"usfm":"ISA.14","human":"Isaías 14","canonical":true,"toc":true},"current":{"usfm":"ISA.15","human":"Isaías 15"},"next":{"usfm":"ISA.16","human":"Isaías 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Mensaje contra Moab"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1,2],"lines":["Dios dijo:","«¡El reino de Moab ha quedado en ruinas!","Todos en Moab están de luto,","se han rapado la cabeza","y se han cortado la barba.","En una sola noche fueron destruidas","las ciudades de Ar y de Quir,","de Nebo y de Medebá.","»Los habitantes de Dibón","corren al templo y a los altares","que construyeron en las colinas;","van para lamentar ante sus dioses","tanta destrucción y tanto dolor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En las terrazas y en las plazas","todos se lamentan y gritan de dolor;","la gente va por la calle vestida de luto,","y llora a más no poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Los que viven en Hesbón y en Elalé","gritan pidiendo auxilio;","hasta en Jahas se oyen sus gritos.","Los guerreros de Moab","se asustan y tiemblan de miedo»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Isaías dijo:","«Siento lástima por el reino de Moab.","Los moabitas están llenos de miedo,","y huyen al pueblo de Sóar;","corren hacia Eglat-selisiya,","suben llorando por la cuesta de Luhit,","y lanzan gritos de dolor","por el camino de Horonaim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Se han secado los pozos de Nimrim;","la hierba está marchita,","y no queda una sola hoja verde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La gente toma todo lo que tiene","y cruza el arroyo de Los Sauces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»En todo el territorio de Moab","se escucha a la gente pedir auxilio;","sus gritos llegan hasta Eglaim","y se oyen en Beer-elim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si ahora los pozos de Dimón","están llenos de sangre,","Dios les enviará aun peores castigos,","y los moabitas que queden con vida,","serán atacados por leones."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ISA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ISA.16.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.14",
+      "human": "Isaías 14"
+    },
+    "current": {
+      "usfm": "ISA.15",
+      "human": "Isaías 15"
+    },
+    "next": {
+      "usfm": "ISA.16",
+      "human": "Isaías 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje contra Moab"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2
+        ],
+        "lines": [
+          "Dios dijo:",
+          "«¡El reino de Moab ha quedado en ruinas!",
+          "Todos en Moab están de luto,",
+          "se han rapado la cabeza",
+          "y se han cortado la barba.",
+          "En una sola noche fueron destruidas",
+          "las ciudades de Ar y de Quir,",
+          "de Nebo y de Medebá.",
+          "»Los habitantes de Dibón",
+          "corren al templo y a los altares",
+          "que construyeron en las colinas;",
+          "van para lamentar ante sus dioses",
+          "tanta destrucción y tanto dolor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En las terrazas y en las plazas",
+          "todos se lamentan y gritan de dolor;",
+          "la gente va por la calle vestida de luto,",
+          "y llora a más no poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Los que viven en Hesbón y en Elalé",
+          "gritan pidiendo auxilio;",
+          "hasta en Jahas se oyen sus gritos.",
+          "Los guerreros de Moab",
+          "se asustan y tiemblan de miedo»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Isaías dijo:",
+          "«Siento lástima por el reino de Moab.",
+          "Los moabitas están llenos de miedo,",
+          "y huyen al pueblo de Sóar;",
+          "corren hacia Eglat-selisiya,",
+          "suben llorando por la cuesta de Luhit,",
+          "y lanzan gritos de dolor",
+          "por el camino de Horonaim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Se han secado los pozos de Nimrim;",
+          "la hierba está marchita,",
+          "y no queda una sola hoja verde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La gente toma todo lo que tiene",
+          "y cruza el arroyo de Los Sauces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»En todo el territorio de Moab",
+          "se escucha a la gente pedir auxilio;",
+          "sus gritos llegan hasta Eglaim",
+          "y se oyen en Beer-elim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si ahora los pozos de Dimón",
+          "están llenos de sangre,",
+          "Dios les enviará aun peores castigos,",
+          "y los moabitas que queden con vida,",
+          "serán atacados por leones."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

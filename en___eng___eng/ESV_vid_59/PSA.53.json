@@ -1,1 +1,139 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.53","is_chapter":true,"previous":{"usfm":"PSA.52","human":"Psalm 52","canonical":true,"toc":true},"current":{"usfm":"PSA.53","human":"Psalm 53"},"next":{"usfm":"PSA.54","human":"Psalm 54","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["There Is None Who Does Good"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: according to Mahalath. A Maskil of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The fool says in his heart, “There is no God.”","They are corrupt, doing abominable iniquity;","there is none who does good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["God looks down from heaven","on the children of man","to see if there are any who understand,","who seek after God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They have all fallen away;","together they have become corrupt;","there is none who does good,","not even one."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Have those who work evil no knowledge,","who eat up my people as they eat bread,","and do not call upon God?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["There they are, in great terror,","where there is no terror!","For God scatters the bones of him who encamps against you;","you put them to shame, for God has rejected them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oh, that salvation for Israel would come out of Zion!","When God restores the fortunes of his people,","let Jacob rejoice, let Israel be glad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.52.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.54.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.53",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.52",
+      "human": "Psalm 52"
+    },
+    "current": {
+      "usfm": "PSA.53",
+      "human": "Psalm 53"
+    },
+    "next": {
+      "usfm": "PSA.54",
+      "human": "Psalm 54"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "There Is None Who Does Good"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: according to Mahalath. A Maskil of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The fool says in his heart, “There is no God.”",
+          "They are corrupt, doing abominable iniquity;",
+          "there is none who does good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "God looks down from heaven",
+          "on the children of man",
+          "to see if there are any who understand,",
+          "who seek after God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They have all fallen away;",
+          "together they have become corrupt;",
+          "there is none who does good,",
+          "not even one."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Have those who work evil no knowledge,",
+          "who eat up my people as they eat bread,",
+          "and do not call upon God?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "There they are, in great terror,",
+          "where there is no terror!",
+          "For God scatters the bones of him who encamps against you;",
+          "you put them to shame, for God has rejected them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oh, that salvation for Israel would come out of Zion!",
+          "When God restores the fortunes of his people,",
+          "let Jacob rejoice, let Israel be glad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

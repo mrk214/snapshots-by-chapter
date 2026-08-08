@@ -1,1 +1,209 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.108","is_chapter":true,"previous":{"usfm":"PSA.107","human":"Salmos 107","canonical":true,"toc":true},"current":{"usfm":"PSA.108","human":"Salmos 108"},"next":{"usfm":"PSA.109","human":"Salmos 109","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Petición de ayuda contra el enemigo"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Mi corazón está dispuesto, oh Dios;","Cantaré y entonaré salmos; esta es mi gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Despiértate, salterio y arpa;","Despertaré al alba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Te alabaré, oh Jehová, entre los pueblos;","A ti cantaré salmos entre las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque más grande que los cielos es tu misericordia,","Y hasta los cielos tu verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Exaltado seas sobre los cielos, oh Dios,","Y sobre toda la tierra sea enaltecida tu gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Para que sean librados tus amados,","Salva con tu diestra y respóndeme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dios ha dicho en su santuario: Yo me alegraré;","Repartiré a Siquem, y mediré el valle de Sucot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mío es Galaad, mío es Manasés,","Y Efraín es la fortaleza de mi cabeza;","Judá es mi legislador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Moab, la vasija para lavarme;","Sobre Edom echaré mi calzado;","Me regocijaré sobre Filistea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¿Quién me guiará a la ciudad fortificada?","¿Quién me guiará hasta Edom?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿No serás tú, oh Dios, que nos habías desechado,","Y no salías, oh Dios, con nuestros ejércitos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Danos socorro contra el adversario,","Porque vana es la ayuda del hombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["En Dios haremos proezas,","Y él hollará a nuestros enemigos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.107.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.109.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.108",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.107",
+      "human": "Salmos 107"
+    },
+    "current": {
+      "usfm": "PSA.108",
+      "human": "Salmos 108"
+    },
+    "next": {
+      "usfm": "PSA.109",
+      "human": "Salmos 109"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Petición de ayuda contra el enemigo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Mi corazón está dispuesto, oh Dios;",
+          "Cantaré y entonaré salmos; esta es mi gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Despiértate, salterio y arpa;",
+          "Despertaré al alba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Te alabaré, oh Jehová, entre los pueblos;",
+          "A ti cantaré salmos entre las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque más grande que los cielos es tu misericordia,",
+          "Y hasta los cielos tu verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Exaltado seas sobre los cielos, oh Dios,",
+          "Y sobre toda la tierra sea enaltecida tu gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Para que sean librados tus amados,",
+          "Salva con tu diestra y respóndeme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dios ha dicho en su santuario: Yo me alegraré;",
+          "Repartiré a Siquem, y mediré el valle de Sucot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mío es Galaad, mío es Manasés,",
+          "Y Efraín es la fortaleza de mi cabeza;",
+          "Judá es mi legislador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Moab, la vasija para lavarme;",
+          "Sobre Edom echaré mi calzado;",
+          "Me regocijaré sobre Filistea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¿Quién me guiará a la ciudad fortificada?",
+          "¿Quién me guiará hasta Edom?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿No serás tú, oh Dios, que nos habías desechado,",
+          "Y no salías, oh Dios, con nuestros ejércitos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Danos socorro contra el adversario,",
+          "Porque vana es la ayuda del hombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "En Dios haremos proezas,",
+          "Y él hollará a nuestros enemigos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

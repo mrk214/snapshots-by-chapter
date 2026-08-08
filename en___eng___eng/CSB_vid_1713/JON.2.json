@@ -1,1 +1,176 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"JON","name":"Jonah"},"chapter":{"chapter_usfm":"JON.2","is_chapter":true,"previous":{"usfm":"JON.1","human":"Jonah 1","canonical":true,"toc":true},"current":{"usfm":"JON.2","human":"Jonah 2"},"next":{"usfm":"JON.3","human":"Jonah 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jonah’s Prayer"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Jonah prayed to the Lord his God from the belly of the fish:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I called to the Lord in my distress,","and he answered me.","I cried out for help from deep inside Sheol;","you heard my voice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When you threw me into the depths,","into the heart of the seas,","the current overcame me.","All your breakers and your billows swept over me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And I said, “I have been banished","from your sight,","yet I will look once more","toward your holy temple.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The water engulfed me up to the neck; ,","the watery depths overcame me;","seaweed was wrapped around my head."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I sank to the foundations of the mountains,","the earth’s gates shut behind me forever!","Then you raised my life from the Pit, Lord my God!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["As my life was fading away,","I remembered the Lord,","and my prayer came to you,","to your holy temple."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Those who cherish worthless idols","abandon their faithful love,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["but as for me, I will sacrifice to you","with a voice of thanksgiving.","I will fulfill what I have vowed.","Salvation belongs to the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Then the Lord commanded the fish, and it vomited Jonah onto dry land."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JON.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JON.3.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonah"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.1",
+      "human": "Jonah 1"
+    },
+    "current": {
+      "usfm": "JON.2",
+      "human": "Jonah 2"
+    },
+    "next": {
+      "usfm": "JON.3",
+      "human": "Jonah 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jonah’s Prayer"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Jonah prayed to the Lord his God from the belly of the fish:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I called to the Lord in my distress,",
+          "and he answered me.",
+          "I cried out for help from deep inside Sheol;",
+          "you heard my voice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When you threw me into the depths,",
+          "into the heart of the seas,",
+          "the current overcame me.",
+          "All your breakers and your billows swept over me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And I said, “I have been banished",
+          "from your sight,",
+          "yet I will look once more",
+          "toward your holy temple.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The water engulfed me up to the neck; ,",
+          "the watery depths overcame me;",
+          "seaweed was wrapped around my head."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I sank to the foundations of the mountains,",
+          "the earth’s gates shut behind me forever!",
+          "Then you raised my life from the Pit, Lord my God!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "As my life was fading away,",
+          "I remembered the Lord,",
+          "and my prayer came to you,",
+          "to your holy temple."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Those who cherish worthless idols",
+          "abandon their faithful love,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "but as for me, I will sacrifice to you",
+          "with a voice of thanksgiving.",
+          "I will fulfill what I have vowed.",
+          "Salvation belongs to the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Then the Lord commanded the fish, and it vomited Jonah onto dry land."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

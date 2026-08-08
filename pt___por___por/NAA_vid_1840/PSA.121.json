@@ -1,1 +1,158 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.121","is_chapter":true,"previous":{"usfm":"PSA.120","human":"Salmos 120","canonical":true,"toc":true},"current":{"usfm":"PSA.121","human":"Salmos 121"},"next":{"usfm":"PSA.122","human":"Salmos 122","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Deus, o nosso protetor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de peregrinação"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Elevo os meus olhos","para os montes:","de onde me virá o socorro?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O meu socorro vem do Senhor,","que fez o céu e a terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ele não permitirá","que os seus pés vacilem;","não dormitará","aquele que guarda você."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["É certo que não dormita,","nem dorme","o guarda de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor é quem guarda você;","o Senhor é a sombra à sua direita."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["De dia não lhe fará mal o sol,","nem de noite, a lua."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O Senhor guardará você","de todo mal;","guardará a sua alma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O Senhor guardará a sua saída","e a sua entrada,","desde agora e para sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.120.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.122.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.121",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.120",
+      "human": "Salmos 120"
+    },
+    "current": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "next": {
+      "usfm": "PSA.122",
+      "human": "Salmos 122"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deus, o nosso protetor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de peregrinação"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Elevo os meus olhos",
+          "para os montes:",
+          "de onde me virá o socorro?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O meu socorro vem do Senhor,",
+          "que fez o céu e a terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ele não permitirá",
+          "que os seus pés vacilem;",
+          "não dormitará",
+          "aquele que guarda você."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "É certo que não dormita,",
+          "nem dorme",
+          "o guarda de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor é quem guarda você;",
+          "o Senhor é a sombra à sua direita."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "De dia não lhe fará mal o sol,",
+          "nem de noite, a lua."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O Senhor guardará você",
+          "de todo mal;",
+          "guardará a sua alma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O Senhor guardará a sua saída",
+          "e a sua entrada,",
+          "desde agora e para sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

@@ -1,1 +1,117 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Salmos 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Salmos 43"},"next":{"usfm":"PSA.44","human":"Salmos 44","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Anhelo por la casa de Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Júzgame, oh Dios, y defiende mi causa.","Líbrame de una nación impía,","del hombre de engaño e iniquidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Siendo tú el Dios de mi fortaleza,","¿por qué me has desechado?","¿Por qué he de andar enlutado por","la opresión del enemigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Envía tu luz y tu verdad; estas me guiarán.","Ellas me conducirán a tu monte santo y a tus moradas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Llegaré hasta el altar de Dios;","a Dios, mi alegría y mi gozo.","Te alabaré con arpa, oh Dios, Dios mío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Por qué te abates, oh alma mía,","y por qué te turbas dentro de mí?","Espera a Dios, porque aún le he de alabar.","¡Él es la salvación de mi ser, y mi Dios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Salmos 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Salmos 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Salmos 44"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Anhelo por la casa de Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Júzgame, oh Dios, y defiende mi causa.",
+          "Líbrame de una nación impía,",
+          "del hombre de engaño e iniquidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Siendo tú el Dios de mi fortaleza,",
+          "¿por qué me has desechado?",
+          "¿Por qué he de andar enlutado por",
+          "la opresión del enemigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Envía tu luz y tu verdad; estas me guiarán.",
+          "Ellas me conducirán a tu monte santo y a tus moradas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Llegaré hasta el altar de Dios;",
+          "a Dios, mi alegría y mi gozo.",
+          "Te alabaré con arpa, oh Dios, Dios mío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Por qué te abates, oh alma mía,",
+          "y por qué te turbas dentro de mí?",
+          "Espera a Dios, porque aún le he de alabar.",
+          "¡Él es la salvación de mi ser, y mi Dios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

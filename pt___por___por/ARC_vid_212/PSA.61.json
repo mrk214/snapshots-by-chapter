@@ -1,1 +1,145 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.61","is_chapter":true,"previous":{"usfm":"PSA.60","human":"Salmos 60","canonical":true,"toc":true},"current":{"usfm":"PSA.61","human":"Salmos 61"},"next":{"usfm":"PSA.62","human":"Salmos 62","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Davi confia em Deus como seu refúgio"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi para o cantor-mor, sobre Neguinote"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ouve, ó Deus, o meu clamor; atende à minha oração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Desde o fim da terra clamo a ti, por estar abatido o meu coração.","Leva-me para a rocha que é mais alta do que eu,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["pois tens sido o meu refúgio e uma torre forte contra o inimigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Habitarei no teu tabernáculo para sempre; abrigar-me-ei no oculto das tuas asas. (Selá)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois tu, ó Deus, ouviste os meus votos; deste-me a herança dos que temem o teu nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Prolongarás os dias do rei; e os seus anos serão como muitas gerações."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ele permanecerá diante de Deus para sempre; prepara-lhe misericórdia e verdade que o preservem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Assim, cantarei salmos ao teu nome perpetuamente, para pagar os meus votos de dia em dia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.60.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.62.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.61",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.60",
+      "human": "Salmos 60"
+    },
+    "current": {
+      "usfm": "PSA.61",
+      "human": "Salmos 61"
+    },
+    "next": {
+      "usfm": "PSA.62",
+      "human": "Salmos 62"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Davi confia em Deus como seu refúgio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi para o cantor-mor, sobre Neguinote"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ouve, ó Deus, o meu clamor; atende à minha oração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Desde o fim da terra clamo a ti, por estar abatido o meu coração.",
+          "Leva-me para a rocha que é mais alta do que eu,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "pois tens sido o meu refúgio e uma torre forte contra o inimigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Habitarei no teu tabernáculo para sempre; abrigar-me-ei no oculto das tuas asas. (Selá)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois tu, ó Deus, ouviste os meus votos; deste-me a herança dos que temem o teu nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Prolongarás os dias do rei; e os seus anos serão como muitas gerações."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ele permanecerá diante de Deus para sempre; prepara-lhe misericórdia e verdade que o preservem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Assim, cantarei salmos ao teu nome perpetuamente, para pagar os meus votos de dia em dia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

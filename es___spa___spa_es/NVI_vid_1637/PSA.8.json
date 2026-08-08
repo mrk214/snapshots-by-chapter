@@ -1,1 +1,160 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.8","is_chapter":true,"previous":{"usfm":"PSA.7","human":"Salmo 7","canonical":true,"toc":true},"current":{"usfm":"PSA.8","human":"Salmo 8"},"next":{"usfm":"PSA.9","human":"Salmo 9","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Sígase la tonada de «La canción del lagar». Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh Señor, Soberano nuestro,","¡qué imponente es tu nombre en toda la tierra!","¡Has puesto tu gloria sobre los cielos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A causa de tus adversarios","has hecho que brote la alabanza","de labios de los chiquillos y de los niños de pecho,","para silenciar al enemigo y al rebelde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando contemplo tus cielos,","obra de tus dedos,","la luna y las estrellas que allí fijaste,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["me pregunto:","«¿Qué es el hombre, para que pienses en él?","¿Qué es el ser humano, para que lo tengas en cuenta?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pues lo hiciste poco menos que Dios,","y lo coronaste de gloria y de honra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["lo entronizaste sobre la obra de tus manos,","¡todo lo sometiste a su dominio!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todas las ovejas, todos los bueyes,","todos los animales del campo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["las aves del cielo, los peces del mar,","y todo lo que surca los senderos del mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Oh Señor, Soberano nuestro,","¡qué imponente es tu nombre en toda la tierra!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.9.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.7",
+      "human": "Salmo 7"
+    },
+    "current": {
+      "usfm": "PSA.8",
+      "human": "Salmo 8"
+    },
+    "next": {
+      "usfm": "PSA.9",
+      "human": "Salmo 9"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Sígase la tonada de «La canción del lagar». Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh Señor, Soberano nuestro,",
+          "¡qué imponente es tu nombre en toda la tierra!",
+          "¡Has puesto tu gloria sobre los cielos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A causa de tus adversarios",
+          "has hecho que brote la alabanza",
+          "de labios de los chiquillos y de los niños de pecho,",
+          "para silenciar al enemigo y al rebelde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando contemplo tus cielos,",
+          "obra de tus dedos,",
+          "la luna y las estrellas que allí fijaste,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "me pregunto:",
+          "«¿Qué es el hombre, para que pienses en él?",
+          "¿Qué es el ser humano, para que lo tengas en cuenta?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pues lo hiciste poco menos que Dios,",
+          "y lo coronaste de gloria y de honra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "lo entronizaste sobre la obra de tus manos,",
+          "¡todo lo sometiste a su dominio!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todas las ovejas, todos los bueyes,",
+          "todos los animales del campo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "las aves del cielo, los peces del mar,",
+          "y todo lo que surca los senderos del mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Oh Señor, Soberano nuestro,",
+          "¡qué imponente es tu nombre en toda la tierra!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

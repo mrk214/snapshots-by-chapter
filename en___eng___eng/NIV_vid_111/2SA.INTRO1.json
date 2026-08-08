@@ -1,1 +1,47 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"2SA","name":"2 Samuel"},"chapter":{"chapter_usfm":"2SA.INTRO1","is_chapter":false,"previous":{"usfm":"1SA.31","human":"1 Samuel 31","canonical":true,"toc":true},"current":{"usfm":"2SA.INTRO1","human":"2 Samuel Intro"},"next":{"usfm":"2SA.1","human":"2 Samuel 1","canonical":true,"toc":true},"items":[]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1SA.31.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2SA.1.json"
+  },
+  "book": {
+    "book_usfm": "2SA",
+    "name": "2 Samuel"
+  },
+  "chapter": {
+    "chapter_usfm": "2SA.INTRO1",
+    "is_chapter": false,
+    "previous": {
+      "usfm": "1SA.31",
+      "human": "1 Samuel 31"
+    },
+    "current": {
+      "usfm": "2SA.INTRO1",
+      "human": "2 Samuel Intro"
+    },
+    "next": {
+      "usfm": "2SA.1",
+      "human": "2 Samuel 1"
+    },
+    "items": []
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,121 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.4","is_chapter":true,"previous":{"usfm":"ISA.3","human":"Isaías 3","canonical":true,"toc":true},"current":{"usfm":"ISA.4","human":"Isaías 4"},"next":{"usfm":"ISA.5","human":"Isaías 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Naquele dia, sete mulheres","agarrarão um homem e lhe dirão:","“Nós mesmas providenciaremos","nossa comida e nossas roupas;","apenas case-se conosco","e livre-nos da vergonha de sermos solteiras!”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O Renovo do Senhor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Naquele dia, o Renovo do Senhor será belo e glorioso, e o fruto da terra será o orgulho e a glória dos sobreviventes de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Os que forem deixados em Sião e ficarem em Jerusalém serão chamados santos: todos os inscritos para viverem em Jerusalém."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Quando o Senhor tiver lavado a impureza das mulheres de Sião e tiver limpado por meio de um espírito de julgamento e de um espírito de fogo o sangue derramado em Jerusalém,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["o Senhor criará sobre todo o monte Sião e sobre aqueles que se reunirem ali uma nuvem de dia e um clarão de fogo de noite. A glória tudo cobrirá"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e será um abrigo e sombra para o calor do dia, refúgio e esconderijo contra a tempestade e a chuva."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.5.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.3",
+      "human": "Isaías 3"
+    },
+    "current": {
+      "usfm": "ISA.4",
+      "human": "Isaías 4"
+    },
+    "next": {
+      "usfm": "ISA.5",
+      "human": "Isaías 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Naquele dia, sete mulheres",
+          "agarrarão um homem e lhe dirão:",
+          "“Nós mesmas providenciaremos",
+          "nossa comida e nossas roupas;",
+          "apenas case-se conosco",
+          "e livre-nos da vergonha de sermos solteiras!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Renovo do Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Naquele dia, o Renovo do Senhor será belo e glorioso, e o fruto da terra será o orgulho e a glória dos sobreviventes de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Os que forem deixados em Sião e ficarem em Jerusalém serão chamados santos: todos os inscritos para viverem em Jerusalém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Quando o Senhor tiver lavado a impureza das mulheres de Sião e tiver limpado por meio de um espírito de julgamento e de um espírito de fogo o sangue derramado em Jerusalém,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "o Senhor criará sobre todo o monte Sião e sobre aqueles que se reunirem ali uma nuvem de dia e um clarão de fogo de noite. A glória tudo cobrirá"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e será um abrigo e sombra para o calor do dia, refúgio e esconderijo contra a tempestade e a chuva."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

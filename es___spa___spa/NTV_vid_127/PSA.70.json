@@ -1,1 +1,117 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.70","is_chapter":true,"previous":{"usfm":"PSA.69","human":"Salmos 69","canonical":true,"toc":true},"current":{"usfm":"PSA.70","human":"Salmos 70"},"next":{"usfm":"PSA.71","human":"Salmos 71","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de David, en el cual le pide a Dios que se acuerde de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Por favor, Dios, ¡rescátame!","Ven pronto, Señor, y ayúdame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que los que tratan de matarme","sean humillados y pasen vergüenza.","Que los que se deleitan en mis dificultades","retrocedan con deshonra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que su vergüenza los horrorice,","porque dijeron: «¡Ajá! ¡Ahora sí lo atrapamos!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero que todos aquellos que te buscan","estén llenos de alegría y de felicidad en ti.","Que los que aman tu salvación","griten una y otra vez: «¡Grande es Dios!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En cuanto a mí, pobre y necesitado,","por favor, Dios, ven pronto a socorrerme.","Tú eres mi ayudador y mi salvador;","oh Señor, no te demores."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.69.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.71.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.70",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.69",
+      "human": "Salmos 69"
+    },
+    "current": {
+      "usfm": "PSA.70",
+      "human": "Salmos 70"
+    },
+    "next": {
+      "usfm": "PSA.71",
+      "human": "Salmos 71"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de David, en el cual le pide a Dios que se acuerde de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Por favor, Dios, ¡rescátame!",
+          "Ven pronto, Señor, y ayúdame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que los que tratan de matarme",
+          "sean humillados y pasen vergüenza.",
+          "Que los que se deleitan en mis dificultades",
+          "retrocedan con deshonra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que su vergüenza los horrorice,",
+          "porque dijeron: «¡Ajá! ¡Ahora sí lo atrapamos!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero que todos aquellos que te buscan",
+          "estén llenos de alegría y de felicidad en ti.",
+          "Que los que aman tu salvación",
+          "griten una y otra vez: «¡Grande es Dios!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En cuanto a mí, pobre y necesitado,",
+          "por favor, Dios, ven pronto a socorrerme.",
+          "Tú eres mi ayudador y mi salvador;",
+          "oh Señor, no te demores."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

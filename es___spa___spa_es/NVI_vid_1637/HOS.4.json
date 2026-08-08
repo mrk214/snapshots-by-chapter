@@ -1,1 +1,298 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.4","is_chapter":true,"previous":{"usfm":"HOS.3","human":"Oseas 3","canonical":true,"toc":true},"current":{"usfm":"HOS.4","human":"Oseas 4"},"next":{"usfm":"HOS.5","human":"Oseas 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Pleito contra Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escuchad, israelitas,","la palabra del Señor,","porque el Señor va a entrar en juicio","contra los habitantes del país:","«Ya no hay entre mi pueblo fidelidad ni amor,","ni conocimiento de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cunden, más bien, el perjurio y la mentira.","Abundan el robo, el adulterio y el asesinato.","¡Un homicidio sigue a otro!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por tanto, se resecará la tierra,","y desfallecerán todos sus habitantes.","¡Morirán las bestias del campo,","las aves del cielo y los peces del mar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»¡Que nadie acuse ni reprenda a nadie!","¡Tu pueblo parece acusar al sacerdote!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tropiezas de día y de noche,","y los profetas tropiezan contigo;","tu madre dejará de existir,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["pues por falta de conocimiento","mi pueblo ha sido destruido.","»Puesto que rechazaste el conocimiento,","yo también te rechazo como mi sacerdote.","Ya que te olvidaste de la ley de tu Dios,","yo también me olvidaré de tus hijos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mientras más aumentaban los sacerdotes,","más pecaban contra mí;","cambiaron a quien es su gloria","en algo deshonroso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El pecado de mi pueblo es su comida;","se regodean en su perversidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡De tal pueblo, tal sacerdote!","¡Por eso les pediré cuentas de su conducta","y les daré la paga de sus acciones!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Comerán, pero no quedarán satisfechos;","se prostituirán, pero no se saciarán;","porque han abandonado al Señor","para entregarse"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["a la prostitución y al vino,","¡al mosto que hace perder la razón!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Mi pueblo consulta a su ídolo de madera,","y ese pedazo de palo le responde;","su tendencia a prostituirse los descarría;","se prostituyen en abierto desafío a su Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["En la cumbre de montes y colinas","queman ofrendas y ofrecen sacrificios,","bajo la agradable sombra","de robles, álamos y encinas.","Por eso se prostituyen sus hijas","y cometen adulterio sus nueras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Pero no las castigaré","por sus prostituciones y adulterios,","porque sus propios maridos","se juntan con prostitutas","y celebran banquetes paganos","con las sacerdotisas del templo.","¡Es así como acaba por hundirse","un pueblo falto de entendimiento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["»Si tú, Israel, te prostituyes,","¡que no resulte culpable Judá!","»No vayáis a Guilgal ni subáis a Bet Avén,","ni juréis: “¡Por la vida del Señor!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Israel es tan indómito como una novilla.","¿Cómo podrá el Señor pastorearlos","en campo abierto, como a corderos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Efraín se ha aliado con las imágenes;","¡pues que se quede con ellas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Cuando ya no tienen licor,","se entregan de lleno a la prostitución,","¡y hasta sus gobernantes aman la deshonra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["¡Por eso un torbellino los arrastrará,","y quedarán avergonzados por sus sacrificios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/HOS.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/HOS.5.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.3",
+      "human": "Oseas 3"
+    },
+    "current": {
+      "usfm": "HOS.4",
+      "human": "Oseas 4"
+    },
+    "next": {
+      "usfm": "HOS.5",
+      "human": "Oseas 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Pleito contra Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escuchad, israelitas,",
+          "la palabra del Señor,",
+          "porque el Señor va a entrar en juicio",
+          "contra los habitantes del país:",
+          "«Ya no hay entre mi pueblo fidelidad ni amor,",
+          "ni conocimiento de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cunden, más bien, el perjurio y la mentira.",
+          "Abundan el robo, el adulterio y el asesinato.",
+          "¡Un homicidio sigue a otro!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por tanto, se resecará la tierra,",
+          "y desfallecerán todos sus habitantes.",
+          "¡Morirán las bestias del campo,",
+          "las aves del cielo y los peces del mar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»¡Que nadie acuse ni reprenda a nadie!",
+          "¡Tu pueblo parece acusar al sacerdote!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tropiezas de día y de noche,",
+          "y los profetas tropiezan contigo;",
+          "tu madre dejará de existir,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "pues por falta de conocimiento",
+          "mi pueblo ha sido destruido.",
+          "»Puesto que rechazaste el conocimiento,",
+          "yo también te rechazo como mi sacerdote.",
+          "Ya que te olvidaste de la ley de tu Dios,",
+          "yo también me olvidaré de tus hijos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mientras más aumentaban los sacerdotes,",
+          "más pecaban contra mí;",
+          "cambiaron a quien es su gloria",
+          "en algo deshonroso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El pecado de mi pueblo es su comida;",
+          "se regodean en su perversidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡De tal pueblo, tal sacerdote!",
+          "¡Por eso les pediré cuentas de su conducta",
+          "y les daré la paga de sus acciones!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Comerán, pero no quedarán satisfechos;",
+          "se prostituirán, pero no se saciarán;",
+          "porque han abandonado al Señor",
+          "para entregarse"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "a la prostitución y al vino,",
+          "¡al mosto que hace perder la razón!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Mi pueblo consulta a su ídolo de madera,",
+          "y ese pedazo de palo le responde;",
+          "su tendencia a prostituirse los descarría;",
+          "se prostituyen en abierto desafío a su Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "En la cumbre de montes y colinas",
+          "queman ofrendas y ofrecen sacrificios,",
+          "bajo la agradable sombra",
+          "de robles, álamos y encinas.",
+          "Por eso se prostituyen sus hijas",
+          "y cometen adulterio sus nueras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Pero no las castigaré",
+          "por sus prostituciones y adulterios,",
+          "porque sus propios maridos",
+          "se juntan con prostitutas",
+          "y celebran banquetes paganos",
+          "con las sacerdotisas del templo.",
+          "¡Es así como acaba por hundirse",
+          "un pueblo falto de entendimiento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "»Si tú, Israel, te prostituyes,",
+          "¡que no resulte culpable Judá!",
+          "»No vayáis a Guilgal ni subáis a Bet Avén,",
+          "ni juréis: “¡Por la vida del Señor!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Israel es tan indómito como una novilla.",
+          "¿Cómo podrá el Señor pastorearlos",
+          "en campo abierto, como a corderos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Efraín se ha aliado con las imágenes;",
+          "¡pues que se quede con ellas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Cuando ya no tienen licor,",
+          "se entregan de lleno a la prostitución,",
+          "¡y hasta sus gobernantes aman la deshonra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "¡Por eso un torbellino los arrastrará,",
+          "y quedarán avergonzados por sus sacrificios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

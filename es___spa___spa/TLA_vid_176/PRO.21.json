@@ -1,1 +1,422 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.21","is_chapter":true,"previous":{"usfm":"PRO.20","human":"Proverbios 20","canonical":true,"toc":true},"current":{"usfm":"PRO.21","human":"Proverbios 21"},"next":{"usfm":"PRO.22","human":"Proverbios 22","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ante Dios, humildad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En las manos de Dios","los planes del rey","son como un río:","toman el curso","que Dios quiere darles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Todo el mundo cree hacer lo mejor,","pero Dios juzga las intenciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Más que recibir ofrendas y sacrificios,","Dios prefiere que se haga justicia","y que se practique la honradez."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Hay tres cosas que son pecado:","ser orgulloso,","creerse muy inteligente,","y vivir como un malvado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cuando las cosas se piensan bien,","el resultado es provechoso.","Cuando se hacen a la carrera,","el resultado es desastroso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Las riquezas que amontona el mentiroso","se desvanecen como el humo;","son una trampa mortal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La violencia destruye a los malvados","porque se niegan a hacer justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Quien mal se comporta,","lleva una vida difícil;","quien vive honradamente","lleva una vida sin problemas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Más vale vivir","en un rincón del patio,","que dentro de un palacio","con una persona peleona."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El malvado solo piensa en el mal,","y hasta con sus amigos es malvado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Jóvenes sin experiencia,","acepten el consejo de los sabios,","y aprendan del castigo a los malcriados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Dios es justo, y sabe bien","lo que piensa el malvado;","por eso acaba por destruirlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Quien no hace caso","de las súplicas del pobre,","un día pedirá ayuda","y nadie se la dará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Un buen regalo calma el enojo,","si se da en el momento oportuno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El hombre honrado es feliz","cuando ve que se hace justicia,","¡pero cómo se asusta el malvado!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Quien deja de hacer lo bueno,","pronto termina en la tumba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Quien solo piensa en fiestas,","en perfumes y en borracheras,","se queda en la pobreza","y jamás llega a rico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Los malvados y ladrones","tendrán que pagar el rescate","de los hombres buenos y honrados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Vale más la soledad","que la vida matrimonial","con una persona agresiva","y de mal genio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["En casa del sabio","hay riquezas y perfumes;","en casa del tonto","solo hay desperdicios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Busca la justicia y el amor,","y encontrarás vida,","justicia y riquezas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Basta un solo sabio","para conquistar una gran ciudad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Quien tiene cuidado de lo que dice","nunca se mete en problemas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Qué bien le queda al orgulloso","que lo llamen «¡malcriado y vanidoso!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25,26],"lines":["El perezoso quiere de todo,","lo que no quiere es trabajar.","El hombre honrado siempre da","y no pide nada a cambio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Dios no soporta a los malvados","que le traen ofrendas,","y no son sinceros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["El testigo falso será destruido,","pero al testigo verdadero","siempre se le da la palabra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["El malvado parece estar muy seguro;","pero solo el hombre honrado","está seguro de verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Reconozcamos que ante Dios,","no hay sabiduría","ni conocimiento,","ni consejos que valgan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["A los soldados les toca","preparar sus caballos para el combate;","pero Dios es quien decide","a quién darle la victoria."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.20.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.22.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.21",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.20",
+      "human": "Proverbios 20"
+    },
+    "current": {
+      "usfm": "PRO.21",
+      "human": "Proverbios 21"
+    },
+    "next": {
+      "usfm": "PRO.22",
+      "human": "Proverbios 22"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ante Dios, humildad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En las manos de Dios",
+          "los planes del rey",
+          "son como un río:",
+          "toman el curso",
+          "que Dios quiere darles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Todo el mundo cree hacer lo mejor,",
+          "pero Dios juzga las intenciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Más que recibir ofrendas y sacrificios,",
+          "Dios prefiere que se haga justicia",
+          "y que se practique la honradez."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Hay tres cosas que son pecado:",
+          "ser orgulloso,",
+          "creerse muy inteligente,",
+          "y vivir como un malvado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cuando las cosas se piensan bien,",
+          "el resultado es provechoso.",
+          "Cuando se hacen a la carrera,",
+          "el resultado es desastroso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Las riquezas que amontona el mentiroso",
+          "se desvanecen como el humo;",
+          "son una trampa mortal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La violencia destruye a los malvados",
+          "porque se niegan a hacer justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Quien mal se comporta,",
+          "lleva una vida difícil;",
+          "quien vive honradamente",
+          "lleva una vida sin problemas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Más vale vivir",
+          "en un rincón del patio,",
+          "que dentro de un palacio",
+          "con una persona peleona."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El malvado solo piensa en el mal,",
+          "y hasta con sus amigos es malvado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Jóvenes sin experiencia,",
+          "acepten el consejo de los sabios,",
+          "y aprendan del castigo a los malcriados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Dios es justo, y sabe bien",
+          "lo que piensa el malvado;",
+          "por eso acaba por destruirlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Quien no hace caso",
+          "de las súplicas del pobre,",
+          "un día pedirá ayuda",
+          "y nadie se la dará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Un buen regalo calma el enojo,",
+          "si se da en el momento oportuno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El hombre honrado es feliz",
+          "cuando ve que se hace justicia,",
+          "¡pero cómo se asusta el malvado!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Quien deja de hacer lo bueno,",
+          "pronto termina en la tumba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Quien solo piensa en fiestas,",
+          "en perfumes y en borracheras,",
+          "se queda en la pobreza",
+          "y jamás llega a rico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Los malvados y ladrones",
+          "tendrán que pagar el rescate",
+          "de los hombres buenos y honrados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Vale más la soledad",
+          "que la vida matrimonial",
+          "con una persona agresiva",
+          "y de mal genio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "En casa del sabio",
+          "hay riquezas y perfumes;",
+          "en casa del tonto",
+          "solo hay desperdicios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Busca la justicia y el amor,",
+          "y encontrarás vida,",
+          "justicia y riquezas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Basta un solo sabio",
+          "para conquistar una gran ciudad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Quien tiene cuidado de lo que dice",
+          "nunca se mete en problemas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Qué bien le queda al orgulloso",
+          "que lo llamen «¡malcriado y vanidoso!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25,
+          26
+        ],
+        "lines": [
+          "El perezoso quiere de todo,",
+          "lo que no quiere es trabajar.",
+          "El hombre honrado siempre da",
+          "y no pide nada a cambio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Dios no soporta a los malvados",
+          "que le traen ofrendas,",
+          "y no son sinceros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "El testigo falso será destruido,",
+          "pero al testigo verdadero",
+          "siempre se le da la palabra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "El malvado parece estar muy seguro;",
+          "pero solo el hombre honrado",
+          "está seguro de verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Reconozcamos que ante Dios,",
+          "no hay sabiduría",
+          "ni conocimiento,",
+          "ni consejos que valgan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "A los soldados les toca",
+          "preparar sus caballos para el combate;",
+          "pero Dios es quien decide",
+          "a quién darle la victoria."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

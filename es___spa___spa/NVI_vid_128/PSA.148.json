@@ -1,1 +1,206 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.148","is_chapter":true,"previous":{"usfm":"PSA.147","human":"Salmo 147","canonical":true,"toc":true},"current":{"usfm":"PSA.148","human":"Salmo 148"},"next":{"usfm":"PSA.149","human":"Salmo 149","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["¡Aleluya!","Alaben al Señor desde los cielos,","alábenlo desde las alturas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Alábenlo, todos sus ángeles,","alábenlo, todos sus ejércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alábenlo, sol y luna,","alábenlo, estrellas luminosas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Alábenlo ustedes, altísimos cielos,","y ustedes, las aguas que están sobre los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sea alabado el nombre del Señor,","porque él dio una orden y todo fue creado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Todo quedó afirmado para siempre;","emitió un estatuto que no será abolido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Alaben al Señor desde la tierra","los grandes animales marinos y las profundidades del mar,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["el rayo y el granizo, la nieve y la neblina,","el viento tempestuoso que obedece su palabra,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["los montes y todas las colinas,","los árboles frutales y todos los cedros,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["los animales salvajes y los domésticos,","los reptiles y las aves,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["los reyes de la tierra y todas las naciones,","los príncipes y los gobernantes de la tierra,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["los jóvenes y las jóvenes,","los ancianos y los niños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Alaben el nombre del Señor,","porque solo su nombre es exaltado;","su esplendor está por encima de la tierra y de los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡Él ha dado poder a su pueblo!","¡A él sea la alabanza de todos sus fieles,","de los hijos de Israel, su pueblo cercano!","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.147.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.149.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.148",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.147",
+      "human": "Salmo 147"
+    },
+    "current": {
+      "usfm": "PSA.148",
+      "human": "Salmo 148"
+    },
+    "next": {
+      "usfm": "PSA.149",
+      "human": "Salmo 149"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Aleluya!",
+          "Alaben al Señor desde los cielos,",
+          "alábenlo desde las alturas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Alábenlo, todos sus ángeles,",
+          "alábenlo, todos sus ejércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alábenlo, sol y luna,",
+          "alábenlo, estrellas luminosas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Alábenlo ustedes, altísimos cielos,",
+          "y ustedes, las aguas que están sobre los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sea alabado el nombre del Señor,",
+          "porque él dio una orden y todo fue creado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Todo quedó afirmado para siempre;",
+          "emitió un estatuto que no será abolido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Alaben al Señor desde la tierra",
+          "los grandes animales marinos y las profundidades del mar,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "el rayo y el granizo, la nieve y la neblina,",
+          "el viento tempestuoso que obedece su palabra,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "los montes y todas las colinas,",
+          "los árboles frutales y todos los cedros,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "los animales salvajes y los domésticos,",
+          "los reptiles y las aves,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "los reyes de la tierra y todas las naciones,",
+          "los príncipes y los gobernantes de la tierra,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "los jóvenes y las jóvenes,",
+          "los ancianos y los niños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Alaben el nombre del Señor,",
+          "porque solo su nombre es exaltado;",
+          "su esplendor está por encima de la tierra y de los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡Él ha dado poder a su pueblo!",
+          "¡A él sea la alabanza de todos sus fieles,",
+          "de los hijos de Israel, su pueblo cercano!",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

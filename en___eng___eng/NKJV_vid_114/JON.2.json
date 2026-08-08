@@ -1,1 +1,168 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"JON","name":"Jonah"},"chapter":{"chapter_usfm":"JON.2","is_chapter":true,"previous":{"usfm":"JON.1","human":"Jonah 1","canonical":true,"toc":true},"current":{"usfm":"JON.2","human":"Jonah 2"},"next":{"usfm":"JON.3","human":"Jonah 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Then Jonah prayed to the Lord his God from the fish’s belly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And he said:","“I cried out to the Lord because of my affliction,","And He answered me.","“Out of the belly of Sheol I cried,","And You heard my voice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For You cast me into the deep,","Into the heart of the seas,","And the floods surrounded me;","All Your billows and Your waves passed over me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then I said, ‘I have been cast out of Your sight;","Yet I will look again toward Your holy temple.’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The waters surrounded me, even to my soul;","The deep closed around me;","Weeds were wrapped around my head."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I went down to the moorings of the mountains;","The earth with its bars closed behind me forever;","Yet You have brought up my life from the pit,","O Lord, my God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["“When my soul fainted within me,","I remembered the Lord;","And my prayer went up to You,","Into Your holy temple."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Those who regard worthless idols","Forsake their own Mercy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["But I will sacrifice to You","With the voice of thanksgiving;","I will pay what I have vowed.","Salvation is of the Lord.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["So the Lord spoke to the fish, and it vomited Jonah onto dry land."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JON.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JON.3.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonah"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.1",
+      "human": "Jonah 1"
+    },
+    "current": {
+      "usfm": "JON.2",
+      "human": "Jonah 2"
+    },
+    "next": {
+      "usfm": "JON.3",
+      "human": "Jonah 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then Jonah prayed to the Lord his God from the fish’s belly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And he said:",
+          "“I cried out to the Lord because of my affliction,",
+          "And He answered me.",
+          "“Out of the belly of Sheol I cried,",
+          "And You heard my voice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For You cast me into the deep,",
+          "Into the heart of the seas,",
+          "And the floods surrounded me;",
+          "All Your billows and Your waves passed over me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then I said, ‘I have been cast out of Your sight;",
+          "Yet I will look again toward Your holy temple.’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The waters surrounded me, even to my soul;",
+          "The deep closed around me;",
+          "Weeds were wrapped around my head."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I went down to the moorings of the mountains;",
+          "The earth with its bars closed behind me forever;",
+          "Yet You have brought up my life from the pit,",
+          "O Lord, my God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "“When my soul fainted within me,",
+          "I remembered the Lord;",
+          "And my prayer went up to You,",
+          "Into Your holy temple."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Those who regard worthless idols",
+          "Forsake their own Mercy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "But I will sacrifice to You",
+          "With the voice of thanksgiving;",
+          "I will pay what I have vowed.",
+          "Salvation is of the Lord.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "So the Lord spoke to the fish, and it vomited Jonah onto dry land."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

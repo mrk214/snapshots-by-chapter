@@ -1,1 +1,285 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"ECC","name":"Ecclesiastes"},"chapter":{"chapter_usfm":"ECC.5","is_chapter":true,"previous":{"usfm":"ECC.4","human":"Ecclesiastes 4","canonical":true,"toc":true},"current":{"usfm":"ECC.5","human":"Ecclesiastes 5"},"next":{"usfm":"ECC.6","human":"Ecclesiastes 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Fear God, Keep Your Vows"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Do not be rash with your mouth,","And let not your heart utter anything hastily before God.","For God is in heaven, and you on earth;","Therefore let your words be few."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For a dream comes through much activity,","And a fool’s voice is known by his many words."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["When you make a vow to God, do not delay to pay it;","For He has no pleasure in fools.","Pay what you have vowed—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Better not to vow than to vow and not pay."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For in the multitude of dreams and many words there is also vanity. But fear God."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Vanity of Gain and Honor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Moreover the profit of the land is for all; even the king is served from the field."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["He who loves silver will not be satisfied with silver;","Nor he who loves abundance, with increase.","This also is vanity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["When goods increase,","They increase who eat them;","So what profit have the owners","Except to see them with their eyes?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The sleep of a laboring man is sweet,","Whether he eats little or much;","But the abundance of the rich will not permit him to sleep."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["There is a severe evil which I have seen under the sun:","Riches kept for their owner to his hurt."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["But those riches perish through misfortune;","When he begets a son, there is nothing in his hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["As he came from his mother’s womb, naked shall he return,","To go as he came;","And he shall take nothing from his labor","Which he may carry away in his hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["And this also is a severe evil—","Just exactly as he came, so shall he go.","And what profit has he who has labored for the wind?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["All his days he also eats in darkness,","And he has much sorrow and sickness and anger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this is the gift of God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ECC.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ECC.6.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Ecclesiastes"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.4",
+      "human": "Ecclesiastes 4"
+    },
+    "current": {
+      "usfm": "ECC.5",
+      "human": "Ecclesiastes 5"
+    },
+    "next": {
+      "usfm": "ECC.6",
+      "human": "Ecclesiastes 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Fear God, Keep Your Vows"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Walk prudently when you go to the house of God; and draw near to hear rather than to give the sacrifice of fools, for they do not know that they do evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Do not be rash with your mouth,",
+          "And let not your heart utter anything hastily before God.",
+          "For God is in heaven, and you on earth;",
+          "Therefore let your words be few."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For a dream comes through much activity,",
+          "And a fool’s voice is known by his many words."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "When you make a vow to God, do not delay to pay it;",
+          "For He has no pleasure in fools.",
+          "Pay what you have vowed—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Better not to vow than to vow and not pay."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Do not let your mouth cause your flesh to sin, nor say before the messenger of God that it was an error. Why should God be angry at your excuse and destroy the work of your hands?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For in the multitude of dreams and many words there is also vanity. But fear God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Vanity of Gain and Honor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "If you see the oppression of the poor, and the violent perversion of justice and righteousness in a province, do not marvel at the matter; for high official watches over high official, and higher officials are over them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Moreover the profit of the land is for all; even the king is served from the field."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "He who loves silver will not be satisfied with silver;",
+          "Nor he who loves abundance, with increase.",
+          "This also is vanity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "When goods increase,",
+          "They increase who eat them;",
+          "So what profit have the owners",
+          "Except to see them with their eyes?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The sleep of a laboring man is sweet,",
+          "Whether he eats little or much;",
+          "But the abundance of the rich will not permit him to sleep."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "There is a severe evil which I have seen under the sun:",
+          "Riches kept for their owner to his hurt."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "But those riches perish through misfortune;",
+          "When he begets a son, there is nothing in his hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "As he came from his mother’s womb, naked shall he return,",
+          "To go as he came;",
+          "And he shall take nothing from his labor",
+          "Which he may carry away in his hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "And this also is a severe evil—",
+          "Just exactly as he came, so shall he go.",
+          "And what profit has he who has labored for the wind?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "All his days he also eats in darkness,",
+          "And he has much sorrow and sickness and anger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Here is what I have seen: It is good and fitting for one to eat and drink, and to enjoy the good of all his labor in which he toils under the sun all the days of his life which God gives him; for it is his heritage."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "As for every man to whom God has given riches and wealth, and given him power to eat of it, to receive his heritage and rejoice in his labor—this is the gift of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "For he will not dwell unduly on the days of his life, because God keeps him busy with the joy of his heart."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

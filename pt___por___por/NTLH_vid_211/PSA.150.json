@@ -1,1 +1,126 @@
-{"version":{"version_id":211,"local_abbreviation":"NTLH","local_title":"Nova Tradução na Linguagem de Hoje","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>Nova Tradução na Linguagem de Hoje ® Copyright © 2000 Sociedade Bíblica do Brasil. Todos os direitos reservados. A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.com.br/ofertar\">ajudar a Causa da Bíblia!</a></p>","text":"Nova Tradução na Linguagem de Hoje ® Copyright © 2000 Sociedade Bíblica do Brasil. Todos os direitos reservados. A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode ajudar a Causa da Bíblia!"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Provérbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Louvem a Deus, o Senhor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aleluia!","Louvem a Deus no seu Templo.","Louvem o seu poder, que se vê no céu."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Louvem o Senhor","pelas coisas maravilhosas","que tem feito.","Louvem a sua imensa grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Louvem a Deus com trombetas.","Louvem com harpas e liras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Louvem o Senhor com pandeiros","e danças.","Louvem com harpas e flautas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Louvem a Deus com pratos musicais.","Louvem bem alto com pratos sonoros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Todos os seres vivos, louvem o Senhor!","Aleluia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Provérbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Louvem a Deus, o Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia!",
+          "Louvem a Deus no seu Templo.",
+          "Louvem o seu poder, que se vê no céu."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Louvem o Senhor",
+          "pelas coisas maravilhosas",
+          "que tem feito.",
+          "Louvem a sua imensa grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Louvem a Deus com trombetas.",
+          "Louvem com harpas e liras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Louvem o Senhor com pandeiros",
+          "e danças.",
+          "Louvem com harpas e flautas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Louvem a Deus com pratos musicais.",
+          "Louvem bem alto com pratos sonoros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Todos os seres vivos, louvem o Senhor!",
+          "Aleluia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 211,
+    "local_abbreviation": "NTLH",
+    "local_title": "Nova Tradução na Linguagem de Hoje",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>Nova Tradução na Linguagem de Hoje ® Copyright © 2000 Sociedade Bíblica do Brasil. Todos os direitos reservados. A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.com.br/ofertar\">ajudar a Causa da Bíblia!</a></p>",
+      "text": "Nova Tradução na Linguagem de Hoje ® Copyright © 2000 Sociedade Bíblica do Brasil. Todos os direitos reservados. A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode ajudar a Causa da Bíblia!"
+    }
+  }
+}

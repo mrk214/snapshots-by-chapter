@@ -1,1 +1,385 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.22","is_chapter":true,"previous":{"usfm":"JOB.21","human":"Job 21","canonical":true,"toc":true},"current":{"usfm":"JOB.22","human":"Job 22"},"next":{"usfm":"JOB.23","human":"Job 23","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Elifaz acusa a Job de gran maldad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Respondió Elifaz temanita, y dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¿Traerá el hombre provecho a Dios?","Al contrario, para sí mismo es provechoso el hombre sabio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Tiene contentamiento el Omnipotente en que tú seas justificado,","O provecho de que tú hagas perfectos tus caminos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Acaso te castiga,","O viene a juicio contigo, a causa de tu piedad?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por cierto tu malicia es grande,","Y tus maldades no tienen fin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque sacaste prenda a tus hermanos sin causa,","Y despojaste de sus ropas a los desnudos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No diste de beber agua al cansado,","Y detuviste el pan al hambriento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pero el hombre pudiente tuvo la tierra,","Y habitó en ella el distinguido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A las viudas enviaste vacías,","Y los brazos de los huérfanos fueron quebrados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por tanto, hay lazos alrededor de ti,","Y te turba espanto repentino;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["O tinieblas, para que no veas,","Y abundancia de agua te cubre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¿No está Dios en la altura de los cielos?","Mira lo encumbrado de las estrellas, cuán elevadas están."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¿Y dirás tú: Qué sabe Dios?","¿Cómo juzgará a través de la oscuridad?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Las nubes le rodearon, y no ve;","Y por el circuito del cielo se pasea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¿Quieres tú seguir la senda antigua","Que pisaron los hombres perversos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Los cuales fueron cortados antes de tiempo,","Cuyo fundamento fue como un río derramado?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Decían a Dios: Apártate de nosotros.","¿Y qué les había hecho el Omnipotente?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Les había colmado de bienes sus casas.","Pero sea el consejo de ellos lejos de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Verán los justos y se gozarán;","Y el inocente los escarnecerá, diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Fueron destruidos nuestros adversarios,","Y el fuego consumió lo que de ellos quedó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Vuelve ahora en amistad con él, y tendrás paz;","Y por ello te vendrá bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Toma ahora la ley de su boca,","Y pon sus palabras en tu corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Si te volvieres al Omnipotente, serás edificado;","Alejarás de tu tienda la aflicción;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Tendrás más oro que tierra,","Y como piedras de arroyos oro de Ofir;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["El Todopoderoso será tu defensa,","Y tendrás plata en abundancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Porque entonces te deleitarás en el Omnipotente,","Y alzarás a Dios tu rostro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Orarás a él, y él te oirá;","Y tú pagarás tus votos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Determinarás asimismo una cosa, y te será firme,","Y sobre tus caminos resplandecerá luz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Cuando fueren abatidos, dirás tú: Enaltecimiento habrá;","Y Dios salvará al humilde de ojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Él libertará al inocente,","Y por la limpieza de tus manos este será librado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOB.21.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOB.23.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.22",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.21",
+      "human": "Job 21"
+    },
+    "current": {
+      "usfm": "JOB.22",
+      "human": "Job 22"
+    },
+    "next": {
+      "usfm": "JOB.23",
+      "human": "Job 23"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Elifaz acusa a Job de gran maldad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Respondió Elifaz temanita, y dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¿Traerá el hombre provecho a Dios?",
+          "Al contrario, para sí mismo es provechoso el hombre sabio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Tiene contentamiento el Omnipotente en que tú seas justificado,",
+          "O provecho de que tú hagas perfectos tus caminos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Acaso te castiga,",
+          "O viene a juicio contigo, a causa de tu piedad?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por cierto tu malicia es grande,",
+          "Y tus maldades no tienen fin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque sacaste prenda a tus hermanos sin causa,",
+          "Y despojaste de sus ropas a los desnudos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No diste de beber agua al cansado,",
+          "Y detuviste el pan al hambriento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pero el hombre pudiente tuvo la tierra,",
+          "Y habitó en ella el distinguido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A las viudas enviaste vacías,",
+          "Y los brazos de los huérfanos fueron quebrados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por tanto, hay lazos alrededor de ti,",
+          "Y te turba espanto repentino;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "O tinieblas, para que no veas,",
+          "Y abundancia de agua te cubre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¿No está Dios en la altura de los cielos?",
+          "Mira lo encumbrado de las estrellas, cuán elevadas están."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¿Y dirás tú: Qué sabe Dios?",
+          "¿Cómo juzgará a través de la oscuridad?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Las nubes le rodearon, y no ve;",
+          "Y por el circuito del cielo se pasea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¿Quieres tú seguir la senda antigua",
+          "Que pisaron los hombres perversos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Los cuales fueron cortados antes de tiempo,",
+          "Cuyo fundamento fue como un río derramado?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Decían a Dios: Apártate de nosotros.",
+          "¿Y qué les había hecho el Omnipotente?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Les había colmado de bienes sus casas.",
+          "Pero sea el consejo de ellos lejos de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Verán los justos y se gozarán;",
+          "Y el inocente los escarnecerá, diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Fueron destruidos nuestros adversarios,",
+          "Y el fuego consumió lo que de ellos quedó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Vuelve ahora en amistad con él, y tendrás paz;",
+          "Y por ello te vendrá bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Toma ahora la ley de su boca,",
+          "Y pon sus palabras en tu corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Si te volvieres al Omnipotente, serás edificado;",
+          "Alejarás de tu tienda la aflicción;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Tendrás más oro que tierra,",
+          "Y como piedras de arroyos oro de Ofir;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "El Todopoderoso será tu defensa,",
+          "Y tendrás plata en abundancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Porque entonces te deleitarás en el Omnipotente,",
+          "Y alzarás a Dios tu rostro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Orarás a él, y él te oirá;",
+          "Y tú pagarás tus votos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Determinarás asimismo una cosa, y te será firme,",
+          "Y sobre tus caminos resplandecerá luz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Cuando fueren abatidos, dirás tú: Enaltecimiento habrá;",
+          "Y Dios salvará al humilde de ojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Él libertará al inocente,",
+          "Y por la limpieza de tus manos este será librado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

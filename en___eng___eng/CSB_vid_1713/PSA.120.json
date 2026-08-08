@@ -1,1 +1,142 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.120","is_chapter":true,"previous":{"usfm":"PSA.119","human":"Psalms 119","canonical":true,"toc":true},"current":{"usfm":"PSA.120","human":"Psalms 120"},"next":{"usfm":"PSA.121","human":"Psalms 121","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Cry for Truth and Peace"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In my distress I called to the Lord,","and he answered me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Lord, rescue me from lying lips","and a deceitful tongue.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["What will he give you,","and what will he do to you,","you deceitful tongue?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A warrior’s sharp arrows","with burning charcoal! ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["What misery that I have stayed in Meshech, ,","that I have lived among the tents of Kedar! ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I have dwelt too long","with those who hate peace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I am for peace; but when I speak,","they are for war."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.119.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.121.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.120",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.119",
+      "human": "Psalms 119"
+    },
+    "current": {
+      "usfm": "PSA.120",
+      "human": "Psalms 120"
+    },
+    "next": {
+      "usfm": "PSA.121",
+      "human": "Psalms 121"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Cry for Truth and Peace"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In my distress I called to the Lord,",
+          "and he answered me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Lord, rescue me from lying lips",
+          "and a deceitful tongue.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "What will he give you,",
+          "and what will he do to you,",
+          "you deceitful tongue?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A warrior’s sharp arrows",
+          "with burning charcoal! ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "What misery that I have stayed in Meshech, ,",
+          "that I have lived among the tents of Kedar! ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I have dwelt too long",
+          "with those who hate peace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I am for peace; but when I speak,",
+          "they are for war."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

@@ -1,1 +1,116 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.20","is_chapter":true,"previous":{"usfm":"ISA.19","human":"Isaiah 19","canonical":true,"toc":true},"current":{"usfm":"ISA.20","human":"Isaiah 20"},"next":{"usfm":"ISA.21","human":"Isaiah 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Sign Against Egypt and Cush"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and captured it—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["at that time the Lord spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking naked and barefoot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then the Lord said, “As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["so shall the king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And the inhabitants of this coastland will say in that day, ‘Behold, this is what has happened to those in whom we hoped and to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?’”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.21.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.19",
+      "human": "Isaiah 19"
+    },
+    "current": {
+      "usfm": "ISA.20",
+      "human": "Isaiah 20"
+    },
+    "next": {
+      "usfm": "ISA.21",
+      "human": "Isaiah 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Sign Against Egypt and Cush"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In the year that the commander in chief, who was sent by Sargon the king of Assyria, came to Ashdod and fought against it and captured it—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "at that time the Lord spoke by Isaiah the son of Amoz, saying, “Go, and loose the sackcloth from your waist and take off your sandals from your feet,” and he did so, walking naked and barefoot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then the Lord said, “As my servant Isaiah has walked naked and barefoot for three years as a sign and a portent against Egypt and Cush,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "so shall the king of Assyria lead away the Egyptian captives and the Cushite exiles, both the young and the old, naked and barefoot, with buttocks uncovered, the nakedness of Egypt."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Then they shall be dismayed and ashamed because of Cush their hope and of Egypt their boast."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And the inhabitants of this coastland will say in that day, ‘Behold, this is what has happened to those in whom we hoped and to whom we fled for help to be delivered from the king of Assyria! And we, how shall we escape?’”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

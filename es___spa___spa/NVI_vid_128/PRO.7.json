@@ -1,1 +1,357 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.7","is_chapter":true,"previous":{"usfm":"PRO.6","human":"Proverbios 6","canonical":true,"toc":true},"current":{"usfm":"PRO.7","human":"Proverbios 7"},"next":{"usfm":"PRO.8","human":"Proverbios 8","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Advertencia contra la mujer adúltera"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hijo mío, guarda mis palabras","y atesora mis mandamientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cumple con mis mandamientos, y vivirás;","cuida mis enseñanzas como a la niña de tus ojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Llévalos atados en los dedos;","anótalos en la tabla de tu corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Di a la sabiduría: «Tú eres mi hermana»,","y a la inteligencia: «Eres de mi sangre»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ellas te librarán de la mujer ajena,","de la adúltera y de sus palabras seductoras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Desde la ventana de mi casa","miré a través de la celosía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Vi a los inexpertos,","y, entre los jóvenes, observé","a uno de ellos falto de juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cruzó la calle, llegó a la esquina","y se encaminó hacia la casa de esa mujer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Caía la tarde. Llegaba el día a su fin.","Avanzaban las sombras de la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["De pronto la mujer salió a su encuentro,","con toda la apariencia de una prostituta","y con solapadas intenciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ella es escandalosa y descarada;","sus pies nunca hallan reposo en su casa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Unas veces por las calles, otras veces por las plazas,","siempre está al acecho en cada esquina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Se prendió de su cuello, lo besó","y, con todo descaro, dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["«Tengo en mi casa sacrificios de comunión,","pues hoy he cumplido mis promesas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por eso he venido a tu encuentro;","te buscaba, ¡y ya te he encontrado!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Sobre la cama he tendido","linos egipcios multicolores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He perfumado mi lecho","con aroma de mirra, áloe y canela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Ven, bebamos hasta el fondo la copa del amor;","¡disfrutemos del amor hasta el amanecer!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Mi esposo no está en casa,","pues ha emprendido un largo viaje."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Se ha llevado consigo la bolsa del dinero","y no regresará hasta el día de luna llena»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Con palabras persuasivas lo convenció;","con halagos de sus labios lo sedujo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Y él enseguida fue tras ella,","como el buey que va camino al matadero;","como el ciervo que cae en la trampa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["hasta que una flecha le abre las entrañas;","como el ave que se lanza contra la red,","sin saber que en ello le va la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Así que, hijo mío, escúchame;","presta atención a mis palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["No desvíes tu corazón hacia sus sendas","ni te extravíes por sus caminos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["pues muchos han muerto por su causa;","sus víctimas han sido innumerables."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Su casa lleva derecho al sepulcro;","conduce a las habitaciones de la muerte."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.8.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.6",
+      "human": "Proverbios 6"
+    },
+    "current": {
+      "usfm": "PRO.7",
+      "human": "Proverbios 7"
+    },
+    "next": {
+      "usfm": "PRO.8",
+      "human": "Proverbios 8"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Advertencia contra la mujer adúltera"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hijo mío, guarda mis palabras",
+          "y atesora mis mandamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cumple con mis mandamientos, y vivirás;",
+          "cuida mis enseñanzas como a la niña de tus ojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Llévalos atados en los dedos;",
+          "anótalos en la tabla de tu corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Di a la sabiduría: «Tú eres mi hermana»,",
+          "y a la inteligencia: «Eres de mi sangre»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ellas te librarán de la mujer ajena,",
+          "de la adúltera y de sus palabras seductoras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Desde la ventana de mi casa",
+          "miré a través de la celosía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Vi a los inexpertos,",
+          "y, entre los jóvenes, observé",
+          "a uno de ellos falto de juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cruzó la calle, llegó a la esquina",
+          "y se encaminó hacia la casa de esa mujer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Caía la tarde. Llegaba el día a su fin.",
+          "Avanzaban las sombras de la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "De pronto la mujer salió a su encuentro,",
+          "con toda la apariencia de una prostituta",
+          "y con solapadas intenciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ella es escandalosa y descarada;",
+          "sus pies nunca hallan reposo en su casa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Unas veces por las calles, otras veces por las plazas,",
+          "siempre está al acecho en cada esquina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Se prendió de su cuello, lo besó",
+          "y, con todo descaro, dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "«Tengo en mi casa sacrificios de comunión,",
+          "pues hoy he cumplido mis promesas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por eso he venido a tu encuentro;",
+          "te buscaba, ¡y ya te he encontrado!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Sobre la cama he tendido",
+          "linos egipcios multicolores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He perfumado mi lecho",
+          "con aroma de mirra, áloe y canela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Ven, bebamos hasta el fondo la copa del amor;",
+          "¡disfrutemos del amor hasta el amanecer!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Mi esposo no está en casa,",
+          "pues ha emprendido un largo viaje."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Se ha llevado consigo la bolsa del dinero",
+          "y no regresará hasta el día de luna llena»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Con palabras persuasivas lo convenció;",
+          "con halagos de sus labios lo sedujo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Y él enseguida fue tras ella,",
+          "como el buey que va camino al matadero;",
+          "como el ciervo que cae en la trampa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "hasta que una flecha le abre las entrañas;",
+          "como el ave que se lanza contra la red,",
+          "sin saber que en ello le va la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Así que, hijo mío, escúchame;",
+          "presta atención a mis palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "No desvíes tu corazón hacia sus sendas",
+          "ni te extravíes por sus caminos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "pues muchos han muerto por su causa;",
+          "sus víctimas han sido innumerables."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Su casa lleva derecho al sepulcro;",
+          "conduce a las habitaciones de la muerte."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

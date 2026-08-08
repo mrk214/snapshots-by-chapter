@@ -1,1 +1,150 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.11","is_chapter":true,"previous":{"usfm":"PSA.10","human":"Salmo 10","canonical":true,"toc":true},"current":{"usfm":"PSA.11","human":"Salmo 11"},"next":{"usfm":"PSA.12","human":"Salmo 12","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 11"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El Señor, refugio y defensa"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En el Señor me refugio;","¿cómo decís a mi alma: Huye cual ave al monte?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque, he aquí, los impíos tensan el arco,","preparan su saeta sobre la cuerda","para flechar en lo oscuro a los rectos de corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Si los fundamentos son destruidos;","¿qué puede hacer el justo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶El Señor está en su santo templo, el trono del Señor está en los cielos;","sus ojos contemplan, sus párpados examinan a los hijos de los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El Señor prueba al justo y al impío,","y su alma aborrece al que ama la violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sobre los impíos hará llover carbones encendidos;","fuego, azufre y viento abrasador será la porción de su copa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pues el Señor es justo; Él ama la justicia;","los rectos contemplarán su rostro."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.12.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.10",
+      "human": "Salmo 10"
+    },
+    "current": {
+      "usfm": "PSA.11",
+      "human": "Salmo 11"
+    },
+    "next": {
+      "usfm": "PSA.12",
+      "human": "Salmo 12"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 11"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El Señor, refugio y defensa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En el Señor me refugio;",
+          "¿cómo decís a mi alma: Huye cual ave al monte?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque, he aquí, los impíos tensan el arco,",
+          "preparan su saeta sobre la cuerda",
+          "para flechar en lo oscuro a los rectos de corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Si los fundamentos son destruidos;",
+          "¿qué puede hacer el justo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶El Señor está en su santo templo, el trono del Señor está en los cielos;",
+          "sus ojos contemplan, sus párpados examinan a los hijos de los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El Señor prueba al justo y al impío,",
+          "y su alma aborrece al que ama la violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sobre los impíos hará llover carbones encendidos;",
+          "fuego, azufre y viento abrasador será la porción de su copa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pues el Señor es justo; Él ama la justicia;",
+          "los rectos contemplarán su rostro."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

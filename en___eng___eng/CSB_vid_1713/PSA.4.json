@@ -1,1 +1,172 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.4","is_chapter":true,"previous":{"usfm":"PSA.3","human":"Psalms 3","canonical":true,"toc":true},"current":{"usfm":"PSA.4","human":"Psalms 4"},"next":{"usfm":"PSA.5","human":"Psalms 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Night Prayer"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director: with stringed instruments. A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Answer me when I call,","God, who vindicates me. ,","You freed me from affliction;","be gracious to me and hear my prayer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["How long, exalted ones, will my honor be insulted?","How long will you love what is worthless","and pursue a lie?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Know that the Lord has set apart","the faithful for himself;","the Lord will hear when I call to him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Be angry and do not sin;","reflect in your heart while on your bed and be silent."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Offer sacrifices in righteousness ,","and trust in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Many are asking, “Who can show us anything good? ”","Let the light of your face shine on us, Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["You have put more joy in my heart","than they have when their grain and new wine abound."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I will both lie down and sleep in peace,","for you alone, Lord, make me live in safety."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.5.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.3",
+      "human": "Psalms 3"
+    },
+    "current": {
+      "usfm": "PSA.4",
+      "human": "Psalms 4"
+    },
+    "next": {
+      "usfm": "PSA.5",
+      "human": "Psalms 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Night Prayer"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director: with stringed instruments. A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Answer me when I call,",
+          "God, who vindicates me. ,",
+          "You freed me from affliction;",
+          "be gracious to me and hear my prayer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "How long, exalted ones, will my honor be insulted?",
+          "How long will you love what is worthless",
+          "and pursue a lie?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Know that the Lord has set apart",
+          "the faithful for himself;",
+          "the Lord will hear when I call to him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Be angry and do not sin;",
+          "reflect in your heart while on your bed and be silent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Offer sacrifices in righteousness ,",
+          "and trust in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Many are asking, “Who can show us anything good? ”",
+          "Let the light of your face shine on us, Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "You have put more joy in my heart",
+          "than they have when their grain and new wine abound."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I will both lie down and sleep in peace,",
+          "for you alone, Lord, make me live in safety."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

@@ -1,1 +1,245 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.1","is_chapter":true,"previous":{"usfm":"DEU.34","human":"Deuteronomio 34","canonical":true,"toc":true},"current":{"usfm":"JOS.1","human":"Josué 1"},"next":{"usfm":"JOS.2","human":"Josué 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios llama a Josué"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Después que murió Moisés, el siervo del Señor, habló el Señor con Josué, hijo de Nun y ayudante de Moisés, y le dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Como mi siervo Moisés ha muerto, ahora eres tú quien debe cruzar el río Jordán con todo el pueblo de Israel, para ir a la tierra que voy a darles a ustedes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tal como se lo prometí a Moisés, yo les daré toda la tierra en donde ustedes pongan el pie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Les daré el territorio que va desde el desierto y la sierra del Líbano hasta el gran río Éufrates, con todo el territorio de los hititas, y hasta el mar Mediterráneo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Nadie te podrá derrotar en toda tu vida, y yo estaré contigo así como estuve con Moisés, sin dejarte ni abandonarte jamás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ten valor y firmeza, que tú vas a repartir la tierra a este pueblo, pues es la herencia que yo prometí a sus antepasados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Lo único que te pido es que tengas mucho valor y firmeza, y que cumplas toda la ley que mi siervo Moisés te dio. Cúmplela al pie de la letra para que te vaya bien en todo lo que hagas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Repite siempre lo que dice el libro de la ley de Dios, y medita en él de día y de noche, para que hagas siempre lo que este ordena. Así todo lo que hagas te saldrá bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Yo soy quien te manda que tengas valor y firmeza. No tengas miedo ni te desanimes porque yo, tu Señor y Dios, estaré contigo dondequiera que vayas.»"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Josué se prepara para la conquista"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces Josué les dio órdenes a los jefes del pueblo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["«Vayan por todo el campamento y ordenen a todos que preparen provisiones, porque dentro de tres días vamos a cruzar el río Jordán para tomar posesión de la tierra que el Señor nuestro Dios nos va a dar.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Josué habló también a las tribus de Rubén y de Gad y a la media tribu de Manasés, y les dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["—Acuérdense de lo que les mandó Moisés, el siervo del Señor, cuando les dijo que el Señor, el Dios de ustedes, les daría esta tierra para que pudieran descansar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Dejen aquí sus mujeres, niños y animales, en esta tierra que Moisés les dio de este lado del Jordán. Pero todos los hombres aptos para la guerra tomen sus armas y vayan delante de sus hermanos, para ayudarlos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["hasta que el Señor les dé a ellos un lugar de descanso, como se lo dio a ustedes, y hasta que ellos también sean dueños de la tierra que el Señor les va a dar. Después, ustedes podrán regresar a sus tierras de este lado oriental del río, para tomar posesión definitiva de esta tierra que les dio Moisés, el siervo de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Y ellos contestaron:","—Haremos todo lo que nos has ordenado, e iremos a donde nos mandes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Siempre te obedeceremos, como antes obedecimos a Moisés. Lo único que pedimos es que el Señor tu Dios te acompañe como acompañó a Moisés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Todo el que se te oponga o no obedezca cuanto tú mandes, morirá. Solo pedimos que tengas valor y firmeza."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DEU.34.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JOS.2.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.34",
+      "human": "Deuteronomio 34"
+    },
+    "current": {
+      "usfm": "JOS.1",
+      "human": "Josué 1"
+    },
+    "next": {
+      "usfm": "JOS.2",
+      "human": "Josué 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios llama a Josué"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Después que murió Moisés, el siervo del Señor, habló el Señor con Josué, hijo de Nun y ayudante de Moisés, y le dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Como mi siervo Moisés ha muerto, ahora eres tú quien debe cruzar el río Jordán con todo el pueblo de Israel, para ir a la tierra que voy a darles a ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tal como se lo prometí a Moisés, yo les daré toda la tierra en donde ustedes pongan el pie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Les daré el territorio que va desde el desierto y la sierra del Líbano hasta el gran río Éufrates, con todo el territorio de los hititas, y hasta el mar Mediterráneo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Nadie te podrá derrotar en toda tu vida, y yo estaré contigo así como estuve con Moisés, sin dejarte ni abandonarte jamás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ten valor y firmeza, que tú vas a repartir la tierra a este pueblo, pues es la herencia que yo prometí a sus antepasados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Lo único que te pido es que tengas mucho valor y firmeza, y que cumplas toda la ley que mi siervo Moisés te dio. Cúmplela al pie de la letra para que te vaya bien en todo lo que hagas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Repite siempre lo que dice el libro de la ley de Dios, y medita en él de día y de noche, para que hagas siempre lo que este ordena. Así todo lo que hagas te saldrá bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Yo soy quien te manda que tengas valor y firmeza. No tengas miedo ni te desanimes porque yo, tu Señor y Dios, estaré contigo dondequiera que vayas.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Josué se prepara para la conquista"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces Josué les dio órdenes a los jefes del pueblo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "«Vayan por todo el campamento y ordenen a todos que preparen provisiones, porque dentro de tres días vamos a cruzar el río Jordán para tomar posesión de la tierra que el Señor nuestro Dios nos va a dar.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Josué habló también a las tribus de Rubén y de Gad y a la media tribu de Manasés, y les dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "—Acuérdense de lo que les mandó Moisés, el siervo del Señor, cuando les dijo que el Señor, el Dios de ustedes, les daría esta tierra para que pudieran descansar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Dejen aquí sus mujeres, niños y animales, en esta tierra que Moisés les dio de este lado del Jordán. Pero todos los hombres aptos para la guerra tomen sus armas y vayan delante de sus hermanos, para ayudarlos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "hasta que el Señor les dé a ellos un lugar de descanso, como se lo dio a ustedes, y hasta que ellos también sean dueños de la tierra que el Señor les va a dar. Después, ustedes podrán regresar a sus tierras de este lado oriental del río, para tomar posesión definitiva de esta tierra que les dio Moisés, el siervo de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Y ellos contestaron:",
+          "—Haremos todo lo que nos has ordenado, e iremos a donde nos mandes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Siempre te obedeceremos, como antes obedecimos a Moisés. Lo único que pedimos es que el Señor tu Dios te acompañe como acompañó a Moisés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Todo el que se te oponga o no obedezca cuanto tú mandes, morirá. Solo pedimos que tengas valor y firmeza."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

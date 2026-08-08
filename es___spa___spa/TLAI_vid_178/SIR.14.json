@@ -1,1 +1,371 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.14","is_chapter":true,"previous":{"usfm":"SIR.13","human":"Eclesiástico 13","canonical":true,"toc":true},"current":{"usfm":"SIR.14","human":"Eclesiástico 14"},"next":{"usfm":"SIR.15","human":"Eclesiástico 15","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La felicidad de los buenos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Feliz el que no peca cuando habla,","y tiene la conciencia tranquila!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Feliz el que no se siente culpable","y mantiene viva la esperanza!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Defectos del egoísta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El que es rico y tacaño","no merece tener tantas riquezas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Por amontonar más dinero","no disfruta de lo que tiene,","y cuando se muera,","otros gozarán de su dinero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El que es tacaño consigo mismo","es tacaño con todos,","y no disfruta de su dinero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El que es tacaño consigo mismo","es el peor de los tacaños,","pues él es su propio verdugo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuando llega a hacer un favor,","lo hace por equivocación,","y al final demuestra su egoísmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El envidioso es mala persona,","y no toma en cuenta a nadie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El ambicioso nunca tiene bastante,","y por su ambición lo pierde todo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El envidioso solo piensa en comida","pero no pone nada en la mesa."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Hay que gozar de la vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero tú, querido jovencito,","disfruta de lo que tienes,","y presenta ofrendas dignas a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Recuerda que nos espera la muerte,","y no sabemos cuándo llegará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Antes que llegue ese día,","haz el bien a tus amigos","y ayúdalos tanto como puedas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Disfruta al máximo de este día,","que en buen día te tocó vivir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["No dejes que otros disfruten","de lo que tanto trabajo te costó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Hoy es cuando debes dar y recibir,","porque cuando te mueras","ya no disfrutarás de nada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17,18],"lines":["A todos nos pasa lo mismo:","hoy nacemos y mañana moriremos.","Somos como las flores:","hoy brotan y mañana se marchitan.","Nos vamos desgastando como la ropa,","y está escrito que un día moriremos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Todo lo que un día construimos","se acabará, lo mismo que nosotros."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La felicidad del sabio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¡Qué dichosos son los que buscan","llegar a tener sabiduría!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["¡Qué dichosos son los que buscan","llegar a conocer sus secretos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Siguen a la sabiduría","como persigue el cazador a su presa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23,24],"lines":["Tratan a la sabiduría","como si viviera en una casa;","la espían por las ventanas","y la esperan junto a la puerta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["¡Allí se quedan a vivir,","con tal de estar cerca de ella!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["También la ven como un árbol,","y ponen su nido en sus ramas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["para que ella, con su sombra,","los proteja del calor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.15.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.14",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.13",
+      "human": "Eclesiástico 13"
+    },
+    "current": {
+      "usfm": "SIR.14",
+      "human": "Eclesiástico 14"
+    },
+    "next": {
+      "usfm": "SIR.15",
+      "human": "Eclesiástico 15"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La felicidad de los buenos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Feliz el que no peca cuando habla,",
+          "y tiene la conciencia tranquila!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Feliz el que no se siente culpable",
+          "y mantiene viva la esperanza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Defectos del egoísta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El que es rico y tacaño",
+          "no merece tener tantas riquezas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Por amontonar más dinero",
+          "no disfruta de lo que tiene,",
+          "y cuando se muera,",
+          "otros gozarán de su dinero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El que es tacaño consigo mismo",
+          "es tacaño con todos,",
+          "y no disfruta de su dinero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El que es tacaño consigo mismo",
+          "es el peor de los tacaños,",
+          "pues él es su propio verdugo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuando llega a hacer un favor,",
+          "lo hace por equivocación,",
+          "y al final demuestra su egoísmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El envidioso es mala persona,",
+          "y no toma en cuenta a nadie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El ambicioso nunca tiene bastante,",
+          "y por su ambición lo pierde todo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El envidioso solo piensa en comida",
+          "pero no pone nada en la mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Hay que gozar de la vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero tú, querido jovencito,",
+          "disfruta de lo que tienes,",
+          "y presenta ofrendas dignas a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Recuerda que nos espera la muerte,",
+          "y no sabemos cuándo llegará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Antes que llegue ese día,",
+          "haz el bien a tus amigos",
+          "y ayúdalos tanto como puedas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Disfruta al máximo de este día,",
+          "que en buen día te tocó vivir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "No dejes que otros disfruten",
+          "de lo que tanto trabajo te costó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Hoy es cuando debes dar y recibir,",
+          "porque cuando te mueras",
+          "ya no disfrutarás de nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17,
+          18
+        ],
+        "lines": [
+          "A todos nos pasa lo mismo:",
+          "hoy nacemos y mañana moriremos.",
+          "Somos como las flores:",
+          "hoy brotan y mañana se marchitan.",
+          "Nos vamos desgastando como la ropa,",
+          "y está escrito que un día moriremos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Todo lo que un día construimos",
+          "se acabará, lo mismo que nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La felicidad del sabio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¡Qué dichosos son los que buscan",
+          "llegar a tener sabiduría!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "¡Qué dichosos son los que buscan",
+          "llegar a conocer sus secretos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Siguen a la sabiduría",
+          "como persigue el cazador a su presa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23,
+          24
+        ],
+        "lines": [
+          "Tratan a la sabiduría",
+          "como si viviera en una casa;",
+          "la espían por las ventanas",
+          "y la esperan junto a la puerta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "¡Allí se quedan a vivir,",
+          "con tal de estar cerca de ella!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "También la ven como un árbol,",
+          "y ponen su nido en sus ramas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "para que ella, con su sombra,",
+          "los proteja del calor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

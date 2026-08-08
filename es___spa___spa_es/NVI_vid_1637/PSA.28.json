@@ -1,1 +1,167 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.28","is_chapter":true,"previous":{"usfm":"PSA.27","human":"Salmo 27","canonical":true,"toc":true},"current":{"usfm":"PSA.28","human":"Salmo 28"},"next":{"usfm":"PSA.29","human":"Salmo 29","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A ti clamo, Señor, roca mía;","no te desentiendas de mí,","porque, si guardas silencio,","ya puedo contarme entre los muertos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Oye mi voz suplicante,","cuando a ti acudo en busca de ayuda,","cuando tiendo los brazos hacia tu lugar santísimo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No me arrastres con los malvados,","con los que hacen iniquidad,","con los que hablan de paz con su prójimo,","pero en su corazón albergan maldad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Págales conforme a sus obras,","conforme a sus malas acciones.","Págales conforme a las obras de sus manos;","¡dales su merecido!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ya que no tienen en cuenta las obras del Señor","y lo que él ha hecho con sus manos,","él los derribará","y nunca más volverá a levantarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Bendito sea el Señor,","que ha oído mi voz suplicante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El Señor es mi fuerza y mi escudo;","mi corazón en él confía;","de él recibo ayuda.","Mi corazón salta de alegría,","y con cánticos le daré gracias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor es la fortaleza de su pueblo,","y un baluarte de salvación para su ungido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Salva a tu pueblo, bendice a tu heredad,","y cual pastor guíalos por siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.27.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.29.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.28",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.27",
+      "human": "Salmo 27"
+    },
+    "current": {
+      "usfm": "PSA.28",
+      "human": "Salmo 28"
+    },
+    "next": {
+      "usfm": "PSA.29",
+      "human": "Salmo 29"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A ti clamo, Señor, roca mía;",
+          "no te desentiendas de mí,",
+          "porque, si guardas silencio,",
+          "ya puedo contarme entre los muertos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Oye mi voz suplicante,",
+          "cuando a ti acudo en busca de ayuda,",
+          "cuando tiendo los brazos hacia tu lugar santísimo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No me arrastres con los malvados,",
+          "con los que hacen iniquidad,",
+          "con los que hablan de paz con su prójimo,",
+          "pero en su corazón albergan maldad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Págales conforme a sus obras,",
+          "conforme a sus malas acciones.",
+          "Págales conforme a las obras de sus manos;",
+          "¡dales su merecido!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ya que no tienen en cuenta las obras del Señor",
+          "y lo que él ha hecho con sus manos,",
+          "él los derribará",
+          "y nunca más volverá a levantarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Bendito sea el Señor,",
+          "que ha oído mi voz suplicante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El Señor es mi fuerza y mi escudo;",
+          "mi corazón en él confía;",
+          "de él recibo ayuda.",
+          "Mi corazón salta de alegría,",
+          "y con cánticos le daré gracias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor es la fortaleza de su pueblo,",
+          "y un baluarte de salvación para su ungido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Salva a tu pueblo, bendice a tu heredad,",
+          "y cual pastor guíalos por siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,116 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"MAL","name":"Malaquias"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malaquias 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malaquias 4"},"next":{"usfm":"MAT.1","human":"Mateus 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O sol da justiça e seu precursor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Pois eis que vem o dia e arde como fornalha; todos os soberbos e todos os que cometem perversidade serão como o restolho; o dia que vem os abrasará, diz o Senhor dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mas para vós outros que temeis o meu nome nascerá o sol da justiça, trazendo salvação nas suas asas; saireis e saltareis como bezerros soltos da estrebaria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pisareis os perversos, porque se farão cinzas debaixo das plantas de vossos pés, naquele dia que prepararei, diz o Senhor dos Exércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lembrai-vos da Lei de Moisés, meu servo, a qual lhe prescrevi em Horebe para todo o Israel, a saber, estatutos e juízos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível Dia do Senhor;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais, para que eu não venha e fira a terra com maldição."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malaquias"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malaquias 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malaquias 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Mateus 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O sol da justiça e seu precursor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Pois eis que vem o dia e arde como fornalha; todos os soberbos e todos os que cometem perversidade serão como o restolho; o dia que vem os abrasará, diz o Senhor dos Exércitos, de sorte que não lhes deixará nem raiz nem ramo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mas para vós outros que temeis o meu nome nascerá o sol da justiça, trazendo salvação nas suas asas; saireis e saltareis como bezerros soltos da estrebaria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pisareis os perversos, porque se farão cinzas debaixo das plantas de vossos pés, naquele dia que prepararei, diz o Senhor dos Exércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lembrai-vos da Lei de Moisés, meu servo, a qual lhe prescrevi em Horebe para todo o Israel, a saber, estatutos e juízos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eis que eu vos enviarei o profeta Elias, antes que venha o grande e terrível Dia do Senhor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "ele converterá o coração dos pais aos filhos e o coração dos filhos a seus pais, para que eu não venha e fira a terra com maldição."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

@@ -1,1 +1,208 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.85","is_chapter":true,"previous":{"usfm":"PSA.84","human":"Salmo 84","canonical":true,"toc":true},"current":{"usfm":"PSA.85","human":"Salmo 85"},"next":{"usfm":"PSA.86","human":"Salmo 86","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Salmo de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Señor, tú has sido bondadoso con esta tierra tuya","al restaurar a Jacob;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["perdonaste la iniquidad de tu pueblo","y cubriste todos sus pecados;"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["depusiste por completo tu furor","y contuviste el ardor de tu ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Restáuranos una vez más, Dios y Salvador nuestro;","pon fin a tu disgusto con nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Vas a estar enojado con nosotros para siempre?","¿Vas a seguir airado por todas las generaciones?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¿No volverás a darnos nueva vida","para que tu pueblo se regocije en ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Muéstranos, Señor, tu gran amor","y concédenos tu salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Voy a escuchar lo que Dios el Señor dice:","él promete paz a su pueblo y a sus fieles,","para que no se vuelvan a la necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Muy cercano está para salvar a los que le temen,","para establecer su gloria en nuestra tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El amor y la verdad se encontrarán;","se besarán la justicia y la paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["De la tierra brotará la verdad","y desde el cielo se asomará la justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El Señor mismo nos dará bienestar","y nuestra tierra rendirá su fruto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La justicia será su heraldo","y preparará el camino para sus pasos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.84.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.86.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.85",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.84",
+      "human": "Salmo 84"
+    },
+    "current": {
+      "usfm": "PSA.85",
+      "human": "Salmo 85"
+    },
+    "next": {
+      "usfm": "PSA.86",
+      "human": "Salmo 86"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Salmo de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Señor, tú has sido bondadoso con esta tierra tuya",
+          "al restaurar a Jacob;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "perdonaste la iniquidad de tu pueblo",
+          "y cubriste todos sus pecados;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "depusiste por completo tu furor",
+          "y contuviste el ardor de tu ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Restáuranos una vez más, Dios y Salvador nuestro;",
+          "pon fin a tu disgusto con nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Vas a estar enojado con nosotros para siempre?",
+          "¿Vas a seguir airado por todas las generaciones?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¿No volverás a darnos nueva vida",
+          "para que tu pueblo se regocije en ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Muéstranos, Señor, tu gran amor",
+          "y concédenos tu salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Voy a escuchar lo que Dios el Señor dice:",
+          "él promete paz a su pueblo y a sus fieles,",
+          "para que no se vuelvan a la necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Muy cercano está para salvar a los que le temen,",
+          "para establecer su gloria en nuestra tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El amor y la verdad se encontrarán;",
+          "se besarán la justicia y la paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "De la tierra brotará la verdad",
+          "y desde el cielo se asomará la justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El Señor mismo nos dará bienestar",
+          "y nuestra tierra rendirá su fruto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La justicia será su heraldo",
+          "y preparará el camino para sus pasos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,226 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"MIC","name":"Miqueas"},"chapter":{"chapter_usfm":"MIC.2","is_chapter":true,"previous":{"usfm":"MIC.1","human":"Miqueas 1","canonical":true,"toc":true},"current":{"usfm":"MIC.2","human":"Miqueas 2"},"next":{"usfm":"MIC.3","human":"Miqueas 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["¡Ay de los opresores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Ay de los que planean la iniquidad,","Los que traman el mal en sus camas!","Al clarear la mañana lo ejecutan,","Porque está en el poder de sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Codician campos y se apoderan de ellos,","Codician casas y las toman.","Roban al dueño y a su casa,","Al hombre y a su heredad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por tanto, así dice el Señor:","«Estoy planeando traer contra esta familia un mal,","Del cual no librarán su cuello.","No andarán erguidos,","Porque será un tiempo malo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["-»En aquel día se dirá contra ustedes un refrán","Y se proferirá esta amarga lamentación:","“Hemos sido totalmente destruidos;","Él ha cambiado la porción de mi pueblo.","¡Cómo me la ha quitado!","Al infiel ha repartido nuestros campos”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["-»Por tanto, no habrá quién eche el cordel para ustedes","Por sorteo en la asamblea del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶“No profeticen”, dicen, y profetizan.","Aunque ellos no profeticen acerca de estas cosas,","No serán retenidos los reproches."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»¿No se dice, oh casa de Jacob:","“¿Es impaciente el Espíritu del Señor?","¿Son estas Sus obras?”?","¿No hacen bien Mis palabras","Al que camina rectamente?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»Hace poco Mi pueblo se ha levantado como enemigo.","De sobre las vestiduras arrebatan el manto","A los que pasan confiados,","A los que vuelven de la guerra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["-»A las mujeres de Mi pueblo arrojan","De la casa de sus delicias;","De sus hijos arrebatan Mi gloria para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["-»Levántense y marchen,","Pues este no es lugar de descanso","Por la impureza que trae destrucción,","Destrucción dolorosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["-»Si un hombre, andando tras el viento y la falsedad,","Hablara mentiras, diciendo:","“Les hablaré del vino y del licor”,","Ese sería el profeta para este pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶»Ciertamente los reuniré a todos, oh Jacob,","Ciertamente recogeré al remanente de Israel,","Los agruparé como ovejas en el redil;","Como rebaño en medio de su pastizal,","Harán estruendo por la multitud de hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["-»El que abre brecha subirá delante de ellos;","Abrirán brecha, pasarán la puerta y saldrán por ella;","Su rey pasará delante de ellos,","Y el Señor a su cabeza»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/MIC.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/MIC.3.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Miqueas"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.1",
+      "human": "Miqueas 1"
+    },
+    "current": {
+      "usfm": "MIC.2",
+      "human": "Miqueas 2"
+    },
+    "next": {
+      "usfm": "MIC.3",
+      "human": "Miqueas 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "¡Ay de los opresores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Ay de los que planean la iniquidad,",
+          "Los que traman el mal en sus camas!",
+          "Al clarear la mañana lo ejecutan,",
+          "Porque está en el poder de sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Codician campos y se apoderan de ellos,",
+          "Codician casas y las toman.",
+          "Roban al dueño y a su casa,",
+          "Al hombre y a su heredad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por tanto, así dice el Señor:",
+          "«Estoy planeando traer contra esta familia un mal,",
+          "Del cual no librarán su cuello.",
+          "No andarán erguidos,",
+          "Porque será un tiempo malo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "-»En aquel día se dirá contra ustedes un refrán",
+          "Y se proferirá esta amarga lamentación:",
+          "“Hemos sido totalmente destruidos;",
+          "Él ha cambiado la porción de mi pueblo.",
+          "¡Cómo me la ha quitado!",
+          "Al infiel ha repartido nuestros campos”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "-»Por tanto, no habrá quién eche el cordel para ustedes",
+          "Por sorteo en la asamblea del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶“No profeticen”, dicen, y profetizan.",
+          "Aunque ellos no profeticen acerca de estas cosas,",
+          "No serán retenidos los reproches."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»¿No se dice, oh casa de Jacob:",
+          "“¿Es impaciente el Espíritu del Señor?",
+          "¿Son estas Sus obras?”?",
+          "¿No hacen bien Mis palabras",
+          "Al que camina rectamente?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»Hace poco Mi pueblo se ha levantado como enemigo.",
+          "De sobre las vestiduras arrebatan el manto",
+          "A los que pasan confiados,",
+          "A los que vuelven de la guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "-»A las mujeres de Mi pueblo arrojan",
+          "De la casa de sus delicias;",
+          "De sus hijos arrebatan Mi gloria para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "-»Levántense y marchen,",
+          "Pues este no es lugar de descanso",
+          "Por la impureza que trae destrucción,",
+          "Destrucción dolorosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "-»Si un hombre, andando tras el viento y la falsedad,",
+          "Hablara mentiras, diciendo:",
+          "“Les hablaré del vino y del licor”,",
+          "Ese sería el profeta para este pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶»Ciertamente los reuniré a todos, oh Jacob,",
+          "Ciertamente recogeré al remanente de Israel,",
+          "Los agruparé como ovejas en el redil;",
+          "Como rebaño en medio de su pastizal,",
+          "Harán estruendo por la multitud de hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "-»El que abre brecha subirá delante de ellos;",
+          "Abrirán brecha, pasarán la puerta y saldrán por ella;",
+          "Su rey pasará delante de ellos,",
+          "Y el Señor a su cabeza»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

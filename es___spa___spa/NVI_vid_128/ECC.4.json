@@ -1,1 +1,258 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.4","is_chapter":true,"previous":{"usfm":"ECC.3","human":"Eclesiastés 3","canonical":true,"toc":true},"current":{"usfm":"ECC.4","human":"Eclesiastés 4"},"next":{"usfm":"ECC.5","human":"Eclesiastés 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Opresores y oprimidos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Luego me fijé en tanta opresión que hay bajo el sol.","Vi llorar a los oprimidos","y no había quien los consolara;","el poder estaba del lado de sus opresores","y no había quien los consolara."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Y consideré más felices a los que ya han muerto","que a los que aún viven,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["aunque en mejor situación","están los que aún no han nacido,","los que todavía no han visto la maldad","que se comete bajo el sol."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Vi, además, que tanto el afán como el éxito en la vida despiertan envidias. Y también esto es vanidad; ¡es correr tras el viento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El necio se cruza de brazos","y se devora a sí mismo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mejor un puñado de tranquilidad","que dos de fatiga","y de correr tras el viento."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La unión hace la fuerza"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Me fijé entonces en otra vanidad bajo el sol:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Vi a un hombre solitario,","sin hijos ni hermanos.","Nunca dejaba de afanarse;","¡jamás le parecían demasiadas sus riquezas!","«¿Para quién trabajo tanto», se preguntó,","«y me abstengo de las cosas buenas?».","¡También esto es vanidad","y una penosa tarea!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mejor son dos que uno,","porque obtienen más fruto de su esfuerzo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Si caen,","el uno levanta al otro.","¡Ay del que cae","y no tiene quien lo levante!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Si dos se acuestan juntos,","entrarán en calor;","uno solo ¿cómo va a calentarse?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Uno solo puede ser vencido,","pero dos pueden resistir.","¡La cuerda de tres hilos no se rompe fácilmente!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Juventud y sabiduría"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Mejor es un joven pobre, pero sabio, que un rey viejo, pero necio, que ya no sabe recibir consejos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Aunque de la cárcel haya ascendido al trono o haya nacido pobre en ese reino,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["he visto que la gente que vive bajo el sol apoya al joven que sucede al rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Y aunque es incontable la gente que sigue a los reyes, muchos de los que vienen después tampoco quedan contentos con el sucesor. Y también esto es vanidad; ¡es querer alcanzar el viento!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ECC.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ECC.5.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.3",
+      "human": "Eclesiastés 3"
+    },
+    "current": {
+      "usfm": "ECC.4",
+      "human": "Eclesiastés 4"
+    },
+    "next": {
+      "usfm": "ECC.5",
+      "human": "Eclesiastés 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Opresores y oprimidos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Luego me fijé en tanta opresión que hay bajo el sol.",
+          "Vi llorar a los oprimidos",
+          "y no había quien los consolara;",
+          "el poder estaba del lado de sus opresores",
+          "y no había quien los consolara."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Y consideré más felices a los que ya han muerto",
+          "que a los que aún viven,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "aunque en mejor situación",
+          "están los que aún no han nacido,",
+          "los que todavía no han visto la maldad",
+          "que se comete bajo el sol."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Vi, además, que tanto el afán como el éxito en la vida despiertan envidias. Y también esto es vanidad; ¡es correr tras el viento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El necio se cruza de brazos",
+          "y se devora a sí mismo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mejor un puñado de tranquilidad",
+          "que dos de fatiga",
+          "y de correr tras el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La unión hace la fuerza"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Me fijé entonces en otra vanidad bajo el sol:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Vi a un hombre solitario,",
+          "sin hijos ni hermanos.",
+          "Nunca dejaba de afanarse;",
+          "¡jamás le parecían demasiadas sus riquezas!",
+          "«¿Para quién trabajo tanto», se preguntó,",
+          "«y me abstengo de las cosas buenas?».",
+          "¡También esto es vanidad",
+          "y una penosa tarea!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mejor son dos que uno,",
+          "porque obtienen más fruto de su esfuerzo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Si caen,",
+          "el uno levanta al otro.",
+          "¡Ay del que cae",
+          "y no tiene quien lo levante!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Si dos se acuestan juntos,",
+          "entrarán en calor;",
+          "uno solo ¿cómo va a calentarse?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Uno solo puede ser vencido,",
+          "pero dos pueden resistir.",
+          "¡La cuerda de tres hilos no se rompe fácilmente!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juventud y sabiduría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Mejor es un joven pobre, pero sabio, que un rey viejo, pero necio, que ya no sabe recibir consejos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Aunque de la cárcel haya ascendido al trono o haya nacido pobre en ese reino,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "he visto que la gente que vive bajo el sol apoya al joven que sucede al rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Y aunque es incontable la gente que sigue a los reyes, muchos de los que vienen después tampoco quedan contentos con el sucesor. Y también esto es vanidad; ¡es querer alcanzar el viento!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

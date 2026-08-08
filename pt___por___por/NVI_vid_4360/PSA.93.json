@@ -1,1 +1,107 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.93","is_chapter":true,"previous":{"usfm":"PSA.92","human":"Salmos 92","canonical":true,"toc":true},"current":{"usfm":"PSA.93","human":"Salmos 93"},"next":{"usfm":"PSA.94","human":"Salmos 94","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["O Senhor reina! Vestiu-se de majestade;","de majestade vestiu-se o Senhor e armou-se de poder!","O mundo está firme e não se abalará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O teu trono está firme desde a antiguidade;","tu existes desde a eternidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["As águas se levantaram, Senhor,","as águas levantaram a voz;","as águas levantaram seu bramido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mais poderoso do que o estrondo das águas impetuosas,","mais poderoso do que as ondas do mar","é o Senhor nas alturas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Os teus mandamentos permanecem firmes e fiéis;","a santidade, Senhor,","é o ornamento perpétuo da tua casa."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.92.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.94.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.93",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.92",
+      "human": "Salmos 92"
+    },
+    "current": {
+      "usfm": "PSA.93",
+      "human": "Salmos 93"
+    },
+    "next": {
+      "usfm": "PSA.94",
+      "human": "Salmos 94"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor reina! Vestiu-se de majestade;",
+          "de majestade vestiu-se o Senhor e armou-se de poder!",
+          "O mundo está firme e não se abalará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O teu trono está firme desde a antiguidade;",
+          "tu existes desde a eternidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "As águas se levantaram, Senhor,",
+          "as águas levantaram a voz;",
+          "as águas levantaram seu bramido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mais poderoso do que o estrondo das águas impetuosas,",
+          "mais poderoso do que as ondas do mar",
+          "é o Senhor nas alturas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Os teus mandamentos permanecem firmes e fiéis;",
+          "a santidade, Senhor,",
+          "é o ornamento perpétuo da tua casa."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

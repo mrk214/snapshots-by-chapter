@@ -1,1 +1,154 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Salmos 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Salmos 130"},"next":{"usfm":"PSA.131","human":"Salmos 131","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Esperanza en que Jehová dará redención"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["De lo profundo, oh Jehová, a ti clamo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Señor, oye mi voz;","Estén atentos tus oídos","A la voz de mi súplica."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["JAH, si mirares a los pecados,","¿Quién, oh Señor, podrá mantenerse?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero en ti hay perdón,","Para que seas reverenciado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Esperé yo a Jehová, esperó mi alma;","En su palabra he esperado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mi alma espera a Jehová","Más que los centinelas a la mañana,","Más que los vigilantes a la mañana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Espere Israel a Jehová,","Porque en Jehová hay misericordia,","Y abundante redención con él;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Y él redimirá a Israel","De todos sus pecados."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Salmos 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Salmos 131"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Esperanza en que Jehová dará redención"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "De lo profundo, oh Jehová, a ti clamo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Señor, oye mi voz;",
+          "Estén atentos tus oídos",
+          "A la voz de mi súplica."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "JAH, si mirares a los pecados,",
+          "¿Quién, oh Señor, podrá mantenerse?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero en ti hay perdón,",
+          "Para que seas reverenciado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Esperé yo a Jehová, esperó mi alma;",
+          "En su palabra he esperado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mi alma espera a Jehová",
+          "Más que los centinelas a la mañana,",
+          "Más que los vigilantes a la mañana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Espere Israel a Jehová,",
+          "Porque en Jehová hay misericordia,",
+          "Y abundante redención con él;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Y él redimirá a Israel",
+          "De todos sus pecados."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

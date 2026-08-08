@@ -1,1 +1,106 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JER","name":"Jeremías"},"chapter":{"chapter_usfm":"JER.45","is_chapter":true,"previous":{"usfm":"JER.44","human":"Jeremías 44","canonical":true,"toc":true},"current":{"usfm":"JER.45","human":"Jeremías 45"},"next":{"usfm":"JER.46","human":"Jeremías 46","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Mensaje a Baruc"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Este es el mensaje que el profeta Jeremías dio a Baruc, hijo de Nerías, cuando este escribió estas palabras en un libro al dictado de Jeremías, en el año cuarto de Joacim, hijo de Josías, rey de Judá, diciéndole:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Así dice el Señor, Dios de Israel, acerca de ti, oh Baruc:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“Tú dijiste: ‘¡Ay, infeliz de mí!, porque el Señor ha añadido tristeza a mi dolor. Cansado estoy de gemir y no he hallado reposo’ ”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Así le dirás: “Así dice el Señor: ‘Lo que he edificado, lo derribo, y lo que he plantado, lo arranco, es decir, toda esta tierra’."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pero tú, ¿buscas para ti grandes cosas? No las busques; porque voy a traer calamidad sobre toda carne”, declara el Señor, “pero a ti te daré tu vida por botín en todos los lugares adonde vayas” »."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JER.44.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JER.46.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremías"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.45",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.44",
+      "human": "Jeremías 44"
+    },
+    "current": {
+      "usfm": "JER.45",
+      "human": "Jeremías 45"
+    },
+    "next": {
+      "usfm": "JER.46",
+      "human": "Jeremías 46"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje a Baruc"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Este es el mensaje que el profeta Jeremías dio a Baruc, hijo de Nerías, cuando este escribió estas palabras en un libro al dictado de Jeremías, en el año cuarto de Joacim, hijo de Josías, rey de Judá, diciéndole:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Así dice el Señor, Dios de Israel, acerca de ti, oh Baruc:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“Tú dijiste: ‘¡Ay, infeliz de mí!, porque el Señor ha añadido tristeza a mi dolor. Cansado estoy de gemir y no he hallado reposo’ ”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Así le dirás: “Así dice el Señor: ‘Lo que he edificado, lo derribo, y lo que he plantado, lo arranco, es decir, toda esta tierra’."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pero tú, ¿buscas para ti grandes cosas? No las busques; porque voy a traer calamidad sobre toda carne”, declara el Señor, “pero a ti te daré tu vida por botín en todos los lugares adonde vayas” »."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

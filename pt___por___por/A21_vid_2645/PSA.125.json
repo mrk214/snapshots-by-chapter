@@ -1,1 +1,114 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.125","is_chapter":true,"previous":{"usfm":"PSA.124","human":"Salmos 124","canonical":true,"toc":true},"current":{"usfm":"PSA.125","human":"Salmos 125"},"next":{"usfm":"PSA.126","human":"Salmos 126","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A segurança de quem confia em Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Os que confiam no Senhor são como o monte Sião, que não pode ser abalado, mas permanece para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como os montes em volta de Jerusalém, assim está o Senhor em volta do seu povo, desde agora e para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O cetro da impiedade não prevalecerá sobre a terra dos justos, para que estes não estendam as mãos para cometer injustiça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ó Senhor, faze o bem aos bons e aos de coração íntegro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Mas os que se desviam para os caminhos tortuosos, o Senhor os castigará, juntamente com os malfeitores. A paz esteja sobre Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.124.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.126.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.125",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.124",
+      "human": "Salmos 124"
+    },
+    "current": {
+      "usfm": "PSA.125",
+      "human": "Salmos 125"
+    },
+    "next": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A segurança de quem confia em Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Os que confiam no Senhor são como o monte Sião, que não pode ser abalado, mas permanece para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como os montes em volta de Jerusalém, assim está o Senhor em volta do seu povo, desde agora e para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O cetro da impiedade não prevalecerá sobre a terra dos justos, para que estes não estendam as mãos para cometer injustiça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ó Senhor, faze o bem aos bons e aos de coração íntegro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Mas os que se desviam para os caminhos tortuosos, o Senhor os castigará, juntamente com os malfeitores. A paz esteja sobre Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

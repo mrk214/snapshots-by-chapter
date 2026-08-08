@@ -1,1 +1,223 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.92","is_chapter":true,"previous":{"usfm":"PSA.91","human":"Salmo 91","canonical":true,"toc":true},"current":{"usfm":"PSA.92","human":"Salmo 92"},"next":{"usfm":"PSA.93","human":"Salmo 93","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo para cantarse en sábado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Cuán bueno, Señor, es darte gracias","y entonar, oh Altísimo, salmos a tu nombre;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["proclamar tu gran amor por la mañana","y tu fidelidad por la noche,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["al son de la lira de diez cuerdas","y la melodía del arpa!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tú, Señor, me llenas de alegría con tus maravillas;","por eso alabaré jubiloso las obras de tus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Oh Señor, ¡cuán imponentes son tus obras","y cuán profundos tus pensamientos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los insensatos no lo saben;","los necios no lo entienden:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["aunque broten como hierba los malvados","y florezcan todos los malhechores,","para siempre serán destruidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Solo tú, Señor, serás exaltado para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ciertamente tus enemigos, Señor,","ciertamente tus enemigos perecerán;","¡dispersados por todas partes","serán todos los malhechores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Me has dado las fuerzas de un toro salvaje;","me has ungido con el mejor aceite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Me has hecho ver la caída de mis adversarios","y oír la derrota de mis malvados enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Como palmeras florecen los justos;","como cedros del Líbano crecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Plantados en la casa del Señor,","florecen en los atrios de nuestro Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Aun en su vejez, darán fruto,","siempre estarán saludables y frondosos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["para proclamar: «El Señor es justo,","él es mi roca y en él no hay injusticia»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.91.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.93.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.92",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.91",
+      "human": "Salmo 91"
+    },
+    "current": {
+      "usfm": "PSA.92",
+      "human": "Salmo 92"
+    },
+    "next": {
+      "usfm": "PSA.93",
+      "human": "Salmo 93"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo para cantarse en sábado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Cuán bueno, Señor, es darte gracias",
+          "y entonar, oh Altísimo, salmos a tu nombre;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "proclamar tu gran amor por la mañana",
+          "y tu fidelidad por la noche,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "al son de la lira de diez cuerdas",
+          "y la melodía del arpa!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tú, Señor, me llenas de alegría con tus maravillas;",
+          "por eso alabaré jubiloso las obras de tus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Oh Señor, ¡cuán imponentes son tus obras",
+          "y cuán profundos tus pensamientos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los insensatos no lo saben;",
+          "los necios no lo entienden:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "aunque broten como hierba los malvados",
+          "y florezcan todos los malhechores,",
+          "para siempre serán destruidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Solo tú, Señor, serás exaltado para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ciertamente tus enemigos, Señor,",
+          "ciertamente tus enemigos perecerán;",
+          "¡dispersados por todas partes",
+          "serán todos los malhechores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Me has dado las fuerzas de un toro salvaje;",
+          "me has ungido con el mejor aceite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Me has hecho ver la caída de mis adversarios",
+          "y oír la derrota de mis malvados enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Como palmeras florecen los justos;",
+          "como cedros del Líbano crecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Plantados en la casa del Señor,",
+          "florecen en los atrios de nuestro Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Aun en su vejez, darán fruto,",
+          "siempre estarán saludables y frondosos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "para proclamar: «El Señor es justo,",
+          "él es mi roca y en él no hay injusticia»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

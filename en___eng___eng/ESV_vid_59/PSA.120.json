@@ -1,1 +1,143 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.120","is_chapter":true,"previous":{"usfm":"PSA.119","human":"Psalm 119","canonical":true,"toc":true},"current":{"usfm":"PSA.120","human":"Psalm 120"},"next":{"usfm":"PSA.121","human":"Psalm 121","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Deliver Me, O Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In my distress I called to the Lord,","and he answered me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Deliver me, O Lord,","from lying lips,","from a deceitful tongue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["What shall be given to you,","and what more shall be done to you,","you deceitful tongue?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A warrior’s sharp arrows,","with glowing coals of the broom tree!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Woe to me, that I sojourn in Meshech,","that I dwell among the tents of Kedar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Too long have I had my dwelling","among those who hate peace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I am for peace,","but when I speak, they are for war!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.119.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.121.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.120",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.119",
+      "human": "Psalm 119"
+    },
+    "current": {
+      "usfm": "PSA.120",
+      "human": "Psalm 120"
+    },
+    "next": {
+      "usfm": "PSA.121",
+      "human": "Psalm 121"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deliver Me, O Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In my distress I called to the Lord,",
+          "and he answered me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Deliver me, O Lord,",
+          "from lying lips,",
+          "from a deceitful tongue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "What shall be given to you,",
+          "and what more shall be done to you,",
+          "you deceitful tongue?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A warrior’s sharp arrows,",
+          "with glowing coals of the broom tree!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Woe to me, that I sojourn in Meshech,",
+          "that I dwell among the tents of Kedar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Too long have I had my dwelling",
+          "among those who hate peace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I am for peace,",
+          "but when I speak, they are for war!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

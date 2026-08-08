@@ -1,1 +1,173 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.20","is_chapter":true,"previous":{"usfm":"PSA.19","human":"Salmos 19","canonical":true,"toc":true},"current":{"usfm":"PSA.20","human":"Salmos 20"},"next":{"usfm":"PSA.21","human":"Salmos 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración pidiendo la victoria"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Jehová te oiga en el día de conflicto;","El nombre del Dios de Jacob te defienda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Te envíe ayuda desde el santuario,","Y desde Sion te sostenga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Haga memoria de todas tus ofrendas,","Y acepte tu holocausto."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Te dé conforme al deseo de tu corazón,","Y cumpla todo tu consejo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Nosotros nos alegraremos en tu salvación,","Y alzaremos pendón en el nombre de nuestro Dios;","Conceda Jehová todas tus peticiones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ahora conozco que Jehová salva a su ungido;","Lo oirá desde sus santos cielos","Con la potencia salvadora de su diestra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Estos confían en carros, y aquellos en caballos;","Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ellos flaquean y caen,","Mas nosotros nos levantamos, y estamos en pie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Salva, Jehová;","Que el Rey nos oiga en el día que lo invoquemos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.21.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.19",
+      "human": "Salmos 19"
+    },
+    "current": {
+      "usfm": "PSA.20",
+      "human": "Salmos 20"
+    },
+    "next": {
+      "usfm": "PSA.21",
+      "human": "Salmos 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración pidiendo la victoria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Jehová te oiga en el día de conflicto;",
+          "El nombre del Dios de Jacob te defienda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Te envíe ayuda desde el santuario,",
+          "Y desde Sion te sostenga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Haga memoria de todas tus ofrendas,",
+          "Y acepte tu holocausto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Te dé conforme al deseo de tu corazón,",
+          "Y cumpla todo tu consejo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Nosotros nos alegraremos en tu salvación,",
+          "Y alzaremos pendón en el nombre de nuestro Dios;",
+          "Conceda Jehová todas tus peticiones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ahora conozco que Jehová salva a su ungido;",
+          "Lo oirá desde sus santos cielos",
+          "Con la potencia salvadora de su diestra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Estos confían en carros, y aquellos en caballos;",
+          "Mas nosotros del nombre de Jehová nuestro Dios tendremos memoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ellos flaquean y caen,",
+          "Mas nosotros nos levantamos, y estamos en pie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Salva, Jehová;",
+          "Que el Rey nos oiga en el día que lo invoquemos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

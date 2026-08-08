@@ -1,1 +1,382 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.118","is_chapter":true,"previous":{"usfm":"PSA.117","human":"Psalms 117","canonical":true,"toc":true},"current":{"usfm":"PSA.118","human":"Psalms 118"},"next":{"usfm":"PSA.119","human":"Psalms 119","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Praise to God for His Everlasting Mercy"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh, give thanks to the Lord, for He is good!","For His mercy endures forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let Israel now say,","“His mercy endures forever.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let the house of Aaron now say,","“His mercy endures forever.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Let those who fear the Lord now say,","“His mercy endures forever.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I called on the Lord in distress;","The Lord answered me and set me in a broad place."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The Lord is on my side;","I will not fear.","What can man do to me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The Lord is for me among those who help me;","Therefore I shall see my desire on those who hate me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["It is better to trust in the Lord","Than to put confidence in man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["It is better to trust in the Lord","Than to put confidence in princes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["All nations surrounded me,","But in the name of the Lord I will destroy them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["They surrounded me,","Yes, they surrounded me;","But in the name of the Lord I will destroy them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["They surrounded me like bees;","They were quenched like a fire of thorns;","For in the name of the Lord I will destroy them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["You pushed me violently, that I might fall,","But the Lord helped me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The Lord is my strength and song,","And He has become my salvation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The voice of rejoicing and salvation","Is in the tents of the righteous;","The right hand of the Lord does valiantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The right hand of the Lord is exalted;","The right hand of the Lord does valiantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I shall not die, but live,","And declare the works of the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["The Lord has chastened me severely,","But He has not given me over to death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Open to me the gates of righteousness;","I will go through them,","And I will praise the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["This is the gate of the Lord,","Through which the righteous shall enter."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["I will praise You,","For You have answered me,","And have become my salvation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The stone which the builders rejected","Has become the chief cornerstone."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["This was the Lord’s doing;","It is marvelous in our eyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["This is the day the Lord has made;","We will rejoice and be glad in it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Save now, I pray, O Lord;","O Lord, I pray, send now prosperity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Blessed is he who comes in the name of the Lord!","We have blessed you from the house of the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["God is the Lord,","And He has given us light;","Bind the sacrifice with cords to the horns of the altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["You are my God, and I will praise You;","You are my God, I will exalt You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Oh, give thanks to the Lord, for He is good!","For His mercy endures forever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.117.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.119.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.118",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.117",
+      "human": "Psalms 117"
+    },
+    "current": {
+      "usfm": "PSA.118",
+      "human": "Psalms 118"
+    },
+    "next": {
+      "usfm": "PSA.119",
+      "human": "Psalms 119"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Praise to God for His Everlasting Mercy"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh, give thanks to the Lord, for He is good!",
+          "For His mercy endures forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let Israel now say,",
+          "“His mercy endures forever.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let the house of Aaron now say,",
+          "“His mercy endures forever.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Let those who fear the Lord now say,",
+          "“His mercy endures forever.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I called on the Lord in distress;",
+          "The Lord answered me and set me in a broad place."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The Lord is on my side;",
+          "I will not fear.",
+          "What can man do to me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The Lord is for me among those who help me;",
+          "Therefore I shall see my desire on those who hate me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "It is better to trust in the Lord",
+          "Than to put confidence in man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "It is better to trust in the Lord",
+          "Than to put confidence in princes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "All nations surrounded me,",
+          "But in the name of the Lord I will destroy them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "They surrounded me,",
+          "Yes, they surrounded me;",
+          "But in the name of the Lord I will destroy them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "They surrounded me like bees;",
+          "They were quenched like a fire of thorns;",
+          "For in the name of the Lord I will destroy them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "You pushed me violently, that I might fall,",
+          "But the Lord helped me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The Lord is my strength and song,",
+          "And He has become my salvation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The voice of rejoicing and salvation",
+          "Is in the tents of the righteous;",
+          "The right hand of the Lord does valiantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The right hand of the Lord is exalted;",
+          "The right hand of the Lord does valiantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I shall not die, but live,",
+          "And declare the works of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "The Lord has chastened me severely,",
+          "But He has not given me over to death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Open to me the gates of righteousness;",
+          "I will go through them,",
+          "And I will praise the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "This is the gate of the Lord,",
+          "Through which the righteous shall enter."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "I will praise You,",
+          "For You have answered me,",
+          "And have become my salvation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The stone which the builders rejected",
+          "Has become the chief cornerstone."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "This was the Lord’s doing;",
+          "It is marvelous in our eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "This is the day the Lord has made;",
+          "We will rejoice and be glad in it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Save now, I pray, O Lord;",
+          "O Lord, I pray, send now prosperity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Blessed is he who comes in the name of the Lord!",
+          "We have blessed you from the house of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "God is the Lord,",
+          "And He has given us light;",
+          "Bind the sacrifice with cords to the horns of the altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "You are my God, and I will praise You;",
+          "You are my God, I will exalt You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Oh, give thanks to the Lord, for He is good!",
+          "For His mercy endures forever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

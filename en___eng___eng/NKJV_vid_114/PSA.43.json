@@ -1,1 +1,120 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Psalms 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Psalms 43"},"next":{"usfm":"PSA.44","human":"Psalms 44","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prayer to God in Time of Trouble"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vindicate me, O God,","And plead my cause against an ungodly nation;","Oh, deliver me from the deceitful and unjust man!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For You are the God of my strength;","Why do You cast me off?","Why do I go mourning because of the oppression of the enemy?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Oh, send out Your light and Your truth!","Let them lead me;","Let them bring me to Your holy hill","And to Your tabernacle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then I will go to the altar of God,","To God my exceeding joy;","And on the harp I will praise You,","O God, my God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Why are you cast down, O my soul?","And why are you disquieted within me?","Hope in God;","For I shall yet praise Him,","The help of my countenance and my God."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Psalms 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Psalms 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Psalms 44"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prayer to God in Time of Trouble"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vindicate me, O God,",
+          "And plead my cause against an ungodly nation;",
+          "Oh, deliver me from the deceitful and unjust man!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For You are the God of my strength;",
+          "Why do You cast me off?",
+          "Why do I go mourning because of the oppression of the enemy?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Oh, send out Your light and Your truth!",
+          "Let them lead me;",
+          "Let them bring me to Your holy hill",
+          "And to Your tabernacle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then I will go to the altar of God,",
+          "To God my exceeding joy;",
+          "And on the harp I will praise You,",
+          "O God, my God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Why are you cast down, O my soul?",
+          "And why are you disquieted within me?",
+          "Hope in God;",
+          "For I shall yet praise Him,",
+          "The help of my countenance and my God."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

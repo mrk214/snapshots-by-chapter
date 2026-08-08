@@ -1,1 +1,324 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"SNG","name":"Cantar de los Cantares"},"chapter":{"chapter_usfm":"SNG.1","is_chapter":true,"previous":{"usfm":"ECC.12","human":"Eclesiastés 12","canonical":true,"toc":true},"current":{"usfm":"SNG.1","human":"Cantar de los Cantares 1"},"next":{"usfm":"SNG.2","human":"Cantar de los Cantares 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Este es el Cantar de los Cantares de Salomón, la mejor de las canciones."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Bésame, una y otra vez,","porque tu amor es más dulce que el vino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Qué agradable es tu fragancia!","Tu nombre es como el aroma que se esparce de aceites perfumados.","¡Con razón todas las jóvenes te aman!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Llévame contigo, ven, corramos!","El rey me ha traído a su alcoba."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Las jóvenes de Jerusalén"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuánto nos alegramos por ti, oh rey;","elogiamos tu amor aún más que el vino."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Con razón te quieren las jóvenes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Soy morena pero hermosa,","oh mujeres de Jerusalén,","morena como las carpas de Cedar,","morena como las cortinas de las carpas de Salomón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No me miren así por ser morena;","el sol ha bronceado mi piel.","Mis hermanos se enojaron conmigo;","me obligaron a cuidar de sus viñedos,","por eso no pude cuidarme a mí misma, mi propio viñedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dime, mi amor, ¿hacia dónde llevarás hoy tu rebaño?","¿Dónde harás descansar tus ovejas al mediodía?","¿Por qué tendría yo que vagar como una prostituta","entre tus amigos y sus rebaños?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Oh, más hermosa mujer, si no lo sabes,","sigue las huellas de mi rebaño","y apacienta tus cabritos junto a las carpas de los pastores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Amada mía, tú eres tan cautivante","como una yegua entre los sementales del faraón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¡Qué hermosas son tus mejillas!","¡Tus pendientes las encienden aún más!","¡Qué hermoso es tu cuello","realzado con un collar de joyas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Te haremos unos pendientes de oro","con cuentas de plata."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El rey está descansando en su sofá,","encantado por la fragancia de mi perfume."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Mi amante es como una bolsita de mirra","que reposa entre mis pechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Es como un ramito de aromáticas flores de alheña","de los viñedos de En-gadi."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Qué hermosa eres, amada mía,","qué hermosa!","Tus ojos son como palomas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Y tú eres tan apuesto, amor mío,","tan agradable que no puedo expresarlo!","La tierna hierba es nuestra cama;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["las ramas fragantes de los cedros son los soportes de nuestra casa","y los abetos aromáticos, las vigas del techo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ECC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.2.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantar de los Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
+    },
+    "current": {
+      "usfm": "SNG.1",
+      "human": "Cantar de los Cantares 1"
+    },
+    "next": {
+      "usfm": "SNG.2",
+      "human": "Cantar de los Cantares 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Este es el Cantar de los Cantares de Salomón, la mejor de las canciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Bésame, una y otra vez,",
+          "porque tu amor es más dulce que el vino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Qué agradable es tu fragancia!",
+          "Tu nombre es como el aroma que se esparce de aceites perfumados.",
+          "¡Con razón todas las jóvenes te aman!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Llévame contigo, ven, corramos!",
+          "El rey me ha traído a su alcoba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las jóvenes de Jerusalén"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuánto nos alegramos por ti, oh rey;",
+          "elogiamos tu amor aún más que el vino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Con razón te quieren las jóvenes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Soy morena pero hermosa,",
+          "oh mujeres de Jerusalén,",
+          "morena como las carpas de Cedar,",
+          "morena como las cortinas de las carpas de Salomón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No me miren así por ser morena;",
+          "el sol ha bronceado mi piel.",
+          "Mis hermanos se enojaron conmigo;",
+          "me obligaron a cuidar de sus viñedos,",
+          "por eso no pude cuidarme a mí misma, mi propio viñedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dime, mi amor, ¿hacia dónde llevarás hoy tu rebaño?",
+          "¿Dónde harás descansar tus ovejas al mediodía?",
+          "¿Por qué tendría yo que vagar como una prostituta",
+          "entre tus amigos y sus rebaños?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Oh, más hermosa mujer, si no lo sabes,",
+          "sigue las huellas de mi rebaño",
+          "y apacienta tus cabritos junto a las carpas de los pastores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Amada mía, tú eres tan cautivante",
+          "como una yegua entre los sementales del faraón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¡Qué hermosas son tus mejillas!",
+          "¡Tus pendientes las encienden aún más!",
+          "¡Qué hermoso es tu cuello",
+          "realzado con un collar de joyas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Te haremos unos pendientes de oro",
+          "con cuentas de plata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El rey está descansando en su sofá,",
+          "encantado por la fragancia de mi perfume."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Mi amante es como una bolsita de mirra",
+          "que reposa entre mis pechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Es como un ramito de aromáticas flores de alheña",
+          "de los viñedos de En-gadi."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Qué hermosa eres, amada mía,",
+          "qué hermosa!",
+          "Tus ojos son como palomas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Y tú eres tan apuesto, amor mío,",
+          "tan agradable que no puedo expresarlo!",
+          "La tierna hierba es nuestra cama;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "las ramas fragantes de los cedros son los soportes de nuestra casa",
+          "y los abetos aromáticos, las vigas del techo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

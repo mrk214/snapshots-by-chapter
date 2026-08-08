@@ -1,1 +1,154 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.8","is_chapter":true,"previous":{"usfm":"PSA.7","human":"Salmos 7","canonical":true,"toc":true},"current":{"usfm":"PSA.8","human":"Salmos 8"},"next":{"usfm":"PSA.9","human":"Salmos 9","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A glória de Deus e a dignidade do homem"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao regente do coro: sobre Gitite — Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ó Senhor, nosso Senhor, como teu nome é magnífico em toda a terra! Tu, que puseste tua glória nos céus!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Da boca dos pequeninos e de bebês fizeste brotar força, por causa dos teus adversários, para fazer calar o inimigo e vingador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas que estabeleceste,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["que é o homem, para que te lembres dele? E o filho do homem, para que o visites?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tu o fizeste um pouco menor que os anjos e o coroaste de glória e honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Deste-lhe domínio sobre as obras das tuas mãos; tudo puseste debaixo de seus pés:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["todas as ovelhas e os bois, assim como os animais selvagens,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["as aves do céu, os peixes do mar e tudo o que percorre as veredas dos mares."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ó Senhor, nosso Senhor, como teu nome é magnífico em toda a terra!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.9.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.7",
+      "human": "Salmos 7"
+    },
+    "current": {
+      "usfm": "PSA.8",
+      "human": "Salmos 8"
+    },
+    "next": {
+      "usfm": "PSA.9",
+      "human": "Salmos 9"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A glória de Deus e a dignidade do homem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao regente do coro: sobre Gitite — Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ó Senhor, nosso Senhor, como teu nome é magnífico em toda a terra! Tu, que puseste tua glória nos céus!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Da boca dos pequeninos e de bebês fizeste brotar força, por causa dos teus adversários, para fazer calar o inimigo e vingador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quando contemplo os teus céus, obra dos teus dedos, a lua e as estrelas que estabeleceste,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "que é o homem, para que te lembres dele? E o filho do homem, para que o visites?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tu o fizeste um pouco menor que os anjos e o coroaste de glória e honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Deste-lhe domínio sobre as obras das tuas mãos; tudo puseste debaixo de seus pés:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "todas as ovelhas e os bois, assim como os animais selvagens,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "as aves do céu, os peixes do mar e tudo o que percorre as veredas dos mares."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ó Senhor, nosso Senhor, como teu nome é magnífico em toda a terra!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

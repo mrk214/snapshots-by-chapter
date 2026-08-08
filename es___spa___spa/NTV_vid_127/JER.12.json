@@ -1,1 +1,282 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"JER","name":"Jeremías"},"chapter":{"chapter_usfm":"JER.12","is_chapter":true,"previous":{"usfm":"JER.11","human":"Jeremías 11","canonical":true,"toc":true},"current":{"usfm":"JER.12","human":"Jeremías 12"},"next":{"usfm":"JER.13","human":"Jeremías 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jeremías cuestiona la justicia de Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Señor, tú siempre me haces justicia","cuando llevo un caso ante ti.","Así que déjame presentarte esta queja:","¿Por qué los malvados son tan prósperos?","¿Por qué son tan felices los malignos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tú los has plantado,","y ellos echaron raíces y han prosperado.","Tu nombre está en sus labios,","aunque estás lejos de su corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En cuanto a mí, Señor, tú conoces mi corazón;","me ves y pruebas mis pensamientos.","¡Arrastra a esta gente como se lleva a las ovejas al matadero!","¡Apártalos para la masacre!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Hasta cuándo tendrá que llorar esta tierra?","Incluso la hierba de los campos se ha marchitado.","Los animales salvajes y las aves han desaparecido","debido a la maldad que hay en la tierra.","Pues la gente ha dicho:","«¡El Señor no ve nuestro futuro!»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El Señor le contesta a Jeremías"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["«Si te cansa competir contra simples hombres,","¿cómo podrás correr contra caballos?","Si tropiezas y caes en campo abierto,","¿qué harás en los matorrales cerca del Jordán?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Aun tus hermanos, miembros de tu propia familia,","se han vuelto contra ti;","conspiran y se quejan de ti.","No confíes en ellos,","no importa lo amables que sean sus palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["»Yo he abandonado a mi pueblo, mi posesión más preciada.","He entregado a los que más amo a sus enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mi pueblo elegido ha rugido contra mí como un león en la selva,","por eso lo traté con desprecio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mi pueblo elegido se comporta como buitres moteados,","pero es el pueblo mismo el que está rodeado de buitres.","¡Que salgan los animales salvajes para que despedacen sus cadáveres!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Muchos gobernantes han devastado mi viñedo;","pisotearon las vides","y así transformaron toda su belleza en un lugar desolado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Lo han convertido en tierra baldía;","escucho su triste lamento.","Toda la tierra está desolada","y a nadie siquiera le importa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Se pueden ver ejércitos destructores","en todas las cumbres desiertas de las colinas.","La espada del Señor devora a la gente","de un extremo al otro de la nación.","¡Nadie escapará!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Mi pueblo sembró trigo,","pero cosecha espinos.","Se esforzó,","pero no le sirvió de nada.","Cosechará vergüenza","debido a la ira feroz del Señor»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Mensaje a los vecinos de Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Esto dice el Señor: «Desarraigaré de sus tierras a todas las naciones malvadas que extendieron la mano para tomar lo que le di a Israel. Desarraigaré a Judá de entre ellos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["pero después regresaré y tendré compasión de todos ellos. Los llevaré de regreso a su tierra, cada nación a su propia heredad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Y si en verdad estas naciones aprenden los caminos de mi pueblo y si aprenden a jurar por mi nombre, y dicen: “Tan cierto como que el Señor vive” (así como ellos enseñaron a mi pueblo a jurar por el nombre de Baal), entonces se les dará un lugar entre mi pueblo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["pero la nación que rehúse obedecerme será arrancada de raíz y destruida. ¡Yo, el Señor, he hablado!»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.13.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremías"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.11",
+      "human": "Jeremías 11"
+    },
+    "current": {
+      "usfm": "JER.12",
+      "human": "Jeremías 12"
+    },
+    "next": {
+      "usfm": "JER.13",
+      "human": "Jeremías 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jeremías cuestiona la justicia de Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Señor, tú siempre me haces justicia",
+          "cuando llevo un caso ante ti.",
+          "Así que déjame presentarte esta queja:",
+          "¿Por qué los malvados son tan prósperos?",
+          "¿Por qué son tan felices los malignos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tú los has plantado,",
+          "y ellos echaron raíces y han prosperado.",
+          "Tu nombre está en sus labios,",
+          "aunque estás lejos de su corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En cuanto a mí, Señor, tú conoces mi corazón;",
+          "me ves y pruebas mis pensamientos.",
+          "¡Arrastra a esta gente como se lleva a las ovejas al matadero!",
+          "¡Apártalos para la masacre!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Hasta cuándo tendrá que llorar esta tierra?",
+          "Incluso la hierba de los campos se ha marchitado.",
+          "Los animales salvajes y las aves han desaparecido",
+          "debido a la maldad que hay en la tierra.",
+          "Pues la gente ha dicho:",
+          "«¡El Señor no ve nuestro futuro!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El Señor le contesta a Jeremías"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "«Si te cansa competir contra simples hombres,",
+          "¿cómo podrás correr contra caballos?",
+          "Si tropiezas y caes en campo abierto,",
+          "¿qué harás en los matorrales cerca del Jordán?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Aun tus hermanos, miembros de tu propia familia,",
+          "se han vuelto contra ti;",
+          "conspiran y se quejan de ti.",
+          "No confíes en ellos,",
+          "no importa lo amables que sean sus palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "»Yo he abandonado a mi pueblo, mi posesión más preciada.",
+          "He entregado a los que más amo a sus enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mi pueblo elegido ha rugido contra mí como un león en la selva,",
+          "por eso lo traté con desprecio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mi pueblo elegido se comporta como buitres moteados,",
+          "pero es el pueblo mismo el que está rodeado de buitres.",
+          "¡Que salgan los animales salvajes para que despedacen sus cadáveres!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Muchos gobernantes han devastado mi viñedo;",
+          "pisotearon las vides",
+          "y así transformaron toda su belleza en un lugar desolado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Lo han convertido en tierra baldía;",
+          "escucho su triste lamento.",
+          "Toda la tierra está desolada",
+          "y a nadie siquiera le importa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Se pueden ver ejércitos destructores",
+          "en todas las cumbres desiertas de las colinas.",
+          "La espada del Señor devora a la gente",
+          "de un extremo al otro de la nación.",
+          "¡Nadie escapará!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Mi pueblo sembró trigo,",
+          "pero cosecha espinos.",
+          "Se esforzó,",
+          "pero no le sirvió de nada.",
+          "Cosechará vergüenza",
+          "debido a la ira feroz del Señor»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje a los vecinos de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Esto dice el Señor: «Desarraigaré de sus tierras a todas las naciones malvadas que extendieron la mano para tomar lo que le di a Israel. Desarraigaré a Judá de entre ellos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "pero después regresaré y tendré compasión de todos ellos. Los llevaré de regreso a su tierra, cada nación a su propia heredad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Y si en verdad estas naciones aprenden los caminos de mi pueblo y si aprenden a jurar por mi nombre, y dicen: “Tan cierto como que el Señor vive” (así como ellos enseñaron a mi pueblo a jurar por el nombre de Baal), entonces se les dará un lugar entre mi pueblo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "pero la nación que rehúse obedecerme será arrancada de raíz y destruida. ¡Yo, el Señor, he hablado!»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

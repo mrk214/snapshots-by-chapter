@@ -1,1 +1,381 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.4","is_chapter":true,"previous":{"usfm":"PRO.3","human":"Proverbios 3","canonical":true,"toc":true},"current":{"usfm":"PRO.4","human":"Proverbios 4"},"next":{"usfm":"PRO.5","human":"Proverbios 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["No hay nada como la sabiduría"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Queridos jovencitos:","cuando su padre los instruya,","préstenle atención,","si realmente quieren aprender."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yo, como maestro,","les doy este buen consejo:","no abandonen sus enseñanzas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Yo también fui niño;","tuve un padre y una madre","que me trataban con ternura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mi padre me dio este consejo:","«Grábate bien lo que te digo,","y haz lo que te mando;","así tendrás larga vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Hazte cada vez","más sabio y entendido;","nunca olvides mis enseñanzas.","¡Jamás te apartes de ellas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Si amas a la sabiduría","y nunca la abandonas,","ella te cuidará y te protegerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Lo que realmente importa","es que cada día seas más sabio","y que aumentes tus conocimientos,","aunque tengas que vender","todo lo que poseas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Valoriza el conocimiento,","y tu vida tendrá más valor;","si haces tuyo el conocimiento,","todos te tratarán con respeto,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["y quedarán admirados","de tu gran sabiduría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Escúchame, jovencito:","hazme caso y vivirás muchos años."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Yo, como maestro,","te enseño a vivir sabiamente","y a siempre hacer el bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Vayas rápido o despacio,","no tendrás ningún problema","para alcanzar el éxito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Acepta mis enseñanzas","y no te apartes de ellas;","cuídalas mucho,","que de ellas depende tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No te juntes con gente malvada","ni sigas su mal ejemplo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Aléjate de su compañía!","¡Aléjate, y sigue adelante!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Esa gente no duerme","hasta que hace algo malo;","¡no descansa hasta destruir a alguien!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["En vez de comer,","se satisface cometiendo maldades;","en vez de beber,","festeja la violencia que comete."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["»La vida de los hombres buenos","brilla como la luz de la mañana:","va siendo más y más brillante,","hasta que alcanza todo su esplendor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["La vida de los malvados","es todo lo contrario:","es como una gran oscuridad","donde no saben ni en qué tropiezan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["»Querido jovencito,","escucha bien lo que te digo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Grábate bien mis enseñanzas,","y no te apartes de ellas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["pues son una fuente de vida","para quienes las encuentran;","son el remedio para una vida mejor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Y sobre todas las cosas,","cuida tu mente,","porque ella es la fuente de la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["No te rebajes diciendo","palabras malas e indecentes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Pon siempre tu mirada","en lo que está por venir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Corrige tu conducta,","afirma todas tus acciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Por nada de este mundo","dejes de hacer el bien;","¡apártate de la maldad!»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.5.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.3",
+      "human": "Proverbios 3"
+    },
+    "current": {
+      "usfm": "PRO.4",
+      "human": "Proverbios 4"
+    },
+    "next": {
+      "usfm": "PRO.5",
+      "human": "Proverbios 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "No hay nada como la sabiduría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Queridos jovencitos:",
+          "cuando su padre los instruya,",
+          "préstenle atención,",
+          "si realmente quieren aprender."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yo, como maestro,",
+          "les doy este buen consejo:",
+          "no abandonen sus enseñanzas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Yo también fui niño;",
+          "tuve un padre y una madre",
+          "que me trataban con ternura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mi padre me dio este consejo:",
+          "«Grábate bien lo que te digo,",
+          "y haz lo que te mando;",
+          "así tendrás larga vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Hazte cada vez",
+          "más sabio y entendido;",
+          "nunca olvides mis enseñanzas.",
+          "¡Jamás te apartes de ellas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Si amas a la sabiduría",
+          "y nunca la abandonas,",
+          "ella te cuidará y te protegerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Lo que realmente importa",
+          "es que cada día seas más sabio",
+          "y que aumentes tus conocimientos,",
+          "aunque tengas que vender",
+          "todo lo que poseas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Valoriza el conocimiento,",
+          "y tu vida tendrá más valor;",
+          "si haces tuyo el conocimiento,",
+          "todos te tratarán con respeto,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "y quedarán admirados",
+          "de tu gran sabiduría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Escúchame, jovencito:",
+          "hazme caso y vivirás muchos años."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Yo, como maestro,",
+          "te enseño a vivir sabiamente",
+          "y a siempre hacer el bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Vayas rápido o despacio,",
+          "no tendrás ningún problema",
+          "para alcanzar el éxito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Acepta mis enseñanzas",
+          "y no te apartes de ellas;",
+          "cuídalas mucho,",
+          "que de ellas depende tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No te juntes con gente malvada",
+          "ni sigas su mal ejemplo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Aléjate de su compañía!",
+          "¡Aléjate, y sigue adelante!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Esa gente no duerme",
+          "hasta que hace algo malo;",
+          "¡no descansa hasta destruir a alguien!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "En vez de comer,",
+          "se satisface cometiendo maldades;",
+          "en vez de beber,",
+          "festeja la violencia que comete."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "»La vida de los hombres buenos",
+          "brilla como la luz de la mañana:",
+          "va siendo más y más brillante,",
+          "hasta que alcanza todo su esplendor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "La vida de los malvados",
+          "es todo lo contrario:",
+          "es como una gran oscuridad",
+          "donde no saben ni en qué tropiezan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "»Querido jovencito,",
+          "escucha bien lo que te digo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Grábate bien mis enseñanzas,",
+          "y no te apartes de ellas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "pues son una fuente de vida",
+          "para quienes las encuentran;",
+          "son el remedio para una vida mejor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Y sobre todas las cosas,",
+          "cuida tu mente,",
+          "porque ella es la fuente de la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "No te rebajes diciendo",
+          "palabras malas e indecentes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Pon siempre tu mirada",
+          "en lo que está por venir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Corrige tu conducta,",
+          "afirma todas tus acciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Por nada de este mundo",
+          "dejes de hacer el bien;",
+          "¡apártate de la maldad!»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

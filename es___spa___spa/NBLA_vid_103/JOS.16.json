@@ -1,1 +1,156 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.16","is_chapter":true,"previous":{"usfm":"JOS.15","human":"Josué 15","canonical":true,"toc":true},"current":{"usfm":"JOS.16","human":"Josué 16"},"next":{"usfm":"JOS.17","human":"Josué 17","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Territorio de Efraín"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Tocó en suerte a los hijos de José desde el Jordán frente a Jericó (las aguas de Jericó) al oriente, hacia el desierto, subiendo desde Jericó por la región montañosa a Betel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Seguía desde Betel a Luz, y continuaba hasta la frontera de los arquitas en Atarot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y descendía hacia el occidente al territorio de los jafletitas, hasta el territorio de Bet Horón de abajo, y hasta Gezer, y terminaba en el mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Recibieron, pues, su heredad los hijos de José, Manasés y Efraín."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Este fue el territorio de los hijos de Efraín conforme a sus familias: el límite de su heredad hacia el oriente era Atarot Adar, hasta Bet Horón de arriba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El límite iba hacia el occidente en Micmetat al norte, girando hacia el oriente en Taanat Silo, y continuaba más allá al oriente de Janoa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Descendía de Janoa a Atarot y a Naarat, llegaba a Jericó y salía al Jordán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["De Tapúa el límite continuaba hacia el occidente hasta el arroyo de Caná, y terminaba en el mar. Esta es la heredad de la tribu de los hijos de Efraín, conforme a sus familias,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["junto con las ciudades que fueron apartadas para los hijos de Efraín en medio de la heredad de los hijos de Manasés, todas las ciudades con sus aldeas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pero los de Efraín no expulsaron a los cananeos que habitaban en Gezer. Por tanto, los cananeos habitan en medio de Efraín hasta hoy, pero fueron sometidos a trabajos forzados."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOS.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOS.17.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.15",
+      "human": "Josué 15"
+    },
+    "current": {
+      "usfm": "JOS.16",
+      "human": "Josué 16"
+    },
+    "next": {
+      "usfm": "JOS.17",
+      "human": "Josué 17"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Territorio de Efraín"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Tocó en suerte a los hijos de José desde el Jordán frente a Jericó (las aguas de Jericó) al oriente, hacia el desierto, subiendo desde Jericó por la región montañosa a Betel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Seguía desde Betel a Luz, y continuaba hasta la frontera de los arquitas en Atarot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y descendía hacia el occidente al territorio de los jafletitas, hasta el territorio de Bet Horón de abajo, y hasta Gezer, y terminaba en el mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Recibieron, pues, su heredad los hijos de José, Manasés y Efraín."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Este fue el territorio de los hijos de Efraín conforme a sus familias: el límite de su heredad hacia el oriente era Atarot Adar, hasta Bet Horón de arriba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El límite iba hacia el occidente en Micmetat al norte, girando hacia el oriente en Taanat Silo, y continuaba más allá al oriente de Janoa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Descendía de Janoa a Atarot y a Naarat, llegaba a Jericó y salía al Jordán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "De Tapúa el límite continuaba hacia el occidente hasta el arroyo de Caná, y terminaba en el mar. Esta es la heredad de la tribu de los hijos de Efraín, conforme a sus familias,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "junto con las ciudades que fueron apartadas para los hijos de Efraín en medio de la heredad de los hijos de Manasés, todas las ciudades con sus aldeas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pero los de Efraín no expulsaron a los cananeos que habitaban en Gezer. Por tanto, los cananeos habitan en medio de Efraín hasta hoy, pero fueron sometidos a trabajos forzados."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

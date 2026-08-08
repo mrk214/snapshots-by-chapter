@@ -1,1 +1,206 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.5","is_chapter":true,"previous":{"usfm":"PSA.4","human":"Psalm 4","canonical":true,"toc":true},"current":{"usfm":"PSA.5","human":"Psalm 5"},"next":{"usfm":"PSA.6","human":"Psalm 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Lead Me in Your Righteousness"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: for the flutes. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Give ear to my words, O Lord;","consider my groaning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Give attention to the sound of my cry,","my King and my God,","for to you do I pray."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O Lord, in the morning you hear my voice;","in the morning I prepare a sacrifice for you and watch."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For you are not a God who delights in wickedness;","evil may not dwell with you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The boastful shall not stand before your eyes;","you hate all evildoers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You destroy those who speak lies;","the Lord abhors the bloodthirsty and deceitful man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But I, through the abundance of your steadfast love,","will enter your house.","I will bow down toward your holy temple","in the fear of you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Lead me, O Lord, in your righteousness","because of my enemies;","make your way straight before me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For there is no truth in their mouth;","their inmost self is destruction;","their throat is an open grave;","they flatter with their tongue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Make them bear their guilt, O God;","let them fall by their own counsels;","because of the abundance of their transgressions cast them out,","for they have rebelled against you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["But let all who take refuge in you rejoice;","let them ever sing for joy,","and spread your protection over them,","that those who love your name may exult in you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["For you bless the righteous, O Lord;","you cover him with favor as with a shield."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.6.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.4",
+      "human": "Psalm 4"
+    },
+    "current": {
+      "usfm": "PSA.5",
+      "human": "Psalm 5"
+    },
+    "next": {
+      "usfm": "PSA.6",
+      "human": "Psalm 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lead Me in Your Righteousness"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: for the flutes. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Give ear to my words, O Lord;",
+          "consider my groaning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Give attention to the sound of my cry,",
+          "my King and my God,",
+          "for to you do I pray."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O Lord, in the morning you hear my voice;",
+          "in the morning I prepare a sacrifice for you and watch."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For you are not a God who delights in wickedness;",
+          "evil may not dwell with you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The boastful shall not stand before your eyes;",
+          "you hate all evildoers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You destroy those who speak lies;",
+          "the Lord abhors the bloodthirsty and deceitful man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But I, through the abundance of your steadfast love,",
+          "will enter your house.",
+          "I will bow down toward your holy temple",
+          "in the fear of you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Lead me, O Lord, in your righteousness",
+          "because of my enemies;",
+          "make your way straight before me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For there is no truth in their mouth;",
+          "their inmost self is destruction;",
+          "their throat is an open grave;",
+          "they flatter with their tongue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Make them bear their guilt, O God;",
+          "let them fall by their own counsels;",
+          "because of the abundance of their transgressions cast them out,",
+          "for they have rebelled against you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "But let all who take refuge in you rejoice;",
+          "let them ever sing for joy,",
+          "and spread your protection over them,",
+          "that those who love your name may exult in you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "For you bless the righteous, O Lord;",
+          "you cover him with favor as with a shield."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

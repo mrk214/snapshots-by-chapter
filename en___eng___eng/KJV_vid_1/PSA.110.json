@@ -1,1 +1,133 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.110","is_chapter":true,"previous":{"usfm":"PSA.109","human":"Psalm 109","canonical":true,"toc":true},"current":{"usfm":"PSA.110","human":"Psalm 110"},"next":{"usfm":"PSA.111","human":"Psalm 111","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The LORD said unto my Lord,","Sit thou at my right hand, until I make thine enemies thy footstool."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The LORD shall send the rod of thy strength out of Zion:","Rule thou in the midst of thine enemies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Thy people shall be willing in the day of thy power,","In the beauties of holiness from the womb of the morning: Thou hast the dew of thy youth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The LORD hath sworn, and will not repent,","Thou art a priest for ever after the order of Melchizedek."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The Lord at thy right hand","Shall strike through kings in the day of his wrath."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He shall judge among the heathen, he shall fill the places with the dead bodies;","He shall wound the heads over many countries."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He shall drink of the brook in the way:","Therefore shall he lift up the head."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.109.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.111.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.110",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.109",
+      "human": "Psalm 109"
+    },
+    "current": {
+      "usfm": "PSA.110",
+      "human": "Psalm 110"
+    },
+    "next": {
+      "usfm": "PSA.111",
+      "human": "Psalm 111"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The LORD said unto my Lord,",
+          "Sit thou at my right hand, until I make thine enemies thy footstool."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The LORD shall send the rod of thy strength out of Zion:",
+          "Rule thou in the midst of thine enemies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Thy people shall be willing in the day of thy power,",
+          "In the beauties of holiness from the womb of the morning: Thou hast the dew of thy youth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The LORD hath sworn, and will not repent,",
+          "Thou art a priest for ever after the order of Melchizedek."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The Lord at thy right hand",
+          "Shall strike through kings in the day of his wrath."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He shall judge among the heathen, he shall fill the places with the dead bodies;",
+          "He shall wound the heads over many countries."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He shall drink of the brook in the way:",
+          "Therefore shall he lift up the head."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

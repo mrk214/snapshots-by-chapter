@@ -1,1 +1,135 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.120","is_chapter":true,"previous":{"usfm":"PSA.119","human":"Salmo 119","canonical":true,"toc":true},"current":{"usfm":"PSA.120","human":"Salmo 120"},"next":{"usfm":"PSA.121","human":"Salmo 121","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico de los peregrinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En mi angustia invoqué al Señor,","y él me respondió."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Señor, líbrame","de los labios mentirosos","y de la lengua engañosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Ah, lengua engañosa!","¿Qué se te habrá de dar?","¿Qué se te habrá de añadir?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Puntiagudas flechas de guerrero,","con ardientes brasas de retama!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Ay de mí, que soy extranjero en Mésec,","que he acampado entre las tiendas de Cedar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Mucho tiempo es el que he acampado","entre los que aborrecen la paz!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Soy un hombre de paz,","pero si hablo de paz, ellos hablan de guerra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.119.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.121.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.120",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.119",
+      "human": "Salmo 119"
+    },
+    "current": {
+      "usfm": "PSA.120",
+      "human": "Salmo 120"
+    },
+    "next": {
+      "usfm": "PSA.121",
+      "human": "Salmo 121"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de los peregrinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En mi angustia invoqué al Señor,",
+          "y él me respondió."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Señor, líbrame",
+          "de los labios mentirosos",
+          "y de la lengua engañosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Ah, lengua engañosa!",
+          "¿Qué se te habrá de dar?",
+          "¿Qué se te habrá de añadir?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Puntiagudas flechas de guerrero,",
+          "con ardientes brasas de retama!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Ay de mí, que soy extranjero en Mésec,",
+          "que he acampado entre las tiendas de Cedar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Mucho tiempo es el que he acampado",
+          "entre los que aborrecen la paz!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Soy un hombre de paz,",
+          "pero si hablo de paz, ellos hablan de guerra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

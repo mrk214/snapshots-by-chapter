@@ -1,1 +1,119 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.3","is_chapter":true,"previous":{"usfm":"HOS.2","human":"Oseas 2","canonical":true,"toc":true},"current":{"usfm":"HOS.3","human":"Oseas 3"},"next":{"usfm":"HOS.4","human":"Oseas 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oseas y su esposa infiel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios volvió a decirme:","«Oseas, tu esposa te es infiel:","tiene un amigo que es su amante.","También los israelitas me son infieles,","pues adoran a dioses falsos","y comen de las ofrendas que presentan.","Sin embargo, ve y ama a tu esposa,","así como yo amo a los israelitas»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yo, Oseas, le pagué al amante de mi esposa quince monedas de plata y le di trescientos treinta kilos de cebada, para que ella volviera a vivir conmigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y luego le dije a ella:","«Ya eres mía,","y vivirás conmigo mucho tiempo.","Si tú prometes serme fiel,","yo también te seré fiel,","aunque por un tiempo","no viviremos como esposos»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lo mismo sucederá con los israelitas: Durante mucho tiempo no tendrán rey ni jefe; tampoco podrán presentar ofrendas a Dios, ni sabrán lo que Dios quiere que hagan; además, no tendrán sacerdotes ni ídolos familiares."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Después de esto, se arrepentirán. Cuando llegue el tiempo del fin, volverán a obedecer a Dios y pedirán sus bendiciones, y también seguirán el ejemplo del rey David."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.4.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Oseas 2"
+    },
+    "current": {
+      "usfm": "HOS.3",
+      "human": "Oseas 3"
+    },
+    "next": {
+      "usfm": "HOS.4",
+      "human": "Oseas 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oseas y su esposa infiel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios volvió a decirme:",
+          "«Oseas, tu esposa te es infiel:",
+          "tiene un amigo que es su amante.",
+          "También los israelitas me son infieles,",
+          "pues adoran a dioses falsos",
+          "y comen de las ofrendas que presentan.",
+          "Sin embargo, ve y ama a tu esposa,",
+          "así como yo amo a los israelitas»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yo, Oseas, le pagué al amante de mi esposa quince monedas de plata y le di trescientos treinta kilos de cebada, para que ella volviera a vivir conmigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y luego le dije a ella:",
+          "«Ya eres mía,",
+          "y vivirás conmigo mucho tiempo.",
+          "Si tú prometes serme fiel,",
+          "yo también te seré fiel,",
+          "aunque por un tiempo",
+          "no viviremos como esposos»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lo mismo sucederá con los israelitas: Durante mucho tiempo no tendrán rey ni jefe; tampoco podrán presentar ofrendas a Dios, ni sabrán lo que Dios quiere que hagan; además, no tendrán sacerdotes ni ídolos familiares."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Después de esto, se arrepentirán. Cuando llegue el tiempo del fin, volverán a obedecer a Dios y pedirán sus bendiciones, y también seguirán el ejemplo del rey David."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

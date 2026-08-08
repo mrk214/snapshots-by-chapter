@@ -1,1 +1,334 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"HAB","name":"Habakkuk"},"chapter":{"chapter_usfm":"HAB.3","is_chapter":true,"previous":{"usfm":"HAB.2","human":"Habakkuk 2","canonical":true,"toc":true},"current":{"usfm":"HAB.3","human":"Habakkuk 3"},"next":{"usfm":"ZEP.1","human":"Zephaniah 1","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["His Prayer"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A prayer of Habakkuk the prophet upon Shigionoth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O LORD, I have heard thy speech, and was afraid:","O LORD, revive thy work in the midst of the years,","In the midst of the years make known;","In wrath remember mercy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["God came from Teman,","And the Holy One from mount Paran."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["His glory covered the heavens,","And the earth was full of his praise."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And his brightness was as the light;","He had horns coming out of his hand:","And there was the hiding of his power."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Before him went the pestilence,","And burning coals went forth at his feet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He stood, and measured the earth:","He beheld, and drove asunder the nations;","And the everlasting mountains were scattered,","The perpetual hills did bow:","His ways are everlasting."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I saw the tents of Cushan in affliction:","And the curtains of the land of Midian did tremble."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Was the LORD displeased against the rivers?","Was thine anger against the rivers?","Was thy wrath against the sea,","That thou didst ride upon thine horses","And thy chariots of salvation?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Thy bow was made quite naked,","According to the oaths of the tribes, even thy word."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Thou didst cleave the earth with rivers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The mountains saw thee, and they trembled:","The overflowing of the water passed by:","The deep uttered his voice,","And lifted up his hands on high."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The sun and moon stood still in their habitation:","At the light of thine arrows they went,","And at the shining of thy glittering spear."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Thou didst march through the land in indignation,","Thou didst thresh the heathen in anger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Thou wentest forth for the salvation of thy people,","Even for salvation with thine anointed;","Thou woundedst the head out of the house of the wicked,","By discovering the foundation unto the neck."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Thou didst strike through with his staves the head of his villages:","They came out as a whirlwind to scatter me:","Their rejoicing was as to devour the poor secretly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Thou didst walk through the sea with thine horses,","Through the heap of great waters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["When I heard, my belly trembled;","My lips quivered at the voice:","Rottenness entered into my bones, and I trembled in myself,","That I might rest in the day of trouble:","When he cometh up unto the people,","He will invade them with his troops."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Although the fig tree shall not blossom,","Neither shall fruit be in the vines;","The labour of the olive shall fail,","And the fields shall yield no meat;","The flock shall be cut off from the fold,","And there shall be no herd in the stalls:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Yet I will rejoice in the LORD,","I will joy in the God of my salvation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["The LORD God is my strength,","And he will make my feet like hinds' feet,","And he will make me to walk upon mine high places.","To the chief singer on my stringed instruments."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/HAB.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ZEP.1.json"
+  },
+  "book": {
+    "book_usfm": "HAB",
+    "name": "Habakkuk"
+  },
+  "chapter": {
+    "chapter_usfm": "HAB.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HAB.2",
+      "human": "Habakkuk 2"
+    },
+    "current": {
+      "usfm": "HAB.3",
+      "human": "Habakkuk 3"
+    },
+    "next": {
+      "usfm": "ZEP.1",
+      "human": "Zephaniah 1"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "His Prayer"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A prayer of Habakkuk the prophet upon Shigionoth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O LORD, I have heard thy speech, and was afraid:",
+          "O LORD, revive thy work in the midst of the years,",
+          "In the midst of the years make known;",
+          "In wrath remember mercy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "God came from Teman,",
+          "And the Holy One from mount Paran."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "His glory covered the heavens,",
+          "And the earth was full of his praise."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And his brightness was as the light;",
+          "He had horns coming out of his hand:",
+          "And there was the hiding of his power."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Before him went the pestilence,",
+          "And burning coals went forth at his feet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He stood, and measured the earth:",
+          "He beheld, and drove asunder the nations;",
+          "And the everlasting mountains were scattered,",
+          "The perpetual hills did bow:",
+          "His ways are everlasting."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I saw the tents of Cushan in affliction:",
+          "And the curtains of the land of Midian did tremble."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Was the LORD displeased against the rivers?",
+          "Was thine anger against the rivers?",
+          "Was thy wrath against the sea,",
+          "That thou didst ride upon thine horses",
+          "And thy chariots of salvation?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Thy bow was made quite naked,",
+          "According to the oaths of the tribes, even thy word."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Thou didst cleave the earth with rivers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The mountains saw thee, and they trembled:",
+          "The overflowing of the water passed by:",
+          "The deep uttered his voice,",
+          "And lifted up his hands on high."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The sun and moon stood still in their habitation:",
+          "At the light of thine arrows they went,",
+          "And at the shining of thy glittering spear."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Thou didst march through the land in indignation,",
+          "Thou didst thresh the heathen in anger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Thou wentest forth for the salvation of thy people,",
+          "Even for salvation with thine anointed;",
+          "Thou woundedst the head out of the house of the wicked,",
+          "By discovering the foundation unto the neck."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Thou didst strike through with his staves the head of his villages:",
+          "They came out as a whirlwind to scatter me:",
+          "Their rejoicing was as to devour the poor secretly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Thou didst walk through the sea with thine horses,",
+          "Through the heap of great waters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "When I heard, my belly trembled;",
+          "My lips quivered at the voice:",
+          "Rottenness entered into my bones, and I trembled in myself,",
+          "That I might rest in the day of trouble:",
+          "When he cometh up unto the people,",
+          "He will invade them with his troops."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Although the fig tree shall not blossom,",
+          "Neither shall fruit be in the vines;",
+          "The labour of the olive shall fail,",
+          "And the fields shall yield no meat;",
+          "The flock shall be cut off from the fold,",
+          "And there shall be no herd in the stalls:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Yet I will rejoice in the LORD,",
+          "I will joy in the God of my salvation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "The LORD God is my strength,",
+          "And he will make my feet like hinds' feet,",
+          "And he will make me to walk upon mine high places.",
+          "To the chief singer on my stringed instruments."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

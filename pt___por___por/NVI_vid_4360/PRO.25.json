@@ -1,1 +1,367 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PRO","name":"Provérbios"},"chapter":{"chapter_usfm":"PRO.25","is_chapter":true,"previous":{"usfm":"PRO.24","human":"Provérbios 24","canonical":true,"toc":true},"current":{"usfm":"PRO.25","human":"Provérbios 25"},"next":{"usfm":"PRO.26","human":"Provérbios 26","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Outros Provérbios de Salomão"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Estes são outros provérbios de Salomão, compilados pelos servos de Ezequias, rei de Judá:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A glória de Deus é ocultar certas coisas;","tentar descobri-las é a glória dos reis."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Assim como o céu é elevado e a terra é profunda,","também o coração dos reis é insondável."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Quando se retira a escória da prata,","nesta se tem material para o ourives;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["quando os ímpios são retirados da presença do rei,","a justiça firma o seu trono."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Não se engrandeça na presença do rei","e não reivindique lugar entre os homens importantes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["é melhor que o rei lhe diga: “Suba para cá!”,","do que ter que humilhá-lo diante de uma autoridade.","O que você viu com os olhos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["não leve precipitadamente ao tribunal,","pois o que você fará se o seu próximo o desacreditar?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Procure resolver sua causa diretamente com o seu próximo","e não revele o segredo de outra pessoa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["caso contrário, quem o ouvir poderá recriminá-lo,","e você jamais perderá sua má reputação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A palavra proferida no tempo certo","é como frutas de ouro incrustadas numa escultura de prata."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Como brinco de ouro e enfeite de ouro fino","é a repreensão dada com sabedoria a quem se dispõe a ouvir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Como o frescor da neve na época da colheita","é o mensageiro de confiança","para aqueles que o enviam;","ele revigora o ânimo de seus senhores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como nuvens e ventos sem chuva","é aquele que se gaba de presentes que não deu."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Com muita paciência pode-se convencer a autoridade,","e a língua branda quebra até ossos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Se você encontrar mel, coma apenas o suficiente,","para que não fique enjoado e vomite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Não faça visitas frequentes à casa do seu vizinho","para que ele não se canse de você e passe a odiá-lo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Como um pedaço de pau, uma espada ou uma flecha aguda","é o que dá falso testemunho contra o seu próximo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Como dente estragado ou pé deslocado","é a confiança no hipócrita na hora da dificuldade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Como tirar a própria roupa num dia de frio,","ou derramar vinagre numa ferida","é cantar com o coração entristecido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Se o seu inimigo tiver fome, dê-lhe de comer;","se tiver sede, dê-lhe de beber."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Fazendo isso, você amontoará brasas vivas sobre a cabeça dele,","e o Senhor recompensará você."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Como o vento norte traz chuva,","assim a língua fingida traz o olhar irado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Melhor é viver num canto sob o telhado do que repartir a casa","com uma mulher briguenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Como água fresca para a garganta sedenta","é a boa notícia que chega de uma terra distante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Como fonte contaminada ou nascente poluída,","assim é o justo que fraqueja diante do ímpio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Comer mel demais não é bom,","nem é honroso buscar a própria honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Como a cidade com seus muros derrubados,","assim é quem não sabe dominar-se."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PRO.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PRO.26.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Provérbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.24",
+      "human": "Provérbios 24"
+    },
+    "current": {
+      "usfm": "PRO.25",
+      "human": "Provérbios 25"
+    },
+    "next": {
+      "usfm": "PRO.26",
+      "human": "Provérbios 26"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Outros Provérbios de Salomão"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Estes são outros provérbios de Salomão, compilados pelos servos de Ezequias, rei de Judá:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A glória de Deus é ocultar certas coisas;",
+          "tentar descobri-las é a glória dos reis."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Assim como o céu é elevado e a terra é profunda,",
+          "também o coração dos reis é insondável."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Quando se retira a escória da prata,",
+          "nesta se tem material para o ourives;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "quando os ímpios são retirados da presença do rei,",
+          "a justiça firma o seu trono."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Não se engrandeça na presença do rei",
+          "e não reivindique lugar entre os homens importantes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "é melhor que o rei lhe diga: “Suba para cá!”,",
+          "do que ter que humilhá-lo diante de uma autoridade.",
+          "O que você viu com os olhos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "não leve precipitadamente ao tribunal,",
+          "pois o que você fará se o seu próximo o desacreditar?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Procure resolver sua causa diretamente com o seu próximo",
+          "e não revele o segredo de outra pessoa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "caso contrário, quem o ouvir poderá recriminá-lo,",
+          "e você jamais perderá sua má reputação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A palavra proferida no tempo certo",
+          "é como frutas de ouro incrustadas numa escultura de prata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Como brinco de ouro e enfeite de ouro fino",
+          "é a repreensão dada com sabedoria a quem se dispõe a ouvir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Como o frescor da neve na época da colheita",
+          "é o mensageiro de confiança",
+          "para aqueles que o enviam;",
+          "ele revigora o ânimo de seus senhores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como nuvens e ventos sem chuva",
+          "é aquele que se gaba de presentes que não deu."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Com muita paciência pode-se convencer a autoridade,",
+          "e a língua branda quebra até ossos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Se você encontrar mel, coma apenas o suficiente,",
+          "para que não fique enjoado e vomite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Não faça visitas frequentes à casa do seu vizinho",
+          "para que ele não se canse de você e passe a odiá-lo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Como um pedaço de pau, uma espada ou uma flecha aguda",
+          "é o que dá falso testemunho contra o seu próximo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Como dente estragado ou pé deslocado",
+          "é a confiança no hipócrita na hora da dificuldade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Como tirar a própria roupa num dia de frio,",
+          "ou derramar vinagre numa ferida",
+          "é cantar com o coração entristecido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Se o seu inimigo tiver fome, dê-lhe de comer;",
+          "se tiver sede, dê-lhe de beber."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Fazendo isso, você amontoará brasas vivas sobre a cabeça dele,",
+          "e o Senhor recompensará você."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Como o vento norte traz chuva,",
+          "assim a língua fingida traz o olhar irado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Melhor é viver num canto sob o telhado do que repartir a casa",
+          "com uma mulher briguenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Como água fresca para a garganta sedenta",
+          "é a boa notícia que chega de uma terra distante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Como fonte contaminada ou nascente poluída,",
+          "assim é o justo que fraqueja diante do ímpio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Comer mel demais não é bom,",
+          "nem é honroso buscar a própria honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Como a cidade com seus muros derrubados,",
+          "assim é quem não sabe dominar-se."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

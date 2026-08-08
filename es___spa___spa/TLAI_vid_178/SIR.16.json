@@ -1,1 +1,380 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.16","is_chapter":true,"previous":{"usfm":"SIR.15","human":"Eclesiástico 15","canonical":true,"toc":true},"current":{"usfm":"SIR.16","human":"Eclesiástico 16"},"next":{"usfm":"SIR.17","human":"Eclesiástico 17","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los malos hijos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No es ningún motivo de alegría","tener hijos guapos pero malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No es ningún motivo de alegría","si prosperan pero no aman a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No esperes que vivan mucho tiempo,","ni creas que tendrán un buen fin;","más vale un hijo obediente","que mil hijos malvados;","más vale morir sin hijos","que tener hijos groseros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Basta un solo hombre sabio","para que toda una ciudad prospere,","pero una pandilla de bandidos","puede dejarla en ruinas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El castigo de los pecadores"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["De todo he visto en la vida,","y cosas peores me han contado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Dios muestra su enojo","en la reunión de los pecadores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dios no perdonó a los gigantes,","que antes se rebelaron contra él;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["tampoco dejó sin castigo","a la arrogante ciudad de Sodoma,","donde algún tiempo vivió Lot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Dios no perdonó al país de Canaán","por los pecados de sus habitantes,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["ni a los seiscientos mil soldados","que destruyó por orgullosos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Aunque el rebelde sea uno solo,","no quedará sin castigo.","Dios castiga a los malvados,","pero siempre está dispuesto a perdonar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Aunque su enojo sea grande,","es más grande su amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13,14],"lines":["Dios premia la paciencia de los buenos,","y da a cada quien lo que merece."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dios está en todas partes"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No digas:","«Voy a esconderme de Dios.","Allá en el cielo nadie piensa en mí».","Tampoco digas:","«Nada soy en este mundo.","Entre tanta gente nadie me verá»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Cuando Dios se manifiesta,","tiemblan la tierra y el mar,","¡tiembla lo más alto del cielo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Cuando Dios mira las montañas,","tiemblan de miedo sus bases","y lo más profundo de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20,21],"lines":["Pero nadie piensa","en que Dios todo lo ve;","creen que pueden pecar en secreto,","y que Dios no lo sabrá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22,23],"lines":["Aun cuando se porten bien,","creen que a Dios no le importa.","Pero solo piensan de este modo","los que no tienen entendimiento."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dios hizo bien todas las cosas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Querido jovencito,","préstame atención,","y así aprenderás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Voy a compartir contigo","todo lo que yo he aprendido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Cuando Dios creó el mundo,","puso cada cosa en su lugar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["de una vez y para siempre","puso en orden su creación.","Nada en la creación siente cansancio;","nada en la creación deja de actuar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Todo funciona en armonía;","todo cumple las órdenes de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Dios miró a la tierra","y la llenó de su bondad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["La llenó de seres vivos","que un día morirán."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.17.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.15",
+      "human": "Eclesiástico 15"
+    },
+    "current": {
+      "usfm": "SIR.16",
+      "human": "Eclesiástico 16"
+    },
+    "next": {
+      "usfm": "SIR.17",
+      "human": "Eclesiástico 17"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los malos hijos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No es ningún motivo de alegría",
+          "tener hijos guapos pero malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No es ningún motivo de alegría",
+          "si prosperan pero no aman a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No esperes que vivan mucho tiempo,",
+          "ni creas que tendrán un buen fin;",
+          "más vale un hijo obediente",
+          "que mil hijos malvados;",
+          "más vale morir sin hijos",
+          "que tener hijos groseros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Basta un solo hombre sabio",
+          "para que toda una ciudad prospere,",
+          "pero una pandilla de bandidos",
+          "puede dejarla en ruinas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El castigo de los pecadores"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "De todo he visto en la vida,",
+          "y cosas peores me han contado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Dios muestra su enojo",
+          "en la reunión de los pecadores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dios no perdonó a los gigantes,",
+          "que antes se rebelaron contra él;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "tampoco dejó sin castigo",
+          "a la arrogante ciudad de Sodoma,",
+          "donde algún tiempo vivió Lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Dios no perdonó al país de Canaán",
+          "por los pecados de sus habitantes,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "ni a los seiscientos mil soldados",
+          "que destruyó por orgullosos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Aunque el rebelde sea uno solo,",
+          "no quedará sin castigo.",
+          "Dios castiga a los malvados,",
+          "pero siempre está dispuesto a perdonar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Aunque su enojo sea grande,",
+          "es más grande su amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13,
+          14
+        ],
+        "lines": [
+          "Dios premia la paciencia de los buenos,",
+          "y da a cada quien lo que merece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios está en todas partes"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No digas:",
+          "«Voy a esconderme de Dios.",
+          "Allá en el cielo nadie piensa en mí».",
+          "Tampoco digas:",
+          "«Nada soy en este mundo.",
+          "Entre tanta gente nadie me verá»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Cuando Dios se manifiesta,",
+          "tiemblan la tierra y el mar,",
+          "¡tiembla lo más alto del cielo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Cuando Dios mira las montañas,",
+          "tiemblan de miedo sus bases",
+          "y lo más profundo de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20,
+          21
+        ],
+        "lines": [
+          "Pero nadie piensa",
+          "en que Dios todo lo ve;",
+          "creen que pueden pecar en secreto,",
+          "y que Dios no lo sabrá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22,
+          23
+        ],
+        "lines": [
+          "Aun cuando se porten bien,",
+          "creen que a Dios no le importa.",
+          "Pero solo piensan de este modo",
+          "los que no tienen entendimiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios hizo bien todas las cosas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Querido jovencito,",
+          "préstame atención,",
+          "y así aprenderás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Voy a compartir contigo",
+          "todo lo que yo he aprendido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Cuando Dios creó el mundo,",
+          "puso cada cosa en su lugar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "de una vez y para siempre",
+          "puso en orden su creación.",
+          "Nada en la creación siente cansancio;",
+          "nada en la creación deja de actuar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Todo funciona en armonía;",
+          "todo cumple las órdenes de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Dios miró a la tierra",
+          "y la llenó de su bondad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "La llenó de seres vivos",
+          "que un día morirán."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

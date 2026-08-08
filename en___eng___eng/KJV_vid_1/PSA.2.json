@@ -1,1 +1,179 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.2","is_chapter":true,"previous":{"usfm":"PSA.1","human":"Psalm 1","canonical":true,"toc":true},"current":{"usfm":"PSA.2","human":"Psalm 2"},"next":{"usfm":"PSA.3","human":"Psalm 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Why do the heathen rage,","And the people imagine a vain thing?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The kings of the earth set themselves, and the rulers take counsel together,","Against the LORD, and against his anointed, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let us break their bands asunder,","And cast away their cords from us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He that sitteth in the heavens shall laugh:","The Lord shall have them in derision."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Then shall he speak unto them in his wrath,","And vex them in his sore displeasure."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Yet have I set my king upon my holy hill of Zion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I will declare the decree: the LORD hath said unto me,","Thou art my Son; this day have I begotten thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ask of me, and I shall give thee the heathen for thine inheritance,","And the uttermost parts of the earth for thy possession."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Thou shalt break them with a rod of iron;","Thou shalt dash them in pieces like a potter's vessel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Be wise now therefore, O ye kings:","Be instructed, ye judges of the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Serve the LORD with fear,","And rejoice with trembling."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Kiss the Son, lest he be angry, and ye perish from the way,","When his wrath is kindled but a little. Blessed are all they that put their trust in him."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.3.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.1",
+      "human": "Psalm 1"
+    },
+    "current": {
+      "usfm": "PSA.2",
+      "human": "Psalm 2"
+    },
+    "next": {
+      "usfm": "PSA.3",
+      "human": "Psalm 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Why do the heathen rage,",
+          "And the people imagine a vain thing?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The kings of the earth set themselves, and the rulers take counsel together,",
+          "Against the LORD, and against his anointed, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let us break their bands asunder,",
+          "And cast away their cords from us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He that sitteth in the heavens shall laugh:",
+          "The Lord shall have them in derision."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Then shall he speak unto them in his wrath,",
+          "And vex them in his sore displeasure."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Yet have I set my king upon my holy hill of Zion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I will declare the decree: the LORD hath said unto me,",
+          "Thou art my Son; this day have I begotten thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ask of me, and I shall give thee the heathen for thine inheritance,",
+          "And the uttermost parts of the earth for thy possession."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Thou shalt break them with a rod of iron;",
+          "Thou shalt dash them in pieces like a potter's vessel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Be wise now therefore, O ye kings:",
+          "Be instructed, ye judges of the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Serve the LORD with fear,",
+          "And rejoice with trembling."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Kiss the Son, lest he be angry, and ye perish from the way,",
+          "When his wrath is kindled but a little. Blessed are all they that put their trust in him."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,105 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Psalm 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Psalm 43"},"next":{"usfm":"PSA.44","human":"Psalm 44","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Judge me, O God, and plead my cause against an ungodly nation:","O deliver me from the deceitful and unjust man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For thou art the God of my strength: why dost thou cast me off?","Why go I mourning because of the oppression of the enemy?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O send out thy light and thy truth: Let them lead me;","Let them bring me unto thy holy hill, and to thy tabernacles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then will I go unto the altar of God, unto God my exceeding joy:","Yea, upon the harp will I praise thee, O God my God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Why art thou cast down, O my soul?","And why art thou disquieted within me?","Hope in God:","For I shall yet praise him, Who is the health of my countenance, and my God."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Psalm 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Psalm 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Psalm 44"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Judge me, O God, and plead my cause against an ungodly nation:",
+          "O deliver me from the deceitful and unjust man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For thou art the God of my strength: why dost thou cast me off?",
+          "Why go I mourning because of the oppression of the enemy?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O send out thy light and thy truth: Let them lead me;",
+          "Let them bring me unto thy holy hill, and to thy tabernacles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then will I go unto the altar of God, unto God my exceeding joy:",
+          "Yea, upon the harp will I praise thee, O God my God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Why art thou cast down, O my soul?",
+          "And why art thou disquieted within me?",
+          "Hope in God:",
+          "For I shall yet praise him, Who is the health of my countenance, and my God."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

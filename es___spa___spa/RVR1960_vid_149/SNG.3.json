@@ -1,1 +1,199 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"SNG","name":"Cantares"},"chapter":{"chapter_usfm":"SNG.3","is_chapter":true,"previous":{"usfm":"SNG.2","human":"Cantares 2","canonical":true,"toc":true},"current":{"usfm":"SNG.3","human":"Cantares 3"},"next":{"usfm":"SNG.4","human":"Cantares 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El ensueño de la esposa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Por las noches busqué en mi lecho al que ama mi alma;","Lo busqué, y no lo hallé."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Y dije: Me levantaré ahora, y rodearé por la ciudad;","Por las calles y por las plazas","Buscaré al que ama mi alma;","Lo busqué, y no lo hallé."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Me hallaron los guardas que rondan la ciudad,","Y les dije: ¿Habéis visto al que ama mi alma?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Apenas hube pasado de ellos un poco,","Hallé luego al que ama mi alma;","Lo así, y no lo dejé,","Hasta que lo metí en casa de mi madre,","Y en la cámara de la que me dio a luz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Yo os conjuro, oh doncellas de Jerusalén,","Por los corzos y por las ciervas del campo,","Que no despertéis ni hagáis velar al amor,","Hasta que quiera."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El cortejo de bodas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¿Quién es esta que sube del desierto como columna de humo,","Sahumada de mirra y de incienso","Y de todo polvo aromático?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He aquí es la litera de Salomón;","Sesenta valientes la rodean,","De los fuertes de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Todos ellos tienen espadas, diestros en la guerra;","Cada uno su espada sobre su muslo,","Por los temores de la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El rey Salomón se hizo una carroza","De madera del Líbano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Hizo sus columnas de plata,","Su respaldo de oro,","Su asiento de grana,","Su interior recamado de amor","Por las doncellas de Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Salid, oh doncellas de Sion, y ved al rey Salomón","Con la corona con que le coronó su madre en el día de su desposorio,","Y el día del gozo de su corazón."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/SNG.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/SNG.4.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.2",
+      "human": "Cantares 2"
+    },
+    "current": {
+      "usfm": "SNG.3",
+      "human": "Cantares 3"
+    },
+    "next": {
+      "usfm": "SNG.4",
+      "human": "Cantares 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El ensueño de la esposa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Por las noches busqué en mi lecho al que ama mi alma;",
+          "Lo busqué, y no lo hallé."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Y dije: Me levantaré ahora, y rodearé por la ciudad;",
+          "Por las calles y por las plazas",
+          "Buscaré al que ama mi alma;",
+          "Lo busqué, y no lo hallé."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Me hallaron los guardas que rondan la ciudad,",
+          "Y les dije: ¿Habéis visto al que ama mi alma?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Apenas hube pasado de ellos un poco,",
+          "Hallé luego al que ama mi alma;",
+          "Lo así, y no lo dejé,",
+          "Hasta que lo metí en casa de mi madre,",
+          "Y en la cámara de la que me dio a luz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Yo os conjuro, oh doncellas de Jerusalén,",
+          "Por los corzos y por las ciervas del campo,",
+          "Que no despertéis ni hagáis velar al amor,",
+          "Hasta que quiera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El cortejo de bodas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¿Quién es esta que sube del desierto como columna de humo,",
+          "Sahumada de mirra y de incienso",
+          "Y de todo polvo aromático?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He aquí es la litera de Salomón;",
+          "Sesenta valientes la rodean,",
+          "De los fuertes de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Todos ellos tienen espadas, diestros en la guerra;",
+          "Cada uno su espada sobre su muslo,",
+          "Por los temores de la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El rey Salomón se hizo una carroza",
+          "De madera del Líbano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Hizo sus columnas de plata,",
+          "Su respaldo de oro,",
+          "Su asiento de grana,",
+          "Su interior recamado de amor",
+          "Por las doncellas de Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Salid, oh doncellas de Sion, y ved al rey Salomón",
+          "Con la corona con que le coronó su madre en el día de su desposorio,",
+          "Y el día del gozo de su corazón."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,233 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"HOS","name":"Hosea"},"chapter":{"chapter_usfm":"HOS.8","is_chapter":true,"previous":{"usfm":"HOS.7","human":"Hosea 7","canonical":true,"toc":true},"current":{"usfm":"HOS.8","human":"Hosea 8"},"next":{"usfm":"HOS.9","human":"Hosea 9","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Israel Will Reap the Whirlwind"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Set the trumpet to your lips!","One like a vulture is over the house of the Lord,","because they have transgressed my covenant","and rebelled against my law."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["To me they cry,","“My God, we—Israel—know you.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Israel has spurned the good;","the enemy shall pursue him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["They made kings, but not through me.","They set up princes, but I knew it not.","With their silver and gold they made idols","for their own destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I have spurned your calf, O Samaria.","My anger burns against them.","How long will they be incapable of innocence?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["For it is from Israel;","a craftsman made it;","it is not God.","The calf of Samaria","shall be broken to pieces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For they sow the wind,","and they shall reap the whirlwind.","The standing grain has no heads;","it shall yield no flour;","if it were to yield,","strangers would devour it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Israel is swallowed up;","already they are among the nations","as a useless vessel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For they have gone up to Assyria,","a wild donkey wandering alone;","Ephraim has hired lovers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Though they hire allies among the nations,","I will soon gather them up.","And the king and princes shall soon writhe","because of the tribute."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Because Ephraim has multiplied altars for sinning,","they have become to him altars for sinning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Were I to write for him my laws by the ten thousands,","they would be regarded as a strange thing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["As for my sacrificial offerings,","they sacrifice meat and eat it,","but the Lord does not accept them.","Now he will remember their iniquity","and punish their sins;","they shall return to Egypt."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["For Israel has forgotten his Maker","and built palaces,","and Judah has multiplied fortified cities;","so I will send a fire upon his cities,","and it shall devour her strongholds."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.9.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Hosea"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.7",
+      "human": "Hosea 7"
+    },
+    "current": {
+      "usfm": "HOS.8",
+      "human": "Hosea 8"
+    },
+    "next": {
+      "usfm": "HOS.9",
+      "human": "Hosea 9"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Israel Will Reap the Whirlwind"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Set the trumpet to your lips!",
+          "One like a vulture is over the house of the Lord,",
+          "because they have transgressed my covenant",
+          "and rebelled against my law."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "To me they cry,",
+          "“My God, we—Israel—know you.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Israel has spurned the good;",
+          "the enemy shall pursue him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "They made kings, but not through me.",
+          "They set up princes, but I knew it not.",
+          "With their silver and gold they made idols",
+          "for their own destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I have spurned your calf, O Samaria.",
+          "My anger burns against them.",
+          "How long will they be incapable of innocence?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "For it is from Israel;",
+          "a craftsman made it;",
+          "it is not God.",
+          "The calf of Samaria",
+          "shall be broken to pieces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For they sow the wind,",
+          "and they shall reap the whirlwind.",
+          "The standing grain has no heads;",
+          "it shall yield no flour;",
+          "if it were to yield,",
+          "strangers would devour it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Israel is swallowed up;",
+          "already they are among the nations",
+          "as a useless vessel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For they have gone up to Assyria,",
+          "a wild donkey wandering alone;",
+          "Ephraim has hired lovers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Though they hire allies among the nations,",
+          "I will soon gather them up.",
+          "And the king and princes shall soon writhe",
+          "because of the tribute."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Because Ephraim has multiplied altars for sinning,",
+          "they have become to him altars for sinning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Were I to write for him my laws by the ten thousands,",
+          "they would be regarded as a strange thing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "As for my sacrificial offerings,",
+          "they sacrifice meat and eat it,",
+          "but the Lord does not accept them.",
+          "Now he will remember their iniquity",
+          "and punish their sins;",
+          "they shall return to Egypt."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "For Israel has forgotten his Maker",
+          "and built palaces,",
+          "and Judah has multiplied fortified cities;",
+          "so I will send a fire upon his cities,",
+          "and it shall devour her strongholds."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

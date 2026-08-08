@@ -1,1 +1,205 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.56","is_chapter":true,"previous":{"usfm":"PSA.55","human":"Psalms 55","canonical":true,"toc":true},"current":{"usfm":"PSA.56","human":"Psalms 56"},"next":{"usfm":"PSA.57","human":"Psalms 57","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the director of music. To the tune of “A Dove on Distant Oaks.” Of David. A miktam. When the Philistines had seized him in Gath."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Be merciful to me, my God,","for my enemies are in hot pursuit;","all day long they press their attack."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["My adversaries pursue me all day long;","in their pride many are attacking me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When I am afraid, I put my trust in you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["In God, whose word I praise—","in God I trust and am not afraid.","What can mere mortals do to me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["All day long they twist my words;","all their schemes are for my ruin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["They conspire, they lurk,","they watch my steps,","hoping to take my life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Because of their wickedness do not let them escape;","in your anger, God, bring the nations down."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Record my misery;","list my tears on your scroll—","are they not in your record?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Then my enemies will turn back","when I call for help.","By this I will know that God is for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["In God, whose word I praise,","in the Lord, whose word I praise—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["in God I trust and am not afraid.","What can man do to me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["I am under vows to you, my God;","I will present my thank offerings to you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["For you have delivered me from death","and my feet from stumbling,","that I may walk before God","in the light of life."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.55.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.57.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.56",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.55",
+      "human": "Psalms 55"
+    },
+    "current": {
+      "usfm": "PSA.56",
+      "human": "Psalms 56"
+    },
+    "next": {
+      "usfm": "PSA.57",
+      "human": "Psalms 57"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the director of music. To the tune of “A Dove on Distant Oaks.” Of David. A miktam. When the Philistines had seized him in Gath."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Be merciful to me, my God,",
+          "for my enemies are in hot pursuit;",
+          "all day long they press their attack."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "My adversaries pursue me all day long;",
+          "in their pride many are attacking me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When I am afraid, I put my trust in you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "In God, whose word I praise—",
+          "in God I trust and am not afraid.",
+          "What can mere mortals do to me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "All day long they twist my words;",
+          "all their schemes are for my ruin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "They conspire, they lurk,",
+          "they watch my steps,",
+          "hoping to take my life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Because of their wickedness do not let them escape;",
+          "in your anger, God, bring the nations down."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Record my misery;",
+          "list my tears on your scroll—",
+          "are they not in your record?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Then my enemies will turn back",
+          "when I call for help.",
+          "By this I will know that God is for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "In God, whose word I praise,",
+          "in the Lord, whose word I praise—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "in God I trust and am not afraid.",
+          "What can man do to me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "I am under vows to you, my God;",
+          "I will present my thank offerings to you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "For you have delivered me from death",
+          "and my feet from stumbling,",
+          "that I may walk before God",
+          "in the light of life."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

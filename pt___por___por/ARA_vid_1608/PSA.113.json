@@ -1,1 +1,157 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.113","is_chapter":true,"previous":{"usfm":"PSA.112","human":"Salmos 112","canonical":true,"toc":true},"current":{"usfm":"PSA.113","human":"Salmos 113"},"next":{"usfm":"PSA.114","human":"Salmos 114","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O Senhor, o maior e mais digno objeto de louvor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aleluia!","Louvai, servos do Senhor,","louvai o nome do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Bendito seja o nome do Senhor,","agora e para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Do nascimento do sol até ao ocaso,","louvado seja o nome do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Excelso é o Senhor, acima de todas as nações,","e a sua glória, acima dos céus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quem há semelhante ao Senhor, nosso Deus,","cujo trono está nas alturas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["que se inclina para ver","o que se passa no céu e sobre a terra?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ele ergue do pó o desvalido","e do monturo, o necessitado,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["para o assentar ao lado dos príncipes,","sim, com os príncipes do seu povo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Faz que a mulher estéril viva em família","e seja alegre mãe de filhos.","Aleluia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.112.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.114.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.113",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.112",
+      "human": "Salmos 112"
+    },
+    "current": {
+      "usfm": "PSA.113",
+      "human": "Salmos 113"
+    },
+    "next": {
+      "usfm": "PSA.114",
+      "human": "Salmos 114"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Senhor, o maior e mais digno objeto de louvor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia!",
+          "Louvai, servos do Senhor,",
+          "louvai o nome do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Bendito seja o nome do Senhor,",
+          "agora e para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Do nascimento do sol até ao ocaso,",
+          "louvado seja o nome do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Excelso é o Senhor, acima de todas as nações,",
+          "e a sua glória, acima dos céus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quem há semelhante ao Senhor, nosso Deus,",
+          "cujo trono está nas alturas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "que se inclina para ver",
+          "o que se passa no céu e sobre a terra?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ele ergue do pó o desvalido",
+          "e do monturo, o necessitado,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "para o assentar ao lado dos príncipes,",
+          "sim, com os príncipes do seu povo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Faz que a mulher estéril viva em família",
+          "e seja alegre mãe de filhos.",
+          "Aleluia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

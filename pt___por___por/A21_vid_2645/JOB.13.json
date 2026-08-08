@@ -1,1 +1,344 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"JOB","name":"Jó"},"chapter":{"chapter_usfm":"JOB.13","is_chapter":true,"previous":{"usfm":"JOB.12","human":"Jó 12","canonical":true,"toc":true},"current":{"usfm":"JOB.13","human":"Jó 13"},"next":{"usfm":"JOB.14","human":"Jó 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jó pede aos seus amigos um julgamento justo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Meus olhos viram tudo isso, e meus ouvidos ouviram e entenderam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O que sabeis eu também sei; não sou inferior a vós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mas falarei com o Todo-poderoso, quero defender-me diante de Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Vós, porém, maquinais mentiras, e sois todos médicos que não servem para nada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ah! Antes ficásseis totalmente calados, pois assim passaríeis por sábios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ouvi agora a minha defesa e escutai os argumentos dos meus lábios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Falareis com falsidade em nome de Deus, e em nome dele direis mentiras?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Defendereis a sua pessoa? Disputareis a favor de Deus?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Seria bom para vós se ele vos examinasse? Poderíes enganá-lo, como se faz com um homem?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Certamente ele vos repreenderá, se em secreto tiverdes parcialidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A majestade de Deus não os intimidará? E não cairá sobre vós o seu terror?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["As vossas máximas são como provérbios de cinza; as vossas defesas como torres de barro."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Jó confia em Deus e pede que seja revelado o seu pecado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Calai-vos diante mim, para que eu fale, e que venha sobre mim o que vier."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Por que me destruo e tomo a vida em minhas próprias mãos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ele poderá matar-me; mas não tenho outra saída! Contudo, defenderei meus caminhos diante dele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Isso também será a minha salvação, pois o ímpio não se apresentará diante dele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Ouvi atentamente as minhas palavras; chegue aos vossos ouvidos a minha declaração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Já preparei a minha defesa e sei que serei justificado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Quem iria disputar comigo? Nesse caso, eu me calaria e entregaria meu espírito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Concede-me somente duas coisas; então não me esconderei do teu rosto:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Afasta a tua mão para bem longe de mim, e não me amedronte mais o teu terror."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Então responderei quando me chamares; ou falarei, e tu me responderás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Quantas iniquidades e pecados eu tenho? Mostra-me a minha transgressão e o meu pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Por que escondes o rosto e me consideras teu inimigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Atormentarás uma folha levada pelo vento? Perseguirás a palha seca?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Pois escreves contra mim coisas amargas e me fazes herdar os erros da minha mocidade;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["tu também pões os meus pés no tronco e sondas todos os meus caminhos; traças um limite ao redor dos meus pés,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["apesar de eu ser como algo podre que se deteriora e como uma roupa destruída pela traça."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOB.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOB.14.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Jó"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.12",
+      "human": "Jó 12"
+    },
+    "current": {
+      "usfm": "JOB.13",
+      "human": "Jó 13"
+    },
+    "next": {
+      "usfm": "JOB.14",
+      "human": "Jó 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jó pede aos seus amigos um julgamento justo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Meus olhos viram tudo isso, e meus ouvidos ouviram e entenderam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O que sabeis eu também sei; não sou inferior a vós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mas falarei com o Todo-poderoso, quero defender-me diante de Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Vós, porém, maquinais mentiras, e sois todos médicos que não servem para nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ah! Antes ficásseis totalmente calados, pois assim passaríeis por sábios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ouvi agora a minha defesa e escutai os argumentos dos meus lábios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Falareis com falsidade em nome de Deus, e em nome dele direis mentiras?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Defendereis a sua pessoa? Disputareis a favor de Deus?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Seria bom para vós se ele vos examinasse? Poderíes enganá-lo, como se faz com um homem?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Certamente ele vos repreenderá, se em secreto tiverdes parcialidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A majestade de Deus não os intimidará? E não cairá sobre vós o seu terror?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "As vossas máximas são como provérbios de cinza; as vossas defesas como torres de barro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jó confia em Deus e pede que seja revelado o seu pecado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Calai-vos diante mim, para que eu fale, e que venha sobre mim o que vier."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Por que me destruo e tomo a vida em minhas próprias mãos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ele poderá matar-me; mas não tenho outra saída! Contudo, defenderei meus caminhos diante dele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Isso também será a minha salvação, pois o ímpio não se apresentará diante dele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Ouvi atentamente as minhas palavras; chegue aos vossos ouvidos a minha declaração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Já preparei a minha defesa e sei que serei justificado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Quem iria disputar comigo? Nesse caso, eu me calaria e entregaria meu espírito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Concede-me somente duas coisas; então não me esconderei do teu rosto:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Afasta a tua mão para bem longe de mim, e não me amedronte mais o teu terror."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Então responderei quando me chamares; ou falarei, e tu me responderás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Quantas iniquidades e pecados eu tenho? Mostra-me a minha transgressão e o meu pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Por que escondes o rosto e me consideras teu inimigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Atormentarás uma folha levada pelo vento? Perseguirás a palha seca?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Pois escreves contra mim coisas amargas e me fazes herdar os erros da minha mocidade;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "tu também pões os meus pés no tronco e sondas todos os meus caminhos; traças um limite ao redor dos meus pés,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "apesar de eu ser como algo podre que se deteriora e como uma roupa destruída pela traça."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

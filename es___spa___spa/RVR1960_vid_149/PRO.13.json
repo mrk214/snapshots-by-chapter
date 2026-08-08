@@ -1,1 +1,323 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Proverbios 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Proverbios 13"},"next":{"usfm":"PRO.14","human":"Proverbios 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El hijo sabio recibe el consejo del padre;","Mas el burlador no escucha las reprensiones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Del fruto de su boca el hombre comerá el bien;","Mas el alma de los prevaricadores hallará el mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El que guarda su boca guarda su alma;","Mas el que mucho abre sus labios tendrá calamidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El alma del perezoso desea, y nada alcanza;","Mas el alma de los diligentes será prosperada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El justo aborrece la palabra de mentira;","Mas el impío se hace odioso e infame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La justicia guarda al de perfecto camino;","Mas la impiedad trastornará al pecador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Hay quienes pretenden ser ricos, y no tienen nada;","Y hay quienes pretenden ser pobres, y tienen muchas riquezas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El rescate de la vida del hombre está en sus riquezas;","Pero el pobre no oye censuras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La luz de los justos se alegrará;","Mas se apagará la lámpara de los impíos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ciertamente la soberbia concebirá contienda;","Mas con los avisados está la sabiduría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Las riquezas de vanidad disminuirán;","Pero el que recoge con mano laboriosa las aumenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["La esperanza que se demora es tormento del corazón;","Pero árbol de vida es el deseo cumplido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El que menosprecia el precepto perecerá por ello;","Mas el que teme el mandamiento será recompensado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["La ley del sabio es manantial de vida","Para apartarse de los lazos de la muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El buen entendimiento da gracia;","Mas el camino de los transgresores es duro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Todo hombre prudente procede con sabiduría;","Mas el necio manifestará necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El mal mensajero acarrea desgracia;","Mas el mensajero fiel acarrea salud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pobreza y vergüenza tendrá el que menosprecia el consejo;","Mas el que guarda la corrección recibirá honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El deseo cumplido regocija el alma;","Pero apartarse del mal es abominación a los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El que anda con sabios, sabio será;","Mas el que se junta con necios será quebrantado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["El mal perseguirá a los pecadores,","Mas los justos serán premiados con el bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["El bueno dejará herederos a los hijos de sus hijos;","Pero la riqueza del pecador está guardada para el justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["En el barbecho de los pobres hay mucho pan;","Mas se pierde por falta de juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["El que detiene el castigo, a su hijo aborrece;","Mas el que lo ama, desde temprano lo corrige."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["El justo come hasta saciar su alma;","Mas el vientre de los impíos tendrá necesidad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Proverbios 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Proverbios 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Proverbios 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El hijo sabio recibe el consejo del padre;",
+          "Mas el burlador no escucha las reprensiones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Del fruto de su boca el hombre comerá el bien;",
+          "Mas el alma de los prevaricadores hallará el mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El que guarda su boca guarda su alma;",
+          "Mas el que mucho abre sus labios tendrá calamidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El alma del perezoso desea, y nada alcanza;",
+          "Mas el alma de los diligentes será prosperada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El justo aborrece la palabra de mentira;",
+          "Mas el impío se hace odioso e infame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La justicia guarda al de perfecto camino;",
+          "Mas la impiedad trastornará al pecador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Hay quienes pretenden ser ricos, y no tienen nada;",
+          "Y hay quienes pretenden ser pobres, y tienen muchas riquezas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El rescate de la vida del hombre está en sus riquezas;",
+          "Pero el pobre no oye censuras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La luz de los justos se alegrará;",
+          "Mas se apagará la lámpara de los impíos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ciertamente la soberbia concebirá contienda;",
+          "Mas con los avisados está la sabiduría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Las riquezas de vanidad disminuirán;",
+          "Pero el que recoge con mano laboriosa las aumenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "La esperanza que se demora es tormento del corazón;",
+          "Pero árbol de vida es el deseo cumplido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El que menosprecia el precepto perecerá por ello;",
+          "Mas el que teme el mandamiento será recompensado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "La ley del sabio es manantial de vida",
+          "Para apartarse de los lazos de la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El buen entendimiento da gracia;",
+          "Mas el camino de los transgresores es duro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Todo hombre prudente procede con sabiduría;",
+          "Mas el necio manifestará necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El mal mensajero acarrea desgracia;",
+          "Mas el mensajero fiel acarrea salud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pobreza y vergüenza tendrá el que menosprecia el consejo;",
+          "Mas el que guarda la corrección recibirá honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El deseo cumplido regocija el alma;",
+          "Pero apartarse del mal es abominación a los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El que anda con sabios, sabio será;",
+          "Mas el que se junta con necios será quebrantado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "El mal perseguirá a los pecadores,",
+          "Mas los justos serán premiados con el bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "El bueno dejará herederos a los hijos de sus hijos;",
+          "Pero la riqueza del pecador está guardada para el justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "En el barbecho de los pobres hay mucho pan;",
+          "Mas se pierde por falta de juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "El que detiene el castigo, a su hijo aborrece;",
+          "Mas el que lo ama, desde temprano lo corrige."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "El justo come hasta saciar su alma;",
+          "Mas el vientre de los impíos tendrá necesidad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

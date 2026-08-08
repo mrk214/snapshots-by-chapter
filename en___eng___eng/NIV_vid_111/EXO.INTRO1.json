@@ -1,1 +1,47 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"EXO","name":"Exodus"},"chapter":{"chapter_usfm":"EXO.INTRO1","is_chapter":false,"previous":{"usfm":"GEN.50","human":"Genesis 50","canonical":true,"toc":true},"current":{"usfm":"EXO.INTRO1","human":"Exodus Intro"},"next":{"usfm":"EXO.1","human":"Exodus 1","canonical":true,"toc":true},"items":[]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/GEN.50.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.1.json"
+  },
+  "book": {
+    "book_usfm": "EXO",
+    "name": "Exodus"
+  },
+  "chapter": {
+    "chapter_usfm": "EXO.INTRO1",
+    "is_chapter": false,
+    "previous": {
+      "usfm": "GEN.50",
+      "human": "Genesis 50"
+    },
+    "current": {
+      "usfm": "EXO.INTRO1",
+      "human": "Exodus Intro"
+    },
+    "next": {
+      "usfm": "EXO.1",
+      "human": "Exodus 1"
+    },
+    "items": []
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

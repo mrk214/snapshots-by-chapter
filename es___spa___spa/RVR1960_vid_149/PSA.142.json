@@ -1,1 +1,143 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.142","is_chapter":true,"previous":{"usfm":"PSA.141","human":"Salmos 141","canonical":true,"toc":true},"current":{"usfm":"PSA.142","human":"Salmos 142"},"next":{"usfm":"PSA.143","human":"Salmos 143","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Petición de ayuda en medio de la prueba"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Masquil de David. Oración que hizo cuando estaba en la cueva."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Con mi voz clamaré a Jehová;","Con mi voz pediré a Jehová misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Delante de él expondré mi queja;","Delante de él manifestaré mi angustia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda.","En el camino en que andaba, me escondieron lazo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mira a mi diestra y observa, pues no hay quien me quiera conocer;","No tengo refugio, ni hay quien cuide de mi vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Clamé a ti, oh Jehová;","Dije: Tú eres mi esperanza,","Y mi porción en la tierra de los vivientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Escucha mi clamor, porque estoy muy afligido.","Líbrame de los que me persiguen, porque son más fuertes que yo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Saca mi alma de la cárcel, para que alabe tu nombre;","Me rodearán los justos,","Porque tú me serás propicio."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.141.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.143.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.142",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.141",
+      "human": "Salmos 141"
+    },
+    "current": {
+      "usfm": "PSA.142",
+      "human": "Salmos 142"
+    },
+    "next": {
+      "usfm": "PSA.143",
+      "human": "Salmos 143"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Petición de ayuda en medio de la prueba"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Masquil de David. Oración que hizo cuando estaba en la cueva."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Con mi voz clamaré a Jehová;",
+          "Con mi voz pediré a Jehová misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Delante de él expondré mi queja;",
+          "Delante de él manifestaré mi angustia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando mi espíritu se angustiaba dentro de mí, tú conociste mi senda.",
+          "En el camino en que andaba, me escondieron lazo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mira a mi diestra y observa, pues no hay quien me quiera conocer;",
+          "No tengo refugio, ni hay quien cuide de mi vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Clamé a ti, oh Jehová;",
+          "Dije: Tú eres mi esperanza,",
+          "Y mi porción en la tierra de los vivientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Escucha mi clamor, porque estoy muy afligido.",
+          "Líbrame de los que me persiguen, porque son más fuertes que yo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Saca mi alma de la cárcel, para que alabe tu nombre;",
+          "Me rodearán los justos,",
+          "Porque tú me serás propicio."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

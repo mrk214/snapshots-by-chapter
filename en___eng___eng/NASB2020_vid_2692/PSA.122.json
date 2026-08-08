@@ -1,1 +1,172 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.122","is_chapter":true,"previous":{"usfm":"PSA.121","human":"Psalm 121","canonical":true,"toc":true},"current":{"usfm":"PSA.122","human":"Psalm 122"},"next":{"usfm":"PSA.123","human":"Psalm 123","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 122"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Prayer for the Peace of Jerusalem."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents, of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I was glad when they said to me,","“Let’s go to the house of the Lord.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Our feet are standing","Within your gates, Jerusalem,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Jerusalem, that has been built","As a city that is firmly joined together;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["To which the tribes go up, the tribes of the Lord—","An ordinance for Israel—","To give thanks to the name of the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For thrones were set there for judgment,","The thrones of the house of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Pray for the peace of Jerusalem:","“May they prosper who love you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["“May peace be within your walls,","And prosperity within your palaces.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["For the sake of my brothers and my friends,","I will now say, “May peace be within you.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For the sake of the house of the Lord our God,","I will seek your good."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.121.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.123.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.122",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.121",
+      "human": "Psalm 121"
+    },
+    "current": {
+      "usfm": "PSA.122",
+      "human": "Psalm 122"
+    },
+    "next": {
+      "usfm": "PSA.123",
+      "human": "Psalm 123"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 122"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prayer for the Peace of Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents, of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I was glad when they said to me,",
+          "“Let’s go to the house of the Lord.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Our feet are standing",
+          "Within your gates, Jerusalem,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Jerusalem, that has been built",
+          "As a city that is firmly joined together;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "To which the tribes go up, the tribes of the Lord—",
+          "An ordinance for Israel—",
+          "To give thanks to the name of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For thrones were set there for judgment,",
+          "The thrones of the house of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Pray for the peace of Jerusalem:",
+          "“May they prosper who love you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "“May peace be within your walls,",
+          "And prosperity within your palaces.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "For the sake of my brothers and my friends,",
+          "I will now say, “May peace be within you.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For the sake of the house of the Lord our God,",
+          "I will seek your good."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

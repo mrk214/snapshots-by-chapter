@@ -1,1 +1,285 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"1SA","name":"1 Samuel"},"chapter":{"chapter_usfm":"1SA.8","is_chapter":true,"previous":{"usfm":"1SA.7","human":"1 Samuel 7","canonical":true,"toc":true},"current":{"usfm":"1SA.8","human":"1 Samuel 8"},"next":{"usfm":"1SA.9","human":"1 Samuel 9","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Israel pide un rey"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando Samuel envejeció, nombró a sus hijos como jueces de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Joel y Abías, sus hijos mayores, establecieron su corte en Beerseba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pero ellos no eran como su padre, porque codiciaban el dinero; aceptaban sobornos y pervertían la justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Finalmente, todos los ancianos de Israel se reunieron en Ramá para hablar del asunto con Samuel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["«Mira, Samuel —le dijeron—, ya eres anciano y tus hijos no son como tú. Danos un rey para que nos juzgue así como lo tienen las demás naciones»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Samuel se disgustó con esta petición y fue al Señor en busca de orientación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["«Haz todo lo que te digan —le respondió el Señor—, porque me están rechazando a mí y no a ti; ya no quieren que yo siga siendo su rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Desde que los saqué de Egipto me han abandonado continuamente y han seguido a otros dioses. Y ahora te tratan a ti de la misma manera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Haz lo que te pidan, pero adviérteles seriamente acerca de la manera en que reinará sobre ellos un rey»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Samuel advierte contra tener un rey"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces Samuel transmitió la advertencia del Señor al pueblo que pedía un rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["—Esta es la manera en que un rey gobernará sobre ustedes —les dijo—. El rey reclutará en el ejército a los hijos de ustedes y los asignará a los carros de guerra y a sus conductores, y los hará correr delante de sus carros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Algunos serán generales y capitanes del ejército, otros serán obligados a arar y a cosechar los cultivos del rey, y otros harán las armas y el equipo para los carros de guerra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El rey tomará a las hijas de ustedes y las obligará a cocinar, a hornear y a hacer perfumes para él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Les quitará a ustedes lo mejor de sus campos, viñedos y huertos de olivos, y se los dará a sus oficiales."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Tomará una décima parte de su grano y de sus cosechas de uvas y la repartirá entre sus oficiales y miembros de la corte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Les quitará sus esclavos y esclavas, y les exigirá lo mejor de sus ganados y burros para su propio uso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Les exigirá la décima parte de sus rebaños, y ustedes serán sus esclavos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Cuando llegue ese día, suplicarán ser aliviados de este rey que ahora piden, pero entonces el Señor no los ayudará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Sin embargo, el pueblo se negó a escuchar la advertencia de Samuel.","—Aun así, todavía queremos un rey —dijeron ellos—."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Nuestro deseo es ser como las naciones que nos rodean. El rey nos juzgará y será nuestro líder en las batallas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Así que Samuel le repitió al Señor lo que el pueblo dijo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["y el Señor respondió: «Haz lo que te piden y dales un rey». Entonces Samuel estuvo de acuerdo y los envió a sus casas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/1SA.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/1SA.9.json"
+  },
+  "book": {
+    "book_usfm": "1SA",
+    "name": "1 Samuel"
+  },
+  "chapter": {
+    "chapter_usfm": "1SA.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1SA.7",
+      "human": "1 Samuel 7"
+    },
+    "current": {
+      "usfm": "1SA.8",
+      "human": "1 Samuel 8"
+    },
+    "next": {
+      "usfm": "1SA.9",
+      "human": "1 Samuel 9"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Israel pide un rey"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando Samuel envejeció, nombró a sus hijos como jueces de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Joel y Abías, sus hijos mayores, establecieron su corte en Beerseba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pero ellos no eran como su padre, porque codiciaban el dinero; aceptaban sobornos y pervertían la justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Finalmente, todos los ancianos de Israel se reunieron en Ramá para hablar del asunto con Samuel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "«Mira, Samuel —le dijeron—, ya eres anciano y tus hijos no son como tú. Danos un rey para que nos juzgue así como lo tienen las demás naciones»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Samuel se disgustó con esta petición y fue al Señor en busca de orientación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "«Haz todo lo que te digan —le respondió el Señor—, porque me están rechazando a mí y no a ti; ya no quieren que yo siga siendo su rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Desde que los saqué de Egipto me han abandonado continuamente y han seguido a otros dioses. Y ahora te tratan a ti de la misma manera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Haz lo que te pidan, pero adviérteles seriamente acerca de la manera en que reinará sobre ellos un rey»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Samuel advierte contra tener un rey"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces Samuel transmitió la advertencia del Señor al pueblo que pedía un rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "—Esta es la manera en que un rey gobernará sobre ustedes —les dijo—. El rey reclutará en el ejército a los hijos de ustedes y los asignará a los carros de guerra y a sus conductores, y los hará correr delante de sus carros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Algunos serán generales y capitanes del ejército, otros serán obligados a arar y a cosechar los cultivos del rey, y otros harán las armas y el equipo para los carros de guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El rey tomará a las hijas de ustedes y las obligará a cocinar, a hornear y a hacer perfumes para él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Les quitará a ustedes lo mejor de sus campos, viñedos y huertos de olivos, y se los dará a sus oficiales."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Tomará una décima parte de su grano y de sus cosechas de uvas y la repartirá entre sus oficiales y miembros de la corte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Les quitará sus esclavos y esclavas, y les exigirá lo mejor de sus ganados y burros para su propio uso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Les exigirá la décima parte de sus rebaños, y ustedes serán sus esclavos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Cuando llegue ese día, suplicarán ser aliviados de este rey que ahora piden, pero entonces el Señor no los ayudará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Sin embargo, el pueblo se negó a escuchar la advertencia de Samuel.",
+          "—Aun así, todavía queremos un rey —dijeron ellos—."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Nuestro deseo es ser como las naciones que nos rodean. El rey nos juzgará y será nuestro líder en las batallas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Así que Samuel le repitió al Señor lo que el pueblo dijo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "y el Señor respondió: «Haz lo que te piden y dales un rey». Entonces Samuel estuvo de acuerdo y los envió a sus casas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

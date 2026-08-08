@@ -1,1 +1,245 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"MIC","name":"Micah"},"chapter":{"chapter_usfm":"MIC.2","is_chapter":true,"previous":{"usfm":"MIC.1","human":"Micah 1","canonical":true,"toc":true},"current":{"usfm":"MIC.2","human":"Micah 2"},"next":{"usfm":"MIC.3","human":"Micah 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Woe to Evildoers"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Woe to those who devise iniquity,","And work out evil on their beds!","At morning light they practice it,","Because it is in the power of their hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["They covet fields and take them by violence,","Also houses, and seize them.","So they oppress a man and his house,","A man and his inheritance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Therefore thus says the Lord:","“Behold, against this family I am devising disaster,","From which you cannot remove your necks;","Nor shall you walk haughtily,","For this is an evil time."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["In that day one shall take up a proverb against you,","And lament with a bitter lamentation, saying:","‘We are utterly destroyed!","He has changed the heritage of my people;","How He has removed it from me!","To a turncoat He has divided our fields.’ ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Therefore you will have no one to determine boundaries by lot","In the assembly of the Lord."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Lying Prophets"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Do not prattle,” you say to those who prophesy.","So they shall not prophesy to you;","They shall not return insult for insult."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["You who are named the house of Jacob:","“Is the Spirit of the Lord restricted?","Are these His doings?","Do not My words do good","To him who walks uprightly?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Lately My people have risen up as an enemy—","You pull off the robe with the garment","From those who trust you, as they pass by,","Like men returned from war."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The women of My people you cast out","From their pleasant houses;","From their children","You have taken away My glory forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["“Arise and depart,","For this is not your rest;","Because it is defiled, it shall destroy,","Yes, with utter destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["If a man should walk in a false spirit","And speak a lie, saying,","‘I will prophesy to you of wine and drink,’","Even he would be the prattler of this people."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Israel Restored"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["“I will surely assemble all of you, O Jacob,","I will surely gather the remnant of Israel;","I will put them together like sheep of the fold,","Like a flock in the midst of their pasture;","They shall make a loud noise because of so many people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The one who breaks open will come up before them;","They will break out,","Pass through the gate,","And go out by it;","Their king will pass before them,","With the Lord at their head.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MIC.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MIC.3.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Micah"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.1",
+      "human": "Micah 1"
+    },
+    "current": {
+      "usfm": "MIC.2",
+      "human": "Micah 2"
+    },
+    "next": {
+      "usfm": "MIC.3",
+      "human": "Micah 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Woe to Evildoers"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Woe to those who devise iniquity,",
+          "And work out evil on their beds!",
+          "At morning light they practice it,",
+          "Because it is in the power of their hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "They covet fields and take them by violence,",
+          "Also houses, and seize them.",
+          "So they oppress a man and his house,",
+          "A man and his inheritance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Therefore thus says the Lord:",
+          "“Behold, against this family I am devising disaster,",
+          "From which you cannot remove your necks;",
+          "Nor shall you walk haughtily,",
+          "For this is an evil time."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "In that day one shall take up a proverb against you,",
+          "And lament with a bitter lamentation, saying:",
+          "‘We are utterly destroyed!",
+          "He has changed the heritage of my people;",
+          "How He has removed it from me!",
+          "To a turncoat He has divided our fields.’ ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Therefore you will have no one to determine boundaries by lot",
+          "In the assembly of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lying Prophets"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Do not prattle,” you say to those who prophesy.",
+          "So they shall not prophesy to you;",
+          "They shall not return insult for insult."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "You who are named the house of Jacob:",
+          "“Is the Spirit of the Lord restricted?",
+          "Are these His doings?",
+          "Do not My words do good",
+          "To him who walks uprightly?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Lately My people have risen up as an enemy—",
+          "You pull off the robe with the garment",
+          "From those who trust you, as they pass by,",
+          "Like men returned from war."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The women of My people you cast out",
+          "From their pleasant houses;",
+          "From their children",
+          "You have taken away My glory forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "“Arise and depart,",
+          "For this is not your rest;",
+          "Because it is defiled, it shall destroy,",
+          "Yes, with utter destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "If a man should walk in a false spirit",
+          "And speak a lie, saying,",
+          "‘I will prophesy to you of wine and drink,’",
+          "Even he would be the prattler of this people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Israel Restored"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "“I will surely assemble all of you, O Jacob,",
+          "I will surely gather the remnant of Israel;",
+          "I will put them together like sheep of the fold,",
+          "Like a flock in the midst of their pasture;",
+          "They shall make a loud noise because of so many people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The one who breaks open will come up before them;",
+          "They will break out,",
+          "Pass through the gate,",
+          "And go out by it;",
+          "Their king will pass before them,",
+          "With the Lord at their head.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

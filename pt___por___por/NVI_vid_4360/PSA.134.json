@@ -1,1 +1,90 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.134","is_chapter":true,"previous":{"usfm":"PSA.133","human":"Salmos 133","canonical":true,"toc":true},"current":{"usfm":"PSA.134","human":"Salmos 134"},"next":{"usfm":"PSA.135","human":"Salmos 135","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cântico de Peregrinação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Venham! Bendigam o Senhor","todos vocês, servos do Senhor,","vocês, que servem de noite na casa do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Levantem as mãos na direção do santuário","e bendigam o Senhor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["De Sião os abençoe o Senhor,","que fez os céus e a terra!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.133.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.135.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.134",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "current": {
+      "usfm": "PSA.134",
+      "human": "Salmos 134"
+    },
+    "next": {
+      "usfm": "PSA.135",
+      "human": "Salmos 135"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de Peregrinação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Venham! Bendigam o Senhor",
+          "todos vocês, servos do Senhor,",
+          "vocês, que servem de noite na casa do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Levantem as mãos na direção do santuário",
+          "e bendigam o Senhor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "De Sião os abençoe o Senhor,",
+          "que fez os céus e a terra!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

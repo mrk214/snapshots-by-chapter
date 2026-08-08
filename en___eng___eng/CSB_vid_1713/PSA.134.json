@@ -1,1 +1,99 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.134","is_chapter":true,"previous":{"usfm":"PSA.133","human":"Psalms 133","canonical":true,"toc":true},"current":{"usfm":"PSA.134","human":"Psalms 134"},"next":{"usfm":"PSA.135","human":"Psalms 135","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Call to Evening Worship"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Now bless the Lord,","all you servants of the Lord","who stand in the Lord’s house at night!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lift up your hands in the holy place","and bless the Lord!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["May the Lord,","Maker of heaven and earth,","bless you from Zion."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.133.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.135.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.134",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.133",
+      "human": "Psalms 133"
+    },
+    "current": {
+      "usfm": "PSA.134",
+      "human": "Psalms 134"
+    },
+    "next": {
+      "usfm": "PSA.135",
+      "human": "Psalms 135"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Call to Evening Worship"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Now bless the Lord,",
+          "all you servants of the Lord",
+          "who stand in the Lord’s house at night!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lift up your hands in the holy place",
+          "and bless the Lord!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "May the Lord,",
+          "Maker of heaven and earth,",
+          "bless you from Zion."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

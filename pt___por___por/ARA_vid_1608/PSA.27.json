@@ -1,1 +1,239 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.27","is_chapter":true,"previous":{"usfm":"PSA.26","human":"Salmos 26","canonical":true,"toc":true},"current":{"usfm":"PSA.27","human":"Salmos 27"},"next":{"usfm":"PSA.28","human":"Salmos 28","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Anelo pela presença de Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor é a minha luz e a minha salvação;","de quem terei medo?","O Senhor é a fortaleza da minha vida;","a quem temerei?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Quando malfeitores me sobrevêm","para me destruir,","meus opressores e inimigos,","eles é que tropeçam e caem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ainda que um exército se acampe contra mim,","não se atemorizará o meu coração;","e, se estourar contra mim a guerra,","ainda assim terei confiança."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Uma coisa peço ao Senhor,","e a buscarei:","que eu possa morar na Casa do Senhor","todos os dias da minha vida,","para contemplar a beleza do Senhor","e meditar no seu templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois, no dia da adversidade,","ele me ocultará no seu pavilhão;","no recôndito do seu tabernáculo, me acolherá;","elevar-me-á sobre uma rocha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Agora, será exaltada a minha cabeça","acima dos inimigos que me cercam.","No seu tabernáculo, oferecerei","sacrifício de júbilo;","cantarei e salmodiarei ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ouve, Senhor, a minha voz; eu clamo;","compadece-te de mim e responde-me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ao meu coração me ocorre: Buscai a minha presença;","buscarei, pois, Senhor, a tua presença."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Não me escondas, Senhor, a tua face,","não rejeites com ira o teu servo;","tu és o meu auxílio,","não me recuses, nem me desampares,","ó Deus da minha salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Porque, se meu pai e minha mãe me desampararem,","o Senhor me acolherá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ensina-me, Senhor, o teu caminho","e guia-me por vereda plana,","por causa dos que me espreitam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Não me deixes à vontade dos meus adversários;","pois contra mim se levantam falsas testemunhas","e os que só respiram crueldade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Eu creio que verei a bondade do Senhor","na terra dos viventes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Espera pelo Senhor,","tem bom ânimo, e fortifique-se o teu coração;","espera, pois, pelo Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.26.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.28.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.27",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.26",
+      "human": "Salmos 26"
+    },
+    "current": {
+      "usfm": "PSA.27",
+      "human": "Salmos 27"
+    },
+    "next": {
+      "usfm": "PSA.28",
+      "human": "Salmos 28"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Anelo pela presença de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor é a minha luz e a minha salvação;",
+          "de quem terei medo?",
+          "O Senhor é a fortaleza da minha vida;",
+          "a quem temerei?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Quando malfeitores me sobrevêm",
+          "para me destruir,",
+          "meus opressores e inimigos,",
+          "eles é que tropeçam e caem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ainda que um exército se acampe contra mim,",
+          "não se atemorizará o meu coração;",
+          "e, se estourar contra mim a guerra,",
+          "ainda assim terei confiança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Uma coisa peço ao Senhor,",
+          "e a buscarei:",
+          "que eu possa morar na Casa do Senhor",
+          "todos os dias da minha vida,",
+          "para contemplar a beleza do Senhor",
+          "e meditar no seu templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois, no dia da adversidade,",
+          "ele me ocultará no seu pavilhão;",
+          "no recôndito do seu tabernáculo, me acolherá;",
+          "elevar-me-á sobre uma rocha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Agora, será exaltada a minha cabeça",
+          "acima dos inimigos que me cercam.",
+          "No seu tabernáculo, oferecerei",
+          "sacrifício de júbilo;",
+          "cantarei e salmodiarei ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ouve, Senhor, a minha voz; eu clamo;",
+          "compadece-te de mim e responde-me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ao meu coração me ocorre: Buscai a minha presença;",
+          "buscarei, pois, Senhor, a tua presença."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Não me escondas, Senhor, a tua face,",
+          "não rejeites com ira o teu servo;",
+          "tu és o meu auxílio,",
+          "não me recuses, nem me desampares,",
+          "ó Deus da minha salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Porque, se meu pai e minha mãe me desampararem,",
+          "o Senhor me acolherá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ensina-me, Senhor, o teu caminho",
+          "e guia-me por vereda plana,",
+          "por causa dos que me espreitam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Não me deixes à vontade dos meus adversários;",
+          "pois contra mim se levantam falsas testemunhas",
+          "e os que só respiram crueldade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Eu creio que verei a bondade do Senhor",
+          "na terra dos viventes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Espera pelo Senhor,",
+          "tem bom ânimo, e fortifique-se o teu coração;",
+          "espera, pois, pelo Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

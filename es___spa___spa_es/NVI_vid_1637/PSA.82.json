@@ -1,1 +1,153 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Salmo 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Salmo 82"},"next":{"usfm":"PSA.83","human":"Salmo 83","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios preside el consejo celestial;","entre los dioses dicta sentencia:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¿Hasta cuándo defenderéis la injusticia","y favoreceréis a los impíos?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Defended la causa del huérfano y del desvalido;","al pobre y al oprimido hacedles justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Salvad al menesteroso y al necesitado;","libradlos de la mano de los impíos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Ellos no saben nada, no entienden nada.","Deambulan en la oscuridad;","se estremecen todos los cimientos de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Yo les he dicho: “Vosotros sois dioses;","todos vosotros sois hijos del Altísimo”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero moriréis como cualquier mortal;","caeréis como cualquier otro gobernante»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levántate, oh Dios, y juzga a la tierra,","pues tuyas son todas las naciones."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Salmo 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Salmo 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Salmo 83"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios preside el consejo celestial;",
+          "entre los dioses dicta sentencia:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¿Hasta cuándo defenderéis la injusticia",
+          "y favoreceréis a los impíos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Defended la causa del huérfano y del desvalido;",
+          "al pobre y al oprimido hacedles justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Salvad al menesteroso y al necesitado;",
+          "libradlos de la mano de los impíos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Ellos no saben nada, no entienden nada.",
+          "Deambulan en la oscuridad;",
+          "se estremecen todos los cimientos de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Yo les he dicho: “Vosotros sois dioses;",
+          "todos vosotros sois hijos del Altísimo”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero moriréis como cualquier mortal;",
+          "caeréis como cualquier otro gobernante»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levántate, oh Dios, y juzga a la tierra,",
+          "pues tuyas son todas las naciones."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

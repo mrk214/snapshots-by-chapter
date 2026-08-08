@@ -1,1 +1,256 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"ECC","name":"Eclesiastes"},"chapter":{"chapter_usfm":"ECC.10","is_chapter":true,"previous":{"usfm":"ECC.9","human":"Eclesiastes 9","canonical":true,"toc":true},"current":{"usfm":"ECC.10","human":"Eclesiastes 10"},"next":{"usfm":"ECC.11","human":"Eclesiastes 11","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A excelência da sabedoria"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["As moscas mortas fazem com que o óleo do perfumista se estrague e produza mau cheiro. Do mesmo modo, um pouco de insensatez pesa mais do que a sabedoria e a honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O coração do sábio o inclina para a direita, mas o coração do tolo o inclina para a esquerda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mesmo quando anda pelo caminho, falta entendimento ao tolo, e ele mostra a todos que é tolo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se a indignação do governador se levantar contra ti, não deixes o teu posto, pois a calma evita grandes erros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Há outro mal que vi debaixo do sol, semelhante ao erro cometido pelo governador:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["a tolice posta em grande dignidade, e os ricos assentados em lugar inferior."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tenho visto servos montados a cavalo e príncipes andando a pé, como servos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Quem abre uma cova, cairá nela; e quem derrubar um muro, uma cobra o morderá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Quem remove pedras se machucará com elas, e o que racha lenha corre perigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Se o machado perder o corte e não for afiado, é preciso muita força; mas a sabedoria é proveitosa para dar prosperidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Se a cobra morder antes de estar encantada, para que existe o encantador?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["As palavras da boca do sábio são agradáveis, mas os lábios do tolo o devoram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["No início, as palavras da sua boca são tolice e no final são loucura perversa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["O tolo multiplica as palavras, porém ninguém sabe o que está por vir; quem poderá dizer o que acontecerá depois dele?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["O trabalho do tolo o deixa tão exausto que não consegue ir à cidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Ó terra, ai de ti quando o teu rei é inexperiente, e quando os teus príncipes banqueteiam de manhã!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Ó terra, feliz de ti se o teu rei é filho de nobres e se os teus príncipes comem no tempo certo para refazer as forças e não para bebedice!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["O teto desmorona por causa da preguiça; a casa tem goteiras por causa da lerdeza das mãos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["O banquete traz diversão, e o vinho alegra a vida; mas o dinheiro consegue tudo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Não amaldiçoes o rei nem mesmo em pensamento. Nem amaldiçoes o rico em teu quarto. Porque as aves dos céus levarão as palavras e uma criatura alada poderá espalhar o que disseste."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/ECC.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/ECC.11.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastes"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.9",
+      "human": "Eclesiastes 9"
+    },
+    "current": {
+      "usfm": "ECC.10",
+      "human": "Eclesiastes 10"
+    },
+    "next": {
+      "usfm": "ECC.11",
+      "human": "Eclesiastes 11"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A excelência da sabedoria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "As moscas mortas fazem com que o óleo do perfumista se estrague e produza mau cheiro. Do mesmo modo, um pouco de insensatez pesa mais do que a sabedoria e a honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O coração do sábio o inclina para a direita, mas o coração do tolo o inclina para a esquerda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mesmo quando anda pelo caminho, falta entendimento ao tolo, e ele mostra a todos que é tolo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se a indignação do governador se levantar contra ti, não deixes o teu posto, pois a calma evita grandes erros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Há outro mal que vi debaixo do sol, semelhante ao erro cometido pelo governador:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "a tolice posta em grande dignidade, e os ricos assentados em lugar inferior."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tenho visto servos montados a cavalo e príncipes andando a pé, como servos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Quem abre uma cova, cairá nela; e quem derrubar um muro, uma cobra o morderá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Quem remove pedras se machucará com elas, e o que racha lenha corre perigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Se o machado perder o corte e não for afiado, é preciso muita força; mas a sabedoria é proveitosa para dar prosperidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Se a cobra morder antes de estar encantada, para que existe o encantador?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "As palavras da boca do sábio são agradáveis, mas os lábios do tolo o devoram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "No início, as palavras da sua boca são tolice e no final são loucura perversa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "O tolo multiplica as palavras, porém ninguém sabe o que está por vir; quem poderá dizer o que acontecerá depois dele?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "O trabalho do tolo o deixa tão exausto que não consegue ir à cidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Ó terra, ai de ti quando o teu rei é inexperiente, e quando os teus príncipes banqueteiam de manhã!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Ó terra, feliz de ti se o teu rei é filho de nobres e se os teus príncipes comem no tempo certo para refazer as forças e não para bebedice!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "O teto desmorona por causa da preguiça; a casa tem goteiras por causa da lerdeza das mãos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "O banquete traz diversão, e o vinho alegra a vida; mas o dinheiro consegue tudo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Não amaldiçoes o rei nem mesmo em pensamento. Nem amaldiçoes o rico em teu quarto. Porque as aves dos céus levarão as palavras e uma criatura alada poderá espalhar o que disseste."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

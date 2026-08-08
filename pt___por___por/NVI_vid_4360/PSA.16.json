@@ -1,1 +1,180 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.16","is_chapter":true,"previous":{"usfm":"PSA.15","human":"Salmos 15","canonical":true,"toc":true},"current":{"usfm":"PSA.16","human":"Salmos 16"},"next":{"usfm":"PSA.17","human":"Salmos 17","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Poema epigráfico davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Protege-me, ó Deus,","pois em ti me refugio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ao Senhor declaro: “Tu és o meu Senhor;","não tenho bem nenhum além de ti”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quanto aos fiéis que há na terra,","eles é que são os notáveis em quem está todo o meu prazer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Grande será o sofrimento dos que correm atrás de outros deuses.","Não participarei dos seus sacrifícios de sangue,","e os meus lábios nem mencionarão os seus nomes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Senhor, tu és a minha porção e o meu cálice;","és tu que garantes o meu futuro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["As divisas caíram para mim","em lugares agradáveis:","Tenho uma bela herança!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Bendirei o Senhor, que me aconselha;","na escura noite o meu coração me ensina!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Sempre tenho o Senhor diante de mim.","Com ele à minha direita, não serei abalado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Por isso o meu coração se alegra e no íntimo exulto;","mesmo o meu corpo repousará tranquilo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["porque tu não me abandonarás no sepulcro,","nem permitirás que o teu santo sofra decomposição."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Tu me farás conhecer a vereda da vida,","a alegria plena da tua presença,","eterno prazer à tua direita."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.17.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "current": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "next": {
+      "usfm": "PSA.17",
+      "human": "Salmos 17"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Poema epigráfico davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Protege-me, ó Deus,",
+          "pois em ti me refugio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ao Senhor declaro: “Tu és o meu Senhor;",
+          "não tenho bem nenhum além de ti”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quanto aos fiéis que há na terra,",
+          "eles é que são os notáveis em quem está todo o meu prazer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Grande será o sofrimento dos que correm atrás de outros deuses.",
+          "Não participarei dos seus sacrifícios de sangue,",
+          "e os meus lábios nem mencionarão os seus nomes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Senhor, tu és a minha porção e o meu cálice;",
+          "és tu que garantes o meu futuro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "As divisas caíram para mim",
+          "em lugares agradáveis:",
+          "Tenho uma bela herança!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Bendirei o Senhor, que me aconselha;",
+          "na escura noite o meu coração me ensina!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Sempre tenho o Senhor diante de mim.",
+          "Com ele à minha direita, não serei abalado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Por isso o meu coração se alegra e no íntimo exulto;",
+          "mesmo o meu corpo repousará tranquilo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "porque tu não me abandonarás no sepulcro,",
+          "nem permitirás que o teu santo sofra decomposição."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Tu me farás conhecer a vereda da vida,",
+          "a alegria plena da tua presença,",
+          "eterno prazer à tua direita."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

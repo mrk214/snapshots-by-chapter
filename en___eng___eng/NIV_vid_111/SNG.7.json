@@ -1,1 +1,224 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"SNG","name":"Song of Songs"},"chapter":{"chapter_usfm":"SNG.7","is_chapter":true,"previous":{"usfm":"SNG.6","human":"Song of Songs 6","canonical":true,"toc":true},"current":{"usfm":"SNG.7","human":"Song of Songs 7"},"next":{"usfm":"SNG.8","human":"Song of Songs 8","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["How beautiful your sandaled feet,","O prince’s daughter!","Your graceful legs are like jewels,","the work of an artist’s hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Your navel is a rounded goblet","that never lacks blended wine.","Your waist is a mound of wheat","encircled by lilies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Your breasts are like two fawns,","like twin fawns of a gazelle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Your neck is like an ivory tower.","Your eyes are the pools of Heshbon","by the gate of Bath Rabbim.","Your nose is like the tower of Lebanon","looking toward Damascus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Your head crowns you like Mount Carmel.","Your hair is like royal tapestry;","the king is held captive by its tresses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["How beautiful you are and how pleasing,","my love, with your delights!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Your stature is like that of the palm,","and your breasts like clusters of fruit."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I said, “I will climb the palm tree;","I will take hold of its fruit.”","May your breasts be like clusters of grapes on the vine,","the fragrance of your breath like apples,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["and your mouth like the best wine."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["She"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["May the wine go straight to my beloved,","flowing gently over lips and teeth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I belong to my beloved,","and his desire is for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Come, my beloved, let us go to the countryside,","let us spend the night in the villages."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Let us go early to the vineyards","to see if the vines have budded,","if their blossoms have opened,","and if the pomegranates are in bloom—","there I will give you my love."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The mandrakes send out their fragrance,","and at our door is every delicacy,","both new and old,","that I have stored up for you, my beloved."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/SNG.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/SNG.8.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Song of Songs"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.6",
+      "human": "Song of Songs 6"
+    },
+    "current": {
+      "usfm": "SNG.7",
+      "human": "Song of Songs 7"
+    },
+    "next": {
+      "usfm": "SNG.8",
+      "human": "Song of Songs 8"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How beautiful your sandaled feet,",
+          "O prince’s daughter!",
+          "Your graceful legs are like jewels,",
+          "the work of an artist’s hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Your navel is a rounded goblet",
+          "that never lacks blended wine.",
+          "Your waist is a mound of wheat",
+          "encircled by lilies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Your breasts are like two fawns,",
+          "like twin fawns of a gazelle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Your neck is like an ivory tower.",
+          "Your eyes are the pools of Heshbon",
+          "by the gate of Bath Rabbim.",
+          "Your nose is like the tower of Lebanon",
+          "looking toward Damascus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Your head crowns you like Mount Carmel.",
+          "Your hair is like royal tapestry;",
+          "the king is held captive by its tresses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "How beautiful you are and how pleasing,",
+          "my love, with your delights!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Your stature is like that of the palm,",
+          "and your breasts like clusters of fruit."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I said, “I will climb the palm tree;",
+          "I will take hold of its fruit.”",
+          "May your breasts be like clusters of grapes on the vine,",
+          "the fragrance of your breath like apples,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "and your mouth like the best wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "She"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "May the wine go straight to my beloved,",
+          "flowing gently over lips and teeth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I belong to my beloved,",
+          "and his desire is for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Come, my beloved, let us go to the countryside,",
+          "let us spend the night in the villages."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Let us go early to the vineyards",
+          "to see if the vines have budded,",
+          "if their blossoms have opened,",
+          "and if the pomegranates are in bloom—",
+          "there I will give you my love."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The mandrakes send out their fragrance,",
+          "and at our door is every delicacy,",
+          "both new and old,",
+          "that I have stored up for you, my beloved."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

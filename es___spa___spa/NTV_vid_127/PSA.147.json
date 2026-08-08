@@ -1,1 +1,271 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.147","is_chapter":true,"previous":{"usfm":"PSA.146","human":"Salmos 146","canonical":true,"toc":true},"current":{"usfm":"PSA.147","human":"Salmos 147"},"next":{"usfm":"PSA.148","human":"Salmos 148","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["¡Alabado sea el Señor!","¡Qué bueno es cantar alabanzas a nuestro Dios!","¡Qué agradable y apropiado!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor reconstruye a Jerusalén","y trae a los desterrados de vuelta a Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Él sana a los de corazón quebrantado","y les venda las heridas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuenta las estrellas","y llama a cada una por su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Qué grande es nuestro Señor! ¡Su poder es absoluto!","¡Su comprensión supera todo entendimiento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El Señor sostiene a los humildes,","pero derriba a los perversos y los hace morder el polvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Canten su gratitud al Señor;","al son del arpa, entonen alabanzas a nuestro Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Él cubre los cielos con nubes,","provee lluvia a la tierra,","y hace crecer la hierba en los pastizales de los montes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Da alimento a los animales salvajes","y alimenta a las crías del cuervo cuando chillan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No se complace en la fuerza del caballo","ni en el poder del ser humano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["No, el Señor se deleita en los que le temen,","en los que ponen su esperanza en su amor inagotable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¡Glorifica al Señor, oh Jerusalén!","¡Alaba a tu Dios, oh Sion!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pues él ha reforzado las rejas de tus puertas","y ha bendecido a tus hijos que habitan dentro de tus murallas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Envía paz por toda tu nación","y te sacia el hambre con el mejor trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Envía sus órdenes al mundo;","¡qué veloz corre su palabra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Envía la nieve como lana blanca","y esparce la escarcha sobre la tierra como ceniza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Lanza el granizo como piedras.","¿Quién puede resistir su frío congelante?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Luego, a su orden todo se derrite;","envía sus vientos y el hielo se disuelve."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Dios reveló su palabra a Jacob,","sus decretos y ordenanzas a Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["No ha hecho esto con ninguna otra nación;","las demás naciones no conocen sus ordenanzas.","¡Alabado sea el Señor!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.146.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.148.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.147",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.146",
+      "human": "Salmos 146"
+    },
+    "current": {
+      "usfm": "PSA.147",
+      "human": "Salmos 147"
+    },
+    "next": {
+      "usfm": "PSA.148",
+      "human": "Salmos 148"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Alabado sea el Señor!",
+          "¡Qué bueno es cantar alabanzas a nuestro Dios!",
+          "¡Qué agradable y apropiado!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor reconstruye a Jerusalén",
+          "y trae a los desterrados de vuelta a Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Él sana a los de corazón quebrantado",
+          "y les venda las heridas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuenta las estrellas",
+          "y llama a cada una por su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Qué grande es nuestro Señor! ¡Su poder es absoluto!",
+          "¡Su comprensión supera todo entendimiento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El Señor sostiene a los humildes,",
+          "pero derriba a los perversos y los hace morder el polvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Canten su gratitud al Señor;",
+          "al son del arpa, entonen alabanzas a nuestro Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Él cubre los cielos con nubes,",
+          "provee lluvia a la tierra,",
+          "y hace crecer la hierba en los pastizales de los montes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Da alimento a los animales salvajes",
+          "y alimenta a las crías del cuervo cuando chillan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No se complace en la fuerza del caballo",
+          "ni en el poder del ser humano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "No, el Señor se deleita en los que le temen,",
+          "en los que ponen su esperanza en su amor inagotable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¡Glorifica al Señor, oh Jerusalén!",
+          "¡Alaba a tu Dios, oh Sion!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pues él ha reforzado las rejas de tus puertas",
+          "y ha bendecido a tus hijos que habitan dentro de tus murallas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Envía paz por toda tu nación",
+          "y te sacia el hambre con el mejor trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Envía sus órdenes al mundo;",
+          "¡qué veloz corre su palabra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Envía la nieve como lana blanca",
+          "y esparce la escarcha sobre la tierra como ceniza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Lanza el granizo como piedras.",
+          "¿Quién puede resistir su frío congelante?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Luego, a su orden todo se derrite;",
+          "envía sus vientos y el hielo se disuelve."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Dios reveló su palabra a Jacob,",
+          "sus decretos y ordenanzas a Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "No ha hecho esto con ninguna otra nación;",
+          "las demás naciones no conocen sus ordenanzas.",
+          "¡Alabado sea el Señor!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

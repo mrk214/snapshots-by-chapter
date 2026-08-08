@@ -1,1 +1,123 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.127","is_chapter":true,"previous":{"usfm":"PSA.126","human":"Salmos 126","canonical":true,"toc":true},"current":{"usfm":"PSA.127","human":"Salmos 127"},"next":{"usfm":"PSA.128","human":"Salmos 128","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Todo bem procede de Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de romagem. De Salomão"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Se o Senhor não edificar a casa,","em vão trabalham os que a edificam;","se o Senhor não guardar a cidade,","em vão vigia a sentinela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Inútil vos será levantar de madrugada, repousar tarde,","comer o pão que penosamente granjeastes;","aos seus amados ele o dá enquanto dormem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Herança do Senhor são os filhos;","o fruto do ventre, seu galardão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Como flechas na mão do guerreiro,","assim os filhos da mocidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Feliz o homem que enche deles a sua aljava;","não será envergonhado,","quando pleitear com os inimigos à porta."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.126.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.128.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.127",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "current": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "next": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Todo bem procede de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de romagem. De Salomão"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Se o Senhor não edificar a casa,",
+          "em vão trabalham os que a edificam;",
+          "se o Senhor não guardar a cidade,",
+          "em vão vigia a sentinela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Inútil vos será levantar de madrugada, repousar tarde,",
+          "comer o pão que penosamente granjeastes;",
+          "aos seus amados ele o dá enquanto dormem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Herança do Senhor são os filhos;",
+          "o fruto do ventre, seu galardão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Como flechas na mão do guerreiro,",
+          "assim os filhos da mocidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Feliz o homem que enche deles a sua aljava;",
+          "não será envergonhado,",
+          "quando pleitear com os inimigos à porta."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

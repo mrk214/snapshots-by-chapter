@@ -1,1 +1,337 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"NUM","name":"Numbers"},"chapter":{"chapter_usfm":"NUM.24","is_chapter":true,"previous":{"usfm":"NUM.23","human":"Numbers 23","canonical":true,"toc":true},"current":{"usfm":"NUM.24","human":"Numbers 24"},"next":{"usfm":"NUM.25","human":"Numbers 25","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And he took up his parable, and said,","Balaam the son of Beor hath said,","And the man whose eyes are open hath said:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He hath said, which heard the words of God,","Which saw the vision of the Almighty,","Falling into a trance, but having his eyes open:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["How goodly are thy tents, O Jacob,","And thy tabernacles, O Israel!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["As the valleys are they spread forth,","As gardens by the river's side,","As the trees of lign aloes which the LORD hath planted,","And as cedar trees beside the waters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He shall pour the water out of his buckets,","And his seed shall be in many waters,","And his king shall be higher than Agag,","And his kingdom shall be exalted."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["God brought him forth out of Egypt;","He hath as it were the strength of an unicorn:","He shall eat up the nations his enemies,","And shall break their bones,","And pierce them through with his arrows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He couched, he lay down as a lion,","And as a great lion: who shall stir him up?","Blessed is he that blesseth thee,","And cursed is he that curseth thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["And he took up his parable, and said,","Balaam the son of Beor hath said,","And the man whose eyes are open hath said:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He hath said, which heard the words of God,","And knew the knowledge of the Most High,","Which saw the vision of the Almighty,","Falling into a trance, but having his eyes open:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I shall see him, but not now:","I shall behold him, but not nigh:","There shall come a Star out of Jacob,","And a Sceptre shall rise out of Israel,","And shall smite the corners of Moab,","And destroy all the children of Sheth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["And Edom shall be a possession,","Seir also shall be a possession for his enemies;","And Israel shall do valiantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Out of Jacob shall come he that shall have dominion,","And shall destroy him that remaineth of the city."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["And when he looked on Amalek, he took up his parable, and said,","Amalek was the first of the nations;","But his latter end shall be that he perish for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["And he looked on the Kenites, and took up his parable, and said,","Strong is thy dwellingplace,","And thou puttest thy nest in a rock."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Nevertheless the Kenite shall be wasted,","Until Asshur shall carry thee away captive."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["And he took up his parable, and said,","Alas, who shall live when God doeth this!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["And ships shall come from the coast of Chittim,","And shall afflict Asshur, and shall afflict Eber,","And he also shall perish for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["And Balaam rose up, and went and returned to his place: and Balak also went his way."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.23.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.25.json"
+  },
+  "book": {
+    "book_usfm": "NUM",
+    "name": "Numbers"
+  },
+  "chapter": {
+    "chapter_usfm": "NUM.24",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NUM.23",
+      "human": "Numbers 23"
+    },
+    "current": {
+      "usfm": "NUM.24",
+      "human": "Numbers 24"
+    },
+    "next": {
+      "usfm": "NUM.25",
+      "human": "Numbers 25"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And when Balaam saw that it pleased the LORD to bless Israel, he went not, as at other times, to seek for enchantments, but he set his face toward the wilderness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And Balaam lifted up his eyes, and he saw Israel abiding in his tents according to their tribes; and the spirit of God came upon him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And he took up his parable, and said,",
+          "Balaam the son of Beor hath said,",
+          "And the man whose eyes are open hath said:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He hath said, which heard the words of God,",
+          "Which saw the vision of the Almighty,",
+          "Falling into a trance, but having his eyes open:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "How goodly are thy tents, O Jacob,",
+          "And thy tabernacles, O Israel!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "As the valleys are they spread forth,",
+          "As gardens by the river's side,",
+          "As the trees of lign aloes which the LORD hath planted,",
+          "And as cedar trees beside the waters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He shall pour the water out of his buckets,",
+          "And his seed shall be in many waters,",
+          "And his king shall be higher than Agag,",
+          "And his kingdom shall be exalted."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "God brought him forth out of Egypt;",
+          "He hath as it were the strength of an unicorn:",
+          "He shall eat up the nations his enemies,",
+          "And shall break their bones,",
+          "And pierce them through with his arrows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He couched, he lay down as a lion,",
+          "And as a great lion: who shall stir him up?",
+          "Blessed is he that blesseth thee,",
+          "And cursed is he that curseth thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And Balak's anger was kindled against Balaam, and he smote his hands together: and Balak said unto Balaam, I called thee to curse mine enemies, and, behold, thou hast altogether blessed them these three times."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Therefore now flee thou to thy place: I thought to promote thee unto great honour; but, lo, the LORD hath kept thee back from honour."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And Balaam said unto Balak, Spake I not also to thy messengers which thou sentest unto me, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "If Balak would give me his house full of silver and gold, I cannot go beyond the commandment of the LORD, to do either good or bad of mine own mind; but what the LORD saith, that will I speak?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And now, behold, I go unto my people: come therefore, and I will advertise thee what this people shall do to thy people in the latter days."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "And he took up his parable, and said,",
+          "Balaam the son of Beor hath said,",
+          "And the man whose eyes are open hath said:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He hath said, which heard the words of God,",
+          "And knew the knowledge of the Most High,",
+          "Which saw the vision of the Almighty,",
+          "Falling into a trance, but having his eyes open:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I shall see him, but not now:",
+          "I shall behold him, but not nigh:",
+          "There shall come a Star out of Jacob,",
+          "And a Sceptre shall rise out of Israel,",
+          "And shall smite the corners of Moab,",
+          "And destroy all the children of Sheth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "And Edom shall be a possession,",
+          "Seir also shall be a possession for his enemies;",
+          "And Israel shall do valiantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Out of Jacob shall come he that shall have dominion,",
+          "And shall destroy him that remaineth of the city."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "And when he looked on Amalek, he took up his parable, and said,",
+          "Amalek was the first of the nations;",
+          "But his latter end shall be that he perish for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "And he looked on the Kenites, and took up his parable, and said,",
+          "Strong is thy dwellingplace,",
+          "And thou puttest thy nest in a rock."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Nevertheless the Kenite shall be wasted,",
+          "Until Asshur shall carry thee away captive."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "And he took up his parable, and said,",
+          "Alas, who shall live when God doeth this!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "And ships shall come from the coast of Chittim,",
+          "And shall afflict Asshur, and shall afflict Eber,",
+          "And he also shall perish for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "And Balaam rose up, and went and returned to his place: and Balak also went his way."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

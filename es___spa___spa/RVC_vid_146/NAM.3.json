@@ -1,1 +1,290 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"NAM","name":"Nahúm"},"chapter":{"chapter_usfm":"NAM.3","is_chapter":true,"previous":{"usfm":"NAM.2","human":"Nahúm 2","canonical":true,"toc":true},"current":{"usfm":"NAM.3","human":"Nahúm 3"},"next":{"usfm":"HAB.1","human":"Habacuc 1","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["«¡Ay de ti, ciudad sanguinaria!","¡Rebosando estás de mentira y de rapiña,","pero no renuncias al pillaje!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["»Chasquido de látigos, fragor de ruedas,","galope de caballos, estridencia de carruajes,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡y carga de la caballería!","¡Brillan las espadas, centellean las lanzas!","¡Son muchos los caídos! ¡Abundan los cadáveres!","¡No es posible contar los cuerpos inertes","con los que todo el mundo tropieza!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»¡Y todo por culpa tuya,","ramera de cara bonita, maestra en hechizos!","¡Con tus muchos encantos y tu procaz liviandad","sedujiste a pueblos y naciones!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Pero yo estoy contra ti!","Voy a levantarte la falda hasta el rostro,","y expondré ante naciones y reinos","tu desnudez y tu vergüenza.","—Palabra del Señor de los ejércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Voy a humillarte.","Voy a lanzar inmundicias sobre ti.","¡Voy a ponerte como estiércol!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos los que te vean dirán,","mientras se apartan de ti:","“Nínive ha sido devastada.","¿Quién se compadecerá de ella?","¿Dónde hallaré quien la consuele?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»¿Acaso eres tú mejor que Tebas,","la ciudad asentada junto al Nilo,","que se creía protegida por el mar,","por estar rodeada de tantas aguas?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Etiopía y Egipto la apoyaban siempre,","Fut y Libia le brindaban su apoyo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Sin embargo, Tebas marchó al cautiverio.","Sus niños fueron estrellados contra el suelo","en los cruceros de las calles;","sus varones fueron repartidos por sorteo,","y todos sus magnates fueron encadenados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»También tú serás embriagada y encarcelada.","También tú buscarás esconderte del enemigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Tus fortalezas serán como las higueras:","cuando las brevas ya están maduras,","a la menor sacudida caen en la boca","del que se las quiere comer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["En tus calles, los hombres se acobardarán;","el país quedará indefenso ante el enemigo,","y el fuego consumirá tus cerrojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["»Aunque te abastezcas de agua para el asedio,","aunque refuerces tus fortalezas,","aunque te metas en el lodo y lo apisones,","y prepares el horno para hacer ladrillos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["te consumirá el fuego y te derribará la espada.","Aunque te multipliques como las langostas,","la espada te consumirá como el pulgón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["»Tus mercaderes llegaron a multiplicarse","más que las estrellas del cielo,","pero llenos de miedo se dieron a la fuga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Eran tus príncipes y tus magnates","tan voraces como una nube de langostas;","en los días fríos se sentaban en los muros.","¡Pero el sol salió, y desaparecieron,","y nunca más se supo de ellas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["»Rey de Asiria, tus pastores ya han muerto.","Para siempre reposan tus valientes.","Tu pueblo anda disperso por las montañas,","y no hay nadie que pueda congregarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Tus fracturas no tienen remedio.","Tus heridas son incurables.","Todos los que sepan lo que te ha pasado","batirán las manos y se alegrarán de ti.","¿Y quién no sufrió tu constante maldad?»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/NAM.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HAB.1.json"
+  },
+  "book": {
+    "book_usfm": "NAM",
+    "name": "Nahúm"
+  },
+  "chapter": {
+    "chapter_usfm": "NAM.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NAM.2",
+      "human": "Nahúm 2"
+    },
+    "current": {
+      "usfm": "NAM.3",
+      "human": "Nahúm 3"
+    },
+    "next": {
+      "usfm": "HAB.1",
+      "human": "Habacuc 1"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "«¡Ay de ti, ciudad sanguinaria!",
+          "¡Rebosando estás de mentira y de rapiña,",
+          "pero no renuncias al pillaje!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "»Chasquido de látigos, fragor de ruedas,",
+          "galope de caballos, estridencia de carruajes,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡y carga de la caballería!",
+          "¡Brillan las espadas, centellean las lanzas!",
+          "¡Son muchos los caídos! ¡Abundan los cadáveres!",
+          "¡No es posible contar los cuerpos inertes",
+          "con los que todo el mundo tropieza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»¡Y todo por culpa tuya,",
+          "ramera de cara bonita, maestra en hechizos!",
+          "¡Con tus muchos encantos y tu procaz liviandad",
+          "sedujiste a pueblos y naciones!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Pero yo estoy contra ti!",
+          "Voy a levantarte la falda hasta el rostro,",
+          "y expondré ante naciones y reinos",
+          "tu desnudez y tu vergüenza.",
+          "—Palabra del Señor de los ejércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Voy a humillarte.",
+          "Voy a lanzar inmundicias sobre ti.",
+          "¡Voy a ponerte como estiércol!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos los que te vean dirán,",
+          "mientras se apartan de ti:",
+          "“Nínive ha sido devastada.",
+          "¿Quién se compadecerá de ella?",
+          "¿Dónde hallaré quien la consuele?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»¿Acaso eres tú mejor que Tebas,",
+          "la ciudad asentada junto al Nilo,",
+          "que se creía protegida por el mar,",
+          "por estar rodeada de tantas aguas?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Etiopía y Egipto la apoyaban siempre,",
+          "Fut y Libia le brindaban su apoyo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Sin embargo, Tebas marchó al cautiverio.",
+          "Sus niños fueron estrellados contra el suelo",
+          "en los cruceros de las calles;",
+          "sus varones fueron repartidos por sorteo,",
+          "y todos sus magnates fueron encadenados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»También tú serás embriagada y encarcelada.",
+          "También tú buscarás esconderte del enemigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Tus fortalezas serán como las higueras:",
+          "cuando las brevas ya están maduras,",
+          "a la menor sacudida caen en la boca",
+          "del que se las quiere comer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "En tus calles, los hombres se acobardarán;",
+          "el país quedará indefenso ante el enemigo,",
+          "y el fuego consumirá tus cerrojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "»Aunque te abastezcas de agua para el asedio,",
+          "aunque refuerces tus fortalezas,",
+          "aunque te metas en el lodo y lo apisones,",
+          "y prepares el horno para hacer ladrillos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "te consumirá el fuego y te derribará la espada.",
+          "Aunque te multipliques como las langostas,",
+          "la espada te consumirá como el pulgón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "»Tus mercaderes llegaron a multiplicarse",
+          "más que las estrellas del cielo,",
+          "pero llenos de miedo se dieron a la fuga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Eran tus príncipes y tus magnates",
+          "tan voraces como una nube de langostas;",
+          "en los días fríos se sentaban en los muros.",
+          "¡Pero el sol salió, y desaparecieron,",
+          "y nunca más se supo de ellas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "»Rey de Asiria, tus pastores ya han muerto.",
+          "Para siempre reposan tus valientes.",
+          "Tu pueblo anda disperso por las montañas,",
+          "y no hay nadie que pueda congregarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Tus fracturas no tienen remedio.",
+          "Tus heridas son incurables.",
+          "Todos los que sepan lo que te ha pasado",
+          "batirán las manos y se alegrarán de ti.",
+          "¿Y quién no sufrió tu constante maldad?»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

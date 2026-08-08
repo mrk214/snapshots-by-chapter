@@ -1,1 +1,114 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"JER","name":"Jeremías"},"chapter":{"chapter_usfm":"JER.45","is_chapter":true,"previous":{"usfm":"JER.44","human":"Jeremías 44","canonical":true,"toc":true},"current":{"usfm":"JER.45","human":"Jeremías 45"},"next":{"usfm":"JER.46","human":"Jeremías 46","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Un mensaje de consuelo"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["para Baruc"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["La palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en un libro estas palabras, al dictado de Jeremías, en el cuarto año de Joacim hijo de Josías, rey de Judá, diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Así ha dicho el SEÑOR Dios de Israel, acerca de ti, oh Baruc:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tú dijiste: ‘¡Ay de mí! Porque el SEÑOR ha añadido tristeza a mi dolor. Estoy exhausto de gemir y no he hallado descanso’."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Le has de decir que así ha dicho el SEÑOR: ‘He aquí que yo destruyo lo que edifiqué, y arranco lo que planté, es decir, toda esta tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Y tú buscas para ti grandezas? No las busques, porque he aquí que yo traigo mal sobre todo mortal, dice el SEÑOR, pero a ti te daré tu vida por botín, en todos los lugares a donde vayas’”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JER.44.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JER.46.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremías"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.45",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.44",
+      "human": "Jeremías 44"
+    },
+    "current": {
+      "usfm": "JER.45",
+      "human": "Jeremías 45"
+    },
+    "next": {
+      "usfm": "JER.46",
+      "human": "Jeremías 46"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Un mensaje de consuelo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "para Baruc"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "La palabra que habló el profeta Jeremías a Baruc hijo de Nerías, cuando escribía en un libro estas palabras, al dictado de Jeremías, en el cuarto año de Joacim hijo de Josías, rey de Judá, diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Así ha dicho el SEÑOR Dios de Israel, acerca de ti, oh Baruc:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tú dijiste: ‘¡Ay de mí! Porque el SEÑOR ha añadido tristeza a mi dolor. Estoy exhausto de gemir y no he hallado descanso’."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Le has de decir que así ha dicho el SEÑOR: ‘He aquí que yo destruyo lo que edifiqué, y arranco lo que planté, es decir, toda esta tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Y tú buscas para ti grandezas? No las busques, porque he aquí que yo traigo mal sobre todo mortal, dice el SEÑOR, pero a ti te daré tu vida por botín, en todos los lugares a donde vayas’”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

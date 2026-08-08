@@ -1,1 +1,351 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.55","is_chapter":true,"previous":{"usfm":"PSA.54","human":"Salmo 54","canonical":true,"toc":true},"current":{"usfm":"PSA.55","human":"Salmo 55"},"next":{"usfm":"PSA.56","human":"Salmo 56","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escucha, oh Dios, mi oración;","no pases por alto mi súplica."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Óyeme y respóndeme,","porque mis angustias me perturban!","Me aterran"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["las amenazas del enemigo","y la opresión de los malvados,","pues me causan sufrimiento","y con furia me atacan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se me estremece el corazón dentro del pecho,","y me invaden los terrores de la muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El temor y el temblor me dominan,","el pánico se apodera de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Cómo quisiera tener las alas de una paloma","y volar hasta encontrar reposo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Me iría muy lejos de aquí;","me quedaría a vivir en el desierto."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Presuroso volaría a mi refugio,","para librarme de la tempestad y de la tormenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Destrúyelos, Señor! ¡Confunde su lenguaje!","En la ciudad solo veo contiendas y violencia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["día y noche rondan por sus muros,","y dentro de ella hay intrigas y maldad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["En su seno hay fuerzas destructivas;","de sus calles no se apartan la opresión y el engaño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Si un enemigo me insultara,","yo lo podría soportar;","si un adversario me humillara,","de él me podría yo esconder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pero lo has hecho tú, un hombre como yo,","mi compañero, mi mejor amigo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["a quien me unía una bella amistad","y con quien caminaba entre los adoradores","en la casa de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Que sorprenda la muerte a mis enemigos!","¡Que desciendan vivos a los dominios de la muerte,","pues en ellos habita la maldad!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pero yo clamaré a Dios,","y el Señor me salvará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["En la noche, en la mañana y al mediodía,","clamo angustiado y él me escucha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Aunque son muchos los que me combaten,","él me rescata, me salva la vida","en la batalla que se libra contra mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["¡Dios, que reina desde la eternidad,","habrá de oírme y los afligirá!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Esa gente no cambia de conducta,","pues no tiene temor de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Levantan la mano contra sus amigos","y no cumplen sus compromisos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Su palabra es blanda como la mantequilla,","pero su corazón es belicoso.","Sus palabras son más suaves que el aceite,","pero no son sino espadas desenvainadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Entrégale tus afanes al Señor","y él te sostendrá;","no permitirá que el justo caiga","y quede abatido para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Tú, oh Dios, abatirás a los impíos","y los arrojarás en la fosa de la muerte;","la gente sanguinaria y mentirosa","no llegará ni a la mitad de su vida.","Yo, por mi parte, en ti confío."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.54.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.56.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.55",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.54",
+      "human": "Salmo 54"
+    },
+    "current": {
+      "usfm": "PSA.55",
+      "human": "Salmo 55"
+    },
+    "next": {
+      "usfm": "PSA.56",
+      "human": "Salmo 56"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escucha, oh Dios, mi oración;",
+          "no pases por alto mi súplica."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Óyeme y respóndeme,",
+          "porque mis angustias me perturban!",
+          "Me aterran"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "las amenazas del enemigo",
+          "y la opresión de los malvados,",
+          "pues me causan sufrimiento",
+          "y con furia me atacan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se me estremece el corazón dentro del pecho,",
+          "y me invaden los terrores de la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El temor y el temblor me dominan,",
+          "el pánico se apodera de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Cómo quisiera tener las alas de una paloma",
+          "y volar hasta encontrar reposo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Me iría muy lejos de aquí;",
+          "me quedaría a vivir en el desierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Presuroso volaría a mi refugio,",
+          "para librarme de la tempestad y de la tormenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Destrúyelos, Señor! ¡Confunde su lenguaje!",
+          "En la ciudad solo veo contiendas y violencia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "día y noche rondan por sus muros,",
+          "y dentro de ella hay intrigas y maldad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "En su seno hay fuerzas destructivas;",
+          "de sus calles no se apartan la opresión y el engaño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Si un enemigo me insultara,",
+          "yo lo podría soportar;",
+          "si un adversario me humillara,",
+          "de él me podría yo esconder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pero lo has hecho tú, un hombre como yo,",
+          "mi compañero, mi mejor amigo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "a quien me unía una bella amistad",
+          "y con quien caminaba entre los adoradores",
+          "en la casa de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Que sorprenda la muerte a mis enemigos!",
+          "¡Que desciendan vivos a los dominios de la muerte,",
+          "pues en ellos habita la maldad!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pero yo clamaré a Dios,",
+          "y el Señor me salvará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "En la noche, en la mañana y al mediodía,",
+          "clamo angustiado y él me escucha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Aunque son muchos los que me combaten,",
+          "él me rescata, me salva la vida",
+          "en la batalla que se libra contra mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "¡Dios, que reina desde la eternidad,",
+          "habrá de oírme y los afligirá!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Esa gente no cambia de conducta,",
+          "pues no tiene temor de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Levantan la mano contra sus amigos",
+          "y no cumplen sus compromisos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Su palabra es blanda como la mantequilla,",
+          "pero su corazón es belicoso.",
+          "Sus palabras son más suaves que el aceite,",
+          "pero no son sino espadas desenvainadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Entrégale tus afanes al Señor",
+          "y él te sostendrá;",
+          "no permitirá que el justo caiga",
+          "y quede abatido para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Tú, oh Dios, abatirás a los impíos",
+          "y los arrojarás en la fosa de la muerte;",
+          "la gente sanguinaria y mentirosa",
+          "no llegará ni a la mitad de su vida.",
+          "Yo, por mi parte, en ti confío."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

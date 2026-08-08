@@ -1,1 +1,176 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.64","is_chapter":true,"previous":{"usfm":"PSA.63","human":"Salmos 63","canonical":true,"toc":true},"current":{"usfm":"PSA.64","human":"Salmos 64"},"next":{"usfm":"PSA.65","human":"Salmos 65","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plegaria pidiendo protección contra enemigos ocultos"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escucha, oh Dios, la voz de mi queja;","Guarda mi vida del temor del enemigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escóndeme del consejo secreto de los malignos,","De la conspiración de los que hacen iniquidad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que afilan como espada su lengua;","Lanzan cual saeta suya, palabra amarga,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Para asaetear a escondidas al íntegro;","De repente lo asaetean, y no temen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Obstinados en su inicuo designio,","Tratan de esconder los lazos,","Y dicen: ¿Quién los ha de ver?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Inquieren iniquidades, hacen una investigación exacta;","Y el íntimo pensamiento de cada uno de ellos, así como su corazón, es profundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas Dios los herirá con saeta;","De repente serán sus plagas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Sus propias lenguas los harán caer;","Se espantarán todos los que los vean."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces temerán todos los hombres,","Y anunciarán la obra de Dios,","Y entenderán sus hechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Se alegrará el justo en Jehová, y confiará en él;","Y se gloriarán todos los rectos de corazón."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.63.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.65.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.64",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.63",
+      "human": "Salmos 63"
+    },
+    "current": {
+      "usfm": "PSA.64",
+      "human": "Salmos 64"
+    },
+    "next": {
+      "usfm": "PSA.65",
+      "human": "Salmos 65"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plegaria pidiendo protección contra enemigos ocultos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escucha, oh Dios, la voz de mi queja;",
+          "Guarda mi vida del temor del enemigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escóndeme del consejo secreto de los malignos,",
+          "De la conspiración de los que hacen iniquidad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que afilan como espada su lengua;",
+          "Lanzan cual saeta suya, palabra amarga,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Para asaetear a escondidas al íntegro;",
+          "De repente lo asaetean, y no temen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Obstinados en su inicuo designio,",
+          "Tratan de esconder los lazos,",
+          "Y dicen: ¿Quién los ha de ver?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Inquieren iniquidades, hacen una investigación exacta;",
+          "Y el íntimo pensamiento de cada uno de ellos, así como su corazón, es profundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas Dios los herirá con saeta;",
+          "De repente serán sus plagas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Sus propias lenguas los harán caer;",
+          "Se espantarán todos los que los vean."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces temerán todos los hombres,",
+          "Y anunciarán la obra de Dios,",
+          "Y entenderán sus hechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Se alegrará el justo en Jehová, y confiará en él;",
+          "Y se gloriarán todos los rectos de corazón."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,143 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Psalm 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Psalm 130"},"next":{"usfm":"PSA.131","human":"Psalm 131","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Out of the depths have I cried unto thee, O LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lord, hear my voice:","Let thine ears be attentive","To the voice of my supplications."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["If thou, LORD, shouldest mark iniquities,","O Lord, who shall stand?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But there is forgiveness with thee,","That thou mayest be feared."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I wait for the LORD, my soul doth wait,","And in his word do I hope."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["My soul waiteth for the Lord","More than they that watch for the morning: I say, more than they that watch for the morning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Let Israel hope in the LORD: For with the LORD there is mercy,","And with him is plenteous redemption."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And he shall redeem Israel from all his iniquities."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Psalm 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Psalm 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Psalm 131"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Out of the depths have I cried unto thee, O LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lord, hear my voice:",
+          "Let thine ears be attentive",
+          "To the voice of my supplications."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "If thou, LORD, shouldest mark iniquities,",
+          "O Lord, who shall stand?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But there is forgiveness with thee,",
+          "That thou mayest be feared."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I wait for the LORD, my soul doth wait,",
+          "And in his word do I hope."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "My soul waiteth for the Lord",
+          "More than they that watch for the morning: I say, more than they that watch for the morning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Let Israel hope in the LORD: For with the LORD there is mercy,",
+          "And with him is plenteous redemption."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And he shall redeem Israel from all his iniquities."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

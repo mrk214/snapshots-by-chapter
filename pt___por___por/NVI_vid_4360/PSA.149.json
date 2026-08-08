@@ -1,1 +1,149 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.149","is_chapter":true,"previous":{"usfm":"PSA.148","human":"Salmos 148","canonical":true,"toc":true},"current":{"usfm":"PSA.149","human":"Salmos 149"},"next":{"usfm":"PSA.150","human":"Salmos 150","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Aleluia!","Cantem ao Senhor uma nova canção,","louvem-no na assembleia dos fiéis."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Alegre-se Israel no seu Criador,","exulte o povo de Sião no seu Rei!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Louvem eles o seu nome com danças;","ofereçam-lhe música com tamborim e harpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["O Senhor agrada-se do seu povo;","ele coroa de vitória os oprimidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Regozijem-se os seus fiéis nessa glória","e em seu leito cantem alegremente!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Altos louvores estejam em seus lábios","e uma espada de dois gumes em suas mãos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["para impor vingança às nações","e trazer castigo aos povos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["para prender os seus reis com grilhões","e seus nobres com algemas de ferro;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["para executar a sentença escrita contra eles.","Esta é a glória de todos os seus fiéis.","Aleluia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.148.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.150.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.149",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.148",
+      "human": "Salmos 148"
+    },
+    "current": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "next": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia!",
+          "Cantem ao Senhor uma nova canção,",
+          "louvem-no na assembleia dos fiéis."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Alegre-se Israel no seu Criador,",
+          "exulte o povo de Sião no seu Rei!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Louvem eles o seu nome com danças;",
+          "ofereçam-lhe música com tamborim e harpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "O Senhor agrada-se do seu povo;",
+          "ele coroa de vitória os oprimidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Regozijem-se os seus fiéis nessa glória",
+          "e em seu leito cantem alegremente!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Altos louvores estejam em seus lábios",
+          "e uma espada de dois gumes em suas mãos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "para impor vingança às nações",
+          "e trazer castigo aos povos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "para prender os seus reis com grilhões",
+          "e seus nobres com algemas de ferro;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "para executar a sentença escrita contra eles.",
+          "Esta é a glória de todos os seus fiéis.",
+          "Aleluia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

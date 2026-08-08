@@ -1,1 +1,206 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.30","is_chapter":true,"previous":{"usfm":"PSA.29","human":"Salmos 29","canonical":true,"toc":true},"current":{"usfm":"PSA.30","human":"Salmos 30"},"next":{"usfm":"PSA.31","human":"Salmos 31","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Acción de gracias por haber sido librado de la muerte"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo cantado en la dedicación de la Casa."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Te glorificaré, oh Jehová, porque me has exaltado,","Y no permitiste que mis enemigos se alegraran de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Jehová Dios mío,","A ti clamé, y me sanaste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Oh Jehová, hiciste subir mi alma del Seol;","Me diste vida, para que no descendiese a la sepultura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cantad a Jehová, vosotros sus santos,","Y celebrad la memoria de su santidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque un momento será su ira,","Pero su favor dura toda la vida.","Por la noche durará el lloro,","Y a la mañana vendrá la alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["En mi prosperidad dije yo:","No seré jamás conmovido,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque tú, Jehová, con tu favor me afirmaste como monte fuerte.","Escondiste tu rostro, fui turbado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A ti, oh Jehová, clamaré,","Y al Señor suplicaré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¿Qué provecho hay en mi muerte cuando descienda a la sepultura?","¿Te alabará el polvo? ¿Anunciará tu verdad?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Oye, oh Jehová, y ten misericordia de mí;","Jehová, sé tú mi ayudador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Has cambiado mi lamento en baile;","Desataste mi cilicio, y me ceñiste de alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Por tanto, a ti cantaré, gloria mía, y no estaré callado.","Jehová Dios mío, te alabaré para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.31.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.29",
+      "human": "Salmos 29"
+    },
+    "current": {
+      "usfm": "PSA.30",
+      "human": "Salmos 30"
+    },
+    "next": {
+      "usfm": "PSA.31",
+      "human": "Salmos 31"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Acción de gracias por haber sido librado de la muerte"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo cantado en la dedicación de la Casa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Te glorificaré, oh Jehová, porque me has exaltado,",
+          "Y no permitiste que mis enemigos se alegraran de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Jehová Dios mío,",
+          "A ti clamé, y me sanaste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Oh Jehová, hiciste subir mi alma del Seol;",
+          "Me diste vida, para que no descendiese a la sepultura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cantad a Jehová, vosotros sus santos,",
+          "Y celebrad la memoria de su santidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque un momento será su ira,",
+          "Pero su favor dura toda la vida.",
+          "Por la noche durará el lloro,",
+          "Y a la mañana vendrá la alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "En mi prosperidad dije yo:",
+          "No seré jamás conmovido,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque tú, Jehová, con tu favor me afirmaste como monte fuerte.",
+          "Escondiste tu rostro, fui turbado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A ti, oh Jehová, clamaré,",
+          "Y al Señor suplicaré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¿Qué provecho hay en mi muerte cuando descienda a la sepultura?",
+          "¿Te alabará el polvo? ¿Anunciará tu verdad?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Oye, oh Jehová, y ten misericordia de mí;",
+          "Jehová, sé tú mi ayudador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Has cambiado mi lamento en baile;",
+          "Desataste mi cilicio, y me ceñiste de alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Por tanto, a ti cantaré, gloria mía, y no estaré callado.",
+          "Jehová Dios mío, te alabaré para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,113 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.123","is_chapter":true,"previous":{"usfm":"PSA.122","human":"Psalm 122","canonical":true,"toc":true},"current":{"usfm":"PSA.123","human":"Psalm 123"},"next":{"usfm":"PSA.124","human":"Psalm 124","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Our Eyes Look to the Lord Our God"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["To you I lift up my eyes,","O you who are enthroned in the heavens!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Behold, as the eyes of servants","look to the hand of their master,","as the eyes of a maidservant","to the hand of her mistress,","so our eyes look to the Lord our God,","till he has mercy upon us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Have mercy upon us, O Lord, have mercy upon us,","for we have had more than enough of contempt."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Our soul has had more than enough","of the scorn of those who are at ease,","of the contempt of the proud."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.122.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.124.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.123",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.122",
+      "human": "Psalm 122"
+    },
+    "current": {
+      "usfm": "PSA.123",
+      "human": "Psalm 123"
+    },
+    "next": {
+      "usfm": "PSA.124",
+      "human": "Psalm 124"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Our Eyes Look to the Lord Our God"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "To you I lift up my eyes,",
+          "O you who are enthroned in the heavens!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Behold, as the eyes of servants",
+          "look to the hand of their master,",
+          "as the eyes of a maidservant",
+          "to the hand of her mistress,",
+          "so our eyes look to the Lord our God,",
+          "till he has mercy upon us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Have mercy upon us, O Lord, have mercy upon us,",
+          "for we have had more than enough of contempt."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Our soul has had more than enough",
+          "of the scorn of those who are at ease,",
+          "of the contempt of the proud."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

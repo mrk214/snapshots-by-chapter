@@ -1,1 +1,158 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.4","is_chapter":true,"previous":{"usfm":"PSA.3","human":"Salmos 3","canonical":true,"toc":true},"current":{"usfm":"PSA.4","human":"Salmos 4"},"next":{"usfm":"PSA.5","human":"Salmos 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plena confianza en el Señor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1) Del maestro de coro, con instrumentos de cuerda. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (2) Dios y defensor mío,","¡contéstame cuando te llame!","Tú, que en mi angustia me diste alivio,","¡ten compasión de mí y escucha mi oración!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["2 (3) Ustedes, que se creen grandes señores,","¿hasta cuándo ofenderán mi honor?,","¿hasta cuándo desearán y buscarán","lo que no tiene sentido,","lo que solo es falsedad?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["3 (4) Sepan que el Señor prefiere al hombre que le es fiel;","sepan que el Señor me escucha cuando lo llamo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["4 (5) ¡Tiemblen y no pequen más!","Ya acostados, y en silencio,","examinen su propia conciencia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["5 (6) ofrezcan sacrificios sinceros","y confíen en el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["6 (7) Muchos dicen: «¿Quién nos mostrará la dicha?»","¡Señor, míranos con buenos ojos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["7 (8) Tú has puesto en mi corazón más alegría","que en quienes tienen trigo y vino en abundancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["8 (9) Yo me acuesto tranquilo y me duermo en seguida,","pues tú, Señor, me haces vivir confiado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.5.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "current": {
+      "usfm": "PSA.4",
+      "human": "Salmos 4"
+    },
+    "next": {
+      "usfm": "PSA.5",
+      "human": "Salmos 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plena confianza en el Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1) Del maestro de coro, con instrumentos de cuerda. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (2) Dios y defensor mío,",
+          "¡contéstame cuando te llame!",
+          "Tú, que en mi angustia me diste alivio,",
+          "¡ten compasión de mí y escucha mi oración!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "2 (3) Ustedes, que se creen grandes señores,",
+          "¿hasta cuándo ofenderán mi honor?,",
+          "¿hasta cuándo desearán y buscarán",
+          "lo que no tiene sentido,",
+          "lo que solo es falsedad?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "3 (4) Sepan que el Señor prefiere al hombre que le es fiel;",
+          "sepan que el Señor me escucha cuando lo llamo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "4 (5) ¡Tiemblen y no pequen más!",
+          "Ya acostados, y en silencio,",
+          "examinen su propia conciencia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "5 (6) ofrezcan sacrificios sinceros",
+          "y confíen en el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "6 (7) Muchos dicen: «¿Quién nos mostrará la dicha?»",
+          "¡Señor, míranos con buenos ojos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "7 (8) Tú has puesto en mi corazón más alegría",
+          "que en quienes tienen trigo y vino en abundancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "8 (9) Yo me acuesto tranquilo y me duermo en seguida,",
+          "pues tú, Señor, me haces vivir confiado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

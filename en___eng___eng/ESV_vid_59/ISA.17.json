@@ -1,1 +1,229 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.17","is_chapter":true,"previous":{"usfm":"ISA.16","human":"Isaiah 16","canonical":true,"toc":true},"current":{"usfm":"ISA.17","human":"Isaiah 17"},"next":{"usfm":"ISA.18","human":"Isaiah 18","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["An Oracle Concerning Damascus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["An oracle concerning Damascus.","Behold, Damascus will cease to be a city","and will become a heap of ruins."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The cities of Aroer are deserted;","they will be for flocks,","which will lie down, and none will make them afraid."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The fortress will disappear from Ephraim,","and the kingdom from Damascus;","and the remnant of Syria will be","like the glory of the children of Israel,","declares the Lord of hosts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And in that day the glory of Jacob will be brought low,","and the fat of his flesh will grow lean."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And it shall be as when the reaper gathers standing grain","and his arm harvests the ears,","and as when one gleans the ears of grain","in the Valley of Rephaim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Gleanings will be left in it,","as when an olive tree is beaten—","two or three berries","in the top of the highest bough,","four or five","on the branches of a fruit tree,","declares the Lord God of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["In that day man will look to his Maker, and his eyes will look on the Holy One of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["He will not look to the altars, the work of his hands, and he will not look on what his own fingers have made, either the Asherim or the altars of incense."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["In that day their strong cities will be like the deserted places of the wooded heights and the hilltops, which they deserted because of the children of Israel, and there will be desolation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["For you have forgotten the God of your salvation","and have not remembered the Rock of your refuge;","therefore, though you plant pleasant plants","and sow the vine-branch of a stranger,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["though you make them grow on the day that you plant them,","and make them blossom in the morning that you sow,","yet the harvest will flee away","in a day of grief and incurable pain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ah, the thunder of many peoples;","they thunder like the thundering of the sea!","Ah, the roar of nations;","they roar like the roaring of mighty waters!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The nations roar like the roaring of many waters,","but he will rebuke them, and they will flee far away,","chased like chaff on the mountains before the wind","and whirling dust before the storm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["At evening time, behold, terror!","Before morning, they are no more!","This is the portion of those who loot us,","and the lot of those who plunder us."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.18.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.16",
+      "human": "Isaiah 16"
+    },
+    "current": {
+      "usfm": "ISA.17",
+      "human": "Isaiah 17"
+    },
+    "next": {
+      "usfm": "ISA.18",
+      "human": "Isaiah 18"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "An Oracle Concerning Damascus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "An oracle concerning Damascus.",
+          "Behold, Damascus will cease to be a city",
+          "and will become a heap of ruins."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The cities of Aroer are deserted;",
+          "they will be for flocks,",
+          "which will lie down, and none will make them afraid."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The fortress will disappear from Ephraim,",
+          "and the kingdom from Damascus;",
+          "and the remnant of Syria will be",
+          "like the glory of the children of Israel,",
+          "declares the Lord of hosts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And in that day the glory of Jacob will be brought low,",
+          "and the fat of his flesh will grow lean."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And it shall be as when the reaper gathers standing grain",
+          "and his arm harvests the ears,",
+          "and as when one gleans the ears of grain",
+          "in the Valley of Rephaim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Gleanings will be left in it,",
+          "as when an olive tree is beaten—",
+          "two or three berries",
+          "in the top of the highest bough,",
+          "four or five",
+          "on the branches of a fruit tree,",
+          "declares the Lord God of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "In that day man will look to his Maker, and his eyes will look on the Holy One of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "He will not look to the altars, the work of his hands, and he will not look on what his own fingers have made, either the Asherim or the altars of incense."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "In that day their strong cities will be like the deserted places of the wooded heights and the hilltops, which they deserted because of the children of Israel, and there will be desolation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "For you have forgotten the God of your salvation",
+          "and have not remembered the Rock of your refuge;",
+          "therefore, though you plant pleasant plants",
+          "and sow the vine-branch of a stranger,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "though you make them grow on the day that you plant them,",
+          "and make them blossom in the morning that you sow,",
+          "yet the harvest will flee away",
+          "in a day of grief and incurable pain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ah, the thunder of many peoples;",
+          "they thunder like the thundering of the sea!",
+          "Ah, the roar of nations;",
+          "they roar like the roaring of mighty waters!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The nations roar like the roaring of many waters,",
+          "but he will rebuke them, and they will flee far away,",
+          "chased like chaff on the mountains before the wind",
+          "and whirling dust before the storm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "At evening time, behold, terror!",
+          "Before morning, they are no more!",
+          "This is the portion of those who loot us,",
+          "and the lot of those who plunder us."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

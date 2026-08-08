@@ -1,1 +1,222 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.92","is_chapter":true,"previous":{"usfm":"PSA.91","human":"Salmos 91","canonical":true,"toc":true},"current":{"usfm":"PSA.92","human":"Salmos 92"},"next":{"usfm":"PSA.93","human":"Salmos 93","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo. Um cântico. Para o dia de sábado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Como é bom render graças ao Senhor","e cantar louvores ao teu nome, ó Altíssimo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["anunciar de manhã o teu amor leal","e de noite a tua fidelidade,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["ao som da lira de dez cordas e da cítara,","e da melodia da harpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tu me alegras, Senhor, com os teus feitos;","as obras das tuas mãos levam-me a cantar de alegria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Como são grandes as tuas obras, Senhor,","como são profundos os teus propósitos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["O insensato não entende,","o tolo não vê"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["que, embora os ímpios brotem como a erva","e floresçam todos os malfeitores,","eles serão destruídos para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pois tu, Senhor, és exaltado para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mas os teus inimigos, Senhor,","os teus inimigos perecerão;","serão dispersos todos os malfeitores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tu aumentaste a minha força como a do boi selvagem;","derramaste sobre mim óleo novo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Os meus olhos contemplaram a derrota dos meus inimigos;","os meus ouvidos escutaram a debandada dos meus maldosos agressores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Os justos florescerão como a palmeira,","crescerão como o cedro do Líbano;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["plantados na casa do Senhor,","florescerão nos átrios do nosso Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mesmo na velhice darão fruto,","permanecerão viçosos e verdejantes,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["para proclamar que o Senhor é justo.","Ele é a minha Rocha; nele não há injustiça."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.91.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.93.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.92",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.91",
+      "human": "Salmos 91"
+    },
+    "current": {
+      "usfm": "PSA.92",
+      "human": "Salmos 92"
+    },
+    "next": {
+      "usfm": "PSA.93",
+      "human": "Salmos 93"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo. Um cântico. Para o dia de sábado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como é bom render graças ao Senhor",
+          "e cantar louvores ao teu nome, ó Altíssimo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "anunciar de manhã o teu amor leal",
+          "e de noite a tua fidelidade,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "ao som da lira de dez cordas e da cítara,",
+          "e da melodia da harpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tu me alegras, Senhor, com os teus feitos;",
+          "as obras das tuas mãos levam-me a cantar de alegria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Como são grandes as tuas obras, Senhor,",
+          "como são profundos os teus propósitos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "O insensato não entende,",
+          "o tolo não vê"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "que, embora os ímpios brotem como a erva",
+          "e floresçam todos os malfeitores,",
+          "eles serão destruídos para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pois tu, Senhor, és exaltado para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mas os teus inimigos, Senhor,",
+          "os teus inimigos perecerão;",
+          "serão dispersos todos os malfeitores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tu aumentaste a minha força como a do boi selvagem;",
+          "derramaste sobre mim óleo novo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Os meus olhos contemplaram a derrota dos meus inimigos;",
+          "os meus ouvidos escutaram a debandada dos meus maldosos agressores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Os justos florescerão como a palmeira,",
+          "crescerão como o cedro do Líbano;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "plantados na casa do Senhor,",
+          "florescerão nos átrios do nosso Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mesmo na velhice darão fruto,",
+          "permanecerão viçosos e verdejantes,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "para proclamar que o Senhor é justo.",
+          "Ele é a minha Rocha; nele não há injustiça."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

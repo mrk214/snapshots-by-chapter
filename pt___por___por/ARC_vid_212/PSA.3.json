@@ -1,1 +1,144 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.3","is_chapter":true,"previous":{"usfm":"PSA.2","human":"Salmos 2","canonical":true,"toc":true},"current":{"usfm":"PSA.3","human":"Salmos 3"},"next":{"usfm":"PSA.4","human":"Salmos 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Davi confia em Deus na sua adversidade"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi, quando fugiu de diante da face de Absalão, seu filho"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mas tu, Senhor, és um escudo para mim, a minha glória e o que exalta a minha cabeça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Com a minha voz clamei ao Senhor; ele ouviu-me desde o seu santo monte. (Selá)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eu me deitei e dormi; acordei, porque o Senhor me sustentou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Não terei medo de dez milhares de pessoas que se puseram contra mim ao meu redor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Levanta-te, Senhor; salva-me, Deus meu, pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá)"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.4.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "current": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "next": {
+      "usfm": "PSA.4",
+      "human": "Salmos 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Davi confia em Deus na sua adversidade"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi, quando fugiu de diante da face de Absalão, seu filho"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Senhor, como se têm multiplicado os meus adversários! São muitos os que se levantam contra mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Muitos dizem da minha alma: Não há salvação para ele em Deus. (Selá)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mas tu, Senhor, és um escudo para mim, a minha glória e o que exalta a minha cabeça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Com a minha voz clamei ao Senhor; ele ouviu-me desde o seu santo monte. (Selá)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eu me deitei e dormi; acordei, porque o Senhor me sustentou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Não terei medo de dez milhares de pessoas que se puseram contra mim ao meu redor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Levanta-te, Senhor; salva-me, Deus meu, pois feriste a todos os meus inimigos nos queixos; quebraste os dentes aos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A salvação vem do Senhor; sobre o teu povo seja a tua bênção. (Selá)"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

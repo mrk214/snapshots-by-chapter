@@ -1,1 +1,123 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Psalms 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Psalms 150"},"next":{"usfm":"PRO.1","human":"Proverbs 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Let All Things Praise the Lord"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","Praise God in His sanctuary;","Praise Him in His mighty firmament!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Praise Him for His mighty acts;","Praise Him according to His excellent greatness!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Praise Him with the sound of the trumpet;","Praise Him with the lute and harp!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Praise Him with the timbrel and dance;","Praise Him with stringed instruments and flutes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Praise Him with loud cymbals;","Praise Him with clashing cymbals!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let everything that has breath praise the Lord.","Praise the Lord!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Psalms 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Psalms 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Proverbs 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Let All Things Praise the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "Praise God in His sanctuary;",
+          "Praise Him in His mighty firmament!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Praise Him for His mighty acts;",
+          "Praise Him according to His excellent greatness!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Praise Him with the sound of the trumpet;",
+          "Praise Him with the lute and harp!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Praise Him with the timbrel and dance;",
+          "Praise Him with stringed instruments and flutes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Praise Him with loud cymbals;",
+          "Praise Him with clashing cymbals!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let everything that has breath praise the Lord.",
+          "Praise the Lord!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

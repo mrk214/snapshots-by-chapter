@@ -1,1 +1,86 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"EST","name":"Esther"},"chapter":{"chapter_usfm":"EST.10","is_chapter":true,"previous":{"usfm":"EST.9","human":"Esther 9","canonical":true,"toc":true},"current":{"usfm":"EST.10","human":"Esther 10"},"next":{"usfm":"JOB.1","human":"Job 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Greatness of Mordecai"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["King Ahasuerus imposed tax on the land and on the coastlands of the sea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And all the acts of his power and might, and the full account of the high honor of Mordecai, to which the king advanced him, are they not written in the Book of the Chronicles of the kings of Media and Persia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For Mordecai the Jew was second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he sought the welfare of his people and spoke peace to all his people."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EST.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JOB.1.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Esther"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.9",
+      "human": "Esther 9"
+    },
+    "current": {
+      "usfm": "EST.10",
+      "human": "Esther 10"
+    },
+    "next": {
+      "usfm": "JOB.1",
+      "human": "Job 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Greatness of Mordecai"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "King Ahasuerus imposed tax on the land and on the coastlands of the sea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And all the acts of his power and might, and the full account of the high honor of Mordecai, to which the king advanced him, are they not written in the Book of the Chronicles of the kings of Media and Persia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For Mordecai the Jew was second in rank to King Ahasuerus, and he was great among the Jews and popular with the multitude of his brothers, for he sought the welfare of his people and spoke peace to all his people."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

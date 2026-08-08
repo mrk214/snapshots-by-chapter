@@ -1,1 +1,116 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.4","is_chapter":true,"previous":{"usfm":"ISA.3","human":"Isaías 3","canonical":true,"toc":true},"current":{"usfm":"ISA.4","human":"Isaías 4"},"next":{"usfm":"ISA.5","human":"Isaías 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Porque siete mujeres echarán mano de un hombre en aquel día, diciendo: Nuestro pan comeremos y con nuestra ropa nos vestiremos; tan solo déjanos llevar tu nombre; quita nuestro oprobio."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Gloria futura del remanente"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Aquel día el Renuevo del Señor será hermoso y lleno de gloria, y el fruto de la tierra será el orgullo y adorno de los sobrevivientes de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y acontecerá que el que sea dejado en Sión y el que quede en Jerusalén será llamado santo: todos los que estén inscritos para vivir en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuando el Señor haya lavado la inmundicia de las hijas de Sión y haya limpiado la sangre derramada de en medio de Jerusalén con el espíritu del juicio y el espíritu abrasador,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["entonces el Señor creará sobre todo lugar del monte Sión y sobre sus asambleas, una nube durante el día, o sea humo, y un resplandor de llamas de fuego por la noche; porque sobre toda la gloria habrá un dosel;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["será un cobertizo para dar sombra contra el calor del día, y refugio y protección contra la tormenta y la lluvia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.5.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.3",
+      "human": "Isaías 3"
+    },
+    "current": {
+      "usfm": "ISA.4",
+      "human": "Isaías 4"
+    },
+    "next": {
+      "usfm": "ISA.5",
+      "human": "Isaías 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Porque siete mujeres echarán mano de un hombre en aquel día, diciendo: Nuestro pan comeremos y con nuestra ropa nos vestiremos; tan solo déjanos llevar tu nombre; quita nuestro oprobio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Gloria futura del remanente"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Aquel día el Renuevo del Señor será hermoso y lleno de gloria, y el fruto de la tierra será el orgullo y adorno de los sobrevivientes de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y acontecerá que el que sea dejado en Sión y el que quede en Jerusalén será llamado santo: todos los que estén inscritos para vivir en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuando el Señor haya lavado la inmundicia de las hijas de Sión y haya limpiado la sangre derramada de en medio de Jerusalén con el espíritu del juicio y el espíritu abrasador,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "entonces el Señor creará sobre todo lugar del monte Sión y sobre sus asambleas, una nube durante el día, o sea humo, y un resplandor de llamas de fuego por la noche; porque sobre toda la gloria habrá un dosel;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "será un cobertizo para dar sombra contra el calor del día, y refugio y protección contra la tormenta y la lluvia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

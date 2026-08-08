@@ -1,1 +1,178 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.16","is_chapter":true,"previous":{"usfm":"PSA.15","human":"Psalm 15","canonical":true,"toc":true},"current":{"usfm":"PSA.16","human":"Psalm 16"},"next":{"usfm":"PSA.17","human":"Psalm 17","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Michtam of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Preserve me, O God:","For in thee do I put my trust."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O my soul, thou hast said unto the LORD,","Thou art my Lord: My goodness extendeth not to thee;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But to the saints that are in the earth,","And to the excellent, in whom is all my delight."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Their sorrows shall be multiplied that hasten after another god:","Their drink offerings of blood will I not offer,","Nor take up their names into my lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The LORD is the portion of mine inheritance and of my cup:","Thou maintainest my lot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The lines are fallen unto me in pleasant places;","Yea, I have a goodly heritage."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I will bless the LORD, who hath given me counsel:","My reins also instruct me in the night seasons."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I have set the LORD always before me:","Because he is at my right hand, I shall not be moved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Therefore my heart is glad, and my glory rejoiceth:","My flesh also shall rest in hope."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["For thou wilt not leave my soul in hell;","Neither wilt thou suffer thine Holy One to see corruption."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Thou wilt shew me the path of life: In thy presence is fulness of joy;","At thy right hand there are pleasures for evermore."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.17.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.15",
+      "human": "Psalm 15"
+    },
+    "current": {
+      "usfm": "PSA.16",
+      "human": "Psalm 16"
+    },
+    "next": {
+      "usfm": "PSA.17",
+      "human": "Psalm 17"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Michtam of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Preserve me, O God:",
+          "For in thee do I put my trust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O my soul, thou hast said unto the LORD,",
+          "Thou art my Lord: My goodness extendeth not to thee;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But to the saints that are in the earth,",
+          "And to the excellent, in whom is all my delight."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Their sorrows shall be multiplied that hasten after another god:",
+          "Their drink offerings of blood will I not offer,",
+          "Nor take up their names into my lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The LORD is the portion of mine inheritance and of my cup:",
+          "Thou maintainest my lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The lines are fallen unto me in pleasant places;",
+          "Yea, I have a goodly heritage."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I will bless the LORD, who hath given me counsel:",
+          "My reins also instruct me in the night seasons."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I have set the LORD always before me:",
+          "Because he is at my right hand, I shall not be moved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Therefore my heart is glad, and my glory rejoiceth:",
+          "My flesh also shall rest in hope."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "For thou wilt not leave my soul in hell;",
+          "Neither wilt thou suffer thine Holy One to see corruption."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Thou wilt shew me the path of life: In thy presence is fulness of joy;",
+          "At thy right hand there are pleasures for evermore."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

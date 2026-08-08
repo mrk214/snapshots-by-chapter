@@ -1,1 +1,243 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.4","is_chapter":true,"previous":{"usfm":"EST.3","human":"Ester 3","canonical":true,"toc":true},"current":{"usfm":"EST.4","human":"Ester 4"},"next":{"usfm":"EST.5","human":"Ester 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La tristeza de los judíos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando Mardoqueo se enteró de lo que había pasado, rompió su ropa en señal de tristeza, y se puso ropa áspera. Luego se echó ceniza en la cabeza, y anduvo por la ciudad llorando amargamente y en voz alta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Llegó hasta la entrada del palacio del rey, pero no entró porque estaba prohibido entrar en el palacio vestido de esa manera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando se conocieron las órdenes del rey en las distintas provincias, los judíos se pusieron muy tristes. No comían nada, lloraban amargamente, y la mayoría de ellos se acostó sobre ceniza y se puso ropa áspera."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Mardoqueo le pide ayuda a Ester"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuando las sirvientas y los guardias personales de la reina Ester le contaron lo que pasaba, también ella se puso triste. Entonces le envió ropa a Mardoqueo para que se quitara la ropa áspera, pero él no quiso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Luego Ester llamó a Hatac, uno de los guardias que el rey había puesto a su servicio, y le ordenó que fuera a preguntarle a Mardoqueo qué le pasaba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Hatac fue hasta la plaza de la ciudad, que estaba frente a la entrada del palacio, y allí le preguntó a Mardoqueo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["qué le pasaba. Mardoqueo le dijo que Amán había prometido entregar mucho dinero a la tesorería del rey, a cambio de la destrucción de los judíos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Además, le dio una copia del documento publicado en Susa, en el cual se ordenaba la destrucción de los judíos, y le pidió que se lo mostrara a Ester y le explicara todo. Mardoqueo también le pidió que le dijera a Ester que fuera a ver al rey y le suplicara no destruir a su pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Hatac fue y le dijo a Ester todo lo que Mardoqueo le había dicho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ella a su vez le dio este mensaje para Mardoqueo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["«Hace ya treinta días que el rey no me llama. Todos los sirvientes del rey y los habitantes de este país saben que nadie puede presentarse ante el rey sin ser llamado, pues eso se castiga con la muerte. Esa persona es perdonada solo si el rey la señala con su cetro de oro»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando Mardoqueo recibió el mensaje de Ester,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["le mandó esta respuesta:","«No te vas a salvar solo porque estás en el palacio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Si no te atreves a hablar en momentos como este, la liberación de los judíos vendrá de otra parte, pero tú y toda tu familia morirán. Yo creo que has llegado a ser reina para ayudar a tu pueblo en este momento»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Ester decide ayudar"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Entonces Ester le mandó esta respuesta a Mardoqueo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["«Reúne a todos los judíos que se encuentren en Susa, y ayunen por mí, no coman ni beban durante tres días. También mis sirvientas y yo ayunaremos. Después de eso, me presentaré ante el rey, aunque la ley no lo permita. ¡Y si tengo que morir, moriré!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Mardoqueo fue y cumplió con todo lo que Ester le había ordenado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/EST.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/EST.5.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.3",
+      "human": "Ester 3"
+    },
+    "current": {
+      "usfm": "EST.4",
+      "human": "Ester 4"
+    },
+    "next": {
+      "usfm": "EST.5",
+      "human": "Ester 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La tristeza de los judíos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando Mardoqueo se enteró de lo que había pasado, rompió su ropa en señal de tristeza, y se puso ropa áspera. Luego se echó ceniza en la cabeza, y anduvo por la ciudad llorando amargamente y en voz alta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Llegó hasta la entrada del palacio del rey, pero no entró porque estaba prohibido entrar en el palacio vestido de esa manera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando se conocieron las órdenes del rey en las distintas provincias, los judíos se pusieron muy tristes. No comían nada, lloraban amargamente, y la mayoría de ellos se acostó sobre ceniza y se puso ropa áspera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mardoqueo le pide ayuda a Ester"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuando las sirvientas y los guardias personales de la reina Ester le contaron lo que pasaba, también ella se puso triste. Entonces le envió ropa a Mardoqueo para que se quitara la ropa áspera, pero él no quiso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Luego Ester llamó a Hatac, uno de los guardias que el rey había puesto a su servicio, y le ordenó que fuera a preguntarle a Mardoqueo qué le pasaba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Hatac fue hasta la plaza de la ciudad, que estaba frente a la entrada del palacio, y allí le preguntó a Mardoqueo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "qué le pasaba. Mardoqueo le dijo que Amán había prometido entregar mucho dinero a la tesorería del rey, a cambio de la destrucción de los judíos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Además, le dio una copia del documento publicado en Susa, en el cual se ordenaba la destrucción de los judíos, y le pidió que se lo mostrara a Ester y le explicara todo. Mardoqueo también le pidió que le dijera a Ester que fuera a ver al rey y le suplicara no destruir a su pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Hatac fue y le dijo a Ester todo lo que Mardoqueo le había dicho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ella a su vez le dio este mensaje para Mardoqueo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "«Hace ya treinta días que el rey no me llama. Todos los sirvientes del rey y los habitantes de este país saben que nadie puede presentarse ante el rey sin ser llamado, pues eso se castiga con la muerte. Esa persona es perdonada solo si el rey la señala con su cetro de oro»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando Mardoqueo recibió el mensaje de Ester,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "le mandó esta respuesta:",
+          "«No te vas a salvar solo porque estás en el palacio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Si no te atreves a hablar en momentos como este, la liberación de los judíos vendrá de otra parte, pero tú y toda tu familia morirán. Yo creo que has llegado a ser reina para ayudar a tu pueblo en este momento»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ester decide ayudar"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Entonces Ester le mandó esta respuesta a Mardoqueo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "«Reúne a todos los judíos que se encuentren en Susa, y ayunen por mí, no coman ni beban durante tres días. También mis sirvientas y yo ayunaremos. Después de eso, me presentaré ante el rey, aunque la ley no lo permita. ¡Y si tengo que morir, moriré!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Mardoqueo fue y cumplió con todo lo que Ester le había ordenado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

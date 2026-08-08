@@ -1,1 +1,86 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.10","is_chapter":true,"previous":{"usfm":"EST.9","human":"Ester 9","canonical":true,"toc":true},"current":{"usfm":"EST.10","human":"Ester 10"},"next":{"usfm":"JOB.1","human":"Jó 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Grandeza de Mardoqueu"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O rei Xerxes impôs tributos a todo o império, até sobre as distantes regiões costeiras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Todos os seus atos de força e de poder, e o relato completo da grandeza de Mardoqueu, a quem o rei dera autoridade, estão registrados no livro das crônicas dos reis da Média e da Pérsia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O judeu Mardoqueu foi o segundo na hierarquia, depois do rei Xerxes. Era homem importante entre os judeus e foi muito amado por eles, pois trabalhou para o bem do seu povo e promoveu o bem-estar de todos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EST.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.1.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.9",
+      "human": "Ester 9"
+    },
+    "current": {
+      "usfm": "EST.10",
+      "human": "Ester 10"
+    },
+    "next": {
+      "usfm": "JOB.1",
+      "human": "Jó 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Grandeza de Mardoqueu"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O rei Xerxes impôs tributos a todo o império, até sobre as distantes regiões costeiras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Todos os seus atos de força e de poder, e o relato completo da grandeza de Mardoqueu, a quem o rei dera autoridade, estão registrados no livro das crônicas dos reis da Média e da Pérsia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O judeu Mardoqueu foi o segundo na hierarquia, depois do rei Xerxes. Era homem importante entre os judeus e foi muito amado por eles, pois trabalhou para o bem do seu povo e promoveu o bem-estar de todos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

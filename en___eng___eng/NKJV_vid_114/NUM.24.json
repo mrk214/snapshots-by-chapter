@@ -1,1 +1,345 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"NUM","name":"Numbers"},"chapter":{"chapter_usfm":"NUM.24","is_chapter":true,"previous":{"usfm":"NUM.23","human":"Numbers 23","canonical":true,"toc":true},"current":{"usfm":"NUM.24","human":"Numbers 24"},"next":{"usfm":"NUM.25","human":"Numbers 25","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Now when Balaam saw that it pleased the Lord to bless Israel, he did not go as at other times, to seek to use sorcery, but he set his face toward the wilderness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And Balaam raised his eyes, and saw Israel encamped according to their tribes; and the Spirit of God came upon him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then he took up his oracle and said:","“The utterance of Balaam the son of Beor,","The utterance of the man whose eyes are opened,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The utterance of him who hears the words of God,","Who sees the vision of the Almighty,","Who falls down, with eyes wide open:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“How lovely are your tents, O Jacob!","Your dwellings, O Israel!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Like valleys that stretch out,","Like gardens by the riverside,","Like aloes planted by the Lord,","Like cedars beside the waters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He shall pour water from his buckets,","And his seed shall be in many waters.","“His king shall be higher than Agag,","And his kingdom shall be exalted."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“God brings him out of Egypt;","He has strength like a wild ox;","He shall consume the nations, his enemies;","He shall break their bones","And pierce them with his arrows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["‘He bows down, he lies down as a lion;","And as a lion, who shall rouse him?’","“Blessed is he who blesses you,","And cursed is he who curses you.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Then Balak’s anger was aroused against Balaam, and he struck his hands together; and Balak said to Balaam, “I called you to curse my enemies, and look, you have bountifully blessed them these three times!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Now therefore, flee to your place. I said I would greatly honor you, but in fact, the Lord has kept you back from honor.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["So Balaam said to Balak, “Did I not also speak to your messengers whom you sent to me, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["‘If Balak were to give me his house full of silver and gold, I could not go beyond the word of the Lord, to do good or bad of my own will. What the Lord says, that I must speak’?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And now, indeed, I am going to my people. Come, I will advise you what this people will do to your people in the latter days.”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Balaam’s Fourth Prophecy"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["So he took up his oracle and said:","“The utterance of Balaam the son of Beor,","And the utterance of the man whose eyes are opened;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The utterance of him who hears the words of God,","And has the knowledge of the Most High,","Who sees the vision of the Almighty,","Who falls down, with eyes wide open:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["“I see Him, but not now;","I behold Him, but not near;","A Star shall come out of Jacob;","A Scepter shall rise out of Israel,","And batter the brow of Moab,","And destroy all the sons of tumult."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["“And Edom shall be a possession;","Seir also, his enemies, shall be a possession,","While Israel does valiantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Out of Jacob One shall have dominion,","And destroy the remains of the city.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Then he looked on Amalek, and he took up his oracle and said:","“Amalek was first among the nations,","But shall be last until he perishes.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Then he looked on the Kenites, and he took up his oracle and said:","“Firm is your dwelling place,","And your nest is set in the rock;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Nevertheless Kain shall be burned.","How long until Asshur carries you away captive?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Then he took up his oracle and said:","“Alas! Who shall live when God does this?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["But ships shall come from the coasts of Cyprus,","And they shall afflict Asshur and afflict Eber,","And so shall Amalek, until he perishes.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["So Balaam rose and departed and returned to his place; Balak also went his way."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.23.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.25.json"
+  },
+  "book": {
+    "book_usfm": "NUM",
+    "name": "Numbers"
+  },
+  "chapter": {
+    "chapter_usfm": "NUM.24",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NUM.23",
+      "human": "Numbers 23"
+    },
+    "current": {
+      "usfm": "NUM.24",
+      "human": "Numbers 24"
+    },
+    "next": {
+      "usfm": "NUM.25",
+      "human": "Numbers 25"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Now when Balaam saw that it pleased the Lord to bless Israel, he did not go as at other times, to seek to use sorcery, but he set his face toward the wilderness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And Balaam raised his eyes, and saw Israel encamped according to their tribes; and the Spirit of God came upon him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then he took up his oracle and said:",
+          "“The utterance of Balaam the son of Beor,",
+          "The utterance of the man whose eyes are opened,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The utterance of him who hears the words of God,",
+          "Who sees the vision of the Almighty,",
+          "Who falls down, with eyes wide open:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“How lovely are your tents, O Jacob!",
+          "Your dwellings, O Israel!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Like valleys that stretch out,",
+          "Like gardens by the riverside,",
+          "Like aloes planted by the Lord,",
+          "Like cedars beside the waters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He shall pour water from his buckets,",
+          "And his seed shall be in many waters.",
+          "“His king shall be higher than Agag,",
+          "And his kingdom shall be exalted."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“God brings him out of Egypt;",
+          "He has strength like a wild ox;",
+          "He shall consume the nations, his enemies;",
+          "He shall break their bones",
+          "And pierce them with his arrows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "‘He bows down, he lies down as a lion;",
+          "And as a lion, who shall rouse him?’",
+          "“Blessed is he who blesses you,",
+          "And cursed is he who curses you.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Then Balak’s anger was aroused against Balaam, and he struck his hands together; and Balak said to Balaam, “I called you to curse my enemies, and look, you have bountifully blessed them these three times!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Now therefore, flee to your place. I said I would greatly honor you, but in fact, the Lord has kept you back from honor.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "So Balaam said to Balak, “Did I not also speak to your messengers whom you sent to me, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "‘If Balak were to give me his house full of silver and gold, I could not go beyond the word of the Lord, to do good or bad of my own will. What the Lord says, that I must speak’?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And now, indeed, I am going to my people. Come, I will advise you what this people will do to your people in the latter days.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Balaam’s Fourth Prophecy"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "So he took up his oracle and said:",
+          "“The utterance of Balaam the son of Beor,",
+          "And the utterance of the man whose eyes are opened;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The utterance of him who hears the words of God,",
+          "And has the knowledge of the Most High,",
+          "Who sees the vision of the Almighty,",
+          "Who falls down, with eyes wide open:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "“I see Him, but not now;",
+          "I behold Him, but not near;",
+          "A Star shall come out of Jacob;",
+          "A Scepter shall rise out of Israel,",
+          "And batter the brow of Moab,",
+          "And destroy all the sons of tumult."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "“And Edom shall be a possession;",
+          "Seir also, his enemies, shall be a possession,",
+          "While Israel does valiantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Out of Jacob One shall have dominion,",
+          "And destroy the remains of the city.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Then he looked on Amalek, and he took up his oracle and said:",
+          "“Amalek was first among the nations,",
+          "But shall be last until he perishes.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Then he looked on the Kenites, and he took up his oracle and said:",
+          "“Firm is your dwelling place,",
+          "And your nest is set in the rock;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Nevertheless Kain shall be burned.",
+          "How long until Asshur carries you away captive?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Then he took up his oracle and said:",
+          "“Alas! Who shall live when God does this?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "But ships shall come from the coasts of Cyprus,",
+          "And they shall afflict Asshur and afflict Eber,",
+          "And so shall Amalek, until he perishes.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "So Balaam rose and departed and returned to his place; Balak also went his way."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

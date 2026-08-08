@@ -1,1 +1,116 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Provérbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O salmista exorta toda a criatura a louvar ao Senhor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["LOUVAI ao Senhor. Louvai a Deus no seu santuário; louvai-o no firmamento do seu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Louvai-o pelos seus atos poderosos; louvai-o, conforme a excelência da sua grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Louvai-o com o som de trombeta; louvai-o com o saltério e a harpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Louvai-o com o adufe e a flauta; louvai-o com instrumento de cordas e com órgãos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Louvai-o com címbalos sonoros; louvai-o com címbalos altissonantes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tudo quanto tem fôlego, louve ao Senhor. Louvai ao Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Provérbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O salmista exorta toda a criatura a louvar ao Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "LOUVAI ao Senhor. Louvai a Deus no seu santuário; louvai-o no firmamento do seu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Louvai-o pelos seus atos poderosos; louvai-o, conforme a excelência da sua grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Louvai-o com o som de trombeta; louvai-o com o saltério e a harpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Louvai-o com o adufe e a flauta; louvai-o com instrumento de cordas e com órgãos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Louvai-o com címbalos sonoros; louvai-o com címbalos altissonantes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tudo quanto tem fôlego, louve ao Senhor. Louvai ao Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

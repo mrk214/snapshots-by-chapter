@@ -1,1 +1,134 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.1","is_chapter":true,"previous":{"usfm":"JOB.42","human":"Job 42","canonical":true,"toc":true},"current":{"usfm":"PSA.1","human":"Salmo 1"},"next":{"usfm":"PSA.2","human":"Salmo 2","canonical":true,"toc":true},"items":[{"type":"section1","verse_numbers":[],"lines":["Libro I"],"rlw_lines":[]},{"type":"section2","verse_numbers":[],"lines":["Salmos 1–41"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dichoso es quien","no sigue el consejo de los malvados,","ni se detiene en la senda de los pecadores,","ni se sienta en la reunión de los burladores,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["sino que en la Ley del Señor se deleita","y día y noche medita en ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Es como el árbol plantado a la orilla de un río","que, cuando llega su tiempo, da fruto","y sus hojas jamás se marchitan.","Todo cuanto hace prospera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En cambio, los malvados","son como paja arrastrada por el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por eso no se sostendrán los malvados en el juicio","ni los pecadores en la asamblea de los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque el Señor cuida el camino de los justos,","mas la senda de los malvados lleva a la perdición."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.2.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Job 42"
+    },
+    "current": {
+      "usfm": "PSA.1",
+      "human": "Salmo 1"
+    },
+    "next": {
+      "usfm": "PSA.2",
+      "human": "Salmo 2"
+    },
+    "items": [
+      {
+        "type": "section1",
+        "verse_numbers": [],
+        "lines": [
+          "Libro I"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "section2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmos 1–41"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dichoso es quien",
+          "no sigue el consejo de los malvados,",
+          "ni se detiene en la senda de los pecadores,",
+          "ni se sienta en la reunión de los burladores,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "sino que en la Ley del Señor se deleita",
+          "y día y noche medita en ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Es como el árbol plantado a la orilla de un río",
+          "que, cuando llega su tiempo, da fruto",
+          "y sus hojas jamás se marchitan.",
+          "Todo cuanto hace prospera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En cambio, los malvados",
+          "son como paja arrastrada por el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por eso no se sostendrán los malvados en el juicio",
+          "ni los pecadores en la asamblea de los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque el Señor cuida el camino de los justos,",
+          "mas la senda de los malvados lleva a la perdición."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

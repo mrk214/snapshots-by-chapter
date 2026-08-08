@@ -1,1 +1,166 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"REV","name":"Apocalipsis"},"chapter":{"chapter_usfm":"REV.10","is_chapter":true,"previous":{"usfm":"REV.9","human":"Apocalipsis 9","canonical":true,"toc":true},"current":{"usfm":"REV.10","human":"Apocalipsis 10"},"next":{"usfm":"REV.11","human":"Apocalipsis 11","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El ángel con el librito"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vi descender del cielo a otro ángel fuerte, envuelto en una nube, con el arco iris sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tenía en su mano un librito abierto; y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y clamó a gran voz, como ruge un león; y cuando hubo clamado, siete truenos emitieron sus voces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuando los siete truenos hubieron emitido sus voces, yo iba a escribir; pero oí una voz del cielo que me decía: Sella las cosas que los siete truenos han dicho, y no las escribas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Y el ángel que vi en pie sobre el mar y sobre la tierra, levantó su mano al cielo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["y juró por el que vive por los siglos de los siglos, que creó el cielo y las cosas que están en él, y la tierra y las cosas que están en ella, y el mar y las cosas que están en él, que el tiempo no sería más,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["sino que en los días de la voz del séptimo ángel, cuando él comience a tocar la trompeta, el misterio de Dios se consumará, como él lo anunció a sus siervos los profetas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["La voz que oí del cielo habló otra vez conmigo, y dijo: Ve y toma el librito que está abierto en la mano del ángel que está en pie sobre el mar y sobre la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Y fui al ángel, diciéndole que me diese el librito. Y él me dijo: Toma, y cómelo; y te amargará el vientre, pero en tu boca será dulce como la miel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces tomé el librito de la mano del ángel, y lo comí; y era dulce en mi boca como la miel, pero cuando lo hube comido, amargó mi vientre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Y él me dijo: Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/REV.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/REV.11.json"
+  },
+  "book": {
+    "book_usfm": "REV",
+    "name": "Apocalipsis"
+  },
+  "chapter": {
+    "chapter_usfm": "REV.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "REV.9",
+      "human": "Apocalipsis 9"
+    },
+    "current": {
+      "usfm": "REV.10",
+      "human": "Apocalipsis 10"
+    },
+    "next": {
+      "usfm": "REV.11",
+      "human": "Apocalipsis 11"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El ángel con el librito"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vi descender del cielo a otro ángel fuerte, envuelto en una nube, con el arco iris sobre su cabeza; y su rostro era como el sol, y sus pies como columnas de fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tenía en su mano un librito abierto; y puso su pie derecho sobre el mar, y el izquierdo sobre la tierra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y clamó a gran voz, como ruge un león; y cuando hubo clamado, siete truenos emitieron sus voces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuando los siete truenos hubieron emitido sus voces, yo iba a escribir; pero oí una voz del cielo que me decía: Sella las cosas que los siete truenos han dicho, y no las escribas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Y el ángel que vi en pie sobre el mar y sobre la tierra, levantó su mano al cielo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "y juró por el que vive por los siglos de los siglos, que creó el cielo y las cosas que están en él, y la tierra y las cosas que están en ella, y el mar y las cosas que están en él, que el tiempo no sería más,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "sino que en los días de la voz del séptimo ángel, cuando él comience a tocar la trompeta, el misterio de Dios se consumará, como él lo anunció a sus siervos los profetas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "La voz que oí del cielo habló otra vez conmigo, y dijo: Ve y toma el librito que está abierto en la mano del ángel que está en pie sobre el mar y sobre la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Y fui al ángel, diciéndole que me diese el librito. Y él me dijo: Toma, y cómelo; y te amargará el vientre, pero en tu boca será dulce como la miel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces tomé el librito de la mano del ángel, y lo comí; y era dulce en mi boca como la miel, pero cuando lo hube comido, amargó mi vientre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Y él me dijo: Es necesario que profetices otra vez sobre muchos pueblos, naciones, lenguas y reyes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

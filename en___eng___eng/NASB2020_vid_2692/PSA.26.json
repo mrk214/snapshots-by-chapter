@@ -1,1 +1,204 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.26","is_chapter":true,"previous":{"usfm":"PSA.25","human":"Psalm 25","canonical":true,"toc":true},"current":{"usfm":"PSA.26","human":"Psalm 26"},"next":{"usfm":"PSA.27","human":"Psalm 27","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 26"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Protestation of Integrity and Prayer for Protection."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vindicate me, Lord, for I have walked in my integrity,","And I have trusted in the Lord without wavering."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Examine me, Lord, and put me to the test;","Refine my mind and my heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For Your goodness is before my eyes,","And I have walked in Your truth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I do not sit with deceitful people,","Nor will I go with pretenders."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I hate the assembly of evildoers,","And I will not sit with the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will wash my hands in innocence,","And I will go around Your altar, Lord,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["That I may proclaim with the voice of thanksgiving","And declare all Your wonders."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶Lord, I love the dwelling of Your house,","And the place where Your glory remains."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Do not take my soul away along with sinners,","Nor my life with men of bloodshed,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["In whose hands is a wicked scheme,","And whose right hand is full of bribes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["But as for me, I will walk in my integrity;","Redeem me, and be gracious to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["My foot stands on level ground;","In the congregations I will bless the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.27.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.25",
+      "human": "Psalm 25"
+    },
+    "current": {
+      "usfm": "PSA.26",
+      "human": "Psalm 26"
+    },
+    "next": {
+      "usfm": "PSA.27",
+      "human": "Psalm 27"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 26"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Protestation of Integrity and Prayer for Protection."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vindicate me, Lord, for I have walked in my integrity,",
+          "And I have trusted in the Lord without wavering."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Examine me, Lord, and put me to the test;",
+          "Refine my mind and my heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For Your goodness is before my eyes,",
+          "And I have walked in Your truth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I do not sit with deceitful people,",
+          "Nor will I go with pretenders."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I hate the assembly of evildoers,",
+          "And I will not sit with the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will wash my hands in innocence,",
+          "And I will go around Your altar, Lord,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "That I may proclaim with the voice of thanksgiving",
+          "And declare all Your wonders."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶Lord, I love the dwelling of Your house,",
+          "And the place where Your glory remains."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Do not take my soul away along with sinners,",
+          "Nor my life with men of bloodshed,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "In whose hands is a wicked scheme,",
+          "And whose right hand is full of bribes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "But as for me, I will walk in my integrity;",
+          "Redeem me, and be gracious to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "My foot stands on level ground;",
+          "In the congregations I will bless the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

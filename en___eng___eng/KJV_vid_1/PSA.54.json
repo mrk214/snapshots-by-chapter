@@ -1,1 +1,141 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Psalm 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Psalm 54"},"next":{"usfm":"PSA.55","human":"Psalm 55","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphim came and said to Saul, Doth not David hide himself with us?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Save me, O God, by thy name,","And judge me by thy strength."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Hear my prayer, O God;","Give ear to the words of my mouth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For strangers are risen up against me,","And oppressors seek after my soul: They have not set God before them."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Behold, God is mine helper:","The Lord is with them that uphold my soul."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He shall reward evil unto mine enemies:","Cut them off in thy truth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will freely sacrifice unto thee:","I will praise thy name, O LORD; for it is good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For he hath delivered me out of all trouble:","And mine eye hath seen his desire upon mine enemies."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Psalm 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Psalm 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Psalm 55"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician on Neginoth, Maschil, A Psalm of David, when the Ziphim came and said to Saul, Doth not David hide himself with us?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Save me, O God, by thy name,",
+          "And judge me by thy strength."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Hear my prayer, O God;",
+          "Give ear to the words of my mouth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For strangers are risen up against me,",
+          "And oppressors seek after my soul: They have not set God before them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Behold, God is mine helper:",
+          "The Lord is with them that uphold my soul."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He shall reward evil unto mine enemies:",
+          "Cut them off in thy truth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will freely sacrifice unto thee:",
+          "I will praise thy name, O LORD; for it is good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For he hath delivered me out of all trouble:",
+          "And mine eye hath seen his desire upon mine enemies."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,173 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.20","is_chapter":true,"previous":{"usfm":"PSA.19","human":"Psalms 19","canonical":true,"toc":true},"current":{"usfm":"PSA.20","human":"Psalms 20"},"next":{"usfm":"PSA.21","human":"Psalms 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Deliverance in Battle"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director. A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["May the Lord answer you in a day of trouble;","may the name of Jacob’s God protect you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["May he send you help from the sanctuary","and sustain you from Zion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["May he remember all your offerings","and accept your burnt offering."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["May he give you what your heart desires","and fulfill your whole purpose."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Let us shout for joy at your victory","and lift the banner in the name of our God.","May the Lord fulfill all your requests."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Now I know that the Lord gives victory to his anointed;","he will answer him from his holy heaven","with mighty victories from his right hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Some take pride in chariots, and others in horses,","but we take pride in the name of the Lord our God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They collapse and fall,","but we rise and stand firm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Lord, give victory to the king!","May he answer us on the day that we call."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.21.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.19",
+      "human": "Psalms 19"
+    },
+    "current": {
+      "usfm": "PSA.20",
+      "human": "Psalms 20"
+    },
+    "next": {
+      "usfm": "PSA.21",
+      "human": "Psalms 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deliverance in Battle"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director. A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "May the Lord answer you in a day of trouble;",
+          "may the name of Jacob’s God protect you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "May he send you help from the sanctuary",
+          "and sustain you from Zion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "May he remember all your offerings",
+          "and accept your burnt offering."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "May he give you what your heart desires",
+          "and fulfill your whole purpose."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Let us shout for joy at your victory",
+          "and lift the banner in the name of our God.",
+          "May the Lord fulfill all your requests."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Now I know that the Lord gives victory to his anointed;",
+          "he will answer him from his holy heaven",
+          "with mighty victories from his right hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Some take pride in chariots, and others in horses,",
+          "but we take pride in the name of the Lord our God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They collapse and fall,",
+          "but we rise and stand firm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Lord, give victory to the king!",
+          "May he answer us on the day that we call."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

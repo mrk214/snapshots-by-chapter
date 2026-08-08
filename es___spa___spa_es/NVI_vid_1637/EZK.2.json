@@ -1,1 +1,156 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"EZK","name":"Ezequiel"},"chapter":{"chapter_usfm":"EZK.2","is_chapter":true,"previous":{"usfm":"EZK.1","human":"Ezequiel 1","canonical":true,"toc":true},"current":{"usfm":"EZK.2","human":"Ezequiel 2"},"next":{"usfm":"EZK.3","human":"Ezequiel 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Llamamiento de Ezequiel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Esa voz me dijo: «Hijo de hombre, ponte en pie, que voy a hablarte»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mientras me hablaba, el Espíritu entró en mí, hizo que me pusiera de pie, y pude oír al que me hablaba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Me dijo: «Hijo de hombre, te voy a enviar a los israelitas. Es una nación rebelde que se ha sublevado contra mí. Ellos y sus antepasados se han rebelado contra mí hasta el día de hoy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Te estoy enviando a un pueblo obstinado y terco, al que deberás advertirle: “Así dice el Señor omnipotente”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tal vez te escuchen, tal vez no, pues son un pueblo rebelde; pero al menos sabrán que entre ellos hay un profeta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tú, hijo de hombre, no tengas miedo de ellos ni de sus palabras, por más que estés en medio de cardos y espinas, y vivas rodeado de escorpiones. No temas por lo que digan, ni te sientas atemorizado, porque son un pueblo obstinado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tal vez te escuchen, tal vez no, pues son un pueblo rebelde; pero tú les proclamarás mis palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Tú, hijo de hombre, atiende bien a lo que te voy a decir, y no seas rebelde como ellos. Abre tu boca y come lo que te voy a dar»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces miré, y vi que una mano con un rollo escrito se extendía hacia mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La mano abrió ante mis ojos el rollo, el cual estaba escrito por ambos lados, y contenía lamentos, gemidos y amenazas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.3.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezequiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.1",
+      "human": "Ezequiel 1"
+    },
+    "current": {
+      "usfm": "EZK.2",
+      "human": "Ezequiel 2"
+    },
+    "next": {
+      "usfm": "EZK.3",
+      "human": "Ezequiel 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Llamamiento de Ezequiel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Esa voz me dijo: «Hijo de hombre, ponte en pie, que voy a hablarte»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mientras me hablaba, el Espíritu entró en mí, hizo que me pusiera de pie, y pude oír al que me hablaba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Me dijo: «Hijo de hombre, te voy a enviar a los israelitas. Es una nación rebelde que se ha sublevado contra mí. Ellos y sus antepasados se han rebelado contra mí hasta el día de hoy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Te estoy enviando a un pueblo obstinado y terco, al que deberás advertirle: “Así dice el Señor omnipotente”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tal vez te escuchen, tal vez no, pues son un pueblo rebelde; pero al menos sabrán que entre ellos hay un profeta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tú, hijo de hombre, no tengas miedo de ellos ni de sus palabras, por más que estés en medio de cardos y espinas, y vivas rodeado de escorpiones. No temas por lo que digan, ni te sientas atemorizado, porque son un pueblo obstinado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tal vez te escuchen, tal vez no, pues son un pueblo rebelde; pero tú les proclamarás mis palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Tú, hijo de hombre, atiende bien a lo que te voy a decir, y no seas rebelde como ellos. Abre tu boca y come lo que te voy a dar»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces miré, y vi que una mano con un rollo escrito se extendía hacia mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La mano abrió ante mis ojos el rollo, el cual estaba escrito por ambos lados, y contenía lamentos, gemidos y amenazas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

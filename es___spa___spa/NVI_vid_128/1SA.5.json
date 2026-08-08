@@ -1,1 +1,179 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"1SA","name":"1 Samuel"},"chapter":{"chapter_usfm":"1SA.5","is_chapter":true,"previous":{"usfm":"1SA.4","human":"1 Samuel 4","canonical":true,"toc":true},"current":{"usfm":"1SA.5","human":"1 Samuel 5"},"next":{"usfm":"1SA.6","human":"1 Samuel 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El arca en Asdod y Ecrón"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Después de capturar el arca de Dios, los filisteos la llevaron de Ebenezer a Asdod"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y la pusieron junto a la estatua de Dagón, en el templo de ese dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Al día siguiente, cuando los habitantes de Asdod se levantaron, vieron que la estatua de Dagón estaba tirada en el suelo, boca abajo, frente al arca del Señor. Así que la levantaron y la colocaron en su sitio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero al día siguiente, cuando se levantaron, volvieron a encontrar la estatua tirada en el suelo, boca abajo, frente al arca del Señor. Sobre el umbral estaban su cabeza y sus dos manos, separadas del tronco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por eso, hasta el día de hoy, ninguno de los que entran en el templo de Dagón en Asdod, incluso los sacerdotes, pisan el umbral."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Entonces el Señor descargó su mano sobre la población de Asdod y sus alrededores, y los azotó con tumores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La gente de Asdod reconoció lo que estaba pasando y declaró: «El arca del Dios de Israel no puede quedarse en medio nuestro, porque ese Dios ha descargado su mano sobre nosotros y contra nuestro dios Dagón»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así que convocaron a todos los gobernantes filisteos y les preguntaron:","—¿Qué vamos a hacer con el arca del Dios de Israel?","—Trasladen el arca del Dios de Israel a la ciudad de Gat —respondieron los jefes.","Y así lo hicieron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pero después de que la trasladaron, el Señor castigó a esa ciudad, afligiendo con una erupción de tumores a sus habitantes, desde el más pequeño hasta el mayor. Eso provocó un pánico horrible."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces enviaron el arca de Dios a Ecrón, pero tan pronto como entró el arca en la ciudad, sus habitantes se pusieron a gritar: «¡Nos han traído el arca del Dios de Israel para matarnos a todos!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Por eso convocaron a todos los jefes filisteos y protestaron: «¡Llévense el arca del Dios de Israel! ¡Devuélvanla a su lugar de origen, para que no nos mate a nosotros y a todos los nuestros!». Y es que el terror de la muerte se había apoderado de la ciudad, porque Dios había descargado su mano sobre ese lugar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Los que no murieron fueron azotados por tumores, de modo que los gritos de la ciudad llegaban hasta el cielo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/1SA.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/1SA.6.json"
+  },
+  "book": {
+    "book_usfm": "1SA",
+    "name": "1 Samuel"
+  },
+  "chapter": {
+    "chapter_usfm": "1SA.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1SA.4",
+      "human": "1 Samuel 4"
+    },
+    "current": {
+      "usfm": "1SA.5",
+      "human": "1 Samuel 5"
+    },
+    "next": {
+      "usfm": "1SA.6",
+      "human": "1 Samuel 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El arca en Asdod y Ecrón"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Después de capturar el arca de Dios, los filisteos la llevaron de Ebenezer a Asdod"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y la pusieron junto a la estatua de Dagón, en el templo de ese dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Al día siguiente, cuando los habitantes de Asdod se levantaron, vieron que la estatua de Dagón estaba tirada en el suelo, boca abajo, frente al arca del Señor. Así que la levantaron y la colocaron en su sitio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero al día siguiente, cuando se levantaron, volvieron a encontrar la estatua tirada en el suelo, boca abajo, frente al arca del Señor. Sobre el umbral estaban su cabeza y sus dos manos, separadas del tronco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por eso, hasta el día de hoy, ninguno de los que entran en el templo de Dagón en Asdod, incluso los sacerdotes, pisan el umbral."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Entonces el Señor descargó su mano sobre la población de Asdod y sus alrededores, y los azotó con tumores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La gente de Asdod reconoció lo que estaba pasando y declaró: «El arca del Dios de Israel no puede quedarse en medio nuestro, porque ese Dios ha descargado su mano sobre nosotros y contra nuestro dios Dagón»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así que convocaron a todos los gobernantes filisteos y les preguntaron:",
+          "—¿Qué vamos a hacer con el arca del Dios de Israel?",
+          "—Trasladen el arca del Dios de Israel a la ciudad de Gat —respondieron los jefes.",
+          "Y así lo hicieron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pero después de que la trasladaron, el Señor castigó a esa ciudad, afligiendo con una erupción de tumores a sus habitantes, desde el más pequeño hasta el mayor. Eso provocó un pánico horrible."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces enviaron el arca de Dios a Ecrón, pero tan pronto como entró el arca en la ciudad, sus habitantes se pusieron a gritar: «¡Nos han traído el arca del Dios de Israel para matarnos a todos!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Por eso convocaron a todos los jefes filisteos y protestaron: «¡Llévense el arca del Dios de Israel! ¡Devuélvanla a su lugar de origen, para que no nos mate a nosotros y a todos los nuestros!». Y es que el terror de la muerte se había apoderado de la ciudad, porque Dios había descargado su mano sobre ese lugar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Los que no murieron fueron azotados por tumores, de modo que los gritos de la ciudad llegaban hasta el cielo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

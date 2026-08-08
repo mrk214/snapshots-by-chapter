@@ -1,1 +1,128 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.12","is_chapter":true,"previous":{"usfm":"ISA.11","human":"Isaiah 11","canonical":true,"toc":true},"current":{"usfm":"ISA.12","human":"Isaiah 12"},"next":{"usfm":"ISA.13","human":"Isaiah 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Songs of Praise for Salvation"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In that day you will sing:","“I will praise you, O Lord!","You were angry with me, but not anymore.","Now you comfort me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["See, God has come to save me.","I will trust in him and not be afraid.","The Lord God is my strength and my song;","he has given me victory.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["With joy you will drink deeply","from the fountain of salvation!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["In that wonderful day you will sing:","“Thank the Lord! Praise his name!","Tell the nations what he has done.","Let them know how mighty he is!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sing to the Lord, for he has done wonderful things.","Make known his praise around the world."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let all the people of Jerusalem shout his praise with joy!","For great is the Holy One of Israel who lives among you.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.13.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.11",
+      "human": "Isaiah 11"
+    },
+    "current": {
+      "usfm": "ISA.12",
+      "human": "Isaiah 12"
+    },
+    "next": {
+      "usfm": "ISA.13",
+      "human": "Isaiah 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Songs of Praise for Salvation"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In that day you will sing:",
+          "“I will praise you, O Lord!",
+          "You were angry with me, but not anymore.",
+          "Now you comfort me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "See, God has come to save me.",
+          "I will trust in him and not be afraid.",
+          "The Lord God is my strength and my song;",
+          "he has given me victory.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "With joy you will drink deeply",
+          "from the fountain of salvation!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "In that wonderful day you will sing:",
+          "“Thank the Lord! Praise his name!",
+          "Tell the nations what he has done.",
+          "Let them know how mighty he is!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sing to the Lord, for he has done wonderful things.",
+          "Make known his praise around the world."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let all the people of Jerusalem shout his praise with joy!",
+          "For great is the Holy One of Israel who lives among you.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

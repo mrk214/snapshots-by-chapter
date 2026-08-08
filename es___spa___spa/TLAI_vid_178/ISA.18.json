@@ -1,1 +1,146 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.18","is_chapter":true,"previous":{"usfm":"ISA.17","human":"Isaías 17","canonical":true,"toc":true},"current":{"usfm":"ISA.18","human":"Isaías 18"},"next":{"usfm":"ISA.19","human":"Isaías 19","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Mensaje contra Egipto"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Qué mal le va a ir a Egipto,","ese país lleno de mosquitos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y que envía a sus mensajeros","por el río Nilo en barcas de junco!","Veloces mensajeros, regresen a Egipto,","a ese pueblo rodeado de ríos,","de gente muy alta y de piel brillante;","a ese pueblo fuerte y orgulloso,","que todo el mundo teme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Habitantes del mundo,","no dejen de mirar hacia las montañas!","Estén alertas, porque pronto se dará la señal;","pronto sonará la trompeta","que anuncia la llegada del castigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dios me dijo:","«Isaías, yo estoy en el cielo","y desde aquí observo tranquilo","a todo el mundo.","Estoy tranquilo,","como la luz del sol en un día de verano,","como la nube de rocío","en el día caluroso de la cosecha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5,6],"lines":["»La gente de Egipto","quedará abandonada en las montañas.","Será abandonada como los viñedos","después de la cosecha.","Será comida de buitres en el verano,","y alimento de las fieras en el invierno»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Egipto está rodeado de ríos,","tiene gente muy alta, de piel brillante.","Es un pueblo fuerte y orgulloso,","y todo el mundo le teme.","Pero cuando llegue el día de su castigo","traerá ofrendas a Jerusalén","y adorará al Dios todopoderoso."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ISA.17.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ISA.19.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.18",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.17",
+      "human": "Isaías 17"
+    },
+    "current": {
+      "usfm": "ISA.18",
+      "human": "Isaías 18"
+    },
+    "next": {
+      "usfm": "ISA.19",
+      "human": "Isaías 19"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje contra Egipto"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Qué mal le va a ir a Egipto,",
+          "ese país lleno de mosquitos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y que envía a sus mensajeros",
+          "por el río Nilo en barcas de junco!",
+          "Veloces mensajeros, regresen a Egipto,",
+          "a ese pueblo rodeado de ríos,",
+          "de gente muy alta y de piel brillante;",
+          "a ese pueblo fuerte y orgulloso,",
+          "que todo el mundo teme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Habitantes del mundo,",
+          "no dejen de mirar hacia las montañas!",
+          "Estén alertas, porque pronto se dará la señal;",
+          "pronto sonará la trompeta",
+          "que anuncia la llegada del castigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dios me dijo:",
+          "«Isaías, yo estoy en el cielo",
+          "y desde aquí observo tranquilo",
+          "a todo el mundo.",
+          "Estoy tranquilo,",
+          "como la luz del sol en un día de verano,",
+          "como la nube de rocío",
+          "en el día caluroso de la cosecha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5,
+          6
+        ],
+        "lines": [
+          "»La gente de Egipto",
+          "quedará abandonada en las montañas.",
+          "Será abandonada como los viñedos",
+          "después de la cosecha.",
+          "Será comida de buitres en el verano,",
+          "y alimento de las fieras en el invierno»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Egipto está rodeado de ríos,",
+          "tiene gente muy alta, de piel brillante.",
+          "Es un pueblo fuerte y orgulloso,",
+          "y todo el mundo le teme.",
+          "Pero cuando llegue el día de su castigo",
+          "traerá ofrendas a Jerusalén",
+          "y adorará al Dios todopoderoso."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

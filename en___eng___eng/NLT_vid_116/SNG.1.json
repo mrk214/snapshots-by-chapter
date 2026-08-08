@@ -1,1 +1,324 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"SNG","name":"Song of Songs"},"chapter":{"chapter_usfm":"SNG.1","is_chapter":true,"previous":{"usfm":"ECC.12","human":"Ecclesiastes 12","canonical":true,"toc":true},"current":{"usfm":"SNG.1","human":"Song of Songs 1"},"next":{"usfm":"SNG.2","human":"Song of Songs 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["This is Solomon’s song of songs, more wonderful than any other."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Woman"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Kiss me and kiss me again,","for your love is sweeter than wine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["How pleasing is your fragrance;","your name is like the spreading fragrance of scented oils.","No wonder all the young women love you!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Take me with you; come, let’s run!","The king has brought me into his bedroom."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Women of Jerusalem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["How happy we are for you, O king.","We praise your love even more than wine."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Woman"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["How right they are to adore you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I am dark but beautiful,","O women of Jerusalem—","dark as the tents of Kedar,","dark as the curtains of Solomon’s tents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Don’t stare at me because I am dark—","the sun has darkened my skin.","My brothers were angry with me;","they forced me to care for their vineyards,","so I couldn’t care for myself—my own vineyard."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tell me, my love, where are you leading your flock today?","Where will you rest your sheep at noon?","For why should I wander like a prostitute","among your friends and their flocks?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Man"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["If you don’t know, O most beautiful woman,","follow the trail of my flock,","and graze your young goats by the shepherds’ tents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["You are as exciting, my darling,","as a mare among Pharaoh’s stallions."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["How lovely are your cheeks;","your earrings set them afire!","How lovely is your neck,","enhanced by a string of jewels."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["We will make for you earrings of gold","and beads of silver."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Woman"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The king is lying on his couch,","enchanted by the fragrance of my perfume."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["My lover is like a sachet of myrrh","lying between my breasts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["He is like a bouquet of sweet henna blossoms","from the vineyards of En-gedi."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Man"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["How beautiful you are, my darling,","how beautiful!","Your eyes are like doves."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Young Woman"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["You are so handsome, my love,","pleasing beyond words!","The soft grass is our bed;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["fragrant cedar branches are the beams of our house,","and pleasant smelling firs are the rafters."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ECC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/SNG.2.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Song of Songs"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Ecclesiastes 12"
+    },
+    "current": {
+      "usfm": "SNG.1",
+      "human": "Song of Songs 1"
+    },
+    "next": {
+      "usfm": "SNG.2",
+      "human": "Song of Songs 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "This is Solomon’s song of songs, more wonderful than any other."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Woman"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Kiss me and kiss me again,",
+          "for your love is sweeter than wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "How pleasing is your fragrance;",
+          "your name is like the spreading fragrance of scented oils.",
+          "No wonder all the young women love you!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Take me with you; come, let’s run!",
+          "The king has brought me into his bedroom."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Women of Jerusalem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "How happy we are for you, O king.",
+          "We praise your love even more than wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Woman"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "How right they are to adore you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I am dark but beautiful,",
+          "O women of Jerusalem—",
+          "dark as the tents of Kedar,",
+          "dark as the curtains of Solomon’s tents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Don’t stare at me because I am dark—",
+          "the sun has darkened my skin.",
+          "My brothers were angry with me;",
+          "they forced me to care for their vineyards,",
+          "so I couldn’t care for myself—my own vineyard."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tell me, my love, where are you leading your flock today?",
+          "Where will you rest your sheep at noon?",
+          "For why should I wander like a prostitute",
+          "among your friends and their flocks?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Man"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "If you don’t know, O most beautiful woman,",
+          "follow the trail of my flock,",
+          "and graze your young goats by the shepherds’ tents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "You are as exciting, my darling,",
+          "as a mare among Pharaoh’s stallions."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "How lovely are your cheeks;",
+          "your earrings set them afire!",
+          "How lovely is your neck,",
+          "enhanced by a string of jewels."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "We will make for you earrings of gold",
+          "and beads of silver."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Woman"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The king is lying on his couch,",
+          "enchanted by the fragrance of my perfume."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "My lover is like a sachet of myrrh",
+          "lying between my breasts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "He is like a bouquet of sweet henna blossoms",
+          "from the vineyards of En-gedi."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Man"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "How beautiful you are, my darling,",
+          "how beautiful!",
+          "Your eyes are like doves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Young Woman"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "You are so handsome, my love,",
+          "pleasing beyond words!",
+          "The soft grass is our bed;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "fragrant cedar branches are the beams of our house,",
+          "and pleasant smelling firs are the rafters."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,334 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"WIS","name":"Sabiduría"},"chapter":{"chapter_usfm":"WIS.8","is_chapter":true,"previous":{"usfm":"WIS.7","human":"Sabiduría 7","canonical":true,"toc":true},"current":{"usfm":"WIS.8","human":"Sabiduría 8"},"next":{"usfm":"WIS.9","human":"Sabiduría 9","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»La sabiduría avanza con poder","de un extremo a otro de la tierra,","y gobierna sobre todo lo que existe."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La sabiduría trae mucho bien"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["»Yo amé a la sabiduría;","cuando era joven la busqué,","me enamoré de su belleza","y quise que fuera mi esposa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["»Dios, el Dios de todos,","ama la sabiduría;","ella vive junto a Dios,","y en él tiene su origen.","Por eso ella es tan importante,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["pues conoce los secretos de Dios","y actúa de acuerdo con él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Todos desean la riqueza,","pero debemos recordar","que la sabiduría es más importante,","porque dirige todo lo creado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ella es dueña de la inteligencia,","y ha hecho todo lo que existe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["»Si de veras amas la justicia,","te irá bien en todo,","porque la sabiduría nos enseña","a ser prudentes y sabios,","justos y valientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Si deseas tener experiencia en la vida,","busca la sabiduría,","pues ella conoce el pasado","y sabe lo que pasará en el futuro.","La sabiduría tiene la respuesta","para todas las adivinanzas","y para las preguntas más difíciles.","Antes de que suceda algo,","la sabiduría ya lo sabe,","y también conoce","las épocas y las estaciones."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La sabiduría, compañera de mi vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["»Por eso quise hacer de la sabiduría","la compañera de mi vida.","Sé que ella me dará","los mejores consejos","en el momento oportuno,","y me dará consuelo","en tiempos de dolor y de tristeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Aunque soy joven,","gracias a la sabiduría","seré famoso entre la gente,","y hasta los ancianos","me tratarán con respeto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Gobernaré con inteligencia,","y los poderosos me admirarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando me quede callado,","la gente deseará oír mis palabras.","Cuando me ponga a hablar,","todos me prestarán atención;","y si pronuncio un discurso,","todos me escucharán admirados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»Gracias a la sabiduría,","viviré para siempre","y dejaré un recuerdo duradero","entre los que reinen después de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Gobernaré muchas naciones"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["y seré un héroe en los combates;","los gobernantes crueles se asustarán","cuando oigan hablar de mí,","pero seré bondadoso con mi pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["»Cuando regrese a casa,","descansaré tranquilo","junto con la sabiduría;","porque al lado de ella","no hay sufrimiento,","sino solo alegría y placer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17,18],"lines":["»Cuando pensé en todo esto,","comprendí de inmediato","que los amigos de la sabiduría","siempre vivirán felices","y gozarán de una larga vida.","También comprendí","que vivir a diario con la sabiduría","trae inteligencia, fama y riqueza.","Por eso me puse a buscarla","para llevármela conmigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["»Fui un niño muy afortunado,","pues recibí un alma buena;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["o más bien, por ser bueno,","nací en un cuerpo sano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Pero pronto descubrí","que la sabiduría es un regalo de Dios.","Y pedí a Dios de todo corazón","que me diera sabiduría»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/WIS.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/WIS.9.json"
+  },
+  "book": {
+    "book_usfm": "WIS",
+    "name": "Sabiduría"
+  },
+  "chapter": {
+    "chapter_usfm": "WIS.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "WIS.7",
+      "human": "Sabiduría 7"
+    },
+    "current": {
+      "usfm": "WIS.8",
+      "human": "Sabiduría 8"
+    },
+    "next": {
+      "usfm": "WIS.9",
+      "human": "Sabiduría 9"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»La sabiduría avanza con poder",
+          "de un extremo a otro de la tierra,",
+          "y gobierna sobre todo lo que existe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La sabiduría trae mucho bien"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "»Yo amé a la sabiduría;",
+          "cuando era joven la busqué,",
+          "me enamoré de su belleza",
+          "y quise que fuera mi esposa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "»Dios, el Dios de todos,",
+          "ama la sabiduría;",
+          "ella vive junto a Dios,",
+          "y en él tiene su origen.",
+          "Por eso ella es tan importante,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "pues conoce los secretos de Dios",
+          "y actúa de acuerdo con él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Todos desean la riqueza,",
+          "pero debemos recordar",
+          "que la sabiduría es más importante,",
+          "porque dirige todo lo creado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ella es dueña de la inteligencia,",
+          "y ha hecho todo lo que existe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "»Si de veras amas la justicia,",
+          "te irá bien en todo,",
+          "porque la sabiduría nos enseña",
+          "a ser prudentes y sabios,",
+          "justos y valientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Si deseas tener experiencia en la vida,",
+          "busca la sabiduría,",
+          "pues ella conoce el pasado",
+          "y sabe lo que pasará en el futuro.",
+          "La sabiduría tiene la respuesta",
+          "para todas las adivinanzas",
+          "y para las preguntas más difíciles.",
+          "Antes de que suceda algo,",
+          "la sabiduría ya lo sabe,",
+          "y también conoce",
+          "las épocas y las estaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La sabiduría, compañera de mi vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "»Por eso quise hacer de la sabiduría",
+          "la compañera de mi vida.",
+          "Sé que ella me dará",
+          "los mejores consejos",
+          "en el momento oportuno,",
+          "y me dará consuelo",
+          "en tiempos de dolor y de tristeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Aunque soy joven,",
+          "gracias a la sabiduría",
+          "seré famoso entre la gente,",
+          "y hasta los ancianos",
+          "me tratarán con respeto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Gobernaré con inteligencia,",
+          "y los poderosos me admirarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando me quede callado,",
+          "la gente deseará oír mis palabras.",
+          "Cuando me ponga a hablar,",
+          "todos me prestarán atención;",
+          "y si pronuncio un discurso,",
+          "todos me escucharán admirados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»Gracias a la sabiduría,",
+          "viviré para siempre",
+          "y dejaré un recuerdo duradero",
+          "entre los que reinen después de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Gobernaré muchas naciones"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "y seré un héroe en los combates;",
+          "los gobernantes crueles se asustarán",
+          "cuando oigan hablar de mí,",
+          "pero seré bondadoso con mi pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "»Cuando regrese a casa,",
+          "descansaré tranquilo",
+          "junto con la sabiduría;",
+          "porque al lado de ella",
+          "no hay sufrimiento,",
+          "sino solo alegría y placer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17,
+          18
+        ],
+        "lines": [
+          "»Cuando pensé en todo esto,",
+          "comprendí de inmediato",
+          "que los amigos de la sabiduría",
+          "siempre vivirán felices",
+          "y gozarán de una larga vida.",
+          "También comprendí",
+          "que vivir a diario con la sabiduría",
+          "trae inteligencia, fama y riqueza.",
+          "Por eso me puse a buscarla",
+          "para llevármela conmigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "»Fui un niño muy afortunado,",
+          "pues recibí un alma buena;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "o más bien, por ser bueno,",
+          "nací en un cuerpo sano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Pero pronto descubrí",
+          "que la sabiduría es un regalo de Dios.",
+          "Y pedí a Dios de todo corazón",
+          "que me diera sabiduría»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

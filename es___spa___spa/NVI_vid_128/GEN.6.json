@@ -1,1 +1,285 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.6","is_chapter":true,"previous":{"usfm":"GEN.5","human":"Génesis 5","canonical":true,"toc":true},"current":{"usfm":"GEN.6","human":"Génesis 6"},"next":{"usfm":"GEN.7","human":"Génesis 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La maldad humana"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando los seres humanos comenzaron a multiplicarse sobre la tierra y tuvieron hijas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["los hijos de Dios vieron que las hijas de los seres humanos eran hermosas. Entonces tomaron como mujeres a todas las que desearon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pero el Señor dijo: «Mi espíritu no permanecerá en el ser humano para siempre porque no es más que un mortal; por eso vivirá solamente ciento veinte años»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Al unirse los hijos de Dios con las hijas de los seres humanos y tener hijos con ellas, nacieron gigantes, que fueron los poderosos guerreros de antaño. A partir de entonces hubo gigantes en la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Al ver el Señor que la maldad del ser humano en la tierra era muy grande y que toda inclinación de su corazón tendía siempre hacia el mal,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["lamentó haber hecho al ser humano en la tierra, y le dolió en el corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entonces el Señor dijo: «Voy a borrar de la superficie de la tierra al ser humano que he creado. Y haré lo mismo con los animales, los reptiles y las aves del cielo. ¡Me duele haberlos hecho!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pero Noé contaba con el favor del Señor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El diluvio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Esta es la historia de Noé.","Noé era un hombre justo e íntegro entre su gente, y anduvo fielmente con Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tuvo tres hijos: Sem, Cam y Jafet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero Dios vio que la tierra estaba corrompida y llena de violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Al ver Dios tanta corrupción en la tierra y que la gente había corrompido su conducta,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["dijo a Noé: «He decidido acabar con toda la gente, pues por su causa la tierra está llena de violencia. Así que voy a destruir a la gente junto con la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Constrúyete un arca de madera resinosa, hazle compartimentos y cúbrela con brea por dentro y por fuera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Dale las siguientes medidas: trescientos codos de largo, cincuenta de ancho y treinta de alto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Hazla de tres pisos con una abertura a un codo del techo y con una puerta en uno de sus costados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Porque voy a enviar un diluvio sobre la tierra para destruir a todos los seres vivientes bajo el cielo. Todo lo que existe en la tierra morirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pero contigo estableceré mi pacto, y entrarán en el arca tú y tus hijos, tu esposa y tus nueras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Haz que entre en el arca una pareja de todos los seres vivientes, es decir, un macho y una hembra de cada especie, para que sobrevivan contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Contigo entrará también una pareja de cada especie de aves, de ganado y de animales que se arrastran por el suelo, para que puedan sobrevivir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Recoge además toda clase de alimento y almacénalo para que a ti y a ellos les sirva de comida»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Y Noé hizo todo según lo que Dios había mandado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.7.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.5",
+      "human": "Génesis 5"
+    },
+    "current": {
+      "usfm": "GEN.6",
+      "human": "Génesis 6"
+    },
+    "next": {
+      "usfm": "GEN.7",
+      "human": "Génesis 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La maldad humana"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando los seres humanos comenzaron a multiplicarse sobre la tierra y tuvieron hijas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "los hijos de Dios vieron que las hijas de los seres humanos eran hermosas. Entonces tomaron como mujeres a todas las que desearon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pero el Señor dijo: «Mi espíritu no permanecerá en el ser humano para siempre porque no es más que un mortal; por eso vivirá solamente ciento veinte años»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Al unirse los hijos de Dios con las hijas de los seres humanos y tener hijos con ellas, nacieron gigantes, que fueron los poderosos guerreros de antaño. A partir de entonces hubo gigantes en la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Al ver el Señor que la maldad del ser humano en la tierra era muy grande y que toda inclinación de su corazón tendía siempre hacia el mal,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "lamentó haber hecho al ser humano en la tierra, y le dolió en el corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entonces el Señor dijo: «Voy a borrar de la superficie de la tierra al ser humano que he creado. Y haré lo mismo con los animales, los reptiles y las aves del cielo. ¡Me duele haberlos hecho!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pero Noé contaba con el favor del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El diluvio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Esta es la historia de Noé.",
+          "Noé era un hombre justo e íntegro entre su gente, y anduvo fielmente con Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tuvo tres hijos: Sem, Cam y Jafet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero Dios vio que la tierra estaba corrompida y llena de violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Al ver Dios tanta corrupción en la tierra y que la gente había corrompido su conducta,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "dijo a Noé: «He decidido acabar con toda la gente, pues por su causa la tierra está llena de violencia. Así que voy a destruir a la gente junto con la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Constrúyete un arca de madera resinosa, hazle compartimentos y cúbrela con brea por dentro y por fuera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Dale las siguientes medidas: trescientos codos de largo, cincuenta de ancho y treinta de alto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Hazla de tres pisos con una abertura a un codo del techo y con una puerta en uno de sus costados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Porque voy a enviar un diluvio sobre la tierra para destruir a todos los seres vivientes bajo el cielo. Todo lo que existe en la tierra morirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pero contigo estableceré mi pacto, y entrarán en el arca tú y tus hijos, tu esposa y tus nueras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Haz que entre en el arca una pareja de todos los seres vivientes, es decir, un macho y una hembra de cada especie, para que sobrevivan contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Contigo entrará también una pareja de cada especie de aves, de ganado y de animales que se arrastran por el suelo, para que puedan sobrevivir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Recoge además toda clase de alimento y almacénalo para que a ti y a ellos les sirva de comida»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Y Noé hizo todo según lo que Dios había mandado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

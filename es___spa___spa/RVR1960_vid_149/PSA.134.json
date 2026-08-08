@@ -1,1 +1,98 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.134","is_chapter":true,"previous":{"usfm":"PSA.133","human":"Salmos 133","canonical":true,"toc":true},"current":{"usfm":"PSA.134","human":"Salmos 134"},"next":{"usfm":"PSA.135","human":"Salmos 135","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Exhortación a los guardas del templo"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Mirad, bendecid a Jehová,","Vosotros todos los siervos de Jehová,","Los que en la casa de Jehová estáis por las noches."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Alzad vuestras manos al santuario,","Y bendecid a Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Desde Sion te bendiga Jehová,","El cual ha hecho los cielos y la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.133.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.135.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.134",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "current": {
+      "usfm": "PSA.134",
+      "human": "Salmos 134"
+    },
+    "next": {
+      "usfm": "PSA.135",
+      "human": "Salmos 135"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Exhortación a los guardas del templo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Mirad, bendecid a Jehová,",
+          "Vosotros todos los siervos de Jehová,",
+          "Los que en la casa de Jehová estáis por las noches."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Alzad vuestras manos al santuario,",
+          "Y bendecid a Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Desde Sion te bendiga Jehová,",
+          "El cual ha hecho los cielos y la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,237 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"1KI","name":"1 Reyes"},"chapter":{"chapter_usfm":"1KI.5","is_chapter":true,"previous":{"usfm":"1KI.4","human":"1 Reyes 4","canonical":true,"toc":true},"current":{"usfm":"1KI.5","human":"1 Reyes 5"},"next":{"usfm":"1KI.6","human":"1 Reyes 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Preparativos para la construcción del templo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hiram, rey de Tiro, siempre había sido un amigo fiel del rey David. Cuando Hiram se enteró de que Salomón, hijo del rey David, era el nuevo rey de Israel, envió embajadores a felicitarlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entonces Salomón le respondió a Hiram con el siguiente mensaje:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["«Tú sabes que mi padre, David, no pudo construir un templo para honrar el nombre del Señor su Dios, debido a la cantidad de guerras que le hicieron las naciones vecinas. No podía construir hasta que el Señor le diera la victoria sobre todos sus enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Sin embargo, ahora el Señor mi Dios me ha dado paz en todo el territorio; no tengo enemigos, y todo marcha bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Así que tengo planeado construir un templo para honrar el nombre del Señor mi Dios, tal como él le había indicado a mi padre David. Pues el Señor le dijo: “Tu hijo, a quien yo pondré en tu trono, construirá el templo para honra de mi nombre”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»En consecuencia, ordena, por favor, que se corten cedros del Líbano para mí. Permite que mis hombres trabajen junto a los tuyos, y yo pagaré a tus hombres el salario que tú pidas. Como bien sabes, ¡no hay nadie por aquí que sepa cortar la madera como ustedes, los sidonios!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuando Hiram recibió el mensaje de Salomón, se puso muy contento y dijo: «Alabado sea hoy el Señor por haberle dado a David un hijo sabio para que sea rey de la gran nación de Israel»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así que le envió la siguiente respuesta a Salomón:","«He recibido tu mensaje y te proporcionaré toda la madera de cedro y de ciprés que necesites."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mis siervos llevarán los troncos desde las montañas del Líbano hasta el mar Mediterráneo y los pondrán en forma de balsas para que floten a lo largo de la costa hacia el lugar que tú decidas. Luego desarmaremos las balsas para que ustedes puedan llevarse los troncos. Puedes pagarme proveyendo alimentos para mi casa»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces Hiram proporcionó toda la madera de cedro y ciprés que Salomón quiso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Salomón le enviaba, a cambio, un pago anual de 100.000 canastas de trigo para su casa y 420.000 litros de aceite de oliva puro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El Señor le dio sabiduría a Salomón tal como se lo había prometido. Así que Hiram y Salomón formaron una alianza de paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Luego el rey Salomón impuso trabajo forzado a treinta mil trabajadores de todo Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Los envió al Líbano en turnos de diez mil por mes, de modo que cada hombre estuviera un mes en el Líbano y dos meses en casa. Adoniram estaba a cargo de estos trabajadores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Salomón también tenía setenta mil obreros, ochenta mil cortadores de piedra en la zona montañosa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["y tres mil seiscientos capataces para supervisar el trabajo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Por orden del rey, ellos extrajeron grandes bloques de piedra de la mejor calidad y les dieron forma para hacer los cimientos del templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Hombres de la ciudad de Gebal ayudaron a los constructores de Salomón y de Hiram a preparar la madera y la piedra para el templo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/1KI.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/1KI.6.json"
+  },
+  "book": {
+    "book_usfm": "1KI",
+    "name": "1 Reyes"
+  },
+  "chapter": {
+    "chapter_usfm": "1KI.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1KI.4",
+      "human": "1 Reyes 4"
+    },
+    "current": {
+      "usfm": "1KI.5",
+      "human": "1 Reyes 5"
+    },
+    "next": {
+      "usfm": "1KI.6",
+      "human": "1 Reyes 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Preparativos para la construcción del templo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hiram, rey de Tiro, siempre había sido un amigo fiel del rey David. Cuando Hiram se enteró de que Salomón, hijo del rey David, era el nuevo rey de Israel, envió embajadores a felicitarlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entonces Salomón le respondió a Hiram con el siguiente mensaje:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "«Tú sabes que mi padre, David, no pudo construir un templo para honrar el nombre del Señor su Dios, debido a la cantidad de guerras que le hicieron las naciones vecinas. No podía construir hasta que el Señor le diera la victoria sobre todos sus enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Sin embargo, ahora el Señor mi Dios me ha dado paz en todo el territorio; no tengo enemigos, y todo marcha bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Así que tengo planeado construir un templo para honrar el nombre del Señor mi Dios, tal como él le había indicado a mi padre David. Pues el Señor le dijo: “Tu hijo, a quien yo pondré en tu trono, construirá el templo para honra de mi nombre”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»En consecuencia, ordena, por favor, que se corten cedros del Líbano para mí. Permite que mis hombres trabajen junto a los tuyos, y yo pagaré a tus hombres el salario que tú pidas. Como bien sabes, ¡no hay nadie por aquí que sepa cortar la madera como ustedes, los sidonios!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuando Hiram recibió el mensaje de Salomón, se puso muy contento y dijo: «Alabado sea hoy el Señor por haberle dado a David un hijo sabio para que sea rey de la gran nación de Israel»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así que le envió la siguiente respuesta a Salomón:",
+          "«He recibido tu mensaje y te proporcionaré toda la madera de cedro y de ciprés que necesites."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mis siervos llevarán los troncos desde las montañas del Líbano hasta el mar Mediterráneo y los pondrán en forma de balsas para que floten a lo largo de la costa hacia el lugar que tú decidas. Luego desarmaremos las balsas para que ustedes puedan llevarse los troncos. Puedes pagarme proveyendo alimentos para mi casa»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces Hiram proporcionó toda la madera de cedro y ciprés que Salomón quiso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Salomón le enviaba, a cambio, un pago anual de 100.000 canastas de trigo para su casa y 420.000 litros de aceite de oliva puro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El Señor le dio sabiduría a Salomón tal como se lo había prometido. Así que Hiram y Salomón formaron una alianza de paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Luego el rey Salomón impuso trabajo forzado a treinta mil trabajadores de todo Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Los envió al Líbano en turnos de diez mil por mes, de modo que cada hombre estuviera un mes en el Líbano y dos meses en casa. Adoniram estaba a cargo de estos trabajadores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Salomón también tenía setenta mil obreros, ochenta mil cortadores de piedra en la zona montañosa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "y tres mil seiscientos capataces para supervisar el trabajo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Por orden del rey, ellos extrajeron grandes bloques de piedra de la mejor calidad y les dieron forma para hacer los cimientos del templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Hombres de la ciudad de Gebal ayudaron a los constructores de Salomón y de Hiram a preparar la madera y la piedra para el templo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

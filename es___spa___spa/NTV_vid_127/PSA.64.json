@@ -1,1 +1,171 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.64","is_chapter":true,"previous":{"usfm":"PSA.63","human":"Salmos 63","canonical":true,"toc":true},"current":{"usfm":"PSA.64","human":"Salmos 64"},"next":{"usfm":"PSA.65","human":"Salmos 65","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh Dios, escucha mi queja;","protege mi vida de las amenazas de mis enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escóndeme de las conspiraciones de esta turba malvada,","de esta pandilla de malhechores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Afilan su lengua como espada","y apuntan como flechas sus palabras amargas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Le tiran a los inocentes desde una emboscada;","los atacan de repente y sin temor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Se animan unos a otros a hacer el mal","y maquinan cómo tender sus trampas en secreto.","«¿Quién se dará cuenta?», preguntan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Dicen mientras traman sus delitos:","«¡Hemos orquestado el plan perfecto!».","Es cierto, el corazón y la mente del ser humano son astutos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero Dios mismo les lanzará sus flechas","y los herirá de repente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Su propia lengua los arruinará,","y quienes los vean, menearán la cabeza en señal de desprecio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces todos temerán;","proclamarán los poderosos actos de Dios,","y se darán cuenta de todas las cosas asombrosas que él hace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los justos se alegrarán en el Señor,","y en él encontrarán refugio.","Y los que hacen lo correcto","lo alabarán."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.63.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.65.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.64",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.63",
+      "human": "Salmos 63"
+    },
+    "current": {
+      "usfm": "PSA.64",
+      "human": "Salmos 64"
+    },
+    "next": {
+      "usfm": "PSA.65",
+      "human": "Salmos 65"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh Dios, escucha mi queja;",
+          "protege mi vida de las amenazas de mis enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escóndeme de las conspiraciones de esta turba malvada,",
+          "de esta pandilla de malhechores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Afilan su lengua como espada",
+          "y apuntan como flechas sus palabras amargas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Le tiran a los inocentes desde una emboscada;",
+          "los atacan de repente y sin temor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Se animan unos a otros a hacer el mal",
+          "y maquinan cómo tender sus trampas en secreto.",
+          "«¿Quién se dará cuenta?», preguntan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Dicen mientras traman sus delitos:",
+          "«¡Hemos orquestado el plan perfecto!».",
+          "Es cierto, el corazón y la mente del ser humano son astutos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero Dios mismo les lanzará sus flechas",
+          "y los herirá de repente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Su propia lengua los arruinará,",
+          "y quienes los vean, menearán la cabeza en señal de desprecio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces todos temerán;",
+          "proclamarán los poderosos actos de Dios,",
+          "y se darán cuenta de todas las cosas asombrosas que él hace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los justos se alegrarán en el Señor,",
+          "y en él encontrarán refugio.",
+          "Y los que hacen lo correcto",
+          "lo alabarán."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

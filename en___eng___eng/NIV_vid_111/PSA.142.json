@@ -1,1 +1,142 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.142","is_chapter":true,"previous":{"usfm":"PSA.141","human":"Psalms 141","canonical":true,"toc":true},"current":{"usfm":"PSA.142","human":"Psalms 142"},"next":{"usfm":"PSA.143","human":"Psalms 143","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A maskil of David. When he was in the cave. A prayer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I cry aloud to the Lord;","I lift up my voice to the Lord for mercy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I pour out before him my complaint;","before him I tell my trouble."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When my spirit grows faint within me,","it is you who watch over my way.","In the path where I walk","people have hidden a snare for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Look and see, there is no one at my right hand;","no one is concerned for me.","I have no refuge;","no one cares for my life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I cry to you, Lord;","I say, “You are my refuge,","my portion in the land of the living.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Listen to my cry,","for I am in desperate need;","rescue me from those who pursue me,","for they are too strong for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Set me free from my prison,","that I may praise your name.","Then the righteous will gather about me","because of your goodness to me."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.141.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.143.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.142",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.141",
+      "human": "Psalms 141"
+    },
+    "current": {
+      "usfm": "PSA.142",
+      "human": "Psalms 142"
+    },
+    "next": {
+      "usfm": "PSA.143",
+      "human": "Psalms 143"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A maskil of David. When he was in the cave. A prayer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I cry aloud to the Lord;",
+          "I lift up my voice to the Lord for mercy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I pour out before him my complaint;",
+          "before him I tell my trouble."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When my spirit grows faint within me,",
+          "it is you who watch over my way.",
+          "In the path where I walk",
+          "people have hidden a snare for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Look and see, there is no one at my right hand;",
+          "no one is concerned for me.",
+          "I have no refuge;",
+          "no one cares for my life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I cry to you, Lord;",
+          "I say, “You are my refuge,",
+          "my portion in the land of the living.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Listen to my cry,",
+          "for I am in desperate need;",
+          "rescue me from those who pursue me,",
+          "for they are too strong for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Set me free from my prison,",
+          "that I may praise your name.",
+          "Then the righteous will gather about me",
+          "because of your goodness to me."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

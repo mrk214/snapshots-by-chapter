@@ -1,1 +1,161 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.98","is_chapter":true,"previous":{"usfm":"PSA.97","human":"Salmos 97","canonical":true,"toc":true},"current":{"usfm":"PSA.98","human":"Salmos 98"},"next":{"usfm":"PSA.99","human":"Salmos 99","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantem ao Senhor um novo cântico,","pois ele fez coisas maravilhosas;","a sua mão direita e o seu braço santo","lhe deram a vitória!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Senhor anunciou a sua vitória","e revelou a sua justiça às nações."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ele se lembrou do seu amor leal","e da sua fidelidade para com a casa de Israel;","todos os confins da terra viram","a vitória do nosso Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Aclamem o Senhor todos os habitantes da terra!","Louvem-no com cânticos de alegria e ao som de música!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ofereçam música ao Senhor com a harpa,","com a harpa e ao som de canções,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["com cornetas e ao som da trombeta;","exultem diante do Senhor, o Rei!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ressoe o mar e tudo o que nele existe,","o mundo e os seus habitantes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Batam palmas os rios,","e juntos cantem de alegria os montes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["cantem diante do Senhor, porque ele vem,","vem julgar a terra;","julgará o mundo com justiça","e os povos com retidão."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.97.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.99.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.98",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.97",
+      "human": "Salmos 97"
+    },
+    "current": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "next": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantem ao Senhor um novo cântico,",
+          "pois ele fez coisas maravilhosas;",
+          "a sua mão direita e o seu braço santo",
+          "lhe deram a vitória!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Senhor anunciou a sua vitória",
+          "e revelou a sua justiça às nações."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ele se lembrou do seu amor leal",
+          "e da sua fidelidade para com a casa de Israel;",
+          "todos os confins da terra viram",
+          "a vitória do nosso Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Aclamem o Senhor todos os habitantes da terra!",
+          "Louvem-no com cânticos de alegria e ao som de música!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ofereçam música ao Senhor com a harpa,",
+          "com a harpa e ao som de canções,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "com cornetas e ao som da trombeta;",
+          "exultem diante do Senhor, o Rei!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ressoe o mar e tudo o que nele existe,",
+          "o mundo e os seus habitantes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Batam palmas os rios,",
+          "e juntos cantem de alegria os montes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "cantem diante do Senhor, porque ele vem,",
+          "vem julgar a terra;",
+          "julgará o mundo com justiça",
+          "e os povos com retidão."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

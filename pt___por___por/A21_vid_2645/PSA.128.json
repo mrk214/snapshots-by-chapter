@@ -1,1 +1,124 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Salmos 128"},"next":{"usfm":"PSA.129","human":"Salmos 129","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A felicidade do homem que teme a Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Bem-aventurado todo aquele que teme o Senhor e anda em seus caminhos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Pois comerás do trabalho das tuas mãos; serás feliz, e tudo te irá bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Em tua casa, tua mulher será como a videira frutífera, e teus filhos, como brotos de oliveira ao redor da tua mesa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Assim será abençoado o homem que teme o Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor te abençoe de Sião, para que vejas a prosperidade de Jerusalém todos os dias da tua vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e vejas os filhos de teus filhos. A paz esteja sobre Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A felicidade do homem que teme a Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Bem-aventurado todo aquele que teme o Senhor e anda em seus caminhos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Pois comerás do trabalho das tuas mãos; serás feliz, e tudo te irá bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Em tua casa, tua mulher será como a videira frutífera, e teus filhos, como brotos de oliveira ao redor da tua mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Assim será abençoado o homem que teme o Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor te abençoe de Sião, para que vejas a prosperidade de Jerusalém todos os dias da tua vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e vejas os filhos de teus filhos. A paz esteja sobre Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

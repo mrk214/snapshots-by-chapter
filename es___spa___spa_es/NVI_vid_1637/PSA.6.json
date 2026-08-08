@@ -1,1 +1,167 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.6","is_chapter":true,"previous":{"usfm":"PSA.5","human":"Salmo 5","canonical":true,"toc":true},"current":{"usfm":"PSA.6","human":"Salmo 6"},"next":{"usfm":"PSA.7","human":"Salmo 7","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Sobre la octava. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No me reprendas, Señor, en tu ira;","no me castigues en tu furor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ten compasión de mí, Señor, porque desfallezco;","sáname, Señor, que un frío de muerte recorre mis huesos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Angustiada está mi alma;","¿hasta cuándo, Señor, hasta cuándo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Vuélvete, Señor, y sálvame la vida;","por tu gran amor, ¡ponme a salvo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En la muerte nadie te recuerda;","en el sepulcro, ¿quién te alabará?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cansado estoy de sollozar;","toda la noche inundo de lágrimas mi cama,","¡mi lecho empapo con mi llanto!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Desfallecen mis ojos a causa del dolor;","desfallecen por culpa de mis enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¡Apartaos de mí, todos los malhechores,","que el Señor ha escuchado mi llanto!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El Señor ha escuchado mis ruegos;","el Señor ha tenido en cuenta mi oración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Todos mis enemigos quedarán avergonzados y confundidos;","¡su repentina vergüenza los hará retroceder!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.7.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.5",
+      "human": "Salmo 5"
+    },
+    "current": {
+      "usfm": "PSA.6",
+      "human": "Salmo 6"
+    },
+    "next": {
+      "usfm": "PSA.7",
+      "human": "Salmo 7"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Sobre la octava. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No me reprendas, Señor, en tu ira;",
+          "no me castigues en tu furor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ten compasión de mí, Señor, porque desfallezco;",
+          "sáname, Señor, que un frío de muerte recorre mis huesos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Angustiada está mi alma;",
+          "¿hasta cuándo, Señor, hasta cuándo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Vuélvete, Señor, y sálvame la vida;",
+          "por tu gran amor, ¡ponme a salvo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En la muerte nadie te recuerda;",
+          "en el sepulcro, ¿quién te alabará?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cansado estoy de sollozar;",
+          "toda la noche inundo de lágrimas mi cama,",
+          "¡mi lecho empapo con mi llanto!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Desfallecen mis ojos a causa del dolor;",
+          "desfallecen por culpa de mis enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¡Apartaos de mí, todos los malhechores,",
+          "que el Señor ha escuchado mi llanto!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El Señor ha escuchado mis ruegos;",
+          "el Señor ha tenido en cuenta mi oración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Todos mis enemigos quedarán avergonzados y confundidos;",
+          "¡su repentina vergüenza los hará retroceder!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

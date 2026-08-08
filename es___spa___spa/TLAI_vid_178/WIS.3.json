@@ -1,1 +1,310 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"WIS","name":"Sabiduría"},"chapter":{"chapter_usfm":"WIS.3","is_chapter":true,"previous":{"usfm":"WIS.2","human":"Sabiduría 2","canonical":true,"toc":true},"current":{"usfm":"WIS.3","human":"Sabiduría 3"},"next":{"usfm":"WIS.4","human":"Sabiduría 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los buenos vivirán con Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["La gente buena","está bajo el cuidado de Dios","y no tendrá ningún sufrimiento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Los malvados creen que los buenos","están muertos en vida","y acabados para siempre.","Piensan que su muerte","es un terrible castigo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y que han sido destruidos;","pero ellos realmente","disfrutan de mucha paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Aunque muchos piensan","que su muerte ha sido un castigo,","ellos estaban seguros","de que vivirían para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5,6],"lines":["Dios los puso a prueba un tiempo","como se prueba el oro en el fuego,","pero al final los aceptó","como una ofrenda agradable.","Por eso será muy grande","el premio que les dará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En la hora de la prueba,","la gente buena","alumbrará como una antorcha;","¡brillará como las chispas en el fuego!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Los buenos juzgarán a las naciones","y gobernarán a los pueblos,","y para siempre Dios será su rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los que confían en Dios","conocerán la verdad.","Los que son fieles a Dios","vivirán para siempre en su amor,","porque Dios es bondadoso","y premia a sus elegidos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El futuro de los malvados"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los malvados recibirán","el castigo que se merecen,","porque despreciaron a los buenos","y se apartaron de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El que rechaza la sabiduría","y se aleja de la enseñanza,","no conoce la felicidad;","su esperanza está perdida,","su esfuerzo no sirve de nada","y sus logros no tienen valor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¡Sus mujeres son tercas,","y sus hijos, unos malvados!","¡Todos sus descendientes","están destinados a la perdición!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dios bendice a la gente fiel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Dios bendice a la mujer casada","que se aleja del pecado,","y que aunque no puede tener hijos,","no se acuesta con otros hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Dios también bendice al hombre","que es fiel a sus mandamientos","y no comete ningún pecado.","Aunque no haya podido tener hijos,","recibirá un gran premio","y ocupará un lugar de honor","en el templo de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Hacer siempre el bien","da buenos resultados,","pues la sabiduría es como un árbol","que da mucho fruto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Los hijos que nacen","de una relación sexual prohibida","no llegarán a ser adultos,","pues tendrán un fin trágico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Y aun si llegan a viejos","nadie les hará caso ni los respetará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si mueren en plena juventud,","no tendrán esperanza,","y no habrá quien los consuele","en el día del juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["No hay duda que a la gente malvada","le espera un final muy cruel."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/WIS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/WIS.4.json"
+  },
+  "book": {
+    "book_usfm": "WIS",
+    "name": "Sabiduría"
+  },
+  "chapter": {
+    "chapter_usfm": "WIS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "WIS.2",
+      "human": "Sabiduría 2"
+    },
+    "current": {
+      "usfm": "WIS.3",
+      "human": "Sabiduría 3"
+    },
+    "next": {
+      "usfm": "WIS.4",
+      "human": "Sabiduría 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los buenos vivirán con Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "La gente buena",
+          "está bajo el cuidado de Dios",
+          "y no tendrá ningún sufrimiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Los malvados creen que los buenos",
+          "están muertos en vida",
+          "y acabados para siempre.",
+          "Piensan que su muerte",
+          "es un terrible castigo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y que han sido destruidos;",
+          "pero ellos realmente",
+          "disfrutan de mucha paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Aunque muchos piensan",
+          "que su muerte ha sido un castigo,",
+          "ellos estaban seguros",
+          "de que vivirían para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5,
+          6
+        ],
+        "lines": [
+          "Dios los puso a prueba un tiempo",
+          "como se prueba el oro en el fuego,",
+          "pero al final los aceptó",
+          "como una ofrenda agradable.",
+          "Por eso será muy grande",
+          "el premio que les dará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En la hora de la prueba,",
+          "la gente buena",
+          "alumbrará como una antorcha;",
+          "¡brillará como las chispas en el fuego!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Los buenos juzgarán a las naciones",
+          "y gobernarán a los pueblos,",
+          "y para siempre Dios será su rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los que confían en Dios",
+          "conocerán la verdad.",
+          "Los que son fieles a Dios",
+          "vivirán para siempre en su amor,",
+          "porque Dios es bondadoso",
+          "y premia a sus elegidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El futuro de los malvados"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los malvados recibirán",
+          "el castigo que se merecen,",
+          "porque despreciaron a los buenos",
+          "y se apartaron de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El que rechaza la sabiduría",
+          "y se aleja de la enseñanza,",
+          "no conoce la felicidad;",
+          "su esperanza está perdida,",
+          "su esfuerzo no sirve de nada",
+          "y sus logros no tienen valor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¡Sus mujeres son tercas,",
+          "y sus hijos, unos malvados!",
+          "¡Todos sus descendientes",
+          "están destinados a la perdición!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios bendice a la gente fiel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Dios bendice a la mujer casada",
+          "que se aleja del pecado,",
+          "y que aunque no puede tener hijos,",
+          "no se acuesta con otros hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Dios también bendice al hombre",
+          "que es fiel a sus mandamientos",
+          "y no comete ningún pecado.",
+          "Aunque no haya podido tener hijos,",
+          "recibirá un gran premio",
+          "y ocupará un lugar de honor",
+          "en el templo de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Hacer siempre el bien",
+          "da buenos resultados,",
+          "pues la sabiduría es como un árbol",
+          "que da mucho fruto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Los hijos que nacen",
+          "de una relación sexual prohibida",
+          "no llegarán a ser adultos,",
+          "pues tendrán un fin trágico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Y aun si llegan a viejos",
+          "nadie les hará caso ni los respetará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si mueren en plena juventud,",
+          "no tendrán esperanza,",
+          "y no habrá quien los consuele",
+          "en el día del juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "No hay duda que a la gente malvada",
+          "le espera un final muy cruel."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

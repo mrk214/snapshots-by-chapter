@@ -1,1 +1,161 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.146","is_chapter":true,"previous":{"usfm":"PSA.145","human":"Salmos 145","canonical":true,"toc":true},"current":{"usfm":"PSA.146","human":"Salmos 146"},"next":{"usfm":"PSA.147","human":"Salmos 147","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios bendice a los que en él confían"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1,2],"lines":["¡Alabemos a Dios!","Yo quiero alabarlo,","y mientras tenga vida","le cantaré himnos a mi Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No confíen en nadie,","que ni el hombre más poderoso","es capaz de salvarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cuando ese hombre muere,","se vuelve polvo;","y ese día mueren con él","todos los planes que hizo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡El Dios de Israel","bendice a los que en él confían!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6,7],"lines":["Dios hizo el cielo y la tierra,","el mar y todo lo que hay en él.","Dios siempre cumple sus promesas:","hace justicia a los que son maltratados","por los poderosos,","da de comer a los hambrientos,","y pone en libertad a los presos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Dios da vista a los ciegos,","levanta a los caídos","y ama a los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Dios cuida de la gente sin patria,","y sostiene a huérfanos y a viudas.","Dios hace que fracasen","los planes de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ciudad de Jerusalén,","¡que tu Dios reine por siempre,","por todos los siglos!","¡Alabemos a nuestro Dios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.145.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.147.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.146",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.145",
+      "human": "Salmos 145"
+    },
+    "current": {
+      "usfm": "PSA.146",
+      "human": "Salmos 146"
+    },
+    "next": {
+      "usfm": "PSA.147",
+      "human": "Salmos 147"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios bendice a los que en él confían"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2
+        ],
+        "lines": [
+          "¡Alabemos a Dios!",
+          "Yo quiero alabarlo,",
+          "y mientras tenga vida",
+          "le cantaré himnos a mi Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No confíen en nadie,",
+          "que ni el hombre más poderoso",
+          "es capaz de salvarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cuando ese hombre muere,",
+          "se vuelve polvo;",
+          "y ese día mueren con él",
+          "todos los planes que hizo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡El Dios de Israel",
+          "bendice a los que en él confían!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6,
+          7
+        ],
+        "lines": [
+          "Dios hizo el cielo y la tierra,",
+          "el mar y todo lo que hay en él.",
+          "Dios siempre cumple sus promesas:",
+          "hace justicia a los que son maltratados",
+          "por los poderosos,",
+          "da de comer a los hambrientos,",
+          "y pone en libertad a los presos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Dios da vista a los ciegos,",
+          "levanta a los caídos",
+          "y ama a los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Dios cuida de la gente sin patria,",
+          "y sostiene a huérfanos y a viudas.",
+          "Dios hace que fracasen",
+          "los planes de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ciudad de Jerusalén,",
+          "¡que tu Dios reine por siempre,",
+          "por todos los siglos!",
+          "¡Alabemos a nuestro Dios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

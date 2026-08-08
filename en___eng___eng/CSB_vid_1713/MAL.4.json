@@ -1,1 +1,124 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"MAL","name":"Malachi"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malachi 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malachi 4"},"next":{"usfm":"MAT.1","human":"Matthew 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Day of the Lord"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["“For look, the day is coming, burning like a furnace, when all the arrogant and everyone who commits wickedness will become stubble. The coming day will consume them,” says the Lord of Armies, “not leaving them root or branches."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["But for you who fear my name, the sun of righteousness will rise with healing in its wings, and you will go out and playfully jump like calves from the stall."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["You will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the Lord of Armies."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A Final Warning"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“Remember the instruction of Moses my servant, the statutes and ordinances I commanded him at Horeb for all Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Look, I am going to send you the prophet Elijah before the great and terrible day of the Lord comes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And he will turn the hearts of fathers to their children and the hearts of children to their fathers. Otherwise, I will come and strike the land with a curse.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malachi"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malachi 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malachi 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Matthew 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Day of the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“For look, the day is coming, burning like a furnace, when all the arrogant and everyone who commits wickedness will become stubble. The coming day will consume them,” says the Lord of Armies, “not leaving them root or branches."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "But for you who fear my name, the sun of righteousness will rise with healing in its wings, and you will go out and playfully jump like calves from the stall."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "You will trample the wicked, for they will be ashes under the soles of your feet on the day I am preparing,” says the Lord of Armies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Final Warning"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“Remember the instruction of Moses my servant, the statutes and ordinances I commanded him at Horeb for all Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Look, I am going to send you the prophet Elijah before the great and terrible day of the Lord comes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And he will turn the hearts of fathers to their children and the hearts of children to their fathers. Otherwise, I will come and strike the land with a curse.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

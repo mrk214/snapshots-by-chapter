@@ -1,1 +1,368 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.26","is_chapter":true,"previous":{"usfm":"PRO.25","human":"Proverbios 25","canonical":true,"toc":true},"current":{"usfm":"PRO.26","human":"Proverbios 26"},"next":{"usfm":"PRO.27","human":"Proverbios 27","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Como nieve en el verano y lluvia","en la siega,","así no le caen bien los honores al necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como escapa el ave y vuela","la golondrina,","así la maldición sin causa","no se realizará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El látigo es para el caballo,","el freno para el asno","y la vara para la espalda de los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Nunca respondas al necio según","su insensatez,","para que no seas tú también como él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Responde al necio según su insensatez, para que no se estime sabio","en su propia opinión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Se corta los pies y bebe violencia","el que envía recado por medio","de un necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Como las piernas del cojo que","cuelgan inútiles,","es el proverbio en la boca de los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Como atar una piedra a la honda, así es dar honor al necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Como espina que penetra en la mano del borracho,","es el proverbio en la boca de los necios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Como el arquero que hiere a todos,","es el que contrata a necios y vagabundos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Como perro que vuelve a su vómito así es el necio que repite su insensatez."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¿Has visto a un hombre sabio en su propia opinión?","¡Más esperanza hay del necio que de él!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Dice el perezoso:","“¡Hay un león en el camino!","¡Hay un león en medio de las calles!”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como las puertas giran sobre sus bisagras,","así también el perezoso en su cama."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El perezoso hunde su mano en el plato","y se cansa de volverla a su boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El perezoso es más sabio en su opinión que siete que responden con discreción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El que se entremete en pleito ajeno","es como el que agarra de las orejas","a un perro que pasa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Como el que enloquece y arroja dardos y flechas de muerte,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["así es el hombre que defrauda a su amigo y dice:","“¿Acaso no estaba yo bromeando?”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Sin leña se apaga el fuego;","y donde no hay chismoso cesa","la contienda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["El carbón es para las brasas,","la leña para el fuego","y el hombre rencilloso","para provocar peleas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Las palabras del chismoso","parecen suaves,","pero penetran hasta lo recóndito del ser."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Como escorias de plata arrojadas sobre un tiesto,","son los labios enardecidos y el corazón vil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["El que aborrece disimula con sus labios, pero en su interior trama el fraude."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Cuando hable amigablemente","no le creas;","porque siete abominaciones","hay en su corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Aunque con engaño encubra su odio,","su maldad será descubierta","en la congregación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["El que cava fosa caerá en ella;","y al que hace rodar una piedra esta le vendrá encima."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["La lengua mentirosa atormenta","a su víctima,","y la boca lisonjera causa la ruina."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PRO.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PRO.27.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.25",
+      "human": "Proverbios 25"
+    },
+    "current": {
+      "usfm": "PRO.26",
+      "human": "Proverbios 26"
+    },
+    "next": {
+      "usfm": "PRO.27",
+      "human": "Proverbios 27"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como nieve en el verano y lluvia",
+          "en la siega,",
+          "así no le caen bien los honores al necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como escapa el ave y vuela",
+          "la golondrina,",
+          "así la maldición sin causa",
+          "no se realizará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El látigo es para el caballo,",
+          "el freno para el asno",
+          "y la vara para la espalda de los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Nunca respondas al necio según",
+          "su insensatez,",
+          "para que no seas tú también como él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Responde al necio según su insensatez, para que no se estime sabio",
+          "en su propia opinión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Se corta los pies y bebe violencia",
+          "el que envía recado por medio",
+          "de un necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Como las piernas del cojo que",
+          "cuelgan inútiles,",
+          "es el proverbio en la boca de los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Como atar una piedra a la honda, así es dar honor al necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Como espina que penetra en la mano del borracho,",
+          "es el proverbio en la boca de los necios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Como el arquero que hiere a todos,",
+          "es el que contrata a necios y vagabundos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Como perro que vuelve a su vómito así es el necio que repite su insensatez."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¿Has visto a un hombre sabio en su propia opinión?",
+          "¡Más esperanza hay del necio que de él!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Dice el perezoso:",
+          "“¡Hay un león en el camino!",
+          "¡Hay un león en medio de las calles!”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como las puertas giran sobre sus bisagras,",
+          "así también el perezoso en su cama."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El perezoso hunde su mano en el plato",
+          "y se cansa de volverla a su boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El perezoso es más sabio en su opinión que siete que responden con discreción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El que se entremete en pleito ajeno",
+          "es como el que agarra de las orejas",
+          "a un perro que pasa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Como el que enloquece y arroja dardos y flechas de muerte,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "así es el hombre que defrauda a su amigo y dice:",
+          "“¿Acaso no estaba yo bromeando?”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Sin leña se apaga el fuego;",
+          "y donde no hay chismoso cesa",
+          "la contienda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "El carbón es para las brasas,",
+          "la leña para el fuego",
+          "y el hombre rencilloso",
+          "para provocar peleas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Las palabras del chismoso",
+          "parecen suaves,",
+          "pero penetran hasta lo recóndito del ser."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Como escorias de plata arrojadas sobre un tiesto,",
+          "son los labios enardecidos y el corazón vil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "El que aborrece disimula con sus labios, pero en su interior trama el fraude."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Cuando hable amigablemente",
+          "no le creas;",
+          "porque siete abominaciones",
+          "hay en su corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Aunque con engaño encubra su odio,",
+          "su maldad será descubierta",
+          "en la congregación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "El que cava fosa caerá en ella;",
+          "y al que hace rodar una piedra esta le vendrá encima."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "La lengua mentirosa atormenta",
+          "a su víctima,",
+          "y la boca lisonjera causa la ruina."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

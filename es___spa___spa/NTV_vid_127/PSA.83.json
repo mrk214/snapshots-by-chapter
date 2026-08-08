@@ -1,1 +1,264 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.83","is_chapter":true,"previous":{"usfm":"PSA.82","human":"Salmos 82","canonical":true,"toc":true},"current":{"usfm":"PSA.83","human":"Salmos 83"},"next":{"usfm":"PSA.84","human":"Salmos 84","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Un cántico. Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Oh Dios, no guardes silencio!","No cierres tus oídos;","no te quedes callado, oh Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¿No oyes el alboroto que hacen tus enemigos?","¿No ves que tus arrogantes adversarios se levantan?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Inventan intrigas astutas contra tu pueblo;","conspiran en contra de tus seres preciados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["«Vengan —dicen—, exterminemos a Israel como nación;","destruiremos hasta el más mínimo recuerdo de su existencia»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Efectivamente, esta fue su decisión unánime.","Firmaron un tratado de alianza en tu contra:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["los edomitas y los ismaelitas;","los moabitas y los agarenos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["los giblitas, los amonitas y los amalecitas;","y los habitantes de Filistea y de Tiro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Asiria también se unió a ellos","y se alió con los descendientes de Lot."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Haz con ellos lo mismo que hiciste con los madianitas","y como hiciste también con Sísara y con Jabín en el río Cisón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Fueron destruidos en Endor,","y sus cadáveres en descomposición fertilizaron la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Que sus poderosos nobles mueran como murieron Oreb y Zeeb;","que todos sus príncipes mueran como Zeba y Zalmuna,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["porque dijeron: «¡Vamos a apoderarnos de estos pastizales de Dios","y a usarlos para nuestro beneficio!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡Oh mi Dios, espárcelos como a arbustos que ruedan,","como a paja que se lleva el viento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Así como el fuego quema un bosque","y una llama incendia las montañas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["persíguelos con tu tormenta feroz;","atérralos con tu tempestad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Desacredítalos por completo","hasta que se sometan a tu nombre, oh Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Que sean avergonzados y aterrorizados para siempre;","que mueran en deshonra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Entonces aprenderán que solo tú te llamas el Señor,","que solo tú eres el Altísimo,","supremo sobre toda la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.82.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.84.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.83",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "current": {
+      "usfm": "PSA.83",
+      "human": "Salmos 83"
+    },
+    "next": {
+      "usfm": "PSA.84",
+      "human": "Salmos 84"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Un cántico. Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Oh Dios, no guardes silencio!",
+          "No cierres tus oídos;",
+          "no te quedes callado, oh Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¿No oyes el alboroto que hacen tus enemigos?",
+          "¿No ves que tus arrogantes adversarios se levantan?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Inventan intrigas astutas contra tu pueblo;",
+          "conspiran en contra de tus seres preciados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "«Vengan —dicen—, exterminemos a Israel como nación;",
+          "destruiremos hasta el más mínimo recuerdo de su existencia»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Efectivamente, esta fue su decisión unánime.",
+          "Firmaron un tratado de alianza en tu contra:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "los edomitas y los ismaelitas;",
+          "los moabitas y los agarenos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "los giblitas, los amonitas y los amalecitas;",
+          "y los habitantes de Filistea y de Tiro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Asiria también se unió a ellos",
+          "y se alió con los descendientes de Lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Haz con ellos lo mismo que hiciste con los madianitas",
+          "y como hiciste también con Sísara y con Jabín en el río Cisón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Fueron destruidos en Endor,",
+          "y sus cadáveres en descomposición fertilizaron la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Que sus poderosos nobles mueran como murieron Oreb y Zeeb;",
+          "que todos sus príncipes mueran como Zeba y Zalmuna,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "porque dijeron: «¡Vamos a apoderarnos de estos pastizales de Dios",
+          "y a usarlos para nuestro beneficio!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡Oh mi Dios, espárcelos como a arbustos que ruedan,",
+          "como a paja que se lleva el viento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Así como el fuego quema un bosque",
+          "y una llama incendia las montañas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "persíguelos con tu tormenta feroz;",
+          "atérralos con tu tempestad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Desacredítalos por completo",
+          "hasta que se sometan a tu nombre, oh Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Que sean avergonzados y aterrorizados para siempre;",
+          "que mueran en deshonra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Entonces aprenderán que solo tú te llamas el Señor,",
+          "que solo tú eres el Altísimo,",
+          "supremo sobre toda la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

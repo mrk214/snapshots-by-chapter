@@ -1,1 +1,153 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.114","is_chapter":true,"previous":{"usfm":"PSA.113","human":"Salmos 113","canonical":true,"toc":true},"current":{"usfm":"PSA.114","human":"Salmos 114"},"next":{"usfm":"PSA.115","human":"Salmos 115","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["As maravilhas do êxodo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Quando Israel saiu do Egito,","e a casa de Jacó, do meio de","um povo de língua estranha,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Judá se tornou","o santuário do Senhor,","e Israel, o seu domínio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O mar viu isso e fugiu;","o Jordão recuou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Os montes saltaram","como carneiros,","e as colinas,","como cordeiros do rebanho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O que lhe aconteceu, ó mar,","para que você fugisse assim?","E você, Jordão, por que recuou?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Montes, por que estão saltando","como carneiros?","E vocês, colinas,","como cordeiros do rebanho?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Trema, ó terra,","na presença do Senhor,","na presença do Deus de Jacó!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ele transformou a rocha","em lençol de água","e o rochedo, em manancial."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.113.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.115.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.114",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.113",
+      "human": "Salmos 113"
+    },
+    "current": {
+      "usfm": "PSA.114",
+      "human": "Salmos 114"
+    },
+    "next": {
+      "usfm": "PSA.115",
+      "human": "Salmos 115"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "As maravilhas do êxodo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Quando Israel saiu do Egito,",
+          "e a casa de Jacó, do meio de",
+          "um povo de língua estranha,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Judá se tornou",
+          "o santuário do Senhor,",
+          "e Israel, o seu domínio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O mar viu isso e fugiu;",
+          "o Jordão recuou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Os montes saltaram",
+          "como carneiros,",
+          "e as colinas,",
+          "como cordeiros do rebanho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O que lhe aconteceu, ó mar,",
+          "para que você fugisse assim?",
+          "E você, Jordão, por que recuou?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Montes, por que estão saltando",
+          "como carneiros?",
+          "E vocês, colinas,",
+          "como cordeiros do rebanho?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Trema, ó terra,",
+          "na presença do Senhor,",
+          "na presença do Deus de Jacó!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ele transformou a rocha",
+          "em lençol de água",
+          "e o rochedo, em manancial."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

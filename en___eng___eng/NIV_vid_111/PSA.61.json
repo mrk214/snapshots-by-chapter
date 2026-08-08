@@ -1,1 +1,145 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.61","is_chapter":true,"previous":{"usfm":"PSA.60","human":"Psalms 60","canonical":true,"toc":true},"current":{"usfm":"PSA.61","human":"Psalms 61"},"next":{"usfm":"PSA.62","human":"Psalms 62","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the director of music. With stringed instruments. Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hear my cry, O God;","listen to my prayer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["From the ends of the earth I call to you,","I call as my heart grows faint;","lead me to the rock that is higher than I."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For you have been my refuge,","a strong tower against the foe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I long to dwell in your tent forever","and take refuge in the shelter of your wings."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For you, God, have heard my vows;","you have given me the heritage of those who fear your name."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Increase the days of the king’s life,","his years for many generations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["May he be enthroned in God’s presence forever;","appoint your love and faithfulness to protect him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Then I will ever sing in praise of your name","and fulfill my vows day after day."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.60.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.62.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.61",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.60",
+      "human": "Psalms 60"
+    },
+    "current": {
+      "usfm": "PSA.61",
+      "human": "Psalms 61"
+    },
+    "next": {
+      "usfm": "PSA.62",
+      "human": "Psalms 62"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the director of music. With stringed instruments. Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hear my cry, O God;",
+          "listen to my prayer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "From the ends of the earth I call to you,",
+          "I call as my heart grows faint;",
+          "lead me to the rock that is higher than I."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For you have been my refuge,",
+          "a strong tower against the foe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I long to dwell in your tent forever",
+          "and take refuge in the shelter of your wings."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For you, God, have heard my vows;",
+          "you have given me the heritage of those who fear your name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Increase the days of the king’s life,",
+          "his years for many generations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "May he be enthroned in God’s presence forever;",
+          "appoint your love and faithfulness to protect him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Then I will ever sing in praise of your name",
+          "and fulfill my vows day after day."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

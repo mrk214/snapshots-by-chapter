@@ -1,1 +1,326 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JOL","name":"Joel"},"chapter":{"chapter_usfm":"JOL.1","is_chapter":true,"previous":{"usfm":"JOL.INTRO1","human":"Joel Intro","canonical":false,"toc":true},"current":{"usfm":"JOL.1","human":"Joel 1"},"next":{"usfm":"JOL.2","human":"Joel 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["The word of the Lord that came to Joel son of Pethuel."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["An Invasion of Locusts"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Hear this, you elders;","listen, all who live in the land.","Has anything like this ever happened in your days","or in the days of your ancestors?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tell it to your children,","and let your children tell it to their children,","and their children to the next generation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["What the locust swarm has left","the great locusts have eaten;","what the great locusts have left","the young locusts have eaten;","what the young locusts have left","other locusts have eaten."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Wake up, you drunkards, and weep!","Wail, all you drinkers of wine;","wail because of the new wine,","for it has been snatched from your lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A nation has invaded my land,","a mighty army without number;","it has the teeth of a lion,","the fangs of a lioness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["It has laid waste my vines","and ruined my fig trees.","It has stripped off their bark","and thrown it away,","leaving their branches white."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mourn like a virgin in sackcloth","grieving for the betrothed of her youth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Grain offerings and drink offerings","are cut off from the house of the Lord.","The priests are in mourning,","those who minister before the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The fields are ruined,","the ground is dried up;","the grain is destroyed,","the new wine is dried up,","the olive oil fails."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Despair, you farmers,","wail, you vine growers;","grieve for the wheat and the barley,","because the harvest of the field is destroyed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The vine is dried up","and the fig tree is withered;","the pomegranate, the palm and the apple tree—","all the trees of the field—are dried up.","Surely the people’s joy","is withered away."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A Call to Lamentation"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Put on sackcloth, you priests, and mourn;","wail, you who minister before the altar.","Come, spend the night in sackcloth,","you who minister before my God;","for the grain offerings and drink offerings","are withheld from the house of your God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Declare a holy fast;","call a sacred assembly.","Summon the elders","and all who live in the land","to the house of the Lord your God,","and cry out to the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Alas for that day!","For the day of the Lord is near;","it will come like destruction from the Almighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Has not the food been cut off","before our very eyes—","joy and gladness","from the house of our God?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The seeds are shriveled","beneath the clods.","The storehouses are in ruins,","the granaries have been broken down,","for the grain has dried up."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["How the cattle moan!","The herds mill about","because they have no pasture;","even the flocks of sheep are suffering."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["To you, Lord, I call,","for fire has devoured the pastures in the wilderness","and flames have burned up all the trees of the field."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Even the wild animals pant for you;","the streams of water have dried up","and fire has devoured the pastures in the wilderness."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOL.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOL.2.json"
+  },
+  "book": {
+    "book_usfm": "JOL",
+    "name": "Joel"
+  },
+  "chapter": {
+    "chapter_usfm": "JOL.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOL.INTRO1",
+      "human": "Joel Intro"
+    },
+    "current": {
+      "usfm": "JOL.1",
+      "human": "Joel 1"
+    },
+    "next": {
+      "usfm": "JOL.2",
+      "human": "Joel 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The word of the Lord that came to Joel son of Pethuel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "An Invasion of Locusts"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Hear this, you elders;",
+          "listen, all who live in the land.",
+          "Has anything like this ever happened in your days",
+          "or in the days of your ancestors?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tell it to your children,",
+          "and let your children tell it to their children,",
+          "and their children to the next generation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "What the locust swarm has left",
+          "the great locusts have eaten;",
+          "what the great locusts have left",
+          "the young locusts have eaten;",
+          "what the young locusts have left",
+          "other locusts have eaten."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Wake up, you drunkards, and weep!",
+          "Wail, all you drinkers of wine;",
+          "wail because of the new wine,",
+          "for it has been snatched from your lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A nation has invaded my land,",
+          "a mighty army without number;",
+          "it has the teeth of a lion,",
+          "the fangs of a lioness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "It has laid waste my vines",
+          "and ruined my fig trees.",
+          "It has stripped off their bark",
+          "and thrown it away,",
+          "leaving their branches white."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mourn like a virgin in sackcloth",
+          "grieving for the betrothed of her youth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Grain offerings and drink offerings",
+          "are cut off from the house of the Lord.",
+          "The priests are in mourning,",
+          "those who minister before the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The fields are ruined,",
+          "the ground is dried up;",
+          "the grain is destroyed,",
+          "the new wine is dried up,",
+          "the olive oil fails."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Despair, you farmers,",
+          "wail, you vine growers;",
+          "grieve for the wheat and the barley,",
+          "because the harvest of the field is destroyed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The vine is dried up",
+          "and the fig tree is withered;",
+          "the pomegranate, the palm and the apple tree—",
+          "all the trees of the field—are dried up.",
+          "Surely the people’s joy",
+          "is withered away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Call to Lamentation"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Put on sackcloth, you priests, and mourn;",
+          "wail, you who minister before the altar.",
+          "Come, spend the night in sackcloth,",
+          "you who minister before my God;",
+          "for the grain offerings and drink offerings",
+          "are withheld from the house of your God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Declare a holy fast;",
+          "call a sacred assembly.",
+          "Summon the elders",
+          "and all who live in the land",
+          "to the house of the Lord your God,",
+          "and cry out to the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Alas for that day!",
+          "For the day of the Lord is near;",
+          "it will come like destruction from the Almighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Has not the food been cut off",
+          "before our very eyes—",
+          "joy and gladness",
+          "from the house of our God?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The seeds are shriveled",
+          "beneath the clods.",
+          "The storehouses are in ruins,",
+          "the granaries have been broken down,",
+          "for the grain has dried up."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "How the cattle moan!",
+          "The herds mill about",
+          "because they have no pasture;",
+          "even the flocks of sheep are suffering."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "To you, Lord, I call,",
+          "for fire has devoured the pastures in the wilderness",
+          "and flames have burned up all the trees of the field."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Even the wild animals pant for you;",
+          "the streams of water have dried up",
+          "and fire has devoured the pastures in the wilderness."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

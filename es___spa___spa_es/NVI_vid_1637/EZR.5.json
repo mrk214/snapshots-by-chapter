@@ -1,1 +1,229 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"EZR","name":"Esdras"},"chapter":{"chapter_usfm":"EZR.5","is_chapter":true,"previous":{"usfm":"EZR.4","human":"Esdras 4","canonical":true,"toc":true},"current":{"usfm":"EZR.5","human":"Esdras 5"},"next":{"usfm":"EZR.6","human":"Esdras 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Se reinicia la reconstrucción del templo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Los profetas Hageo y Zacarías hijo de Idó profetizaron a los judíos que estaban en Judá y Jerusalén, en el nombre del Dios de Israel, que velaba por ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entonces Zorobabel hijo de Salatiel y Jesúa hijo de Josadac se dispusieron a continuar la reconstrucción del templo de Dios en Jerusalén. Y los profetas estaban con ellos ayudándolos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En ese mismo tiempo, Tatenay, gobernador de la provincia al oeste del río Éufrates, y Setar Bosnay y sus compañeros se presentaron ante los judíos y les preguntaron: «¿Quién os autorizó a reconstruir ese templo y restaurar su estructura?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Y añadieron: «¿Cómo se llaman los que están reconstruyendo ese edificio?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pero, como Dios velaba por los dirigentes judíos, no los obligaron a interrumpir el trabajo hasta que se consultara a Darío y este respondiera por escrito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Entonces Tatenay, gobernador de la provincia al oeste del río Éufrates, y Setar Bosnay y sus compañeros, que eran los funcionarios del gobierno de esa provincia, enviaron una carta al rey Darío,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["la cual decía:","Al rey Darío:","Un cordial saludo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ponemos en conocimiento del rey que fuimos a la provincia de Judá, al templo del gran Dios, y vimos que se está reconstruyendo con grandes piedras, y que sus paredes se están recubriendo con madera. El trabajo se hace con esmero y avanza rápidamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A los dirigentes les preguntamos quién les había autorizado a reconstruir ese templo y restaurar su estructura,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["y cómo se llaman los que dirigen la obra, para comunicárselo por escrito al rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ellos nos respondieron:","«Somos siervos del Dios del cielo y de la tierra, y estamos reconstruyendo el templo que fue edificado y terminado hace ya mucho tiempo por un gran rey de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Pero, como nuestros antepasados provocaron a ira al Dios del cielo, él los entregó en manos de Nabucodonosor, rey de Babilonia, el caldeo que destruyó este templo y que llevó al pueblo cautivo a Babilonia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»Pero más tarde, en el primer año de su reinado, Ciro, rey de Babilonia, ordenó que este templo de Dios fuera reconstruido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["También hizo sacar del templo de Babilonia los utensilios de oro y de plata que Nabucodonosor se había llevado del templo de Jerusalén y había puesto en el templo de Babilonia, y se los entregó a Sesbasar, a quien había nombrado gobernador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ciro, pues, ordenó a Sesbasar que tomara esos utensilios y los devolviera al templo de Jerusalén, y que reedificara en el mismo sitio el templo de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Entonces Sesbasar llegó a Jerusalén y echó los cimientos del templo de Dios. Desde entonces se ha estado trabajando en su reconstrucción, pero aún no se ha terminado»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Ahora bien, si el rey lo considera conveniente, pedimos que se investiguen los archivos donde están las crónicas de los reyes de Babilonia, para saber si es verdad que el rey Ciro ordenó la reconstrucción del templo de Dios en Jerusalén. Además, solicitamos que se nos dé a conocer la decisión del rey con respecto a este asunto."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZR.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZR.6.json"
+  },
+  "book": {
+    "book_usfm": "EZR",
+    "name": "Esdras"
+  },
+  "chapter": {
+    "chapter_usfm": "EZR.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZR.4",
+      "human": "Esdras 4"
+    },
+    "current": {
+      "usfm": "EZR.5",
+      "human": "Esdras 5"
+    },
+    "next": {
+      "usfm": "EZR.6",
+      "human": "Esdras 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Se reinicia la reconstrucción del templo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Los profetas Hageo y Zacarías hijo de Idó profetizaron a los judíos que estaban en Judá y Jerusalén, en el nombre del Dios de Israel, que velaba por ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entonces Zorobabel hijo de Salatiel y Jesúa hijo de Josadac se dispusieron a continuar la reconstrucción del templo de Dios en Jerusalén. Y los profetas estaban con ellos ayudándolos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En ese mismo tiempo, Tatenay, gobernador de la provincia al oeste del río Éufrates, y Setar Bosnay y sus compañeros se presentaron ante los judíos y les preguntaron: «¿Quién os autorizó a reconstruir ese templo y restaurar su estructura?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Y añadieron: «¿Cómo se llaman los que están reconstruyendo ese edificio?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pero, como Dios velaba por los dirigentes judíos, no los obligaron a interrumpir el trabajo hasta que se consultara a Darío y este respondiera por escrito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Entonces Tatenay, gobernador de la provincia al oeste del río Éufrates, y Setar Bosnay y sus compañeros, que eran los funcionarios del gobierno de esa provincia, enviaron una carta al rey Darío,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "la cual decía:",
+          "Al rey Darío:",
+          "Un cordial saludo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ponemos en conocimiento del rey que fuimos a la provincia de Judá, al templo del gran Dios, y vimos que se está reconstruyendo con grandes piedras, y que sus paredes se están recubriendo con madera. El trabajo se hace con esmero y avanza rápidamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A los dirigentes les preguntamos quién les había autorizado a reconstruir ese templo y restaurar su estructura,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "y cómo se llaman los que dirigen la obra, para comunicárselo por escrito al rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ellos nos respondieron:",
+          "«Somos siervos del Dios del cielo y de la tierra, y estamos reconstruyendo el templo que fue edificado y terminado hace ya mucho tiempo por un gran rey de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Pero, como nuestros antepasados provocaron a ira al Dios del cielo, él los entregó en manos de Nabucodonosor, rey de Babilonia, el caldeo que destruyó este templo y que llevó al pueblo cautivo a Babilonia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»Pero más tarde, en el primer año de su reinado, Ciro, rey de Babilonia, ordenó que este templo de Dios fuera reconstruido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "También hizo sacar del templo de Babilonia los utensilios de oro y de plata que Nabucodonosor se había llevado del templo de Jerusalén y había puesto en el templo de Babilonia, y se los entregó a Sesbasar, a quien había nombrado gobernador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ciro, pues, ordenó a Sesbasar que tomara esos utensilios y los devolviera al templo de Jerusalén, y que reedificara en el mismo sitio el templo de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Entonces Sesbasar llegó a Jerusalén y echó los cimientos del templo de Dios. Desde entonces se ha estado trabajando en su reconstrucción, pero aún no se ha terminado»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Ahora bien, si el rey lo considera conveniente, pedimos que se investiguen los archivos donde están las crónicas de los reyes de Babilonia, para saber si es verdad que el rey Ciro ordenó la reconstrucción del templo de Dios en Jerusalén. Además, solicitamos que se nos dé a conocer la decisión del rey con respecto a este asunto."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

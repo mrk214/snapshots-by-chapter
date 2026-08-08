@@ -1,1 +1,116 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Provérbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Doxologia final"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aleluia! Louvai a Deus no seu santuário; louvai-o no firmamento, obra do seu poder!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Louvai-o por seus atos poderosos; louvai-o segundo a excelência da sua grandeza!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Louvai-o ao som da trombeta; louvai-o com saltérios e harpas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Louvai-o com danças e tamborins; louvai-o com instrumentos de cordas e com flautas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Louvai-o com címbalos sonoros; louvai-o com címbalos retumbantes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Todo ser que respira louve o Senhor. Aleluia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Provérbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Doxologia final"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia! Louvai a Deus no seu santuário; louvai-o no firmamento, obra do seu poder!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Louvai-o por seus atos poderosos; louvai-o segundo a excelência da sua grandeza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Louvai-o ao som da trombeta; louvai-o com saltérios e harpas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Louvai-o com danças e tamborins; louvai-o com instrumentos de cordas e com flautas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Louvai-o com címbalos sonoros; louvai-o com címbalos retumbantes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Todo ser que respira louve o Senhor. Aleluia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

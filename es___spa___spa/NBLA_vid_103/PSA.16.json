@@ -1,1 +1,194 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.16","is_chapter":true,"previous":{"usfm":"PSA.15","human":"Salmo 15","canonical":true,"toc":true},"current":{"usfm":"PSA.16","human":"Salmo 16"},"next":{"usfm":"PSA.17","human":"Salmo 17","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 16"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El Señor, herencia del justo en vida y en muerte"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Mictam de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Protégeme, oh Dios, pues en Ti me refugio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yo dije al Señor: «Tú eres mi Señor;","Ningún bien tengo fuera de Ti»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En cuanto a los santos que están en la tierra,","Ellos son los nobles en quienes está toda mi delicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se multiplicarán las aflicciones de aquellos que han corrido tras otro dios;","No derramaré yo sus libaciones de sangre,","Ni sus nombres pronunciarán mis labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶El Señor es la porción de mi herencia y de mi copa;","Tú sustentas mi suerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Las cuerdas me cayeron en lugares agradables;","En verdad es hermosa la herencia que me ha tocado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Bendeciré al Señor que me aconseja;","En verdad, en las noches mi corazón me instruye."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Al Señor he puesto continuamente delante de mí;","Porque está a mi diestra, permaneceré firme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Por tanto, mi corazón se alegra y mi alma se regocija;","También mi carne morará segura,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Porque Tú no abandonarás mi alma en el Seol,","Ni permitirás que Tu Santo sufra corrupción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Me darás a conocer la senda de la vida;","En Tu presencia hay plenitud de gozo;","En Tu diestra hay deleites para siempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.17.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.15",
+      "human": "Salmo 15"
+    },
+    "current": {
+      "usfm": "PSA.16",
+      "human": "Salmo 16"
+    },
+    "next": {
+      "usfm": "PSA.17",
+      "human": "Salmo 17"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 16"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El Señor, herencia del justo en vida y en muerte"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Mictam de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Protégeme, oh Dios, pues en Ti me refugio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yo dije al Señor: «Tú eres mi Señor;",
+          "Ningún bien tengo fuera de Ti»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En cuanto a los santos que están en la tierra,",
+          "Ellos son los nobles en quienes está toda mi delicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se multiplicarán las aflicciones de aquellos que han corrido tras otro dios;",
+          "No derramaré yo sus libaciones de sangre,",
+          "Ni sus nombres pronunciarán mis labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶El Señor es la porción de mi herencia y de mi copa;",
+          "Tú sustentas mi suerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Las cuerdas me cayeron en lugares agradables;",
+          "En verdad es hermosa la herencia que me ha tocado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Bendeciré al Señor que me aconseja;",
+          "En verdad, en las noches mi corazón me instruye."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Al Señor he puesto continuamente delante de mí;",
+          "Porque está a mi diestra, permaneceré firme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Por tanto, mi corazón se alegra y mi alma se regocija;",
+          "También mi carne morará segura,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Porque Tú no abandonarás mi alma en el Seol,",
+          "Ni permitirás que Tu Santo sufra corrupción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Me darás a conocer la senda de la vida;",
+          "En Tu presencia hay plenitud de gozo;",
+          "En Tu diestra hay deleites para siempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

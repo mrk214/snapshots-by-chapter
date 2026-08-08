@@ -1,1 +1,130 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.15","is_chapter":true,"previous":{"usfm":"PSA.14","human":"Salmos 14","canonical":true,"toc":true},"current":{"usfm":"PSA.15","human":"Salmos 15"},"next":{"usfm":"PSA.16","human":"Salmos 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Requisitos para vivir con Dios"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1a) Himno de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Dime, Dios mío,","¿quién puede vivir en tu santuario?,","¿quién puede vivir en tu monte santo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Solo quien hace lo bueno","y practica la justicia;","solo quien piensa en la verdad","y habla con la verdad;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["solo quien no habla mal de nadie","ni busca el mal de nadie","ni ofende a nadie;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["solo quien desprecia","al que merece desprecio,","pero respeta a quien honra a Dios;","solo quien cumple lo que promete","aunque salga perdiendo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["solo quien presta dinero","sin cobrar intereses,","y jamás acepta dinero","para perjudicar al inocente.","Quien así se comporta,","vivirá siempre seguro."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.16.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "current": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "next": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Requisitos para vivir con Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1a) Himno de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Dime, Dios mío,",
+          "¿quién puede vivir en tu santuario?,",
+          "¿quién puede vivir en tu monte santo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Solo quien hace lo bueno",
+          "y practica la justicia;",
+          "solo quien piensa en la verdad",
+          "y habla con la verdad;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "solo quien no habla mal de nadie",
+          "ni busca el mal de nadie",
+          "ni ofende a nadie;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "solo quien desprecia",
+          "al que merece desprecio,",
+          "pero respeta a quien honra a Dios;",
+          "solo quien cumple lo que promete",
+          "aunque salga perdiendo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "solo quien presta dinero",
+          "sin cobrar intereses,",
+          "y jamás acepta dinero",
+          "para perjudicar al inocente.",
+          "Quien así se comporta,",
+          "vivirá siempre seguro."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

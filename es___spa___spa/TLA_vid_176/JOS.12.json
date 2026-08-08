@@ -1,1 +1,304 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.12","is_chapter":true,"previous":{"usfm":"JOS.11","human":"Josué 11","canonical":true,"toc":true},"current":{"usfm":"JOS.12","human":"Josué 12"},"next":{"usfm":"JOS.13","human":"Josué 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los reyes derrotados por Moisés"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Bajo el mando de Moisés, los israelitas ya habían derrotado a dos reyes al este del río Jordán. Se habían apoderado del territorio que va desde el río Arnón, al sur, hasta el monte Hermón, al norte, y también de la región al este del Jordán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Uno de estos reyes era Sihón, rey de los amorreos, que vivía en Hesbón y gobernaba sobre la mitad de Galaad; su territorio se extendía desde el río Jaboc, en el norte, hasta el río Arnón, en el sur. Al sureste su frontera era la ciudad de Aroer, en la ribera del río Arnón. Al suroeste, se extendía hasta la mitad del valle del Arnón, desde Aroer hasta el Mar Muerto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Su frontera oeste era el río Jordán, desde el Lago de Galilea, al norte, hasta el Mar Muerto, al sur. También le pertenecía la región al este del Mar Muerto, hasta la ciudad de Bet-jesimot y el monte Pisgá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El otro rey derrotado por Moisés y los israelitas fue Og de Basán, el último de los refaítas. Og gobernaba en Astarot y en Edrei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Su territorio se extendía desde el monte Hermón, al norte, y desde la ciudad de Salcá, al este, incluyendo todo Basán, hasta el límite con los territorios de Guesur y Maacá, en el oeste. Además, gobernaba sobre la parte norte de Galaad, hasta el territorio de Sihón, rey de Hesbón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Bajo el mando de Moisés, estos dos reyes fueron vencidos por los israelitas. Moisés repartió su territorio entre las tribus de Rubén y Gad y la mitad de la tribu de Manasés."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los reyes derrotados por Josué"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Bajo el mando de Josué, los israelitas derrotaron a todos los reyes al oeste del río Jordán, desde Baal-gad, en el valle del Líbano, hasta el monte Halac, al sur de Edom. Josué repartió este territorio, dándole a cada tribu su parte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Este territorio incluía la zona montañosa, los cerros del oeste, el valle del Jordán, los cerros del este y el desierto del sur. Antes había pertenecido a los hititas, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los israelitas derrotaron a los reyes de las siguientes ciudades: Jericó, Ai que está cerca de Betel,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Jerusalén, Hebrón,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Jarmut, Laquis,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Eglón, Guézer,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Debir, Guéder,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Hormá, Arad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Libná, Adulam,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Maquedá, Betel,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Tapúah, Héfer,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Afec, Sarón,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Madón, Hasor,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Simrón-merón, Acsaf,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Taanac, Meguido,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Cedes, Jocneam en el monte Carmelo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Dor en la costa, Goím de Guilgal,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["y Tirsá. En total fueron treinta y un reyes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JOS.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JOS.13.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.11",
+      "human": "Josué 11"
+    },
+    "current": {
+      "usfm": "JOS.12",
+      "human": "Josué 12"
+    },
+    "next": {
+      "usfm": "JOS.13",
+      "human": "Josué 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los reyes derrotados por Moisés"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Bajo el mando de Moisés, los israelitas ya habían derrotado a dos reyes al este del río Jordán. Se habían apoderado del territorio que va desde el río Arnón, al sur, hasta el monte Hermón, al norte, y también de la región al este del Jordán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Uno de estos reyes era Sihón, rey de los amorreos, que vivía en Hesbón y gobernaba sobre la mitad de Galaad; su territorio se extendía desde el río Jaboc, en el norte, hasta el río Arnón, en el sur. Al sureste su frontera era la ciudad de Aroer, en la ribera del río Arnón. Al suroeste, se extendía hasta la mitad del valle del Arnón, desde Aroer hasta el Mar Muerto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Su frontera oeste era el río Jordán, desde el Lago de Galilea, al norte, hasta el Mar Muerto, al sur. También le pertenecía la región al este del Mar Muerto, hasta la ciudad de Bet-jesimot y el monte Pisgá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El otro rey derrotado por Moisés y los israelitas fue Og de Basán, el último de los refaítas. Og gobernaba en Astarot y en Edrei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Su territorio se extendía desde el monte Hermón, al norte, y desde la ciudad de Salcá, al este, incluyendo todo Basán, hasta el límite con los territorios de Guesur y Maacá, en el oeste. Además, gobernaba sobre la parte norte de Galaad, hasta el territorio de Sihón, rey de Hesbón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Bajo el mando de Moisés, estos dos reyes fueron vencidos por los israelitas. Moisés repartió su territorio entre las tribus de Rubén y Gad y la mitad de la tribu de Manasés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los reyes derrotados por Josué"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Bajo el mando de Josué, los israelitas derrotaron a todos los reyes al oeste del río Jordán, desde Baal-gad, en el valle del Líbano, hasta el monte Halac, al sur de Edom. Josué repartió este territorio, dándole a cada tribu su parte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Este territorio incluía la zona montañosa, los cerros del oeste, el valle del Jordán, los cerros del este y el desierto del sur. Antes había pertenecido a los hititas, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los israelitas derrotaron a los reyes de las siguientes ciudades: Jericó, Ai que está cerca de Betel,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Jerusalén, Hebrón,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Jarmut, Laquis,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Eglón, Guézer,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Debir, Guéder,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Hormá, Arad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Libná, Adulam,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Maquedá, Betel,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Tapúah, Héfer,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Afec, Sarón,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Madón, Hasor,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Simrón-merón, Acsaf,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Taanac, Meguido,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Cedes, Jocneam en el monte Carmelo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Dor en la costa, Goím de Guilgal,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "y Tirsá. En total fueron treinta y un reyes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

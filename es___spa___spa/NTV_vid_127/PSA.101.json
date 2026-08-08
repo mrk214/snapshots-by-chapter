@@ -1,1 +1,150 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Salmos 101"},"next":{"usfm":"PSA.102","human":"Salmos 102","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantaré de tu amor y de tu justicia, oh Señor;","te alabaré con canciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tendré cuidado de llevar una vida intachable;","¿cuándo vendrás a ayudarme?","Viviré con integridad","en mi propio hogar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Me negaré a mirar","cualquier cosa vil o vulgar.","Detesto a los que actúan de manera deshonesta;","no tendré nada que ver con ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Rechazaré las ideas perversas","y me mantendré alejado de toda clase de mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No toleraré a los que calumnian a sus vecinos;","no soportaré la presunción ni el orgullo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Buscaré a personas fieles","para que sean mis compañeros;","solo a los que sean irreprochables","se les permitirá servirme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No permitiré que los engañadores sirvan en mi casa,","y los mentirosos no permanecerán en mi presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mi tarea diaria será descubrir a los perversos","y liberar de sus garras a la ciudad del Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Salmos 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Salmos 102"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantaré de tu amor y de tu justicia, oh Señor;",
+          "te alabaré con canciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tendré cuidado de llevar una vida intachable;",
+          "¿cuándo vendrás a ayudarme?",
+          "Viviré con integridad",
+          "en mi propio hogar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Me negaré a mirar",
+          "cualquier cosa vil o vulgar.",
+          "Detesto a los que actúan de manera deshonesta;",
+          "no tendré nada que ver con ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Rechazaré las ideas perversas",
+          "y me mantendré alejado de toda clase de mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No toleraré a los que calumnian a sus vecinos;",
+          "no soportaré la presunción ni el orgullo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Buscaré a personas fieles",
+          "para que sean mis compañeros;",
+          "solo a los que sean irreprochables",
+          "se les permitirá servirme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No permitiré que los engañadores sirvan en mi casa,",
+          "y los mentirosos no permanecerán en mi presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mi tarea diaria será descubrir a los perversos",
+          "y liberar de sus garras a la ciudad del Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

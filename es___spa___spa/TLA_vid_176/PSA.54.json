@@ -1,1 +1,142 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Salmos 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Salmos 54"},"next":{"usfm":"PSA.55","human":"Salmos 55","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ven a defenderme"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1-2) David compuso este poema cuando la gente de Zif fue a decirle a Saúl: «Parece que David se ha escondido entre nosotros»."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Instrucciones para el director del coro: Este himno deberá cantarse acompañado de instrumentos de cuerda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (3) Dios mío,","ven a salvarme,","ven a defenderme;","haz uso de tu poder,","¡muestra quién eres!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["2 (4) Dios mío,","escucha mi oración;","atiende mis palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["3 (5) Gente extraña y violenta","me ataca y me quiere matar.","¡Esa gente no quiere nada contigo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4,5,6],"lines":["4-6 (6-8) Tú, mi Dios y Señor,","me das tu ayuda y tu apoyo;","harás caer sobre mis enemigos","el mal que quieren hacerme.","¡Destrúyelos, Dios mío,","pues tú eres fiel!","Yo, con mucho gusto,","te presentaré una ofrenda","y alabaré tu bondad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["7 (9) pues me dejaste ver","la derrota de mis enemigos,","y me libraste de todos mis problemas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Salmos 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Salmos 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Salmos 55"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ven a defenderme"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1-2) David compuso este poema cuando la gente de Zif fue a decirle a Saúl: «Parece que David se ha escondido entre nosotros»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Instrucciones para el director del coro: Este himno deberá cantarse acompañado de instrumentos de cuerda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (3) Dios mío,",
+          "ven a salvarme,",
+          "ven a defenderme;",
+          "haz uso de tu poder,",
+          "¡muestra quién eres!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "2 (4) Dios mío,",
+          "escucha mi oración;",
+          "atiende mis palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "3 (5) Gente extraña y violenta",
+          "me ataca y me quiere matar.",
+          "¡Esa gente no quiere nada contigo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4,
+          5,
+          6
+        ],
+        "lines": [
+          "4-6 (6-8) Tú, mi Dios y Señor,",
+          "me das tu ayuda y tu apoyo;",
+          "harás caer sobre mis enemigos",
+          "el mal que quieren hacerme.",
+          "¡Destrúyelos, Dios mío,",
+          "pues tú eres fiel!",
+          "Yo, con mucho gusto,",
+          "te presentaré una ofrenda",
+          "y alabaré tu bondad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "7 (9) pues me dejaste ver",
+          "la derrota de mis enemigos,",
+          "y me libraste de todos mis problemas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

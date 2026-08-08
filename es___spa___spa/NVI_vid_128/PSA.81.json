@@ -1,1 +1,244 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Salmo 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Salmo 81"},"next":{"usfm":"PSA.82","human":"Salmo 82","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Sígase la tonada de «La canción del lagar». Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Canten con júbilo a Dios, nuestra fortaleza;","¡aclamen alegres al Dios de Jacob!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Entonen salmos!","¡Toquen ya el pandero,","el arpa y la lira melodiosa!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Toquen la trompeta en la luna nueva","y en la luna llena, día de nuestra fiesta!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Este es un estatuto para Israel,","una ley del Dios de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cuando salió contra la tierra de Egipto,","lo estableció como un mandato dado a José.","Escuché una voz desconocida decir:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["«Te he quitado la carga de los hombros;","tus manos se han librado del pesado cesto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En tu angustia me llamaste y te libré;","oculto en el trueno te respondí;","en las aguas de Meribá te puse a prueba."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Escucha, pueblo mío, mis advertencias;","¡ay, Israel, si tan solo me escucharas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No tendrás ningún dios extranjero,","ni te postrarás ante ningún dios extraño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo soy el Señor tu Dios,","que te hice subir de la tierra de Egipto.","Abre bien la boca, y te la llenaré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Pero mi pueblo no me escuchó;","Israel no quiso hacerme caso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Por eso los abandoné a la terquedad de su corazón,","para que actuaran como mejor les pareciera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»Si mi pueblo tan solo me escuchara,","si Israel quisiera andar por mis caminos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡cuán pronto sometería yo a sus enemigos,","y volvería mi mano contra sus adversarios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los que aborrecen al Señor se rendirían ante él,","pero serían eternamente castigados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Y a ti te alimentaría con lo mejor del trigo;","con miel de la roca te saciaría»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Salmo 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Salmo 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Salmo 82"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Sígase la tonada de «La canción del lagar». Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Canten con júbilo a Dios, nuestra fortaleza;",
+          "¡aclamen alegres al Dios de Jacob!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Entonen salmos!",
+          "¡Toquen ya el pandero,",
+          "el arpa y la lira melodiosa!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Toquen la trompeta en la luna nueva",
+          "y en la luna llena, día de nuestra fiesta!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Este es un estatuto para Israel,",
+          "una ley del Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cuando salió contra la tierra de Egipto,",
+          "lo estableció como un mandato dado a José.",
+          "Escuché una voz desconocida decir:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "«Te he quitado la carga de los hombros;",
+          "tus manos se han librado del pesado cesto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En tu angustia me llamaste y te libré;",
+          "oculto en el trueno te respondí;",
+          "en las aguas de Meribá te puse a prueba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Escucha, pueblo mío, mis advertencias;",
+          "¡ay, Israel, si tan solo me escucharas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No tendrás ningún dios extranjero,",
+          "ni te postrarás ante ningún dios extraño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo soy el Señor tu Dios,",
+          "que te hice subir de la tierra de Egipto.",
+          "Abre bien la boca, y te la llenaré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Pero mi pueblo no me escuchó;",
+          "Israel no quiso hacerme caso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Por eso los abandoné a la terquedad de su corazón,",
+          "para que actuaran como mejor les pareciera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»Si mi pueblo tan solo me escuchara,",
+          "si Israel quisiera andar por mis caminos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡cuán pronto sometería yo a sus enemigos,",
+          "y volvería mi mano contra sus adversarios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los que aborrecen al Señor se rendirían ante él,",
+          "pero serían eternamente castigados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Y a ti te alimentaría con lo mejor del trigo;",
+          "con miel de la roca te saciaría»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

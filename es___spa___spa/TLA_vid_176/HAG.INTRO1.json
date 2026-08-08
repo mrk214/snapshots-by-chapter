@@ -1,1 +1,47 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"HAG","name":"Hageo"},"chapter":{"chapter_usfm":"HAG.INTRO1","is_chapter":false,"previous":{"usfm":"ZEP.3","human":"Sofonías 3","canonical":true,"toc":true},"current":{"usfm":"HAG.INTRO1","human":"Hageo Introducción"},"next":{"usfm":"HAG.1","human":"Hageo 1","canonical":true,"toc":true},"items":[]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ZEP.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HAG.1.json"
+  },
+  "book": {
+    "book_usfm": "HAG",
+    "name": "Hageo"
+  },
+  "chapter": {
+    "chapter_usfm": "HAG.INTRO1",
+    "is_chapter": false,
+    "previous": {
+      "usfm": "ZEP.3",
+      "human": "Sofonías 3"
+    },
+    "current": {
+      "usfm": "HAG.INTRO1",
+      "human": "Hageo Introducción"
+    },
+    "next": {
+      "usfm": "HAG.1",
+      "human": "Hageo 1"
+    },
+    "items": []
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

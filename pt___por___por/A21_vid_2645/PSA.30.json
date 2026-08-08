@@ -1,1 +1,184 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.30","is_chapter":true,"previous":{"usfm":"PSA.29","human":"Salmos 29","canonical":true,"toc":true},"current":{"usfm":"PSA.30","human":"Salmos 30"},"next":{"usfm":"PSA.31","human":"Salmos 31","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Livramento da morte"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico para a ocasião da dedicação do templo — Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ó Senhor, eu te exaltarei porque tu me levantaste e não permitiste que meus inimigos rissem de mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ó Senhor, meu Deus, clamei a ti, e tu me curaste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Senhor, tu me tiraste da sepultura, preservaste a minha vida para que eu não descesse à cova."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Cantai louvores ao Senhor, vós que sois seus santos, e louvai seu santo nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas o cântico de júbilo vem de manhã."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Eu, porém, dizia na minha prosperidade: Jamais serei abalado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tu, Senhor, pelo teu favor fizeste com que a minha montanha permanecesse firme; apenas escondeste o rosto e fiquei perturbado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Senhor, a ti clamei, e ao Senhor supliquei:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Que proveito haverá no derramar do meu sangue? E se eu descer à cova? Acaso o pó te louvará? Ou proclamará a tua verdade?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Senhor, ouve e tem compaixão de mim! Ó Senhor, sê o meu auxílio!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Converteste meu pranto em dança, tiraste meu pano de saco e me vestiste de alegria;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["para que eu te cante louvores e não me cale. Senhor, meu Deus, eu te louvarei para sempre!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.31.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.29",
+      "human": "Salmos 29"
+    },
+    "current": {
+      "usfm": "PSA.30",
+      "human": "Salmos 30"
+    },
+    "next": {
+      "usfm": "PSA.31",
+      "human": "Salmos 31"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Livramento da morte"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico para a ocasião da dedicação do templo — Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ó Senhor, eu te exaltarei porque tu me levantaste e não permitiste que meus inimigos rissem de mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ó Senhor, meu Deus, clamei a ti, e tu me curaste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Senhor, tu me tiraste da sepultura, preservaste a minha vida para que eu não descesse à cova."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Cantai louvores ao Senhor, vós que sois seus santos, e louvai seu santo nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque sua ira dura só um momento; no seu favor está a vida. O choro pode durar uma noite, mas o cântico de júbilo vem de manhã."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Eu, porém, dizia na minha prosperidade: Jamais serei abalado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tu, Senhor, pelo teu favor fizeste com que a minha montanha permanecesse firme; apenas escondeste o rosto e fiquei perturbado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Senhor, a ti clamei, e ao Senhor supliquei:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Que proveito haverá no derramar do meu sangue? E se eu descer à cova? Acaso o pó te louvará? Ou proclamará a tua verdade?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Senhor, ouve e tem compaixão de mim! Ó Senhor, sê o meu auxílio!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Converteste meu pranto em dança, tiraste meu pano de saco e me vestiste de alegria;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "para que eu te cante louvores e não me cale. Senhor, meu Deus, eu te louvarei para sempre!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

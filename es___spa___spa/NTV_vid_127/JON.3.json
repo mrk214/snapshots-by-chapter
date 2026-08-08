@@ -1,1 +1,157 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"JON","name":"Jonás"},"chapter":{"chapter_usfm":"JON.3","is_chapter":true,"previous":{"usfm":"JON.2","human":"Jonás 2","canonical":true,"toc":true},"current":{"usfm":"JON.3","human":"Jonás 3"},"next":{"usfm":"JON.4","human":"Jonás 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jonás va a Nínive"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El Señor habló por segunda vez a Jonás:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Levántate y ve a la gran ciudad de Nínive y entrega el mensaje que te he dado»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Esta vez Jonás obedeció el mandato del Señor y fue a Nínive, una ciudad tan grande que tomaba tres días recorrerla toda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El día que Jonás entró en la ciudad, proclamó a la multitud: «Dentro de cuarenta días Nínive será destruida»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces la gente de Nínive creyó el mensaje de Dios y desde el más importante hasta el menos importante declararon ayuno y se vistieron de tela áspera en señal de remordimiento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuando el rey de Nínive oyó lo que Jonás decía, bajó de su trono y se quitó sus vestiduras reales. Se vistió de tela áspera y se sentó sobre un montón de cenizas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entonces el rey y sus nobles enviaron el siguiente decreto por toda la ciudad:","«Nadie puede comer ni beber nada, ni siquiera los animales de las manadas o de los rebaños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Tanto el pueblo como los animales tienen que vestirse de luto y toda persona debe orar intensamente a Dios, apartarse de sus malos caminos y abandonar toda su violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Quién sabe!, puede ser que todavía Dios cambie de parecer, contenga su ira feroz y no nos destruya»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cuando Dios vio lo que habían hecho y cómo habían abandonado sus malos caminos, cambió de parecer y no llevó a cabo la destrucción con que los había amenazado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JON.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JON.4.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonás"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.2",
+      "human": "Jonás 2"
+    },
+    "current": {
+      "usfm": "JON.3",
+      "human": "Jonás 3"
+    },
+    "next": {
+      "usfm": "JON.4",
+      "human": "Jonás 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jonás va a Nínive"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El Señor habló por segunda vez a Jonás:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Levántate y ve a la gran ciudad de Nínive y entrega el mensaje que te he dado»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Esta vez Jonás obedeció el mandato del Señor y fue a Nínive, una ciudad tan grande que tomaba tres días recorrerla toda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El día que Jonás entró en la ciudad, proclamó a la multitud: «Dentro de cuarenta días Nínive será destruida»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces la gente de Nínive creyó el mensaje de Dios y desde el más importante hasta el menos importante declararon ayuno y se vistieron de tela áspera en señal de remordimiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuando el rey de Nínive oyó lo que Jonás decía, bajó de su trono y se quitó sus vestiduras reales. Se vistió de tela áspera y se sentó sobre un montón de cenizas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entonces el rey y sus nobles enviaron el siguiente decreto por toda la ciudad:",
+          "«Nadie puede comer ni beber nada, ni siquiera los animales de las manadas o de los rebaños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Tanto el pueblo como los animales tienen que vestirse de luto y toda persona debe orar intensamente a Dios, apartarse de sus malos caminos y abandonar toda su violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Quién sabe!, puede ser que todavía Dios cambie de parecer, contenga su ira feroz y no nos destruya»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cuando Dios vio lo que habían hecho y cómo habían abandonado sus malos caminos, cambió de parecer y no llevó a cabo la destrucción con que los había amenazado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

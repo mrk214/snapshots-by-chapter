@@ -1,1 +1,157 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.47","is_chapter":true,"previous":{"usfm":"PSA.46","human":"Psalms 46","canonical":true,"toc":true},"current":{"usfm":"PSA.47","human":"Psalms 47"},"next":{"usfm":"PSA.48","human":"Psalms 48","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the director of music. Of the Sons of Korah. A psalm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Clap your hands, all you nations;","shout to God with cries of joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For the Lord Most High is awesome,","the great King over all the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He subdued nations under us,","peoples under our feet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He chose our inheritance for us,","the pride of Jacob, whom he loved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["God has ascended amid shouts of joy,","the Lord amid the sounding of trumpets."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sing praises to God, sing praises;","sing praises to our King, sing praises."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For God is the King of all the earth;","sing to him a psalm of praise."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["God reigns over the nations;","God is seated on his holy throne."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The nobles of the nations assemble","as the people of the God of Abraham,","for the kings of the earth belong to God;","he is greatly exalted."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.46.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.48.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.47",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.46",
+      "human": "Psalms 46"
+    },
+    "current": {
+      "usfm": "PSA.47",
+      "human": "Psalms 47"
+    },
+    "next": {
+      "usfm": "PSA.48",
+      "human": "Psalms 48"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the director of music. Of the Sons of Korah. A psalm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Clap your hands, all you nations;",
+          "shout to God with cries of joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For the Lord Most High is awesome,",
+          "the great King over all the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He subdued nations under us,",
+          "peoples under our feet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He chose our inheritance for us,",
+          "the pride of Jacob, whom he loved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "God has ascended amid shouts of joy,",
+          "the Lord amid the sounding of trumpets."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sing praises to God, sing praises;",
+          "sing praises to our King, sing praises."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For God is the King of all the earth;",
+          "sing to him a psalm of praise."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "God reigns over the nations;",
+          "God is seated on his holy throne."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The nobles of the nations assemble",
+          "as the people of the God of Abraham,",
+          "for the kings of the earth belong to God;",
+          "he is greatly exalted."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,391 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"SNG","name":"Song of Solomon"},"chapter":{"chapter_usfm":"SNG.1","is_chapter":true,"previous":{"usfm":"ECC.12","human":"Ecclesiastes 12","canonical":true,"toc":true},"current":{"usfm":"SNG.1","human":"Song of Solomon 1"},"next":{"usfm":"SNG.2","human":"Song of Solomon 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Solomon’s Love for a Shulamite Girl"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The song of songs, which is Solomon’s."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Banquet"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let him kiss me with the kisses of his mouth—","For your love is better than wine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Because of the fragrance of your good ointments,","Your name is ointment poured forth;","Therefore the virgins love you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Draw me away!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Daughters of Jerusalem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["We will run after you."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The king has brought me into his chambers."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Daughters of Jerusalem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["We will be glad and rejoice in you.","We will remember your love more than wine."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Rightly do they love you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I am dark, but lovely,","O daughters of Jerusalem,","Like the tents of Kedar,","Like the curtains of Solomon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Do not look upon me, because I am dark,","Because the sun has tanned me.","My mother’s sons were angry with me;","They made me the keeper of the vineyards,","But my own vineyard I have not kept."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["(To Her Beloved)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tell me, O you whom I love,","Where you feed your flock,","Where you make it rest at noon.","For why should I be as one who veils herself","By the flocks of your companions?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Beloved"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["If you do not know, O fairest among women,","Follow in the footsteps of the flock,","And feed your little goats","Beside the shepherds’ tents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["I have compared you, my love,","To my filly among Pharaoh’s chariots."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Your cheeks are lovely with ornaments,","Your neck with chains of gold."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Daughters of Jerusalem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["We will make you ornaments of gold","With studs of silver."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["While the king is at his table,","My spikenard sends forth its fragrance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["A bundle of myrrh is my beloved to me,","That lies all night between my breasts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["My beloved is to me a cluster of henna blooms","In the vineyards of En Gedi."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Beloved"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Behold, you are fair, my love!","Behold, you are fair!","You have dove’s eyes."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Behold, you are handsome, my beloved!","Yes, pleasant!","Also our bed is green."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The beams of our houses are cedar,","And our rafters of fir."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ECC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/SNG.2.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Song of Solomon"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Ecclesiastes 12"
+    },
+    "current": {
+      "usfm": "SNG.1",
+      "human": "Song of Solomon 1"
+    },
+    "next": {
+      "usfm": "SNG.2",
+      "human": "Song of Solomon 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Solomon’s Love for a Shulamite Girl"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The song of songs, which is Solomon’s."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Banquet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let him kiss me with the kisses of his mouth—",
+          "For your love is better than wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Because of the fragrance of your good ointments,",
+          "Your name is ointment poured forth;",
+          "Therefore the virgins love you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Draw me away!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Daughters of Jerusalem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "We will run after you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The king has brought me into his chambers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Daughters of Jerusalem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "We will be glad and rejoice in you.",
+          "We will remember your love more than wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Rightly do they love you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I am dark, but lovely,",
+          "O daughters of Jerusalem,",
+          "Like the tents of Kedar,",
+          "Like the curtains of Solomon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Do not look upon me, because I am dark,",
+          "Because the sun has tanned me.",
+          "My mother’s sons were angry with me;",
+          "They made me the keeper of the vineyards,",
+          "But my own vineyard I have not kept."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "(To Her Beloved)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tell me, O you whom I love,",
+          "Where you feed your flock,",
+          "Where you make it rest at noon.",
+          "For why should I be as one who veils herself",
+          "By the flocks of your companions?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Beloved"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "If you do not know, O fairest among women,",
+          "Follow in the footsteps of the flock,",
+          "And feed your little goats",
+          "Beside the shepherds’ tents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "I have compared you, my love,",
+          "To my filly among Pharaoh’s chariots."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Your cheeks are lovely with ornaments,",
+          "Your neck with chains of gold."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Daughters of Jerusalem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "We will make you ornaments of gold",
+          "With studs of silver."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "While the king is at his table,",
+          "My spikenard sends forth its fragrance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "A bundle of myrrh is my beloved to me,",
+          "That lies all night between my breasts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "My beloved is to me a cluster of henna blooms",
+          "In the vineyards of En Gedi."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Beloved"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Behold, you are fair, my love!",
+          "Behold, you are fair!",
+          "You have dove’s eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Behold, you are handsome, my beloved!",
+          "Yes, pleasant!",
+          "Also our bed is green."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The beams of our houses are cedar,",
+          "And our rafters of fir."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

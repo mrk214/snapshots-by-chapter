@@ -1,1 +1,369 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.19","is_chapter":true,"previous":{"usfm":"PRO.18","human":"Proverbs 18","canonical":true,"toc":true},"current":{"usfm":"PRO.19","human":"Proverbs 19"},"next":{"usfm":"PRO.20","human":"Proverbs 20","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Better is the poor that walketh in his integrity,","Than he that is perverse in his lips, and is a fool."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Also, that the soul be without knowledge, it is not good;","And he that hasteth with his feet sinneth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The foolishness of man perverteth his way:","And his heart fretteth against the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Wealth maketh many friends;","But the poor is separated from his neighbour."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A false witness shall not be unpunished,","And he that speaketh lies shall not escape."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Many will intreat the favour of the prince:","And every man is a friend to him that giveth gifts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["All the brethren of the poor do hate him:","How much more do his friends go far from him?","He pursueth them with words, yet they are wanting to him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["He that getteth wisdom loveth his own soul:","He that keepeth understanding shall find good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A false witness shall not be unpunished,","And he that speaketh lies shall perish."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Delight is not seemly for a fool;","Much less for a servant to have rule over princes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The discretion of a man deferreth his anger;","And it is his glory to pass over a transgression."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The king's wrath is as the roaring of a lion;","But his favour is as dew upon the grass."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["A foolish son is the calamity of his father:","And the contentions of a wife are a continual dropping."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["House and riches are the inheritance of fathers:","And a prudent wife is from the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Slothfulness casteth into a deep sleep;","And an idle soul shall suffer hunger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He that keepeth the commandment keepeth his own soul;","But he that despiseth his ways shall die."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He that hath pity upon the poor lendeth unto the LORD;","And that which he hath given will he pay him again."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Chasten thy son while there is hope,","And let not thy soul spare for his crying."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A man of great wrath shall suffer punishment:","For if thou deliver him, yet thou must do it again."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Hear counsel, and receive instruction,","That thou mayest be wise in thy latter end."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["There are many devices in a man's heart;","Nevertheless the counsel of the LORD, that shall stand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The desire of a man is his kindness:","And a poor man is better than a liar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["The fear of the LORD tendeth to life:","And he that hath it shall abide satisfied;","He shall not be visited with evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["A slothful man hideth his hand in his bosom,","And will not so much as bring it to his mouth again."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Smite a scorner, and the simple will beware:","And reprove one that hath understanding, and he will understand knowledge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["He that wasteth his father, and chaseth away his mother,","Is a son that causeth shame, and bringeth reproach."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Cease, my son, to hear the instruction","That causeth to err from the words of knowledge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["An ungodly witness scorneth judgment:","And the mouth of the wicked devoureth iniquity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Judgments are prepared for scorners,","And stripes for the back of fools."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.18.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.20.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.19",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.18",
+      "human": "Proverbs 18"
+    },
+    "current": {
+      "usfm": "PRO.19",
+      "human": "Proverbs 19"
+    },
+    "next": {
+      "usfm": "PRO.20",
+      "human": "Proverbs 20"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Better is the poor that walketh in his integrity,",
+          "Than he that is perverse in his lips, and is a fool."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Also, that the soul be without knowledge, it is not good;",
+          "And he that hasteth with his feet sinneth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The foolishness of man perverteth his way:",
+          "And his heart fretteth against the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Wealth maketh many friends;",
+          "But the poor is separated from his neighbour."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A false witness shall not be unpunished,",
+          "And he that speaketh lies shall not escape."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Many will intreat the favour of the prince:",
+          "And every man is a friend to him that giveth gifts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "All the brethren of the poor do hate him:",
+          "How much more do his friends go far from him?",
+          "He pursueth them with words, yet they are wanting to him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "He that getteth wisdom loveth his own soul:",
+          "He that keepeth understanding shall find good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A false witness shall not be unpunished,",
+          "And he that speaketh lies shall perish."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Delight is not seemly for a fool;",
+          "Much less for a servant to have rule over princes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The discretion of a man deferreth his anger;",
+          "And it is his glory to pass over a transgression."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The king's wrath is as the roaring of a lion;",
+          "But his favour is as dew upon the grass."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "A foolish son is the calamity of his father:",
+          "And the contentions of a wife are a continual dropping."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "House and riches are the inheritance of fathers:",
+          "And a prudent wife is from the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Slothfulness casteth into a deep sleep;",
+          "And an idle soul shall suffer hunger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He that keepeth the commandment keepeth his own soul;",
+          "But he that despiseth his ways shall die."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He that hath pity upon the poor lendeth unto the LORD;",
+          "And that which he hath given will he pay him again."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Chasten thy son while there is hope,",
+          "And let not thy soul spare for his crying."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A man of great wrath shall suffer punishment:",
+          "For if thou deliver him, yet thou must do it again."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Hear counsel, and receive instruction,",
+          "That thou mayest be wise in thy latter end."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "There are many devices in a man's heart;",
+          "Nevertheless the counsel of the LORD, that shall stand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The desire of a man is his kindness:",
+          "And a poor man is better than a liar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "The fear of the LORD tendeth to life:",
+          "And he that hath it shall abide satisfied;",
+          "He shall not be visited with evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "A slothful man hideth his hand in his bosom,",
+          "And will not so much as bring it to his mouth again."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Smite a scorner, and the simple will beware:",
+          "And reprove one that hath understanding, and he will understand knowledge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "He that wasteth his father, and chaseth away his mother,",
+          "Is a son that causeth shame, and bringeth reproach."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Cease, my son, to hear the instruction",
+          "That causeth to err from the words of knowledge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "An ungodly witness scorneth judgment:",
+          "And the mouth of the wicked devoureth iniquity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Judgments are prepared for scorners,",
+          "And stripes for the back of fools."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

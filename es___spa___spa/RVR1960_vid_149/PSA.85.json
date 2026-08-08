@@ -1,1 +1,216 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.85","is_chapter":true,"previous":{"usfm":"PSA.84","human":"Salmos 84","canonical":true,"toc":true},"current":{"usfm":"PSA.85","human":"Salmos 85"},"next":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Súplica por la misericordia de Dios sobre Israel"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Salmo para los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Fuiste propicio a tu tierra, oh Jehová;","Volviste la cautividad de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Perdonaste la iniquidad de tu pueblo;","Todos los pecados de ellos cubriste."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Reprimiste todo tu enojo;","Te apartaste del ardor de tu ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Restáuranos, oh Dios de nuestra salvación,","Y haz cesar tu ira de sobre nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Estarás enojado contra nosotros para siempre?","¿Extenderás tu ira de generación en generación?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¿No volverás a darnos vida,","Para que tu pueblo se regocije en ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Muéstranos, oh Jehová, tu misericordia,","Y danos tu salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Escucharé lo que hablará Jehová Dios;","Porque hablará paz a su pueblo y a sus santos,","Para que no se vuelvan a la locura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ciertamente cercana está su salvación a los que le temen,","Para que habite la gloria en nuestra tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La misericordia y la verdad se encontraron;","La justicia y la paz se besaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La verdad brotará de la tierra,","Y la justicia mirará desde los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Jehová dará también el bien,","Y nuestra tierra dará su fruto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La justicia irá delante de él,","Y sus pasos nos pondrá por camino."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.84.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.86.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.85",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.84",
+      "human": "Salmos 84"
+    },
+    "current": {
+      "usfm": "PSA.85",
+      "human": "Salmos 85"
+    },
+    "next": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Súplica por la misericordia de Dios sobre Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Salmo para los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Fuiste propicio a tu tierra, oh Jehová;",
+          "Volviste la cautividad de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Perdonaste la iniquidad de tu pueblo;",
+          "Todos los pecados de ellos cubriste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Reprimiste todo tu enojo;",
+          "Te apartaste del ardor de tu ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Restáuranos, oh Dios de nuestra salvación,",
+          "Y haz cesar tu ira de sobre nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Estarás enojado contra nosotros para siempre?",
+          "¿Extenderás tu ira de generación en generación?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¿No volverás a darnos vida,",
+          "Para que tu pueblo se regocije en ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Muéstranos, oh Jehová, tu misericordia,",
+          "Y danos tu salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Escucharé lo que hablará Jehová Dios;",
+          "Porque hablará paz a su pueblo y a sus santos,",
+          "Para que no se vuelvan a la locura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ciertamente cercana está su salvación a los que le temen,",
+          "Para que habite la gloria en nuestra tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La misericordia y la verdad se encontraron;",
+          "La justicia y la paz se besaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La verdad brotará de la tierra,",
+          "Y la justicia mirará desde los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Jehová dará también el bien,",
+          "Y nuestra tierra dará su fruto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La justicia irá delante de él,",
+          "Y sus pasos nos pondrá por camino."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,202 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.96","is_chapter":true,"previous":{"usfm":"PSA.95","human":"Salmos 95","canonical":true,"toc":true},"current":{"usfm":"PSA.96","human":"Salmos 96"},"next":{"usfm":"PSA.97","human":"Salmos 97","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Tributo à glória e majestade de Deus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantai ao Senhor um cântico novo,","cantai ao Senhor, todas as terras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cantai ao Senhor, bendizei o seu nome;","proclamai a sua salvação, dia após dia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Anunciai entre as nações a sua glória,","entre todos os povos, as suas maravilhas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque grande é o Senhor e mui digno de ser louvado,","temível mais que todos os deuses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque todos os deuses dos povos não passam de ídolos;","o Senhor, porém, fez os céus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Glória e majestade estão diante dele,","força e formosura, no seu santuário."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tributai ao Senhor, ó famílias dos povos,","tributai ao Senhor glória e força."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Tributai ao Senhor a glória devida ao seu nome;","trazei oferendas e entrai nos seus átrios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Adorai o Senhor na beleza da sua santidade;","tremei diante dele, todas as terras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Dizei entre as nações: Reina o Senhor.","Ele firmou o mundo para que não se abale","e julga os povos com equidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Alegrem-se os céus, e a terra exulte;","ruja o mar e a sua plenitude."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Folgue o campo e tudo o que nele há;","regozijem-se todas as árvores do bosque,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["na presença do Senhor,","porque vem, vem julgar a terra;","julgará o mundo com justiça","e os povos, consoante a sua fidelidade."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.95.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.97.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.96",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.95",
+      "human": "Salmos 95"
+    },
+    "current": {
+      "usfm": "PSA.96",
+      "human": "Salmos 96"
+    },
+    "next": {
+      "usfm": "PSA.97",
+      "human": "Salmos 97"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Tributo à glória e majestade de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantai ao Senhor um cântico novo,",
+          "cantai ao Senhor, todas as terras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cantai ao Senhor, bendizei o seu nome;",
+          "proclamai a sua salvação, dia após dia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Anunciai entre as nações a sua glória,",
+          "entre todos os povos, as suas maravilhas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque grande é o Senhor e mui digno de ser louvado,",
+          "temível mais que todos os deuses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque todos os deuses dos povos não passam de ídolos;",
+          "o Senhor, porém, fez os céus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Glória e majestade estão diante dele,",
+          "força e formosura, no seu santuário."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tributai ao Senhor, ó famílias dos povos,",
+          "tributai ao Senhor glória e força."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Tributai ao Senhor a glória devida ao seu nome;",
+          "trazei oferendas e entrai nos seus átrios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Adorai o Senhor na beleza da sua santidade;",
+          "tremei diante dele, todas as terras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Dizei entre as nações: Reina o Senhor.",
+          "Ele firmou o mundo para que não se abale",
+          "e julga os povos com equidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Alegrem-se os céus, e a terra exulte;",
+          "ruja o mar e a sua plenitude."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Folgue o campo e tudo o que nele há;",
+          "regozijem-se todas as árvores do bosque,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "na presença do Senhor,",
+          "porque vem, vem julgar a terra;",
+          "julgará o mundo com justiça",
+          "e os povos, consoante a sua fidelidade."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

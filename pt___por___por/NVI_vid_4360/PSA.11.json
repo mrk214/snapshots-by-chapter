@@ -1,1 +1,140 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.11","is_chapter":true,"previous":{"usfm":"PSA.10","human":"Salmos 10","canonical":true,"toc":true},"current":{"usfm":"PSA.11","human":"Salmos 11"},"next":{"usfm":"PSA.12","human":"Salmos 12","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. Davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No Senhor me refugio.","Como então vocês podem dizer-me:","“Fuja como um pássaro para os montes”?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Vejam! Os ímpios preparam os seus arcos;","colocam as flechas contra as cordas","para das sombras as atirarem","nos retos de coração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quando os fundamentos estão sendo destruídos,","que pode fazer o justo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["O Senhor está no seu santo templo;","o Senhor tem o seu trono nos céus.","Seus olhos observam;","seus olhos examinam os filhos dos homens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor prova o justo,","mas o ímpio e a quem ama a injustiça,","a sua alma odeia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sobre os ímpios ele fará chover","brasas ardentes e enxofre incandescente;","vento ressecante é o que terão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pois o Senhor é justo e ama a justiça;","os retos verão a sua face."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.12.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.10",
+      "human": "Salmos 10"
+    },
+    "current": {
+      "usfm": "PSA.11",
+      "human": "Salmos 11"
+    },
+    "next": {
+      "usfm": "PSA.12",
+      "human": "Salmos 12"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. Davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No Senhor me refugio.",
+          "Como então vocês podem dizer-me:",
+          "“Fuja como um pássaro para os montes”?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Vejam! Os ímpios preparam os seus arcos;",
+          "colocam as flechas contra as cordas",
+          "para das sombras as atirarem",
+          "nos retos de coração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quando os fundamentos estão sendo destruídos,",
+          "que pode fazer o justo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "O Senhor está no seu santo templo;",
+          "o Senhor tem o seu trono nos céus.",
+          "Seus olhos observam;",
+          "seus olhos examinam os filhos dos homens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor prova o justo,",
+          "mas o ímpio e a quem ama a injustiça,",
+          "a sua alma odeia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sobre os ímpios ele fará chover",
+          "brasas ardentes e enxofre incandescente;",
+          "vento ressecante é o que terão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pois o Senhor é justo e ama a justiça;",
+          "os retos verão a sua face."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

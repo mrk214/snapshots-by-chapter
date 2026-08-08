@@ -1,1 +1,106 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"HOS","name":"Hosea"},"chapter":{"chapter_usfm":"HOS.3","is_chapter":true,"previous":{"usfm":"HOS.2","human":"Hosea 2","canonical":true,"toc":true},"current":{"usfm":"HOS.3","human":"Hosea 3"},"next":{"usfm":"HOS.4","human":"Hosea 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Hosea’s Reconciliation With His Wife"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord said to me, “Go, show your love to your wife again, though she is loved by another man and is an adulteress. Love her as the Lord loves the Israelites, though they turn to other gods and love the sacred raisin cakes.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["So I bought her for fifteen shekels of silver and about a homer and a lethek of barley."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HOS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HOS.4.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Hosea"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Hosea 2"
+    },
+    "current": {
+      "usfm": "HOS.3",
+      "human": "Hosea 3"
+    },
+    "next": {
+      "usfm": "HOS.4",
+      "human": "Hosea 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Hosea’s Reconciliation With His Wife"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord said to me, “Go, show your love to your wife again, though she is loved by another man and is an adulteress. Love her as the Lord loves the Israelites, though they turn to other gods and love the sacred raisin cakes.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "So I bought her for fifteen shekels of silver and about a homer and a lethek of barley."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then I told her, “You are to live with me many days; you must not be a prostitute or be intimate with any man, and I will behave the same way toward you.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For the Israelites will live many days without king or prince, without sacrifice or sacred stones, without ephod or household gods."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Afterward the Israelites will return and seek the Lord their God and David their king. They will come trembling to the Lord and to his blessings in the last days."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

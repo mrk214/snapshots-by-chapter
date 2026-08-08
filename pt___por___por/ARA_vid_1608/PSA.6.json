@@ -1,1 +1,175 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.6","is_chapter":true,"previous":{"usfm":"PSA.5","human":"Salmos 5","canonical":true,"toc":true},"current":{"usfm":"PSA.6","human":"Salmos 6"},"next":{"usfm":"PSA.7","human":"Salmos 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Davi recorre à misericórdia de Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao mestre de canto, com instrumentos de oito cordas. Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Senhor, não me repreendas na tua ira,","nem me castigues no teu furor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tem compaixão de mim, Senhor, porque eu me sinto debilitado;","sara-me, Senhor, porque os meus ossos estão abalados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Também a minha alma está profundamente perturbada;","mas tu, Senhor, até quando?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Volta-te, Senhor, e livra a minha alma;","salva-me por tua graça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois, na morte, não há recordação de ti;","no sepulcro, quem te dará louvor?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Estou cansado de tanto gemer;","todas as noites faço nadar o meu leito,","de minhas lágrimas o alago."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Meus olhos, de mágoa, se acham amortecidos,","envelhecem por causa de todos os meus adversários."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Apartai-vos de mim, todos os que praticais a iniquidade,","porque o Senhor ouviu a voz do meu lamento;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["o Senhor ouviu a minha súplica;","o Senhor acolhe a minha oração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Envergonhem-se e sejam sobremodo perturbados todos os meus inimigos;","retirem-se, de súbito, cobertos de vexame."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.7.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.5",
+      "human": "Salmos 5"
+    },
+    "current": {
+      "usfm": "PSA.6",
+      "human": "Salmos 6"
+    },
+    "next": {
+      "usfm": "PSA.7",
+      "human": "Salmos 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Davi recorre à misericórdia de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao mestre de canto, com instrumentos de oito cordas. Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Senhor, não me repreendas na tua ira,",
+          "nem me castigues no teu furor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tem compaixão de mim, Senhor, porque eu me sinto debilitado;",
+          "sara-me, Senhor, porque os meus ossos estão abalados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Também a minha alma está profundamente perturbada;",
+          "mas tu, Senhor, até quando?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Volta-te, Senhor, e livra a minha alma;",
+          "salva-me por tua graça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois, na morte, não há recordação de ti;",
+          "no sepulcro, quem te dará louvor?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Estou cansado de tanto gemer;",
+          "todas as noites faço nadar o meu leito,",
+          "de minhas lágrimas o alago."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Meus olhos, de mágoa, se acham amortecidos,",
+          "envelhecem por causa de todos os meus adversários."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Apartai-vos de mim, todos os que praticais a iniquidade,",
+          "porque o Senhor ouviu a voz do meu lamento;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "o Senhor ouviu a minha súplica;",
+          "o Senhor acolhe a minha oração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Envergonhem-se e sejam sobremodo perturbados todos os meus inimigos;",
+          "retirem-se, de súbito, cobertos de vexame."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

@@ -1,1 +1,254 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"DEU","name":"Deuteronomio"},"chapter":{"chapter_usfm":"DEU.25","is_chapter":true,"previous":{"usfm":"DEU.24","human":"Deuteronomio 24","canonical":true,"toc":true},"current":{"usfm":"DEU.25","human":"Deuteronomio 25"},"next":{"usfm":"DEU.26","human":"Deuteronomio 26","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»Si hay pleito entre dos hombres y van a la corte, y los jueces deciden el caso, y absuelven al justo y condenan al culpable,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y si el culpable merece ser azotado, entonces el juez le hará tenderse, y será azotado en su presencia con el número de azotes de acuerdo con su culpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Puede darle cuarenta azotes, pero no más, no sea que le dé muchos más azotes que estos, y tu hermano quede degradado ante tus ojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»No pondrás bozal al buey mientras trilla."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Deberes para con la viuda del hermano"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Cuando dos hermanos habitan juntos y uno de ellos muere y no tiene hijo, la mujer del fallecido no se casará fuera de la familia con un extraño. El cuñado se allegará a ella y la tomará para sí como mujer, y cumplirá con ella su deber de cuñado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y será que el primogénito que ella dé a luz llevará el nombre de su hermano difunto, para que su nombre no sea borrado de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero si el hombre no quiere tomar a su cuñada, entonces su cuñada irá a la puerta, a los ancianos, y dirá: “Mi cuñado se niega a establecer un nombre para su hermano en Israel; no quiere cumplir para conmigo su deber de cuñado”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Entonces los ancianos de su ciudad lo llamarán y le hablarán. Y si él persiste y dice: “No deseo tomarla”,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["entonces su cuñada vendrá a él a la vista de los ancianos, le quitará la sandalia de su pie y le escupirá en la cara; y ella declarará: “Así se hace al hombre que no quiere edificar la casa de su hermano”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y en Israel se le llamará: “La casa del de la sandalia quitada”."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Leyes diversas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Si dos hombres luchan entre sí, un hombre y su conciudadano, y la mujer de uno se acerca para librar a su marido de la mano del que lo golpea, y ella extiende su mano y le agarra sus partes vergonzosas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["entonces le cortarás su mano; no tendrás piedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["»No tendrás en tu bolsa pesas diferentes, una grande y una pequeña."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No tendrás en tu casa medidas diferentes, una grande y una pequeña."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Tendrás peso completo y justo; tendrás medida completa y justa, para que se prolonguen tus días en la tierra que el Señor tu Dios te da."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Porque todo el que hace estas cosas, todo el que comete injusticia, es abominación para el Señor tu Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["»Acuérdate de lo que te hizo Amalec en el camino cuando saliste de Egipto,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["cómo te salió al encuentro en el camino, y atacó entre los tuyos a todos los agotados en tu retaguardia cuando tú estabas fatigado y cansado; y él no temió a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Por tanto, cuando el Señor tu Dios te haya dado descanso de todos tus enemigos alrededor, en la tierra que el Señor tu Dios te da en heredad para poseerla, borrarás de debajo del cielo la memoria de Amalec; no lo olvides."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.26.json"
+  },
+  "book": {
+    "book_usfm": "DEU",
+    "name": "Deuteronomio"
+  },
+  "chapter": {
+    "chapter_usfm": "DEU.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.24",
+      "human": "Deuteronomio 24"
+    },
+    "current": {
+      "usfm": "DEU.25",
+      "human": "Deuteronomio 25"
+    },
+    "next": {
+      "usfm": "DEU.26",
+      "human": "Deuteronomio 26"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Si hay pleito entre dos hombres y van a la corte, y los jueces deciden el caso, y absuelven al justo y condenan al culpable,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y si el culpable merece ser azotado, entonces el juez le hará tenderse, y será azotado en su presencia con el número de azotes de acuerdo con su culpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Puede darle cuarenta azotes, pero no más, no sea que le dé muchos más azotes que estos, y tu hermano quede degradado ante tus ojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»No pondrás bozal al buey mientras trilla."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deberes para con la viuda del hermano"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Cuando dos hermanos habitan juntos y uno de ellos muere y no tiene hijo, la mujer del fallecido no se casará fuera de la familia con un extraño. El cuñado se allegará a ella y la tomará para sí como mujer, y cumplirá con ella su deber de cuñado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y será que el primogénito que ella dé a luz llevará el nombre de su hermano difunto, para que su nombre no sea borrado de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero si el hombre no quiere tomar a su cuñada, entonces su cuñada irá a la puerta, a los ancianos, y dirá: “Mi cuñado se niega a establecer un nombre para su hermano en Israel; no quiere cumplir para conmigo su deber de cuñado”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Entonces los ancianos de su ciudad lo llamarán y le hablarán. Y si él persiste y dice: “No deseo tomarla”,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "entonces su cuñada vendrá a él a la vista de los ancianos, le quitará la sandalia de su pie y le escupirá en la cara; y ella declarará: “Así se hace al hombre que no quiere edificar la casa de su hermano”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y en Israel se le llamará: “La casa del de la sandalia quitada”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Leyes diversas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Si dos hombres luchan entre sí, un hombre y su conciudadano, y la mujer de uno se acerca para librar a su marido de la mano del que lo golpea, y ella extiende su mano y le agarra sus partes vergonzosas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "entonces le cortarás su mano; no tendrás piedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "»No tendrás en tu bolsa pesas diferentes, una grande y una pequeña."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No tendrás en tu casa medidas diferentes, una grande y una pequeña."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Tendrás peso completo y justo; tendrás medida completa y justa, para que se prolonguen tus días en la tierra que el Señor tu Dios te da."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Porque todo el que hace estas cosas, todo el que comete injusticia, es abominación para el Señor tu Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "»Acuérdate de lo que te hizo Amalec en el camino cuando saliste de Egipto,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "cómo te salió al encuentro en el camino, y atacó entre los tuyos a todos los agotados en tu retaguardia cuando tú estabas fatigado y cansado; y él no temió a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Por tanto, cuando el Señor tu Dios te haya dado descanso de todos tus enemigos alrededor, en la tierra que el Señor tu Dios te da en heredad para poseerla, borrarás de debajo del cielo la memoria de Amalec; no lo olvides."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,119 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.123","is_chapter":true,"previous":{"usfm":"PSA.122","human":"Salmo 122","canonical":true,"toc":true},"current":{"usfm":"PSA.123","human":"Salmo 123"},"next":{"usfm":"PSA.124","human":"Salmo 124","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 123"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Oración pidiendo ayuda del Señor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico de ascenso gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A Ti levanto mis ojos,","¡Oh Tú que reinas en los cielos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como los ojos de los siervos miran a la mano de su señor,","Como los ojos de la sierva a la mano de su señora,","Así nuestros ojos miran al Señor nuestro Dios","Hasta que se apiade de nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¶Ten piedad de nosotros, oh Señor, ten piedad de nosotros,","Porque ya no soportamos el desprecio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Nuestra alma está cansada","Del escarnio de los que están en holgura","Y del desprecio de los soberbios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.122.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.124.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.123",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.122",
+      "human": "Salmo 122"
+    },
+    "current": {
+      "usfm": "PSA.123",
+      "human": "Salmo 123"
+    },
+    "next": {
+      "usfm": "PSA.124",
+      "human": "Salmo 124"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 123"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración pidiendo ayuda del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de ascenso gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A Ti levanto mis ojos,",
+          "¡Oh Tú que reinas en los cielos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como los ojos de los siervos miran a la mano de su señor,",
+          "Como los ojos de la sierva a la mano de su señora,",
+          "Así nuestros ojos miran al Señor nuestro Dios",
+          "Hasta que se apiade de nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¶Ten piedad de nosotros, oh Señor, ten piedad de nosotros,",
+          "Porque ya no soportamos el desprecio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Nuestra alma está cansada",
+          "Del escarnio de los que están en holgura",
+          "Y del desprecio de los soberbios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

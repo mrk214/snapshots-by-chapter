@@ -1,1 +1,261 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.13","is_chapter":true,"previous":{"usfm":"HOS.12","human":"Oseas 12","canonical":true,"toc":true},"current":{"usfm":"HOS.13","human":"Oseas 13"},"next":{"usfm":"HOS.14","human":"Oseas 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La ira de Dios contra Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando hablaba la tribu de Efraín,","el pueblo temblaba de miedo","porque esa tribu era importante en Israel;","pero la gente de Efraín pecó al rendir culto a Baal","y así selló su destrucción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ahora siguen pecando, haciendo ídolos de plata,","imágenes hábilmente formadas por manos humanas.","«¡Ofrézcanles sacrificios —gritan—","y besen a ídolos que tienen forma de becerros!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por lo tanto, desaparecerán como la neblina de la mañana,","como el rocío bajo el sol del amanecer,","como paja llevada por el viento","y como el humo de una chimenea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["«He sido el Señor tu Dios","desde que te saqué de Egipto.","No debes reconocer a ningún otro Dios aparte de mí,","porque no hay otro salvador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Yo te cuidé en el desierto,","en esa tierra árida y sedienta;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["pero una vez que comiste y quedaste satisfecho,","te volviste orgulloso y te olvidaste de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entonces ahora yo te atacaré como un león,","como un leopardo que acecha en el camino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Como una osa a quien le robaron sus cachorros,","arrancaré tu corazón.","Te devoraré como una leona hambrienta","y te destrozaré como un animal salvaje."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["»Estás a punto de ser destruido, oh Israel:","sí, por mí, el único que te ayuda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ahora, ¿dónde está tu rey?","¡Que él te salve!","¿Dónde están los líderes de la tierra,","el rey y los funcionarios que me exigiste?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["En mi enojo te di reyes,","y en mi furia te los quité."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["»La culpa de Efraín ha sido reunida","y su pecado almacenado para el castigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El sufrimiento ha llegado al pueblo","como dolores de parto,","pero son como un bebé","que se resiste a nacer.","¡El momento de nacer ha llegado,","pero siguen en la matriz!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["»¿Debo rescatarlos de la tumba?","¿Debo redimirlos de la muerte?","¡Oh muerte, haz salir tus horrores!","¡Tumba, desata tus plagas!","Ya no les tendré compasión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Efraín era el más productivo de sus hermanos,","pero el viento del oriente —una ráfaga del Señor—","se levantará en el desierto.","Todos sus manantiales se secarán","y todos sus pozos desaparecerán.","Todo lo valioso que poseen","será saqueado y se lo llevarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El pueblo de Samaria","debe sufrir las consecuencias de su culpa","porque se rebeló contra su Dios.","Un ejército invasor los matará;","a sus niños los estrellarán contra el suelo hasta matarlos,","y a las embarazadas las abrirán con espadas»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HOS.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HOS.14.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.12",
+      "human": "Oseas 12"
+    },
+    "current": {
+      "usfm": "HOS.13",
+      "human": "Oseas 13"
+    },
+    "next": {
+      "usfm": "HOS.14",
+      "human": "Oseas 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La ira de Dios contra Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando hablaba la tribu de Efraín,",
+          "el pueblo temblaba de miedo",
+          "porque esa tribu era importante en Israel;",
+          "pero la gente de Efraín pecó al rendir culto a Baal",
+          "y así selló su destrucción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ahora siguen pecando, haciendo ídolos de plata,",
+          "imágenes hábilmente formadas por manos humanas.",
+          "«¡Ofrézcanles sacrificios —gritan—",
+          "y besen a ídolos que tienen forma de becerros!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por lo tanto, desaparecerán como la neblina de la mañana,",
+          "como el rocío bajo el sol del amanecer,",
+          "como paja llevada por el viento",
+          "y como el humo de una chimenea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "«He sido el Señor tu Dios",
+          "desde que te saqué de Egipto.",
+          "No debes reconocer a ningún otro Dios aparte de mí,",
+          "porque no hay otro salvador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Yo te cuidé en el desierto,",
+          "en esa tierra árida y sedienta;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "pero una vez que comiste y quedaste satisfecho,",
+          "te volviste orgulloso y te olvidaste de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entonces ahora yo te atacaré como un león,",
+          "como un leopardo que acecha en el camino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Como una osa a quien le robaron sus cachorros,",
+          "arrancaré tu corazón.",
+          "Te devoraré como una leona hambrienta",
+          "y te destrozaré como un animal salvaje."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "»Estás a punto de ser destruido, oh Israel:",
+          "sí, por mí, el único que te ayuda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ahora, ¿dónde está tu rey?",
+          "¡Que él te salve!",
+          "¿Dónde están los líderes de la tierra,",
+          "el rey y los funcionarios que me exigiste?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "En mi enojo te di reyes,",
+          "y en mi furia te los quité."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "»La culpa de Efraín ha sido reunida",
+          "y su pecado almacenado para el castigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El sufrimiento ha llegado al pueblo",
+          "como dolores de parto,",
+          "pero son como un bebé",
+          "que se resiste a nacer.",
+          "¡El momento de nacer ha llegado,",
+          "pero siguen en la matriz!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "»¿Debo rescatarlos de la tumba?",
+          "¿Debo redimirlos de la muerte?",
+          "¡Oh muerte, haz salir tus horrores!",
+          "¡Tumba, desata tus plagas!",
+          "Ya no les tendré compasión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Efraín era el más productivo de sus hermanos,",
+          "pero el viento del oriente —una ráfaga del Señor—",
+          "se levantará en el desierto.",
+          "Todos sus manantiales se secarán",
+          "y todos sus pozos desaparecerán.",
+          "Todo lo valioso que poseen",
+          "será saqueado y se lo llevarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El pueblo de Samaria",
+          "debe sufrir las consecuencias de su culpa",
+          "porque se rebeló contra su Dios.",
+          "Un ejército invasor los matará;",
+          "a sus niños los estrellarán contra el suelo hasta matarlos,",
+          "y a las embarazadas las abrirán con espadas»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

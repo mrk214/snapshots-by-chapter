@@ -1,1 +1,236 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.13","is_chapter":true,"previous":{"usfm":"GEN.12","human":"Génesis 12","canonical":true,"toc":true},"current":{"usfm":"GEN.13","human":"Génesis 13"},"next":{"usfm":"GEN.14","human":"Génesis 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Abram y Lot se separan"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Abram subió de Egipto con su esposa, con Lot y con todos sus bienes, en dirección a la región del Néguev."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Abram se había hecho muy rico en ganado, plata y oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Desde el Néguev, Abram fue de lugar en lugar hasta regresar al lugar donde había acampado al principio, entre Betel y Hai."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En ese lugar había erigido antes un altar; allí invocó Abram el nombre del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["También Lot, que iba acompañando a Abram, tenía ovejas, vacas y tiendas de campaña."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La región donde estaban no daba abasto para mantener a los dos porque tenían muchas posesiones como para vivir juntos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por eso comenzaron los pleitos entre los pastores de los rebaños de Abram y los que cuidaban los ganados de Lot. En aquel tiempo los cananeos y los ferezeos también habitaban allí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así que Abram dijo a Lot: «No debe haber pleitos entre nosotros ni entre nuestros pastores, porque somos parientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Allí tienes toda la tierra a tu disposición. Por favor, aléjate de mí. Si te vas a la izquierda, yo me iré a la derecha y si te vas a la derecha, yo me iré a la izquierda»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Lot levantó la vista y observó que todo el valle del Jordán era tierra de regadío, como el jardín del Señor o como la tierra de Egipto en dirección a Zoar. Así era antes de que el Señor destruyera a Sodoma y a Gomorra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Entonces Lot escogió para sí todo el valle del Jordán y partió hacia el oriente. Fue así como Abram y Lot se separaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Abram se quedó a vivir en la tierra de Canaán, mientras que Lot se fue a vivir entre las ciudades del valle, estableciendo su tienda de campaña cerca de la ciudad de Sodoma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Los habitantes de Sodoma eran malvados y cometían muy graves pecados contra el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Después de que Lot se separó de Abram, el Señor le dijo: «Abram, levanta la vista desde el lugar donde estás. Mira hacia el norte y hacia el sur, hacia el este y hacia el oeste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Yo te daré a ti y a tu descendencia, para siempre, toda la tierra que abarca tu mirada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Multiplicaré tu descendencia como el polvo de la tierra. Si alguien puede contar el polvo de la tierra, también podrá contar tus descendientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["¡Levántate, recorre el país a lo largo y a lo ancho porque a ti te lo daré!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Entonces Abram levantó de allí su tienda de campaña y se fue a vivir cerca de Hebrón, junto al bosque de encinas de Mamré. Allí erigió un altar al Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.14.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.12",
+      "human": "Génesis 12"
+    },
+    "current": {
+      "usfm": "GEN.13",
+      "human": "Génesis 13"
+    },
+    "next": {
+      "usfm": "GEN.14",
+      "human": "Génesis 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Abram y Lot se separan"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Abram subió de Egipto con su esposa, con Lot y con todos sus bienes, en dirección a la región del Néguev."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Abram se había hecho muy rico en ganado, plata y oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Desde el Néguev, Abram fue de lugar en lugar hasta regresar al lugar donde había acampado al principio, entre Betel y Hai."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En ese lugar había erigido antes un altar; allí invocó Abram el nombre del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "También Lot, que iba acompañando a Abram, tenía ovejas, vacas y tiendas de campaña."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La región donde estaban no daba abasto para mantener a los dos porque tenían muchas posesiones como para vivir juntos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por eso comenzaron los pleitos entre los pastores de los rebaños de Abram y los que cuidaban los ganados de Lot. En aquel tiempo los cananeos y los ferezeos también habitaban allí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así que Abram dijo a Lot: «No debe haber pleitos entre nosotros ni entre nuestros pastores, porque somos parientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Allí tienes toda la tierra a tu disposición. Por favor, aléjate de mí. Si te vas a la izquierda, yo me iré a la derecha y si te vas a la derecha, yo me iré a la izquierda»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Lot levantó la vista y observó que todo el valle del Jordán era tierra de regadío, como el jardín del Señor o como la tierra de Egipto en dirección a Zoar. Así era antes de que el Señor destruyera a Sodoma y a Gomorra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Entonces Lot escogió para sí todo el valle del Jordán y partió hacia el oriente. Fue así como Abram y Lot se separaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Abram se quedó a vivir en la tierra de Canaán, mientras que Lot se fue a vivir entre las ciudades del valle, estableciendo su tienda de campaña cerca de la ciudad de Sodoma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Los habitantes de Sodoma eran malvados y cometían muy graves pecados contra el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Después de que Lot se separó de Abram, el Señor le dijo: «Abram, levanta la vista desde el lugar donde estás. Mira hacia el norte y hacia el sur, hacia el este y hacia el oeste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Yo te daré a ti y a tu descendencia, para siempre, toda la tierra que abarca tu mirada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Multiplicaré tu descendencia como el polvo de la tierra. Si alguien puede contar el polvo de la tierra, también podrá contar tus descendientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "¡Levántate, recorre el país a lo largo y a lo ancho porque a ti te lo daré!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Entonces Abram levantó de allí su tienda de campaña y se fue a vivir cerca de Hebrón, junto al bosque de encinas de Mamré. Allí erigió un altar al Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

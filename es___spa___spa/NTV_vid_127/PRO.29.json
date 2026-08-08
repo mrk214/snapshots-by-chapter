@@ -1,1 +1,345 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.29","is_chapter":true,"previous":{"usfm":"PRO.28","human":"Proverbios 28","canonical":true,"toc":true},"current":{"usfm":"PRO.29","human":"Proverbios 29"},"next":{"usfm":"PRO.30","human":"Proverbios 30","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Quien se niega tercamente a aceptar la crítica","será destruido de repente sin poder recuperarse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cuando los justos gobiernan, el pueblo se alegra.","Pero cuando los perversos están en el poder, el pueblo gime."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El hombre que ama la sabiduría hace feliz a su padre,","pero si anda con prostitutas, desperdicia su fortuna."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El rey que hace justicia da estabilidad a su nación,","pero uno que exige sobornos la destruye."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Adular a un amigo","es tenderle una trampa para los pies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La gente malvada queda atrapada por el pecado,","pero los justos escapan con gritos de alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Los justos se preocupan por los derechos del pobre;","al perverso no le importa en absoluto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Los burlones pueden alborotar a toda una ciudad,","pero los sabios calman los ánimos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si un sabio lleva a un necio a juicio,","habrá alboroto y burlas pero no se solucionará nada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los sanguinarios odian a las personas intachables,","pero los honrados procuran ayudarlas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Los necios dan rienda suelta a su enojo,","pero los sabios calladamente lo controlan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Si un gobernante presta atención a los mentirosos,","todos sus consejeros serán perversos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El pobre y el opresor tienen esto en común:","el Señor les da la vista a ambos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Si un rey juzga al pobre con justicia,","su trono perdurará para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Disciplinar a un niño produce sabiduría,","pero un hijo sin disciplina avergüenza a su madre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Cuando los perversos están en autoridad, el pecado abunda,","pero los justos vivirán para verlos caer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Disciplina a tus hijos, y te darán tranquilidad de espíritu","y alegrarán tu corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Cuando la gente no acepta la dirección divina, se desenfrena.","Pero el que obedece la ley es alegre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["No solo con palabras se disciplina a un sirviente;","podrá entender las palabras, pero no hará caso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Hay más esperanza para un necio","que para la persona que habla sin pensar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["El sirviente mimado desde pequeño","se volverá un rebelde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["La persona enojada comienza pleitos;","el que pierde los estribos con facilidad comete todo tipo de pecados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["El orgullo termina en humillación,","mientras que la humildad trae honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Si ayudas a un ladrón, solo te perjudicas a ti mismo;","juras decir la verdad, pero no testificarás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Temer a la gente es una trampa peligrosa,","pero confiar en el Señor significa seguridad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Muchos buscan el favor del gobernante,","pero la justicia proviene del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Los justos desprecian a los injustos;","los perversos desprecian a los justos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.28.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PRO.30.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.29",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.28",
+      "human": "Proverbios 28"
+    },
+    "current": {
+      "usfm": "PRO.29",
+      "human": "Proverbios 29"
+    },
+    "next": {
+      "usfm": "PRO.30",
+      "human": "Proverbios 30"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Quien se niega tercamente a aceptar la crítica",
+          "será destruido de repente sin poder recuperarse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cuando los justos gobiernan, el pueblo se alegra.",
+          "Pero cuando los perversos están en el poder, el pueblo gime."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El hombre que ama la sabiduría hace feliz a su padre,",
+          "pero si anda con prostitutas, desperdicia su fortuna."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El rey que hace justicia da estabilidad a su nación,",
+          "pero uno que exige sobornos la destruye."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Adular a un amigo",
+          "es tenderle una trampa para los pies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La gente malvada queda atrapada por el pecado,",
+          "pero los justos escapan con gritos de alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Los justos se preocupan por los derechos del pobre;",
+          "al perverso no le importa en absoluto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Los burlones pueden alborotar a toda una ciudad,",
+          "pero los sabios calman los ánimos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si un sabio lleva a un necio a juicio,",
+          "habrá alboroto y burlas pero no se solucionará nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los sanguinarios odian a las personas intachables,",
+          "pero los honrados procuran ayudarlas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Los necios dan rienda suelta a su enojo,",
+          "pero los sabios calladamente lo controlan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Si un gobernante presta atención a los mentirosos,",
+          "todos sus consejeros serán perversos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El pobre y el opresor tienen esto en común:",
+          "el Señor les da la vista a ambos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Si un rey juzga al pobre con justicia,",
+          "su trono perdurará para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Disciplinar a un niño produce sabiduría,",
+          "pero un hijo sin disciplina avergüenza a su madre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Cuando los perversos están en autoridad, el pecado abunda,",
+          "pero los justos vivirán para verlos caer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Disciplina a tus hijos, y te darán tranquilidad de espíritu",
+          "y alegrarán tu corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Cuando la gente no acepta la dirección divina, se desenfrena.",
+          "Pero el que obedece la ley es alegre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "No solo con palabras se disciplina a un sirviente;",
+          "podrá entender las palabras, pero no hará caso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Hay más esperanza para un necio",
+          "que para la persona que habla sin pensar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "El sirviente mimado desde pequeño",
+          "se volverá un rebelde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "La persona enojada comienza pleitos;",
+          "el que pierde los estribos con facilidad comete todo tipo de pecados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "El orgullo termina en humillación,",
+          "mientras que la humildad trae honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Si ayudas a un ladrón, solo te perjudicas a ti mismo;",
+          "juras decir la verdad, pero no testificarás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Temer a la gente es una trampa peligrosa,",
+          "pero confiar en el Señor significa seguridad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Muchos buscan el favor del gobernante,",
+          "pero la justicia proviene del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Los justos desprecian a los injustos;",
+          "los perversos desprecian a los justos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

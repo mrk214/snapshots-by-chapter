@@ -1,1 +1,444 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.112","is_chapter":true,"previous":{"usfm":"PSA.111","human":"Psalm 111","canonical":true,"toc":true},"current":{"usfm":"PSA.112","human":"Psalm 112"},"next":{"usfm":"PSA.113","human":"Psalm 113","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["א Aleph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise ye the LORD. Blessed is the man that feareth the LORD,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ב Bet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["That delighteth greatly in his commandments."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ג Gimel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["His seed shall be mighty upon earth:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ד Dalet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The generation of the upright shall be blessed."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ה He"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Wealth and riches shall be in his house:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ו Waw"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And his righteousness endureth for ever."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ז Zain"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Unto the upright there ariseth light in the darkness:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ח Het"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He is gracious, and full of compassion, and righteous."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ט Tet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A good man sheweth favour, and lendeth:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["י Yod"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He will guide his affairs with discretion."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["כ Kaph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Surely he shall not be moved for ever:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ל Lamed"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The righteous shall be in everlasting remembrance."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["מ Mem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He shall not be afraid of evil tidings:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["נ Nun"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["His heart is fixed, trusting in the LORD."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ס Samek"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["His heart is established, he shall not be afraid,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ע Ain"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Until he see his desire upon his enemies."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["פ Pe"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He hath dispersed, he hath given to the poor;"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["צ Zade"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["His righteousness endureth for ever;"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ק Qoph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["His horn shall be exalted with honour."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ר Resh"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The wicked shall see it, and be grieved;"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ש Shin"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["He shall gnash with his teeth, and melt away:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ת Taw"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The desire of the wicked shall perish."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.111.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.113.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.112",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.111",
+      "human": "Psalm 111"
+    },
+    "current": {
+      "usfm": "PSA.112",
+      "human": "Psalm 112"
+    },
+    "next": {
+      "usfm": "PSA.113",
+      "human": "Psalm 113"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "א Aleph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise ye the LORD. Blessed is the man that feareth the LORD,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ב Bet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "That delighteth greatly in his commandments."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ג Gimel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "His seed shall be mighty upon earth:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ד Dalet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The generation of the upright shall be blessed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ה He"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Wealth and riches shall be in his house:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ו Waw"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And his righteousness endureth for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ז Zain"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Unto the upright there ariseth light in the darkness:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ח Het"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He is gracious, and full of compassion, and righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ט Tet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A good man sheweth favour, and lendeth:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "י Yod"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He will guide his affairs with discretion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "כ Kaph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Surely he shall not be moved for ever:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ל Lamed"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The righteous shall be in everlasting remembrance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "מ Mem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He shall not be afraid of evil tidings:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "נ Nun"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "His heart is fixed, trusting in the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ס Samek"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "His heart is established, he shall not be afraid,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ע Ain"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Until he see his desire upon his enemies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "פ Pe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He hath dispersed, he hath given to the poor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "צ Zade"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "His righteousness endureth for ever;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ק Qoph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "His horn shall be exalted with honour."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ר Resh"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The wicked shall see it, and be grieved;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ש Shin"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "He shall gnash with his teeth, and melt away:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ת Taw"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The desire of the wicked shall perish."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,107 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.133","is_chapter":true,"previous":{"usfm":"PSA.132","human":"Salmos 132","canonical":true,"toc":true},"current":{"usfm":"PSA.133","human":"Salmos 133"},"next":{"usfm":"PSA.134","human":"Salmos 134","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La unidad entre hermanos"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1a) Cántico de David para las peregrinaciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) ¡No hay nada más bello","ni más agradable","que ver a los hermanos","vivir juntos y en armonía!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Es tan agradable ver esto","como oler el buen perfume","de los sacerdotes,","perfume que corre","de la cabeza a los pies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Es tan agradable","como la lluvia del norte","que cae en el monte Hermón","y corre a Jerusalén, en el sur.","A quienes viven así,","Dios los bendice","con una larga vida."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.132.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.134.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.133",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.132",
+      "human": "Salmos 132"
+    },
+    "current": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "next": {
+      "usfm": "PSA.134",
+      "human": "Salmos 134"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La unidad entre hermanos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1a) Cántico de David para las peregrinaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) ¡No hay nada más bello",
+          "ni más agradable",
+          "que ver a los hermanos",
+          "vivir juntos y en armonía!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Es tan agradable ver esto",
+          "como oler el buen perfume",
+          "de los sacerdotes,",
+          "perfume que corre",
+          "de la cabeza a los pies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Es tan agradable",
+          "como la lluvia del norte",
+          "que cae en el monte Hermón",
+          "y corre a Jerusalén, en el sur.",
+          "A quienes viven así,",
+          "Dios los bendice",
+          "con una larga vida."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

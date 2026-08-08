@@ -1,1 +1,329 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.74","is_chapter":true,"previous":{"usfm":"PSA.73","human":"Salmos 73","canonical":true,"toc":true},"current":{"usfm":"PSA.74","human":"Salmos 74"},"next":{"usfm":"PSA.75","human":"Salmos 75","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración pidiendo la liberación del pueblo"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["1a (1a) Poema de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Oh Dios,","¿por qué nos has abandonado para siempre?","¿Por qué se ha encendido tu furor","contra las ovejas de tu prado?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Acuérdate de tu pueblo,","el que adquiriste desde el principio,","el que rescataste para hacerlo tribu tuya;","acuérdate del monte Sión, donde has vivido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ven a ver estas ruinas sin fin;","¡el enemigo lo ha destruido todo en el santuario!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tus enemigos cantan victoria en tu santuario;","¡han puesto sus banderas extranjeras"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["sobre el portal de la entrada!","Cual si fueran leñadores","en medio de un bosque espeso,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["a golpe de hacha y martillo","destrozaron los ornamentos de madera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Prendieron fuego a tu santuario;","¡deshonraron tu propio templo,","derrumbándolo hasta el suelo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Decidieron destruirnos del todo;","¡quemaron todos los lugares del país","donde nos reuníamos para adorarte!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ya no vemos nuestros símbolos sagrados;","ya no hay ningún profeta,","y ni siquiera sabemos lo que esto durará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Oh Dios,","¿hasta cuándo nos ofenderá el enemigo?","¿Hasta cuándo seguirá hablando mal de ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿Por qué escondes tu mano poderosa?","¿Por qué te quedas cruzado de brazos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Desde tiempos antiguos, tú eres mi Rey.","Tú, oh Dios, alcanzaste muchas victorias","en medio de la tierra:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["tú dividiste el mar con tu poder,","les rompiste la cabeza a los monstruos del mar,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["aplastaste las cabezas del monstruo Leviatán","y lo diste por comida a las fieras del desierto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Tú hiciste brotar fuentes y ríos,","y secaste los ríos inagotables."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Tuyos son el día y la noche;","tú afirmaste la luna y el sol;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["tú marcaste los límites del mundo;","tú hiciste el verano y el invierno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Ten en cuenta, Señor, que el enemigo te ofende,","y que gente necia habla mal de ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["¡No te olvides tanto de nosotros!","Somos débiles como tórtolas;","¡no nos entregues a las fieras!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¡Acuérdate de tu alianza,","porque el país está lleno de violencia","hasta el último rincón!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["No dejes que se humille al oprimido;","¡haz que te alaben el pobre y el humilde!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["¡Levántate, oh Dios! ¡Defiende tu causa!","¡Recuerda que los necios te ofenden sin cesar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["No olvides los gritos de tus enemigos,","el creciente clamor de los rebeldes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.73.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.75.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.74",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.73",
+      "human": "Salmos 73"
+    },
+    "current": {
+      "usfm": "PSA.74",
+      "human": "Salmos 74"
+    },
+    "next": {
+      "usfm": "PSA.75",
+      "human": "Salmos 75"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración pidiendo la liberación del pueblo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "1a (1a) Poema de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Oh Dios,",
+          "¿por qué nos has abandonado para siempre?",
+          "¿Por qué se ha encendido tu furor",
+          "contra las ovejas de tu prado?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Acuérdate de tu pueblo,",
+          "el que adquiriste desde el principio,",
+          "el que rescataste para hacerlo tribu tuya;",
+          "acuérdate del monte Sión, donde has vivido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ven a ver estas ruinas sin fin;",
+          "¡el enemigo lo ha destruido todo en el santuario!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tus enemigos cantan victoria en tu santuario;",
+          "¡han puesto sus banderas extranjeras"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "sobre el portal de la entrada!",
+          "Cual si fueran leñadores",
+          "en medio de un bosque espeso,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "a golpe de hacha y martillo",
+          "destrozaron los ornamentos de madera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Prendieron fuego a tu santuario;",
+          "¡deshonraron tu propio templo,",
+          "derrumbándolo hasta el suelo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Decidieron destruirnos del todo;",
+          "¡quemaron todos los lugares del país",
+          "donde nos reuníamos para adorarte!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ya no vemos nuestros símbolos sagrados;",
+          "ya no hay ningún profeta,",
+          "y ni siquiera sabemos lo que esto durará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Oh Dios,",
+          "¿hasta cuándo nos ofenderá el enemigo?",
+          "¿Hasta cuándo seguirá hablando mal de ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿Por qué escondes tu mano poderosa?",
+          "¿Por qué te quedas cruzado de brazos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Desde tiempos antiguos, tú eres mi Rey.",
+          "Tú, oh Dios, alcanzaste muchas victorias",
+          "en medio de la tierra:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "tú dividiste el mar con tu poder,",
+          "les rompiste la cabeza a los monstruos del mar,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "aplastaste las cabezas del monstruo Leviatán",
+          "y lo diste por comida a las fieras del desierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Tú hiciste brotar fuentes y ríos,",
+          "y secaste los ríos inagotables."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Tuyos son el día y la noche;",
+          "tú afirmaste la luna y el sol;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "tú marcaste los límites del mundo;",
+          "tú hiciste el verano y el invierno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Ten en cuenta, Señor, que el enemigo te ofende,",
+          "y que gente necia habla mal de ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "¡No te olvides tanto de nosotros!",
+          "Somos débiles como tórtolas;",
+          "¡no nos entregues a las fieras!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¡Acuérdate de tu alianza,",
+          "porque el país está lleno de violencia",
+          "hasta el último rincón!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "No dejes que se humille al oprimido;",
+          "¡haz que te alaben el pobre y el humilde!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "¡Levántate, oh Dios! ¡Defiende tu causa!",
+          "¡Recuerda que los necios te ofenden sin cesar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "No olvides los gritos de tus enemigos,",
+          "el creciente clamor de los rebeldes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

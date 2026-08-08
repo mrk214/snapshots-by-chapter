@@ -1,1 +1,345 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"1CH","name":"1 Chronicles"},"chapter":{"chapter_usfm":"1CH.3","is_chapter":true,"previous":{"usfm":"1CH.2","human":"1 Chronicles 2","canonical":true,"toc":true},"current":{"usfm":"1CH.3","human":"1 Chronicles 3"},"next":{"usfm":"1CH.4","human":"1 Chronicles 4","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["The Sons of David"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["These were the sons of David born to him in Hebron:","The firstborn was Amnon the son of Ahinoam of Jezreel;","the second, Daniel the son of Abigail of Carmel;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["the third, Absalom the son of Maakah daughter of Talmai king of Geshur;","the fourth, Adonijah the son of Haggith;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["the fifth, Shephatiah the son of Abital;","and the sixth, Ithream, by his wife Eglah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["These six were born to David in Hebron, where he reigned seven years and six months.","David reigned in Jerusalem thirty-three years,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["and these were the children born to him there:","Shammua, Shobab, Nathan and Solomon. These four were by Bathsheba daughter of Ammiel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["There were also Ibhar, Elishua, Eliphelet,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nogah, Nepheg, Japhia,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Elishama, Eliada and Eliphelet—nine in all."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["All these were the sons of David, besides his sons by his concubines. And Tamar was their sister."],"rlw_lines":[]},{"type":"heading2","verse_numbers":[],"lines":["The Kings of Judah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Solomon’s son was Rehoboam,","Abijah his son,","Asa his son,","Jehoshaphat his son,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Jehoram his son,","Ahaziah his son,","Joash his son,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Amaziah his son,","Azariah his son,","Jotham his son,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Ahaz his son,","Hezekiah his son,","Manasseh his son,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Amon his son,","Josiah his son."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The sons of Josiah:","Johanan the firstborn,","Jehoiakim the second son,","Zedekiah the third,","Shallum the fourth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The successors of Jehoiakim:","Jehoiachin his son,","and Zedekiah."],"rlw_lines":[]},{"type":"heading2","verse_numbers":[],"lines":["The Royal Line After the Exile"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The descendants of Jehoiachin the captive:","Shealtiel his son,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["The sons of Pedaiah:","Zerubbabel and Shimei.","The sons of Zerubbabel:","Meshullam and Hananiah.","Shelomith was their sister."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["There were also five others:","Hashubah, Ohel, Berekiah, Hasadiah and Jushab-Hesed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["The descendants of Hananiah:","Pelatiah and Jeshaiah, and the sons of Rephaiah, of Arnan, of Obadiah and of Shekaniah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The descendants of Shekaniah:","Shemaiah and his sons:","Hattush, Igal, Bariah, Neariah and Shaphat—six in all."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["The sons of Neariah:","Elioenai, Hizkiah and Azrikam—three in all."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["The sons of Elioenai:","Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani—seven in all."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CH.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CH.4.json"
+  },
+  "book": {
+    "book_usfm": "1CH",
+    "name": "1 Chronicles"
+  },
+  "chapter": {
+    "chapter_usfm": "1CH.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1CH.2",
+      "human": "1 Chronicles 2"
+    },
+    "current": {
+      "usfm": "1CH.3",
+      "human": "1 Chronicles 3"
+    },
+    "next": {
+      "usfm": "1CH.4",
+      "human": "1 Chronicles 4"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "The Sons of David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "These were the sons of David born to him in Hebron:",
+          "The firstborn was Amnon the son of Ahinoam of Jezreel;",
+          "the second, Daniel the son of Abigail of Carmel;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "the third, Absalom the son of Maakah daughter of Talmai king of Geshur;",
+          "the fourth, Adonijah the son of Haggith;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "the fifth, Shephatiah the son of Abital;",
+          "and the sixth, Ithream, by his wife Eglah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "These six were born to David in Hebron, where he reigned seven years and six months.",
+          "David reigned in Jerusalem thirty-three years,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "and these were the children born to him there:",
+          "Shammua, Shobab, Nathan and Solomon. These four were by Bathsheba daughter of Ammiel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "There were also Ibhar, Elishua, Eliphelet,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nogah, Nepheg, Japhia,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Elishama, Eliada and Eliphelet—nine in all."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "All these were the sons of David, besides his sons by his concubines. And Tamar was their sister."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "The Kings of Judah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Solomon’s son was Rehoboam,",
+          "Abijah his son,",
+          "Asa his son,",
+          "Jehoshaphat his son,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Jehoram his son,",
+          "Ahaziah his son,",
+          "Joash his son,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Amaziah his son,",
+          "Azariah his son,",
+          "Jotham his son,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Ahaz his son,",
+          "Hezekiah his son,",
+          "Manasseh his son,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Amon his son,",
+          "Josiah his son."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The sons of Josiah:",
+          "Johanan the firstborn,",
+          "Jehoiakim the second son,",
+          "Zedekiah the third,",
+          "Shallum the fourth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The successors of Jehoiakim:",
+          "Jehoiachin his son,",
+          "and Zedekiah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "The Royal Line After the Exile"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The descendants of Jehoiachin the captive:",
+          "Shealtiel his son,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Malkiram, Pedaiah, Shenazzar, Jekamiah, Hoshama and Nedabiah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "The sons of Pedaiah:",
+          "Zerubbabel and Shimei.",
+          "The sons of Zerubbabel:",
+          "Meshullam and Hananiah.",
+          "Shelomith was their sister."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "There were also five others:",
+          "Hashubah, Ohel, Berekiah, Hasadiah and Jushab-Hesed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "The descendants of Hananiah:",
+          "Pelatiah and Jeshaiah, and the sons of Rephaiah, of Arnan, of Obadiah and of Shekaniah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The descendants of Shekaniah:",
+          "Shemaiah and his sons:",
+          "Hattush, Igal, Bariah, Neariah and Shaphat—six in all."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "The sons of Neariah:",
+          "Elioenai, Hizkiah and Azrikam—three in all."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "The sons of Elioenai:",
+          "Hodaviah, Eliashib, Pelaiah, Akkub, Johanan, Delaiah and Anani—seven in all."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

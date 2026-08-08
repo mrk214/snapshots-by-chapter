@@ -1,1 +1,138 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.120","is_chapter":true,"previous":{"usfm":"PSA.119","human":"Salmos 119","canonical":true,"toc":true},"current":{"usfm":"PSA.120","human":"Salmos 120"},"next":{"usfm":"PSA.121","human":"Salmos 121","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración ante el peligro"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["1a (1a) Cántico de las subidas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Cuando estoy angustiado, llamo al Señor,","y él me responde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Señor, líbrame de los labios mentirosos","y de la lengua embustera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Qué más puedes recibir, lengua embustera?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Flechas puntiagudas de guerrero!","¡Ardientes brasas de retama!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Pobre de mí, que vivo como extranjero en Mésec,","que he acampado entre las tiendas de Quedar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Demasiado he vivido entre los que odian la paz;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¡cuando yo hablo de paz, ellos hablan de guerra!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.119.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.121.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.120",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.119",
+      "human": "Salmos 119"
+    },
+    "current": {
+      "usfm": "PSA.120",
+      "human": "Salmos 120"
+    },
+    "next": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración ante el peligro"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "1a (1a) Cántico de las subidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Cuando estoy angustiado, llamo al Señor,",
+          "y él me responde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Señor, líbrame de los labios mentirosos",
+          "y de la lengua embustera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Qué más puedes recibir, lengua embustera?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Flechas puntiagudas de guerrero!",
+          "¡Ardientes brasas de retama!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Pobre de mí, que vivo como extranjero en Mésec,",
+          "que he acampado entre las tiendas de Quedar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Demasiado he vivido entre los que odian la paz;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¡cuando yo hablo de paz, ellos hablan de guerra!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

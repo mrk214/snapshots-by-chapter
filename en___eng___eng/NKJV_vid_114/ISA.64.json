@@ -1,1 +1,200 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.64","is_chapter":true,"previous":{"usfm":"ISA.63","human":"Isaiah 63","canonical":true,"toc":true},"current":{"usfm":"ISA.64","human":"Isaiah 64"},"next":{"usfm":"ISA.65","human":"Isaiah 65","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Oh, that You would rend the heavens!","That You would come down!","That the mountains might shake at Your presence—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["As fire burns brushwood,","As fire causes water to boil—","To make Your name known to Your adversaries,","That the nations may tremble at Your presence!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When You did awesome things for which we did not look,","You came down,","The mountains shook at Your presence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For since the beginning of the world","Men have not heard nor perceived by the ear,","Nor has the eye seen any God besides You,","Who acts for the one who waits for Him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["You meet him who rejoices and does righteousness,","Who remembers You in Your ways.","You are indeed angry, for we have sinned—","In these ways we continue;","And we need to be saved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["But we are all like an unclean thing,","And all our righteousnesses are like filthy rags;","We all fade as a leaf,","And our iniquities, like the wind,","Have taken us away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["And there is no one who calls on Your name,","Who stirs himself up to take hold of You;","For You have hidden Your face from us,","And have consumed us because of our iniquities."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But now, O Lord,","You are our Father;","We are the clay, and You our potter;","And all we are the work of Your hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Do not be furious, O Lord,","Nor remember iniquity forever;","Indeed, please look—we all are Your people!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Your holy cities are a wilderness,","Zion is a wilderness,","Jerusalem a desolation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Our holy and beautiful temple,","Where our fathers praised You,","Is burned up with fire;","And all our pleasant things are laid waste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Will You restrain Yourself because of these things, O Lord?","Will You hold Your peace, and afflict us very severely?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.63.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.65.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.64",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.63",
+      "human": "Isaiah 63"
+    },
+    "current": {
+      "usfm": "ISA.64",
+      "human": "Isaiah 64"
+    },
+    "next": {
+      "usfm": "ISA.65",
+      "human": "Isaiah 65"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh, that You would rend the heavens!",
+          "That You would come down!",
+          "That the mountains might shake at Your presence—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "As fire burns brushwood,",
+          "As fire causes water to boil—",
+          "To make Your name known to Your adversaries,",
+          "That the nations may tremble at Your presence!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When You did awesome things for which we did not look,",
+          "You came down,",
+          "The mountains shook at Your presence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For since the beginning of the world",
+          "Men have not heard nor perceived by the ear,",
+          "Nor has the eye seen any God besides You,",
+          "Who acts for the one who waits for Him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "You meet him who rejoices and does righteousness,",
+          "Who remembers You in Your ways.",
+          "You are indeed angry, for we have sinned—",
+          "In these ways we continue;",
+          "And we need to be saved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "But we are all like an unclean thing,",
+          "And all our righteousnesses are like filthy rags;",
+          "We all fade as a leaf,",
+          "And our iniquities, like the wind,",
+          "Have taken us away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "And there is no one who calls on Your name,",
+          "Who stirs himself up to take hold of You;",
+          "For You have hidden Your face from us,",
+          "And have consumed us because of our iniquities."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But now, O Lord,",
+          "You are our Father;",
+          "We are the clay, and You our potter;",
+          "And all we are the work of Your hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Do not be furious, O Lord,",
+          "Nor remember iniquity forever;",
+          "Indeed, please look—we all are Your people!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Your holy cities are a wilderness,",
+          "Zion is a wilderness,",
+          "Jerusalem a desolation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Our holy and beautiful temple,",
+          "Where our fathers praised You,",
+          "Is burned up with fire;",
+          "And all our pleasant things are laid waste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Will You restrain Yourself because of these things, O Lord?",
+          "Will You hold Your peace, and afflict us very severely?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

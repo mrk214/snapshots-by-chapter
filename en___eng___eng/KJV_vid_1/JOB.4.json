@@ -1,1 +1,289 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.4","is_chapter":true,"previous":{"usfm":"JOB.3","human":"Job 3","canonical":true,"toc":true},"current":{"usfm":"JOB.4","human":"Job 4"},"next":{"usfm":"JOB.5","human":"Job 5","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Eliphaz Speaks"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then Eliphaz the Temanite answered and said,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["If we assay to commune with thee, wilt thou be grieved?","But who can withhold himself from speaking?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Behold, thou hast instructed many,","And thou hast strengthened the weak hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Thy words have upholden him that was falling,","And thou hast strengthened the feeble knees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But now it is come upon thee, and thou faintest;","It toucheth thee, and thou art troubled."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Is not this thy fear, thy confidence,","Thy hope, and the uprightness of thy ways?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Remember, I pray thee, who ever perished, being innocent?","Or where were the righteous cut off?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Even as I have seen, they that plow iniquity,","And sow wickedness, reap the same."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["By the blast of God they perish,","And by the breath of his nostrils are they consumed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The roaring of the lion, and the voice of the fierce lion,","And the teeth of the young lions, are broken."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The old lion perisheth for lack of prey,","And the stout lion's whelps are scattered abroad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Now a thing was secretly brought to me,","And mine ear received a little thereof."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["In thoughts from the visions of the night,","When deep sleep falleth on men,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Fear came upon me, and trembling,","Which made all my bones to shake."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Then a spirit passed before my face;","The hair of my flesh stood up:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["It stood still,","But I could not discern the form thereof:","An image was before mine eyes,","There was silence, and I heard a voice, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Shall mortal man be more just than God?","Shall a man be more pure than his maker?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Behold, he put no trust in his servants;","And his angels he charged with folly:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["How much less in them that dwell in houses of clay,","Whose foundation is in the dust,","Which are crushed before the moth?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["They are destroyed from morning to evening:","They perish for ever without any regarding it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Doth not their excellency which is in them go away?","They die, even without wisdom."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.5.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.3",
+      "human": "Job 3"
+    },
+    "current": {
+      "usfm": "JOB.4",
+      "human": "Job 4"
+    },
+    "next": {
+      "usfm": "JOB.5",
+      "human": "Job 5"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Eliphaz Speaks"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then Eliphaz the Temanite answered and said,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "If we assay to commune with thee, wilt thou be grieved?",
+          "But who can withhold himself from speaking?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Behold, thou hast instructed many,",
+          "And thou hast strengthened the weak hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Thy words have upholden him that was falling,",
+          "And thou hast strengthened the feeble knees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But now it is come upon thee, and thou faintest;",
+          "It toucheth thee, and thou art troubled."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Is not this thy fear, thy confidence,",
+          "Thy hope, and the uprightness of thy ways?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Remember, I pray thee, who ever perished, being innocent?",
+          "Or where were the righteous cut off?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Even as I have seen, they that plow iniquity,",
+          "And sow wickedness, reap the same."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "By the blast of God they perish,",
+          "And by the breath of his nostrils are they consumed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The roaring of the lion, and the voice of the fierce lion,",
+          "And the teeth of the young lions, are broken."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The old lion perisheth for lack of prey,",
+          "And the stout lion's whelps are scattered abroad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Now a thing was secretly brought to me,",
+          "And mine ear received a little thereof."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "In thoughts from the visions of the night,",
+          "When deep sleep falleth on men,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Fear came upon me, and trembling,",
+          "Which made all my bones to shake."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Then a spirit passed before my face;",
+          "The hair of my flesh stood up:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "It stood still,",
+          "But I could not discern the form thereof:",
+          "An image was before mine eyes,",
+          "There was silence, and I heard a voice, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Shall mortal man be more just than God?",
+          "Shall a man be more pure than his maker?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Behold, he put no trust in his servants;",
+          "And his angels he charged with folly:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "How much less in them that dwell in houses of clay,",
+          "Whose foundation is in the dust,",
+          "Which are crushed before the moth?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "They are destroyed from morning to evening:",
+          "They perish for ever without any regarding it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Doth not their excellency which is in them go away?",
+          "They die, even without wisdom."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

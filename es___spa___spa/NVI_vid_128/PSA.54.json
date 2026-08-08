@@ -1,1 +1,142 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Salmo 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Salmo 54"},"next":{"usfm":"PSA.55","human":"Salmo 55","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David, cuando gente de Zif fue a decirle a Saúl: «¿No está David escondido entre nosotros?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Sálvame, oh Dios, por tu nombre!","¡Defiéndeme con tu poder!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Escucha, oh Dios, mi oración!","¡Presta oído a las palabras de mi boca!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pues gente extraña se levanta contra mí;","gente violenta procura matarme,","sin tener en cuenta a Dios."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero Dios es mi socorro;","el Señor es quien me sostiene."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Hará recaer el mal sobre mis enemigos.","Por tu fidelidad, Señor, ¡destrúyelos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Te presentaré una ofrenda voluntaria","y alabaré tu nombre, Señor, porque es bueno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["pues me has librado de todas mis angustias","y mis ojos han visto la derrota de mis enemigos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Salmo 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Salmo 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Salmo 55"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David, cuando gente de Zif fue a decirle a Saúl: «¿No está David escondido entre nosotros?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Sálvame, oh Dios, por tu nombre!",
+          "¡Defiéndeme con tu poder!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Escucha, oh Dios, mi oración!",
+          "¡Presta oído a las palabras de mi boca!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pues gente extraña se levanta contra mí;",
+          "gente violenta procura matarme,",
+          "sin tener en cuenta a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero Dios es mi socorro;",
+          "el Señor es quien me sostiene."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Hará recaer el mal sobre mis enemigos.",
+          "Por tu fidelidad, Señor, ¡destrúyelos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Te presentaré una ofrenda voluntaria",
+          "y alabaré tu nombre, Señor, porque es bueno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "pues me has librado de todas mis angustias",
+          "y mis ojos han visto la derrota de mis enemigos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

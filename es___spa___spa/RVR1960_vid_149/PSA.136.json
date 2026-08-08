@@ -1,1 +1,342 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.136","is_chapter":true,"previous":{"usfm":"PSA.135","human":"Salmos 135","canonical":true,"toc":true},"current":{"usfm":"PSA.136","human":"Salmos 136"},"next":{"usfm":"PSA.137","human":"Salmos 137","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza por la misericordia eterna de Jehová"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Alabad a Jehová, porque él es bueno,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Alabad al Dios de los dioses,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alabad al Señor de los señores,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Al único que hace grandes maravillas,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Al que hizo los cielos con entendimiento,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Al que extendió la tierra sobre las aguas,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Al que hizo las grandes lumbreras,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El sol para que señorease en el día,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La luna y las estrellas para que señoreasen en la noche,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Al que hirió a Egipto en sus primogénitos,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Al que sacó a Israel de en medio de ellos,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Con mano fuerte, y brazo extendido,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Al que dividió el Mar Rojo en partes,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["E hizo pasar a Israel por en medio de él,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y arrojó a Faraón y a su ejército en el Mar Rojo,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Al que pastoreó a su pueblo por el desierto,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Al que hirió a grandes reyes,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Y mató a reyes poderosos,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A Sehón rey amorreo,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Y a Og rey de Basán,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Y dio la tierra de ellos en heredad,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["En heredad a Israel su siervo,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Él es el que en nuestro abatimiento se acordó de nosotros,","Porque para siempre es su misericordia;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Y nos rescató de nuestros enemigos,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["El que da alimento a todo ser viviente,","Porque para siempre es su misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Alabad al Dios de los cielos,","Porque para siempre es su misericordia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.135.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.137.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.136",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.135",
+      "human": "Salmos 135"
+    },
+    "current": {
+      "usfm": "PSA.136",
+      "human": "Salmos 136"
+    },
+    "next": {
+      "usfm": "PSA.137",
+      "human": "Salmos 137"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza por la misericordia eterna de Jehová"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Alabad a Jehová, porque él es bueno,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Alabad al Dios de los dioses,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alabad al Señor de los señores,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Al único que hace grandes maravillas,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Al que hizo los cielos con entendimiento,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Al que extendió la tierra sobre las aguas,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Al que hizo las grandes lumbreras,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El sol para que señorease en el día,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La luna y las estrellas para que señoreasen en la noche,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Al que hirió a Egipto en sus primogénitos,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Al que sacó a Israel de en medio de ellos,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Con mano fuerte, y brazo extendido,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Al que dividió el Mar Rojo en partes,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "E hizo pasar a Israel por en medio de él,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y arrojó a Faraón y a su ejército en el Mar Rojo,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Al que pastoreó a su pueblo por el desierto,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Al que hirió a grandes reyes,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Y mató a reyes poderosos,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A Sehón rey amorreo,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Y a Og rey de Basán,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Y dio la tierra de ellos en heredad,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "En heredad a Israel su siervo,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Él es el que en nuestro abatimiento se acordó de nosotros,",
+          "Porque para siempre es su misericordia;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Y nos rescató de nuestros enemigos,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "El que da alimento a todo ser viviente,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Alabad al Dios de los cielos,",
+          "Porque para siempre es su misericordia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

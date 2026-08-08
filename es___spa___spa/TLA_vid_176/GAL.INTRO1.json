@@ -1,1 +1,47 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"GAL","name":"Gálatas"},"chapter":{"chapter_usfm":"GAL.INTRO1","is_chapter":false,"previous":{"usfm":"2CO.13","human":"2 Corintios 13","canonical":true,"toc":true},"current":{"usfm":"GAL.INTRO1","human":"Gálatas Introducción"},"next":{"usfm":"GAL.1","human":"Gálatas 1","canonical":true,"toc":true},"items":[]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/2CO.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GAL.1.json"
+  },
+  "book": {
+    "book_usfm": "GAL",
+    "name": "Gálatas"
+  },
+  "chapter": {
+    "chapter_usfm": "GAL.INTRO1",
+    "is_chapter": false,
+    "previous": {
+      "usfm": "2CO.13",
+      "human": "2 Corintios 13"
+    },
+    "current": {
+      "usfm": "GAL.INTRO1",
+      "human": "Gálatas Introducción"
+    },
+    "next": {
+      "usfm": "GAL.1",
+      "human": "Gálatas 1"
+    },
+    "items": []
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

@@ -1,1 +1,157 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.149","is_chapter":true,"previous":{"usfm":"PSA.148","human":"Psalms 148","canonical":true,"toc":true},"current":{"usfm":"PSA.149","human":"Psalms 149"},"next":{"usfm":"PSA.150","human":"Psalms 150","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Praise to God for His Salvation and Judgment"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","Sing to the Lord a new song,","And His praise in the assembly of saints."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let Israel rejoice in their Maker;","Let the children of Zion be joyful in their King."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let them praise His name with the dance;","Let them sing praises to Him with the timbrel and harp."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For the Lord takes pleasure in His people;","He will beautify the humble with salvation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Let the saints be joyful in glory;","Let them sing aloud on their beds."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let the high praises of God be in their mouth,","And a two-edged sword in their hand,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["To execute vengeance on the nations,","And punishments on the peoples;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["To bind their kings with chains,","And their nobles with fetters of iron;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["To execute on them the written judgment—","This honor have all His saints.","Praise the Lord!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.148.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.150.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.149",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.148",
+      "human": "Psalms 148"
+    },
+    "current": {
+      "usfm": "PSA.149",
+      "human": "Psalms 149"
+    },
+    "next": {
+      "usfm": "PSA.150",
+      "human": "Psalms 150"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Praise to God for His Salvation and Judgment"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "Sing to the Lord a new song,",
+          "And His praise in the assembly of saints."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let Israel rejoice in their Maker;",
+          "Let the children of Zion be joyful in their King."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let them praise His name with the dance;",
+          "Let them sing praises to Him with the timbrel and harp."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For the Lord takes pleasure in His people;",
+          "He will beautify the humble with salvation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Let the saints be joyful in glory;",
+          "Let them sing aloud on their beds."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let the high praises of God be in their mouth,",
+          "And a two-edged sword in their hand,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "To execute vengeance on the nations,",
+          "And punishments on the peoples;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "To bind their kings with chains,",
+          "And their nobles with fetters of iron;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "To execute on them the written judgment—",
+          "This honor have all His saints.",
+          "Praise the Lord!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

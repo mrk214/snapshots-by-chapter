@@ -1,1 +1,274 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"1JN","name":"1João"},"chapter":{"chapter_usfm":"1JN.4","is_chapter":true,"previous":{"usfm":"1JN.3","human":"1João 3","canonical":true,"toc":true},"current":{"usfm":"1JN.4","human":"1João 4"},"next":{"usfm":"1JN.5","human":"1João 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Os falsos profetas e os verdadeiros crentes"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Amados, não deis crédito a qualquer espírito; antes, provai os espíritos se procedem de Deus, porque muitos falsos profetas têm saído pelo mundo fora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Nisto reconheceis o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["e todo espírito que não confessa a Jesus não procede de Deus; pelo contrário, este é o espírito do anticristo, a respeito do qual tendes ouvido que vem e, presentemente, já está no mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Filhinhos, vós sois de Deus e tendes vencido os falsos profetas, porque maior é aquele que está em vós do que aquele que está no mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eles procedem do mundo; por essa razão, falam da parte do mundo, e o mundo os ouve."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Nós somos de Deus; aquele que conhece a Deus nos ouve; aquele que não é da parte de Deus não nos ouve. Nisto reconhecemos o espírito da verdade e o espírito do erro."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Deus é amor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Amados, amemo-nos uns aos outros, porque o amor procede de Deus; e todo aquele que ama é nascido de Deus e conhece a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Aquele que não ama não conhece a Deus, pois Deus é amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Nisto se manifestou o amor de Deus em nós: em haver Deus enviado o seu Filho unigênito ao mundo, para vivermos por meio dele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Nisto consiste o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou e enviou o seu Filho como propiciação pelos nossos pecados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Amados, se Deus de tal maneira nos amou, devemos nós também amar uns aos outros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ninguém jamais viu a Deus; se amarmos uns aos outros, Deus permanece em nós, e o seu amor é, em nós, aperfeiçoado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Nisto conhecemos que permanecemos nele, e ele, em nós: em que nos deu do seu Espírito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["E nós temos visto e testemunhamos que o Pai enviou o seu Filho como Salvador do mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele, e ele, em Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e aquele que permanece no amor permanece em Deus, e Deus, nele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Nisto é em nós aperfeiçoado o amor, para que, no Dia do Juízo, mantenhamos confiança; pois, segundo ele é, também nós somos neste mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["No amor não existe medo; antes, o perfeito amor lança fora o medo. Ora, o medo produz tormento; logo, aquele que teme não é aperfeiçoado no amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Nós amamos porque ele nos amou primeiro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Se alguém disser: Amo a Deus, e odiar a seu irmão, é mentiroso; pois aquele que não ama a seu irmão, a quem vê, não pode amar a Deus, a quem não vê."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Ora, temos, da parte dele, este mandamento: que aquele que ama a Deus ame também a seu irmão."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/1JN.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/1JN.5.json"
+  },
+  "book": {
+    "book_usfm": "1JN",
+    "name": "1João"
+  },
+  "chapter": {
+    "chapter_usfm": "1JN.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1JN.3",
+      "human": "1João 3"
+    },
+    "current": {
+      "usfm": "1JN.4",
+      "human": "1João 4"
+    },
+    "next": {
+      "usfm": "1JN.5",
+      "human": "1João 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os falsos profetas e os verdadeiros crentes"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Amados, não deis crédito a qualquer espírito; antes, provai os espíritos se procedem de Deus, porque muitos falsos profetas têm saído pelo mundo fora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Nisto reconheceis o Espírito de Deus: todo espírito que confessa que Jesus Cristo veio em carne é de Deus;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "e todo espírito que não confessa a Jesus não procede de Deus; pelo contrário, este é o espírito do anticristo, a respeito do qual tendes ouvido que vem e, presentemente, já está no mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Filhinhos, vós sois de Deus e tendes vencido os falsos profetas, porque maior é aquele que está em vós do que aquele que está no mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eles procedem do mundo; por essa razão, falam da parte do mundo, e o mundo os ouve."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Nós somos de Deus; aquele que conhece a Deus nos ouve; aquele que não é da parte de Deus não nos ouve. Nisto reconhecemos o espírito da verdade e o espírito do erro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deus é amor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Amados, amemo-nos uns aos outros, porque o amor procede de Deus; e todo aquele que ama é nascido de Deus e conhece a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Aquele que não ama não conhece a Deus, pois Deus é amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Nisto se manifestou o amor de Deus em nós: em haver Deus enviado o seu Filho unigênito ao mundo, para vivermos por meio dele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Nisto consiste o amor: não em que nós tenhamos amado a Deus, mas em que ele nos amou e enviou o seu Filho como propiciação pelos nossos pecados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Amados, se Deus de tal maneira nos amou, devemos nós também amar uns aos outros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ninguém jamais viu a Deus; se amarmos uns aos outros, Deus permanece em nós, e o seu amor é, em nós, aperfeiçoado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Nisto conhecemos que permanecemos nele, e ele, em nós: em que nos deu do seu Espírito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "E nós temos visto e testemunhamos que o Pai enviou o seu Filho como Salvador do mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Aquele que confessar que Jesus é o Filho de Deus, Deus permanece nele, e ele, em Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "E nós conhecemos e cremos no amor que Deus tem por nós. Deus é amor, e aquele que permanece no amor permanece em Deus, e Deus, nele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Nisto é em nós aperfeiçoado o amor, para que, no Dia do Juízo, mantenhamos confiança; pois, segundo ele é, também nós somos neste mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "No amor não existe medo; antes, o perfeito amor lança fora o medo. Ora, o medo produz tormento; logo, aquele que teme não é aperfeiçoado no amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Nós amamos porque ele nos amou primeiro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Se alguém disser: Amo a Deus, e odiar a seu irmão, é mentiroso; pois aquele que não ama a seu irmão, a quem vê, não pode amar a Deus, a quem não vê."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Ora, temos, da parte dele, este mandamento: que aquele que ama a Deus ame também a seu irmão."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

@@ -1,1 +1,224 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"NUM","name":"Numbers"},"chapter":{"chapter_usfm":"NUM.30","is_chapter":true,"previous":{"usfm":"NUM.29","human":"Numbers 29","canonical":true,"toc":true},"current":{"usfm":"NUM.30","human":"Numbers 30"},"next":{"usfm":"NUM.31","human":"Numbers 31","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Men and Vows"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Moses spoke to the heads of the tribes of the people of Israel, saying, “This is what the Lord has commanded."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["If a man vows a vow to the Lord, or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Women and Vows"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“If a woman vows a vow to the Lord and binds herself by a pledge, while within her father’s house in her youth,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["and her father hears of her vow and of her pledge by which she has bound herself and says nothing to her, then all her vows shall stand, and every pledge by which she has bound herself shall stand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But if her father opposes her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself shall stand. And the Lord will forgive her, because her father opposed her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“If she marries a husband, while under her vows or any thoughtless utterance of her lips by which she has bound herself,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["and her husband hears of it and says nothing to her on the day that he hears, then her vows shall stand, and her pledges by which she has bound herself shall stand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But if, on the day that her husband comes to hear of it, he opposes her, then he makes void her vow that was on her, and the thoughtless utterance of her lips by which she bound herself. And the Lord will forgive her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["(But any vow of a widow or of a divorced woman, anything by which she has bound herself, shall stand against her.)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And if she vowed in her husband’s house or bound herself by a pledge with an oath,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["and her husband heard of it and said nothing to her and did not oppose her, then all her vows shall stand, and every pledge by which she bound herself shall stand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows or concerning her pledge of herself shall not stand. Her husband has made them void, and the Lord will forgive her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Any vow and any binding oath to afflict herself, her husband may establish, or her husband may make void."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges that are upon her. He has established them, because he said nothing to her on the day that he heard of them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["But if he makes them null and void after he has heard of them, then he shall bear her iniquity.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["These are the statutes that the Lord commanded Moses about a man and his wife and about a father and his daughter while she is in her youth within her father’s house."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.31.json"
+  },
+  "book": {
+    "book_usfm": "NUM",
+    "name": "Numbers"
+  },
+  "chapter": {
+    "chapter_usfm": "NUM.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NUM.29",
+      "human": "Numbers 29"
+    },
+    "current": {
+      "usfm": "NUM.30",
+      "human": "Numbers 30"
+    },
+    "next": {
+      "usfm": "NUM.31",
+      "human": "Numbers 31"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Men and Vows"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Moses spoke to the heads of the tribes of the people of Israel, saying, “This is what the Lord has commanded."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "If a man vows a vow to the Lord, or swears an oath to bind himself by a pledge, he shall not break his word. He shall do according to all that proceeds out of his mouth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Women and Vows"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“If a woman vows a vow to the Lord and binds herself by a pledge, while within her father’s house in her youth,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "and her father hears of her vow and of her pledge by which she has bound herself and says nothing to her, then all her vows shall stand, and every pledge by which she has bound herself shall stand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But if her father opposes her on the day that he hears of it, no vow of hers, no pledge by which she has bound herself shall stand. And the Lord will forgive her, because her father opposed her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“If she marries a husband, while under her vows or any thoughtless utterance of her lips by which she has bound herself,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "and her husband hears of it and says nothing to her on the day that he hears, then her vows shall stand, and her pledges by which she has bound herself shall stand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But if, on the day that her husband comes to hear of it, he opposes her, then he makes void her vow that was on her, and the thoughtless utterance of her lips by which she bound herself. And the Lord will forgive her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "(But any vow of a widow or of a divorced woman, anything by which she has bound herself, shall stand against her.)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And if she vowed in her husband’s house or bound herself by a pledge with an oath,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "and her husband heard of it and said nothing to her and did not oppose her, then all her vows shall stand, and every pledge by which she bound herself shall stand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "But if her husband makes them null and void on the day that he hears them, then whatever proceeds out of her lips concerning her vows or concerning her pledge of herself shall not stand. Her husband has made them void, and the Lord will forgive her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Any vow and any binding oath to afflict herself, her husband may establish, or her husband may make void."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "But if her husband says nothing to her from day to day, then he establishes all her vows or all her pledges that are upon her. He has established them, because he said nothing to her on the day that he heard of them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "But if he makes them null and void after he has heard of them, then he shall bear her iniquity.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "These are the statutes that the Lord commanded Moses about a man and his wife and about a father and his daughter while she is in her youth within her father’s house."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

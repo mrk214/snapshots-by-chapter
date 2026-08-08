@@ -1,1 +1,98 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.134","is_chapter":true,"previous":{"usfm":"PSA.133","human":"Psalms 133","canonical":true,"toc":true},"current":{"usfm":"PSA.134","human":"Psalms 134"},"next":{"usfm":"PSA.135","human":"Psalms 135","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Praising the Lord in His House at Night"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Behold, bless the Lord,","All you servants of the Lord,","Who by night stand in the house of the Lord!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lift up your hands in the sanctuary,","And bless the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The Lord who made heaven and earth","Bless you from Zion!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.133.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.135.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.134",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.133",
+      "human": "Psalms 133"
+    },
+    "current": {
+      "usfm": "PSA.134",
+      "human": "Psalms 134"
+    },
+    "next": {
+      "usfm": "PSA.135",
+      "human": "Psalms 135"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Praising the Lord in His House at Night"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Behold, bless the Lord,",
+          "All you servants of the Lord,",
+          "Who by night stand in the house of the Lord!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lift up your hands in the sanctuary,",
+          "And bless the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The Lord who made heaven and earth",
+          "Bless you from Zion!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,304 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"1CO","name":"1 Coríntios"},"chapter":{"chapter_usfm":"1CO.16","is_chapter":true,"previous":{"usfm":"1CO.15","human":"1 Coríntios 15","canonical":true,"toc":true},"current":{"usfm":"1CO.16","human":"1 Coríntios 16"},"next":{"usfm":"2CO.1","human":"2 Coríntios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["As coletas para os crentes de Jerusalém"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["ORA, quanto à coleta que se faz para os santos, fazei vós, também, o mesmo que ordenei às igrejas da Galácia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No primeiro dia da semana, cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que se não façam as coletas quando eu chegar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["E, quando tiver chegado, mandarei os que por cartas aprovardes, para levar a vossa dádiva a Jerusalém."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["E, se valer a pena que eu também vá, irão comigo."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Os projetos de Paulo: diversas recomendações e saudações"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Irei, porém, ter convosco, depois de ter passado pela Macedónia (porque tenho de passar pela Macedónia)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["E bem pode ser que fique convosco, e passe, também, o inverno, para que me acompanheis aonde quer que eu for."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque não vos quero agora ver de passagem, mas espero ficar convosco algum tempo, se o Senhor o permitir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ficarei, porém, em Éfeso, até ao Pentecostes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Porque uma porta grande e eficaz se me abriu; e há muitos adversários."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["E, se for Timóteo, vede que esteja sem temor convosco; porque trabalha na obra do Senhor, como eu também."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Portanto, ninguém o despreze, mas, acompanhai-o em paz, para que venha ter comigo, pois o espero com os irmãos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["E, acerca do irmão Apolo, roguei-lhe muito que fosse com os irmãos ter convosco, mas, na verdade, não teve vontade de ir agora; irá, porém, quando se lhe ofereçer boa ocasião."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Vigiai, estai firmes na fé; portai-vos varonilmente e fortalecei-vos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Todas as vossas coisas sejam feitas com caridade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Agora vos rogo, irmãos (sabeis que a família de Estéfanas é as primícias da Acaia, e que se tem dedicado ao ministério dos santos),"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Que também vos sujeiteis aos tais, e a todo aquele que auxilia na obra e trabalha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Folgo, porém, com a vinda de Estéfanas, e de Fortunato e de Acaico, porque estes supriram o que da vossa parte me faltava;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque recrearam o meu espírito e o vosso. Reconhecei, pois, aos tais."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["As igrejas da Ásia vos saúdam. Saúdam-vos, afetuosamente, no Senhor, Áquila e Prisca, com a igreja que está em sua casa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Saudação da minha própria mão, de Paulo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Se alguém não ama ao Senhor Jesus Cristo, seja anátema; Maranata."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["A graça do Senhor Jesus Cristo seja convosco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["O meu amor seja com todos vós, em Cristo Jesus. Ámen."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/1CO.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/2CO.1.json"
+  },
+  "book": {
+    "book_usfm": "1CO",
+    "name": "1 Coríntios"
+  },
+  "chapter": {
+    "chapter_usfm": "1CO.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1CO.15",
+      "human": "1 Coríntios 15"
+    },
+    "current": {
+      "usfm": "1CO.16",
+      "human": "1 Coríntios 16"
+    },
+    "next": {
+      "usfm": "2CO.1",
+      "human": "2 Coríntios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "As coletas para os crentes de Jerusalém"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "ORA, quanto à coleta que se faz para os santos, fazei vós, também, o mesmo que ordenei às igrejas da Galácia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No primeiro dia da semana, cada um de vós ponha de parte o que puder ajuntar, conforme a sua prosperidade, para que se não façam as coletas quando eu chegar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "E, quando tiver chegado, mandarei os que por cartas aprovardes, para levar a vossa dádiva a Jerusalém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "E, se valer a pena que eu também vá, irão comigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os projetos de Paulo: diversas recomendações e saudações"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Irei, porém, ter convosco, depois de ter passado pela Macedónia (porque tenho de passar pela Macedónia)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "E bem pode ser que fique convosco, e passe, também, o inverno, para que me acompanheis aonde quer que eu for."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque não vos quero agora ver de passagem, mas espero ficar convosco algum tempo, se o Senhor o permitir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ficarei, porém, em Éfeso, até ao Pentecostes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Porque uma porta grande e eficaz se me abriu; e há muitos adversários."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "E, se for Timóteo, vede que esteja sem temor convosco; porque trabalha na obra do Senhor, como eu também."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Portanto, ninguém o despreze, mas, acompanhai-o em paz, para que venha ter comigo, pois o espero com os irmãos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "E, acerca do irmão Apolo, roguei-lhe muito que fosse com os irmãos ter convosco, mas, na verdade, não teve vontade de ir agora; irá, porém, quando se lhe ofereçer boa ocasião."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Vigiai, estai firmes na fé; portai-vos varonilmente e fortalecei-vos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Todas as vossas coisas sejam feitas com caridade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Agora vos rogo, irmãos (sabeis que a família de Estéfanas é as primícias da Acaia, e que se tem dedicado ao ministério dos santos),"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Que também vos sujeiteis aos tais, e a todo aquele que auxilia na obra e trabalha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Folgo, porém, com a vinda de Estéfanas, e de Fortunato e de Acaico, porque estes supriram o que da vossa parte me faltava;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque recrearam o meu espírito e o vosso. Reconhecei, pois, aos tais."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "As igrejas da Ásia vos saúdam. Saúdam-vos, afetuosamente, no Senhor, Áquila e Prisca, com a igreja que está em sua casa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Todos os irmãos vos saúdam. Saudai-vos uns aos outros com ósculo santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Saudação da minha própria mão, de Paulo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Se alguém não ama ao Senhor Jesus Cristo, seja anátema; Maranata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "A graça do Senhor Jesus Cristo seja convosco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "O meu amor seja com todos vós, em Cristo Jesus. Ámen."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

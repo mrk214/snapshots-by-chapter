@@ -1,1 +1,217 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"TIT","name":"Tito"},"chapter":{"chapter_usfm":"TIT.1","is_chapter":true,"previous":{"usfm":"2TI.4","human":"2 Timóteo 4","canonical":true,"toc":true},"current":{"usfm":"TIT.1","human":"Tito 1"},"next":{"usfm":"TIT.2","human":"Tito 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Paulo, servo de Deus e apóstolo de Jesus Cristo para levar os eleitos de Deus à fé e ao conhecimento da verdade que conduz à piedade;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["fé e conhecimento que se fundamentam na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No devido tempo, ele trouxe à luz a sua palavra, por meio da pregação a mim confiada por ordem de Deus, nosso Salvador,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["a Tito, meu verdadeiro filho em nossa fé comum:","Graça e paz da parte de Deus Pai e de Cristo Jesus, nosso Salvador."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A Tarefa de Tito em Creta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A razão de tê-lo deixado em Creta foi para que você pusesse em ordem o que ainda faltava e constituísse presbíteros em cada cidade, como eu o instruí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["É preciso que o presbítero seja irrepreensível, marido de uma só mulher e tenha filhos crentes que não sejam acusados de libertinagem ou de insubmissão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por ser encarregado da obra de Deus, é necessário que o bispo seja irrepreensível: não orgulhoso, não briguento, não apegado ao vinho, não violento, nem ávido por lucro desonesto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ao contrário, é preciso que ele seja hospitaleiro, amigo do bem, sensato, justo, consagrado, tenha domínio próprio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["e apegue-se firmemente à mensagem fiel, da maneira pela qual foi ensinada, para que seja capaz de encorajar outros pela sã doutrina e de refutar os que se opõem a ela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pois há muitos insubordinados, que não passam de faladores e enganadores, especialmente os do grupo da circuncisão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["É necessário que eles sejam silenciados, pois estão arruinando famílias inteiras, ensinando coisas que não devem, e tudo por ganância."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Um dos seus próprios profetas chegou a dizer: “Cretenses, sempre mentirosos, feras malignas, glutões preguiçosos”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Tal testemunho é verdadeiro. Portanto, repreenda-os severamente, para que sejam sadios na fé"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["e não deem atenção a lendas judaicas nem a mandamentos de homens que rejeitam a verdade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Para os puros, todas as coisas são puras; mas, para os impuros e descrentes, nada é puro. De fato, tanto a mente como a consciência deles estão corrompidas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Eles afirmam que conhecem a Deus, mas por seus atos o negam; são detestáveis, desobedientes e desqualificados para qualquer boa obra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2TI.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/TIT.2.json"
+  },
+  "book": {
+    "book_usfm": "TIT",
+    "name": "Tito"
+  },
+  "chapter": {
+    "chapter_usfm": "TIT.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2TI.4",
+      "human": "2 Timóteo 4"
+    },
+    "current": {
+      "usfm": "TIT.1",
+      "human": "Tito 1"
+    },
+    "next": {
+      "usfm": "TIT.2",
+      "human": "Tito 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Paulo, servo de Deus e apóstolo de Jesus Cristo para levar os eleitos de Deus à fé e ao conhecimento da verdade que conduz à piedade;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "fé e conhecimento que se fundamentam na esperança da vida eterna, a qual o Deus que não mente prometeu antes dos tempos eternos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No devido tempo, ele trouxe à luz a sua palavra, por meio da pregação a mim confiada por ordem de Deus, nosso Salvador,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "a Tito, meu verdadeiro filho em nossa fé comum:",
+          "Graça e paz da parte de Deus Pai e de Cristo Jesus, nosso Salvador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Tarefa de Tito em Creta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A razão de tê-lo deixado em Creta foi para que você pusesse em ordem o que ainda faltava e constituísse presbíteros em cada cidade, como eu o instruí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "É preciso que o presbítero seja irrepreensível, marido de uma só mulher e tenha filhos crentes que não sejam acusados de libertinagem ou de insubmissão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por ser encarregado da obra de Deus, é necessário que o bispo seja irrepreensível: não orgulhoso, não briguento, não apegado ao vinho, não violento, nem ávido por lucro desonesto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ao contrário, é preciso que ele seja hospitaleiro, amigo do bem, sensato, justo, consagrado, tenha domínio próprio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "e apegue-se firmemente à mensagem fiel, da maneira pela qual foi ensinada, para que seja capaz de encorajar outros pela sã doutrina e de refutar os que se opõem a ela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pois há muitos insubordinados, que não passam de faladores e enganadores, especialmente os do grupo da circuncisão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "É necessário que eles sejam silenciados, pois estão arruinando famílias inteiras, ensinando coisas que não devem, e tudo por ganância."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Um dos seus próprios profetas chegou a dizer: “Cretenses, sempre mentirosos, feras malignas, glutões preguiçosos”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Tal testemunho é verdadeiro. Portanto, repreenda-os severamente, para que sejam sadios na fé"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "e não deem atenção a lendas judaicas nem a mandamentos de homens que rejeitam a verdade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Para os puros, todas as coisas são puras; mas, para os impuros e descrentes, nada é puro. De fato, tanto a mente como a consciência deles estão corrompidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Eles afirmam que conhecem a Deus, mas por seus atos o negam; são detestáveis, desobedientes e desqualificados para qualquer boa obra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,356 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.26","is_chapter":true,"previous":{"usfm":"PRO.25","human":"Proverbs 25","canonical":true,"toc":true},"current":{"usfm":"PRO.26","human":"Proverbs 26"},"next":{"usfm":"PRO.27","human":"Proverbs 27","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["As snow in summer and rain in harvest,","So honor is not fitting for a fool."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Like a flitting sparrow, like a flying swallow,","So a curse without cause shall not alight."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A whip for the horse,","A bridle for the donkey,","And a rod for the fool’s back."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Do not answer a fool according to his folly,","Lest you also be like him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Answer a fool according to his folly,","Lest he be wise in his own eyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He who sends a message by the hand of a fool","Cuts off his own feet and drinks violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Like the legs of the lame that hang limp","Is a proverb in the mouth of fools."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Like one who binds a stone in a sling","Is he who gives honor to a fool."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Like a thorn that goes into the hand of a drunkard","Is a proverb in the mouth of fools."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The great God who formed everything","Gives the fool his hire and the transgressor his wages."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["As a dog returns to his own vomit,","So a fool repeats his folly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Do you see a man wise in his own eyes?","There is more hope for a fool than for him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The lazy man says, “There is a lion in the road!","A fierce lion is in the streets!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["As a door turns on its hinges,","So does the lazy man on his bed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The lazy man buries his hand in the bowl;","It wearies him to bring it back to his mouth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The lazy man is wiser in his own eyes","Than seven men who can answer sensibly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He who passes by and meddles in a quarrel not his own","Is like one who takes a dog by the ears."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Like a madman who throws firebrands, arrows, and death,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Is the man who deceives his neighbor,","And says, “I was only joking!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Where there is no wood, the fire goes out;","And where there is no talebearer, strife ceases."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["As charcoal is to burning coals, and wood to fire,","So is a contentious man to kindle strife."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The words of a talebearer are like tasty trifles,","And they go down into the inmost body."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Fervent lips with a wicked heart","Are like earthenware covered with silver dross."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["He who hates, disguises it with his lips,","And lays up deceit within himself;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["When he speaks kindly, do not believe him,","For there are seven abominations in his heart;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Though his hatred is covered by deceit,","His wickedness will be revealed before the assembly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Whoever digs a pit will fall into it,","And he who rolls a stone will have it roll back on him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["A lying tongue hates those who are crushed by it,","And a flattering mouth works ruin."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.27.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.25",
+      "human": "Proverbs 25"
+    },
+    "current": {
+      "usfm": "PRO.26",
+      "human": "Proverbs 26"
+    },
+    "next": {
+      "usfm": "PRO.27",
+      "human": "Proverbs 27"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "As snow in summer and rain in harvest,",
+          "So honor is not fitting for a fool."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Like a flitting sparrow, like a flying swallow,",
+          "So a curse without cause shall not alight."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A whip for the horse,",
+          "A bridle for the donkey,",
+          "And a rod for the fool’s back."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Do not answer a fool according to his folly,",
+          "Lest you also be like him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Answer a fool according to his folly,",
+          "Lest he be wise in his own eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He who sends a message by the hand of a fool",
+          "Cuts off his own feet and drinks violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Like the legs of the lame that hang limp",
+          "Is a proverb in the mouth of fools."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Like one who binds a stone in a sling",
+          "Is he who gives honor to a fool."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Like a thorn that goes into the hand of a drunkard",
+          "Is a proverb in the mouth of fools."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The great God who formed everything",
+          "Gives the fool his hire and the transgressor his wages."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "As a dog returns to his own vomit,",
+          "So a fool repeats his folly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Do you see a man wise in his own eyes?",
+          "There is more hope for a fool than for him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The lazy man says, “There is a lion in the road!",
+          "A fierce lion is in the streets!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "As a door turns on its hinges,",
+          "So does the lazy man on his bed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The lazy man buries his hand in the bowl;",
+          "It wearies him to bring it back to his mouth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The lazy man is wiser in his own eyes",
+          "Than seven men who can answer sensibly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He who passes by and meddles in a quarrel not his own",
+          "Is like one who takes a dog by the ears."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Like a madman who throws firebrands, arrows, and death,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Is the man who deceives his neighbor,",
+          "And says, “I was only joking!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Where there is no wood, the fire goes out;",
+          "And where there is no talebearer, strife ceases."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "As charcoal is to burning coals, and wood to fire,",
+          "So is a contentious man to kindle strife."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The words of a talebearer are like tasty trifles,",
+          "And they go down into the inmost body."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Fervent lips with a wicked heart",
+          "Are like earthenware covered with silver dross."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "He who hates, disguises it with his lips,",
+          "And lays up deceit within himself;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "When he speaks kindly, do not believe him,",
+          "For there are seven abominations in his heart;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Though his hatred is covered by deceit,",
+          "His wickedness will be revealed before the assembly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Whoever digs a pit will fall into it,",
+          "And he who rolls a stone will have it roll back on him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "A lying tongue hates those who are crushed by it,",
+          "And a flattering mouth works ruin."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

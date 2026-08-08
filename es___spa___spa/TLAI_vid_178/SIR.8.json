@@ -1,1 +1,238 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.8","is_chapter":true,"previous":{"usfm":"SIR.7","human":"Eclesiástico 7","canonical":true,"toc":true},"current":{"usfm":"SIR.8","human":"Eclesiástico 8"},"next":{"usfm":"SIR.9","human":"Eclesiástico 9","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1,2],"lines":["No te pongas a pelear","contra gente rica y poderosa,","porque usarán su dinero","para que otros luchen contra ti,","y al final caerás bajo su dominio.","El dinero influye en la gente,","¡y hasta corrompe a los reyes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No discutas con charlatanes,","¡porque es echar leña al fuego!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No bromees con gente grosera,","para que no ofendan a tus padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No pongas en ridículo","a quien reconoce sus errores;","recuerda que nadie es perfecto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No te burles de los ancianos,","porque también llegarás a viejo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No te burles de los muertos,","porque todos moriremos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["No eches en saco roto","las enseñanzas de los sabios,","sino tómalas muy en serio,","porque así aprenderás","a tratar con gente importante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Lo que ahora enseñan los maestros","lo aprendieron de sus padres.","Atiende a sus enseñanzas,","para que sepas cómo responder","cuando llegue la ocasión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Provocar a un pecador","es jugar con fuego,","¡y te puedes quemar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["No discutas con gente orgullosa,","pues te atacará con tus propias palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12,13],"lines":["No prestes nada a los ricos","ni tampoco te hagas su fiador,","porque perderás lo que prestes","y acabarás pagando sus deudas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No entables pleito con un juez,","pues dictará sentencia a su favor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15,16],"lines":["No discutas con los tontos,","ni viajes con gente alocada,","porque puede costarte la vida.","Para ellos la vida no vale nada,","y cuando estés indefenso te atacarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No le cuentes nada a un tonto,","porque no sabe guardar secretos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18,19],"lines":["No descubras tus secretos","ni digas todo lo que piensas","en presencia de un extraño.","No sabes lo que él puede hacer,","y podrías verte en problemas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.9.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.7",
+      "human": "Eclesiástico 7"
+    },
+    "current": {
+      "usfm": "SIR.8",
+      "human": "Eclesiástico 8"
+    },
+    "next": {
+      "usfm": "SIR.9",
+      "human": "Eclesiástico 9"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2
+        ],
+        "lines": [
+          "No te pongas a pelear",
+          "contra gente rica y poderosa,",
+          "porque usarán su dinero",
+          "para que otros luchen contra ti,",
+          "y al final caerás bajo su dominio.",
+          "El dinero influye en la gente,",
+          "¡y hasta corrompe a los reyes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No discutas con charlatanes,",
+          "¡porque es echar leña al fuego!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No bromees con gente grosera,",
+          "para que no ofendan a tus padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No pongas en ridículo",
+          "a quien reconoce sus errores;",
+          "recuerda que nadie es perfecto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No te burles de los ancianos,",
+          "porque también llegarás a viejo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No te burles de los muertos,",
+          "porque todos moriremos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "No eches en saco roto",
+          "las enseñanzas de los sabios,",
+          "sino tómalas muy en serio,",
+          "porque así aprenderás",
+          "a tratar con gente importante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Lo que ahora enseñan los maestros",
+          "lo aprendieron de sus padres.",
+          "Atiende a sus enseñanzas,",
+          "para que sepas cómo responder",
+          "cuando llegue la ocasión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Provocar a un pecador",
+          "es jugar con fuego,",
+          "¡y te puedes quemar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "No discutas con gente orgullosa,",
+          "pues te atacará con tus propias palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12,
+          13
+        ],
+        "lines": [
+          "No prestes nada a los ricos",
+          "ni tampoco te hagas su fiador,",
+          "porque perderás lo que prestes",
+          "y acabarás pagando sus deudas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No entables pleito con un juez,",
+          "pues dictará sentencia a su favor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15,
+          16
+        ],
+        "lines": [
+          "No discutas con los tontos,",
+          "ni viajes con gente alocada,",
+          "porque puede costarte la vida.",
+          "Para ellos la vida no vale nada,",
+          "y cuando estés indefenso te atacarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No le cuentes nada a un tonto,",
+          "porque no sabe guardar secretos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18,
+          19
+        ],
+        "lines": [
+          "No descubras tus secretos",
+          "ni digas todo lo que piensas",
+          "en presencia de un extraño.",
+          "No sabes lo que él puede hacer,",
+          "y podrías verte en problemas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

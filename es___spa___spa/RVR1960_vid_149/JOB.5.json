@@ -1,1 +1,347 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.5","is_chapter":true,"previous":{"usfm":"JOB.4","human":"Job 4","canonical":true,"toc":true},"current":{"usfm":"JOB.5","human":"Job 5"},"next":{"usfm":"JOB.6","human":"Job 6","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Ahora, pues, da voces; ¿habrá quien te responda?","¿Y a cuál de los santos te volverás?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Es cierto que al necio lo mata la ira,","Y al codicioso lo consume la envidia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Yo he visto al necio que echaba raíces,","Y en la misma hora maldije su habitación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Sus hijos estarán lejos de la seguridad;","En la puerta serán quebrantados,","Y no habrá quién los libre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Su mies comerán los hambrientos,","Y la sacarán de entre los espinos,","Y los sedientos beberán su hacienda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque la aflicción no sale del polvo,","Ni la molestia brota de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero como las chispas se levantan para volar por el aire,","Así el hombre nace para la aflicción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ciertamente yo buscaría a Dios,","Y encomendaría a él mi causa;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El cual hace cosas grandes e inescrutables,","Y maravillas sin número;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Que da la lluvia sobre la faz de la tierra,","Y envía las aguas sobre los campos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Que pone a los humildes en altura,","Y a los enlutados levanta a seguridad;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Que frustra los pensamientos de los astutos,","Para que sus manos no hagan nada;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Que prende a los sabios en la astucia de ellos,","Y frustra los designios de los perversos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["De día tropiezan con tinieblas,","Y a mediodía andan a tientas como de noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Así libra de la espada al pobre, de la boca de los impíos,","Y de la mano violenta;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pues es esperanza al menesteroso,","Y la iniquidad cerrará su boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He aquí, bienaventurado es el hombre a quien Dios castiga;","Por tanto, no menosprecies la corrección del Todopoderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque él es quien hace la llaga, y él la vendará;","Él hiere, y sus manos curan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["En seis tribulaciones te librará,","Y en la séptima no te tocará el mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["En el hambre te salvará de la muerte,","Y del poder de la espada en la guerra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Del azote de la lengua serás encubierto;","No temerás la destrucción cuando viniere."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["De la destrucción y del hambre te reirás,","Y no temerás de las fieras del campo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Pues aun con las piedras del campo tendrás tu pacto,","Y las fieras del campo estarán en paz contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Sabrás que hay paz en tu tienda;","Visitarás tu morada, y nada te faltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Asimismo echarás de ver que tu descendencia es mucha,","Y tu prole como la hierba de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Vendrás en la vejez a la sepultura,","Como la gavilla de trigo que se recoge a su tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["He aquí lo que hemos inquirido, lo cual es así;","Óyelo, y conócelo tú para tu provecho."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOB.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOB.6.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.4",
+      "human": "Job 4"
+    },
+    "current": {
+      "usfm": "JOB.5",
+      "human": "Job 5"
+    },
+    "next": {
+      "usfm": "JOB.6",
+      "human": "Job 6"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ahora, pues, da voces; ¿habrá quien te responda?",
+          "¿Y a cuál de los santos te volverás?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Es cierto que al necio lo mata la ira,",
+          "Y al codicioso lo consume la envidia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Yo he visto al necio que echaba raíces,",
+          "Y en la misma hora maldije su habitación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Sus hijos estarán lejos de la seguridad;",
+          "En la puerta serán quebrantados,",
+          "Y no habrá quién los libre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Su mies comerán los hambrientos,",
+          "Y la sacarán de entre los espinos,",
+          "Y los sedientos beberán su hacienda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque la aflicción no sale del polvo,",
+          "Ni la molestia brota de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero como las chispas se levantan para volar por el aire,",
+          "Así el hombre nace para la aflicción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ciertamente yo buscaría a Dios,",
+          "Y encomendaría a él mi causa;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El cual hace cosas grandes e inescrutables,",
+          "Y maravillas sin número;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Que da la lluvia sobre la faz de la tierra,",
+          "Y envía las aguas sobre los campos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Que pone a los humildes en altura,",
+          "Y a los enlutados levanta a seguridad;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Que frustra los pensamientos de los astutos,",
+          "Para que sus manos no hagan nada;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Que prende a los sabios en la astucia de ellos,",
+          "Y frustra los designios de los perversos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "De día tropiezan con tinieblas,",
+          "Y a mediodía andan a tientas como de noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Así libra de la espada al pobre, de la boca de los impíos,",
+          "Y de la mano violenta;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pues es esperanza al menesteroso,",
+          "Y la iniquidad cerrará su boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He aquí, bienaventurado es el hombre a quien Dios castiga;",
+          "Por tanto, no menosprecies la corrección del Todopoderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque él es quien hace la llaga, y él la vendará;",
+          "Él hiere, y sus manos curan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "En seis tribulaciones te librará,",
+          "Y en la séptima no te tocará el mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "En el hambre te salvará de la muerte,",
+          "Y del poder de la espada en la guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Del azote de la lengua serás encubierto;",
+          "No temerás la destrucción cuando viniere."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "De la destrucción y del hambre te reirás,",
+          "Y no temerás de las fieras del campo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Pues aun con las piedras del campo tendrás tu pacto,",
+          "Y las fieras del campo estarán en paz contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Sabrás que hay paz en tu tienda;",
+          "Visitarás tu morada, y nada te faltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Asimismo echarás de ver que tu descendencia es mucha,",
+          "Y tu prole como la hierba de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Vendrás en la vejez a la sepultura,",
+          "Como la gavilla de trigo que se recoge a su tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "He aquí lo que hemos inquirido, lo cual es así;",
+          "Óyelo, y conócelo tú para tu provecho."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

@@ -1,1 +1,144 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Salmos 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Salmos 82"},"next":{"usfm":"PSA.83","human":"Salmos 83","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O profeta repreende os juízes por causa da sua injustiça"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Asaf"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["DEUS está na congregação dos poderosos; julga no meio dos deuses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Até quando julgareis injustamente, e respeitareis a aparência das pessoas dos ímpios? (Selah)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Defendei o pobre e o órfão: fazei justiça ao aflito e necessitado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eles nada sabem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Eu disse: Vós sois deuses, e vós outros sois todos filhos do Altíssimo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todavia, como homens morrereis, e caireis como qualquer dos príncipes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levanta-te, ó Deus, julga a terra, pois te pertencem todas as nações."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Salmos 83"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O profeta repreende os juízes por causa da sua injustiça"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Asaf"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "DEUS está na congregação dos poderosos; julga no meio dos deuses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Até quando julgareis injustamente, e respeitareis a aparência das pessoas dos ímpios? (Selah)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Defendei o pobre e o órfão: fazei justiça ao aflito e necessitado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Livrai o pobre e o necessitado; tirai-os das mãos dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eles nada sabem, nem entendem; andam em trevas; todos os fundamentos da terra vacilam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Eu disse: Vós sois deuses, e vós outros sois todos filhos do Altíssimo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todavia, como homens morrereis, e caireis como qualquer dos príncipes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levanta-te, ó Deus, julga a terra, pois te pertencem todas as nações."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

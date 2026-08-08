@@ -1,1 +1,332 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"ROM","name":"Romans"},"chapter":{"chapter_usfm":"ROM.16","is_chapter":true,"previous":{"usfm":"ROM.15","human":"Romans 15","canonical":true,"toc":true},"current":{"usfm":"ROM.16","human":"Romans 16"},"next":{"usfm":"1CO.1","human":"1 Corinthians 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Personal Greetings"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I commend to you our sister Phoebe, a servant of the church at Cenchreae,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Greet Prisca and Aquila, my fellow workers in Christ Jesus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Greet also the church in their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Greet Mary, who has worked hard for you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Greet Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known to the apostles, and they were in Christ before me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Greet Ampliatus, my beloved in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Greet Urbanus, our fellow worker in Christ, and my beloved Stachys."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Greet Apelles, who is approved in Christ. Greet those who belong to the family of Aristobulus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Greet one another with a holy kiss. All the churches of Christ greet you."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Final Instructions and Greetings"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["I Tertius, who wrote this letter, greet you in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Doxology"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["but has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, to bring about the obedience of faith—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["to the only wise God be glory forevermore through Jesus Christ! Amen."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.1.json"
+  },
+  "book": {
+    "book_usfm": "ROM",
+    "name": "Romans"
+  },
+  "chapter": {
+    "chapter_usfm": "ROM.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ROM.15",
+      "human": "Romans 15"
+    },
+    "current": {
+      "usfm": "ROM.16",
+      "human": "Romans 16"
+    },
+    "next": {
+      "usfm": "1CO.1",
+      "human": "1 Corinthians 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Personal Greetings"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I commend to you our sister Phoebe, a servant of the church at Cenchreae,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "that you may welcome her in the Lord in a way worthy of the saints, and help her in whatever she may need from you, for she has been a patron of many and of myself as well."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Greet Prisca and Aquila, my fellow workers in Christ Jesus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "who risked their necks for my life, to whom not only I give thanks but all the churches of the Gentiles give thanks as well."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Greet also the church in their house. Greet my beloved Epaenetus, who was the first convert to Christ in Asia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Greet Mary, who has worked hard for you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Greet Andronicus and Junia, my kinsmen and my fellow prisoners. They are well known to the apostles, and they were in Christ before me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Greet Ampliatus, my beloved in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Greet Urbanus, our fellow worker in Christ, and my beloved Stachys."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Greet Apelles, who is approved in Christ. Greet those who belong to the family of Aristobulus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Greet my kinsman Herodion. Greet those in the Lord who belong to the family of Narcissus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Greet those workers in the Lord, Tryphaena and Tryphosa. Greet the beloved Persis, who has worked hard in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Greet Rufus, chosen in the Lord; also his mother, who has been a mother to me as well."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Greet Asyncritus, Phlegon, Hermes, Patrobas, Hermas, and the brothers who are with them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Greet Philologus, Julia, Nereus and his sister, and Olympas, and all the saints who are with them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Greet one another with a holy kiss. All the churches of Christ greet you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Final Instructions and Greetings"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I appeal to you, brothers, to watch out for those who cause divisions and create obstacles contrary to the doctrine that you have been taught; avoid them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "For such persons do not serve our Lord Christ, but their own appetites, and by smooth talk and flattery they deceive the hearts of the naive."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "For your obedience is known to all, so that I rejoice over you, but I want you to be wise as to what is good and innocent as to what is evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "The God of peace will soon crush Satan under your feet. The grace of our Lord Jesus Christ be with you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Timothy, my fellow worker, greets you; so do Lucius and Jason and Sosipater, my kinsmen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "I Tertius, who wrote this letter, greet you in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Gaius, who is host to me and to the whole church, greets you. Erastus, the city treasurer, and our brother Quartus, greet you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Doxology"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Now to him who is able to strengthen you according to my gospel and the preaching of Jesus Christ, according to the revelation of the mystery that was kept secret for long ages"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "but has now been disclosed and through the prophetic writings has been made known to all nations, according to the command of the eternal God, to bring about the obedience of faith—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "to the only wise God be glory forevermore through Jesus Christ! Amen."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

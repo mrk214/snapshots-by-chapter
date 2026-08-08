@@ -1,1 +1,125 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Salmos 128"},"next":{"usfm":"PSA.129","human":"Salmos 129","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cântico de Peregrinação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Como é feliz quem teme o Senhor,","quem anda em seus caminhos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Você comerá do fruto do seu trabalho","e será feliz e próspero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sua mulher será como videira frutífera","em sua casa;","seus filhos serão como brotos de oliveira","ao redor da sua mesa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Assim será abençoado","o homem que teme o Senhor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que o Senhor o abençoe desde Sião,","para que você veja a prosperidade de Jerusalém","todos os dias da sua vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e veja os filhos dos seus filhos.","Haja paz em Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de Peregrinação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como é feliz quem teme o Senhor,",
+          "quem anda em seus caminhos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Você comerá do fruto do seu trabalho",
+          "e será feliz e próspero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sua mulher será como videira frutífera",
+          "em sua casa;",
+          "seus filhos serão como brotos de oliveira",
+          "ao redor da sua mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Assim será abençoado",
+          "o homem que teme o Senhor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que o Senhor o abençoe desde Sião,",
+          "para que você veja a prosperidade de Jerusalém",
+          "todos os dias da sua vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e veja os filhos dos seus filhos.",
+          "Haja paz em Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,176 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.11","is_chapter":true,"previous":{"usfm":"ECC.10","human":"Eclesiastés 10","canonical":true,"toc":true},"current":{"usfm":"ECC.11","human":"Eclesiastés 11"},"next":{"usfm":"ECC.12","human":"Eclesiastés 12","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Echa tu pan sobre las aguas,","que después de muchos días lo hallarás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Reparte tu porción con siete, o aun con ocho,","porque no sabes qué mal puede venir sobre la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Si las nubes están llenas,","derraman lluvia sobre la tierra;","y caiga el árbol al sur o al norte,","donde cae el árbol allí se queda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Él que observa el viento no siembra,","y el que mira las nubes no siega."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Como no sabes cuál es el camino del viento,","o cómo se forman los huesos en el vientre de la mujer encinta,","tampoco conoces la obra de Dios que hace todas las cosas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["De mañana siembra tu semilla","y a la tarde no des reposo a tu mano,","porque no sabes si esto o aquello prosperará,","o si ambas cosas serán igualmente buenas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Consejos a la juventud"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Agradable es la luz,","y bueno para los ojos ver el sol."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ciertamente, si un hombre vive muchos años,","que en todos ellos se regocije,","pero recuerde que los días de tinieblas serán muchos.","Todo lo por venir es vanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Alégrate, joven, en tu mocedad,","y tome placer tu corazón en los días de tu juventud.","Sigue los impulsos de tu corazón y el gusto de tus ojos;","mas debes saber que por todas estas cosas, Dios te traerá a juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por tanto, aparta de tu corazón la congoja","y aleja el sufrimiento de tu cuerpo,","porque la mocedad y la primavera de la vida son vanidad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ECC.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ECC.12.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.10",
+      "human": "Eclesiastés 10"
+    },
+    "current": {
+      "usfm": "ECC.11",
+      "human": "Eclesiastés 11"
+    },
+    "next": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Echa tu pan sobre las aguas,",
+          "que después de muchos días lo hallarás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Reparte tu porción con siete, o aun con ocho,",
+          "porque no sabes qué mal puede venir sobre la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Si las nubes están llenas,",
+          "derraman lluvia sobre la tierra;",
+          "y caiga el árbol al sur o al norte,",
+          "donde cae el árbol allí se queda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Él que observa el viento no siembra,",
+          "y el que mira las nubes no siega."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Como no sabes cuál es el camino del viento,",
+          "o cómo se forman los huesos en el vientre de la mujer encinta,",
+          "tampoco conoces la obra de Dios que hace todas las cosas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "De mañana siembra tu semilla",
+          "y a la tarde no des reposo a tu mano,",
+          "porque no sabes si esto o aquello prosperará,",
+          "o si ambas cosas serán igualmente buenas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Consejos a la juventud"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Agradable es la luz,",
+          "y bueno para los ojos ver el sol."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ciertamente, si un hombre vive muchos años,",
+          "que en todos ellos se regocije,",
+          "pero recuerde que los días de tinieblas serán muchos.",
+          "Todo lo por venir es vanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Alégrate, joven, en tu mocedad,",
+          "y tome placer tu corazón en los días de tu juventud.",
+          "Sigue los impulsos de tu corazón y el gusto de tus ojos;",
+          "mas debes saber que por todas estas cosas, Dios te traerá a juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por tanto, aparta de tu corazón la congoja",
+          "y aleja el sufrimiento de tu cuerpo,",
+          "porque la mocedad y la primavera de la vida son vanidad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

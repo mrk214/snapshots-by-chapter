@@ -1,1 +1,226 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"HOS","name":"Oseias"},"chapter":{"chapter_usfm":"HOS.9","is_chapter":true,"previous":{"usfm":"HOS.8","human":"Oseias 8","canonical":true,"toc":true},"current":{"usfm":"HOS.9","human":"Oseias 9"},"next":{"usfm":"HOS.10","human":"Oseias 10","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O pecado de Israel e a sua consequência"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Não te alegres, ó Israel, até saltar, como os povos; porque te foste do teu Deus como uma meretriz; amaste a paga sobre todas as eiras de trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A eira e o lagar não os manterão; e o mosto lhes faltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Na terra do Senhor, não permanecerão; mas Efraim tornará ao Egito, e na Assíria comerão comida imunda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Não derramarão vinho perante o Senhor, nem as suas ofertas serão para ele suaves; os seus sacrifícios para eles serão como pão de pranteadores; todos os que dele comessem seriam imundos, porque o seu pão será para o seu apetite; não entrará na casa do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que fareis vós no dia da solenidade e no dia da festa do Senhor?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque eis que eles se foram por causa da destruição, mas o Egito os recolherá, Mênfis os sepultará; o desejável da sua prata as urtigas o possuirão por herança; espinhos haverá nas suas moradas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Chegaram os dias da visitação, chegaram os dias da retribuição; Israel o saberá; o profeta é um insensato, o homem de espírito é um louco; por causa da abundância da tua iniquidade, também avultará o ódio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Efraim era vigia junto com o meu Deus, mas o profeta é como um laço de caçador de aves em todos os seus caminhos, um inimigo na casa do seu Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mui profundamente se corromperam, como nos dias de Gibeá. Ele lembrar-se-á das suas injustiças, visitará os pecados deles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Achei Israel como uvas no deserto, vi a vossos pais como a fruta temporã da figueira no seu princípio; mas eles foram para Baal-Peor, e se consagraram a essa coisa vergonhosa, e se tornaram abomináveis como aquilo que amaram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Quanto a Efraim, a sua glória, como ave, voará; não haverá nascimento, não haverá filho, nem concepção."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ainda que venham a criar seus filhos, eu os privarei deles, para que não fique nenhum homem; porque também ai deles, quando deles me apartar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Efraim, assim como vi Tiro, está plantado em um lugar deleitoso; mas Efraim levará seus filhos ao matador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Dá-lhes, ó Senhor; mas que lhes darás? Dá-lhes uma madre que aborte e seios secos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Toda a sua malícia se acha em Gilgal, porque ali os aborreci; por causa da maldade das suas obras, os lançarei fora de minha casa; não os amarei mais; todos os seus príncipes são rebeldes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Efraim foi ferido, secou-se a sua raiz; não darão fruto; sim, ainda que gerem, eu matarei os frutos desejáveis do seu ventre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["O meu Deus os rejeitará, porque não o ouvem; e desocupados andarão entre as nações."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.8.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.10.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseias"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.9",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.8",
+      "human": "Oseias 8"
+    },
+    "current": {
+      "usfm": "HOS.9",
+      "human": "Oseias 9"
+    },
+    "next": {
+      "usfm": "HOS.10",
+      "human": "Oseias 10"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O pecado de Israel e a sua consequência"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Não te alegres, ó Israel, até saltar, como os povos; porque te foste do teu Deus como uma meretriz; amaste a paga sobre todas as eiras de trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A eira e o lagar não os manterão; e o mosto lhes faltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Na terra do Senhor, não permanecerão; mas Efraim tornará ao Egito, e na Assíria comerão comida imunda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Não derramarão vinho perante o Senhor, nem as suas ofertas serão para ele suaves; os seus sacrifícios para eles serão como pão de pranteadores; todos os que dele comessem seriam imundos, porque o seu pão será para o seu apetite; não entrará na casa do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que fareis vós no dia da solenidade e no dia da festa do Senhor?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque eis que eles se foram por causa da destruição, mas o Egito os recolherá, Mênfis os sepultará; o desejável da sua prata as urtigas o possuirão por herança; espinhos haverá nas suas moradas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Chegaram os dias da visitação, chegaram os dias da retribuição; Israel o saberá; o profeta é um insensato, o homem de espírito é um louco; por causa da abundância da tua iniquidade, também avultará o ódio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Efraim era vigia junto com o meu Deus, mas o profeta é como um laço de caçador de aves em todos os seus caminhos, um inimigo na casa do seu Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mui profundamente se corromperam, como nos dias de Gibeá. Ele lembrar-se-á das suas injustiças, visitará os pecados deles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Achei Israel como uvas no deserto, vi a vossos pais como a fruta temporã da figueira no seu princípio; mas eles foram para Baal-Peor, e se consagraram a essa coisa vergonhosa, e se tornaram abomináveis como aquilo que amaram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Quanto a Efraim, a sua glória, como ave, voará; não haverá nascimento, não haverá filho, nem concepção."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ainda que venham a criar seus filhos, eu os privarei deles, para que não fique nenhum homem; porque também ai deles, quando deles me apartar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Efraim, assim como vi Tiro, está plantado em um lugar deleitoso; mas Efraim levará seus filhos ao matador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Dá-lhes, ó Senhor; mas que lhes darás? Dá-lhes uma madre que aborte e seios secos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Toda a sua malícia se acha em Gilgal, porque ali os aborreci; por causa da maldade das suas obras, os lançarei fora de minha casa; não os amarei mais; todos os seus príncipes são rebeldes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Efraim foi ferido, secou-se a sua raiz; não darão fruto; sim, ainda que gerem, eu matarei os frutos desejáveis do seu ventre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "O meu Deus os rejeitará, porque não o ouvem; e desocupados andarão entre as nações."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

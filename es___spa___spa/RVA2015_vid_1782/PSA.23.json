@@ -1,1 +1,138 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.23","is_chapter":true,"previous":{"usfm":"PSA.22","human":"Salmos 22","canonical":true,"toc":true},"current":{"usfm":"PSA.23","human":"Salmos 23"},"next":{"usfm":"PSA.24","human":"Salmos 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El SEÑOR: el buen pastor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El SEÑOR es mi pastor;","nada me faltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En prados de tiernos pastos","me hace descansar.","Junto a aguas tranquilas me conduce."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Confortará mi alma","y me guiará por sendas de justicia","por amor de su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Aunque ande en valle de sombra de muerte","no temeré mal alguno,","porque tú estarás conmigo.","Tu vara y tu cayado me infundirán aliento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Preparas mesa delante de mí","en presencia de mis adversarios.","Unges mi cabeza con aceite;","mi copa está rebosando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ciertamente el bien y la misericordia","me seguirán todos los días de mi vida,","y en la casa del SEÑOR","moraré por días sin fin."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.24.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.22",
+      "human": "Salmos 22"
+    },
+    "current": {
+      "usfm": "PSA.23",
+      "human": "Salmos 23"
+    },
+    "next": {
+      "usfm": "PSA.24",
+      "human": "Salmos 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El SEÑOR: el buen pastor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El SEÑOR es mi pastor;",
+          "nada me faltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En prados de tiernos pastos",
+          "me hace descansar.",
+          "Junto a aguas tranquilas me conduce."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Confortará mi alma",
+          "y me guiará por sendas de justicia",
+          "por amor de su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Aunque ande en valle de sombra de muerte",
+          "no temeré mal alguno,",
+          "porque tú estarás conmigo.",
+          "Tu vara y tu cayado me infundirán aliento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Preparas mesa delante de mí",
+          "en presencia de mis adversarios.",
+          "Unges mi cabeza con aceite;",
+          "mi copa está rebosando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ciertamente el bien y la misericordia",
+          "me seguirán todos los días de mi vida,",
+          "y en la casa del SEÑOR",
+          "moraré por días sin fin."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

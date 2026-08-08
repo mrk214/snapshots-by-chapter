@@ -1,1 +1,124 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.53","is_chapter":true,"previous":{"usfm":"PSA.52","human":"Salmos 52","canonical":true,"toc":true},"current":{"usfm":"PSA.53","human":"Salmos 53"},"next":{"usfm":"PSA.54","human":"Salmos 54","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O ímpio nega a existência de Deus e se corrompe"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao regente do coro: adaptado para Maalate — Masquil de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O insensato diz no seu coração: Deus não existe. Todos se corrompem e praticam abominações; não há quem faça o bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Deus olha do céu para os filhos dos homens, para ver se há alguém que tenha entendimento, que busque a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Todos se desviaram e juntos se corromperam; não há ninguém que faça o bem, não há um sequer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Por acaso nenhum dos malfeitores compreende? Eles devoram o meu povo como quem come pão, e não invocam a Deus!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Serão tomados de grande pavor, porque Deus dispersa os ossos dos que acampam contra ti; tu os envergonhas, pois Deus os rejeitou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ah, se de Sião viesse a salvação de Israel! Quando Deus trouxer de volta os cativos do seu povo, então Jacó se regozijará, e Israel se alegrará."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.52.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.54.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.53",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.52",
+      "human": "Salmos 52"
+    },
+    "current": {
+      "usfm": "PSA.53",
+      "human": "Salmos 53"
+    },
+    "next": {
+      "usfm": "PSA.54",
+      "human": "Salmos 54"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O ímpio nega a existência de Deus e se corrompe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao regente do coro: adaptado para Maalate — Masquil de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O insensato diz no seu coração: Deus não existe. Todos se corrompem e praticam abominações; não há quem faça o bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Deus olha do céu para os filhos dos homens, para ver se há alguém que tenha entendimento, que busque a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Todos se desviaram e juntos se corromperam; não há ninguém que faça o bem, não há um sequer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Por acaso nenhum dos malfeitores compreende? Eles devoram o meu povo como quem come pão, e não invocam a Deus!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Serão tomados de grande pavor, porque Deus dispersa os ossos dos que acampam contra ti; tu os envergonhas, pois Deus os rejeitou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ah, se de Sião viesse a salvação de Israel! Quando Deus trouxer de volta os cativos do seu povo, então Jacó se regozijará, e Israel se alegrará."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

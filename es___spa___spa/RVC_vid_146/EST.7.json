@@ -1,1 +1,166 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.7","is_chapter":true,"previous":{"usfm":"EST.6","human":"Ester 6","canonical":true,"toc":true},"current":{"usfm":"EST.7","human":"Ester 7"},"next":{"usfm":"EST.8","human":"Ester 8","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Amán es ahorcado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El rey fue con Amán al banquete de la reina Ester."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En el segundo día, mientras bebían vino, el rey le preguntó a Ester:","«¿Cuál es tu petición, reina Ester? Te será concedida. ¿Qué es lo que pides? Aunque pidas la mitad del reino, te será otorgada.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["La reina Ester respondió:","«Si en verdad soy del agrado de Su Majestad, y si a Su Majestad le parece bien, mi petición es que se me conceda la vida de mi pueblo y mi propia vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque a mi pueblo y a mí se nos ha vendido. ¡Se nos quiere destruir, matar y exterminar! Si se nos hubiera vendido para ser esclavos y esclavas, me callaría; pero nuestra muerte será para Su Majestad un daño irreparable.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Como respuesta, el rey Asuero le preguntó a la reina Ester:","«¿Quién es, y dónde está, el que ha abrigado en su corazón hacer tal cosa?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ester dijo:","«El enemigo y adversario es este malvado Amán.»","Entonces Amán se trastornó ante el rey y la reina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Lleno de ira, el rey se levantó del banquete y se fue al huerto del palacio, mientras que Amán se quedó para suplicarle a la reina Ester que le perdonara la vida, pues se dio cuenta del peligro que corría por el enojo del rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cuando el rey volvió del huerto del palacio al aposento del banquete, y vio que Amán estaba recostado sobre el lecho donde estaba Ester, le dijo:","«¿Acaso quieres también violar a la reina en mi propia casa?»","Al proferir el rey estas palabras, le cubrieron el rostro a Amán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces Jarboná, que era uno de los eunucos del rey, dijo:","«En la casa de Amán hay una horca de más de veinte metros de altura. La mandó hacer Amán para colgar a Mardoqueo, que fue quien habló en favor del rey.»","Y el rey ordenó:","«¡Cuelguen de ella a Amán!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y así Amán fue colgado en la horca que había mandado preparar para Mardoqueo. Con esto, la ira del rey se calmó."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EST.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EST.8.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.6",
+      "human": "Ester 6"
+    },
+    "current": {
+      "usfm": "EST.7",
+      "human": "Ester 7"
+    },
+    "next": {
+      "usfm": "EST.8",
+      "human": "Ester 8"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Amán es ahorcado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El rey fue con Amán al banquete de la reina Ester."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En el segundo día, mientras bebían vino, el rey le preguntó a Ester:",
+          "«¿Cuál es tu petición, reina Ester? Te será concedida. ¿Qué es lo que pides? Aunque pidas la mitad del reino, te será otorgada.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "La reina Ester respondió:",
+          "«Si en verdad soy del agrado de Su Majestad, y si a Su Majestad le parece bien, mi petición es que se me conceda la vida de mi pueblo y mi propia vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque a mi pueblo y a mí se nos ha vendido. ¡Se nos quiere destruir, matar y exterminar! Si se nos hubiera vendido para ser esclavos y esclavas, me callaría; pero nuestra muerte será para Su Majestad un daño irreparable.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Como respuesta, el rey Asuero le preguntó a la reina Ester:",
+          "«¿Quién es, y dónde está, el que ha abrigado en su corazón hacer tal cosa?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ester dijo:",
+          "«El enemigo y adversario es este malvado Amán.»",
+          "Entonces Amán se trastornó ante el rey y la reina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Lleno de ira, el rey se levantó del banquete y se fue al huerto del palacio, mientras que Amán se quedó para suplicarle a la reina Ester que le perdonara la vida, pues se dio cuenta del peligro que corría por el enojo del rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cuando el rey volvió del huerto del palacio al aposento del banquete, y vio que Amán estaba recostado sobre el lecho donde estaba Ester, le dijo:",
+          "«¿Acaso quieres también violar a la reina en mi propia casa?»",
+          "Al proferir el rey estas palabras, le cubrieron el rostro a Amán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces Jarboná, que era uno de los eunucos del rey, dijo:",
+          "«En la casa de Amán hay una horca de más de veinte metros de altura. La mandó hacer Amán para colgar a Mardoqueo, que fue quien habló en favor del rey.»",
+          "Y el rey ordenó:",
+          "«¡Cuelguen de ella a Amán!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y así Amán fue colgado en la horca que había mandado preparar para Mardoqueo. Con esto, la ira del rey se calmó."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

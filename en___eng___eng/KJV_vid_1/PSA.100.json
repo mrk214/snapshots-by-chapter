@@ -1,1 +1,109 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.100","is_chapter":true,"previous":{"usfm":"PSA.99","human":"Psalm 99","canonical":true,"toc":true},"current":{"usfm":"PSA.100","human":"Psalm 100"},"next":{"usfm":"PSA.101","human":"Psalm 101","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm of praise."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Make a joyful noise unto the LORD, all ye lands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Serve the LORD with gladness: Come before his presence with singing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Know ye that the LORD he is God:","It is he that hath made us, and not we ourselves; We are his people, and the sheep of his pasture."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Enter into his gates with thanksgiving, And into his courts with praise:","Be thankful unto him, and bless his name."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For the LORD is good; his mercy is everlasting;","And his truth endureth to all generations."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.99.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.101.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.100",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.99",
+      "human": "Psalm 99"
+    },
+    "current": {
+      "usfm": "PSA.100",
+      "human": "Psalm 100"
+    },
+    "next": {
+      "usfm": "PSA.101",
+      "human": "Psalm 101"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of praise."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Make a joyful noise unto the LORD, all ye lands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Serve the LORD with gladness: Come before his presence with singing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Know ye that the LORD he is God:",
+          "It is he that hath made us, and not we ourselves; We are his people, and the sheep of his pasture."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Enter into his gates with thanksgiving, And into his courts with praise:",
+          "Be thankful unto him, and bless his name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For the LORD is good; his mercy is everlasting;",
+          "And his truth endureth to all generations."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

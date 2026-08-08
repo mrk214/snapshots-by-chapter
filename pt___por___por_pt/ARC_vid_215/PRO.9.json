@@ -1,1 +1,236 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PRO","name":"Provérbios"},"chapter":{"chapter_usfm":"PRO.9","is_chapter":true,"previous":{"usfm":"PRO.8","human":"Provérbios 8","canonical":true,"toc":true},"current":{"usfm":"PRO.9","human":"Provérbios 9"},"next":{"usfm":"PRO.10","human":"Provérbios 10","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O banquete da Sabedoria"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A SABEDORIA já edificou a sua casa, já lavrou as suas sete colunas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Já sacrificou as suas vítimas, misturou o seu vinho, e já preparou a sua mesa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Já deu ordens às suas criadas, já anda convidando, desde as alturas da cidade, dizendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Quem é simples, volte-se para aqui. Aos faltos de entendimento, diz:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Vinde, comei do meu pão, e bebei do vinho que tenho misturado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Deixai os insensatos, e vivei; e andai pelo caminho do entendimento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O que repreende o escarnecedor, afronta toma para si; e o que censura o ímpio, recebe a sua mancha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Não repreendas o escarnecedor, para que te não aborreça: repreende o sábio, e amar-te-á."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Dá instrução ao sábio, e ele se fará mais sábio: ensina ao justo, e ele crescerá em entendimento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O temor do Senhor é o princípio da sabedoria, e a ciência do Santo a prudência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Porque por mim se multiplicam os teus dias, e anos de vida se te acrescentarão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Se fores sábio, para ti sábio serás; e, se fores escarnecedor, tu só o suportarás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["A mulher louca é alvoroçadora; é simples, e não sabe coisa alguma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["E assenta-se à porta da sua casa ou numa cadeira, nas alturas da cidade,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Para chamar os que passam e seguem direitos o seu caminho;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Quem é simples, volte-se para aqui. E aos faltos de entendimento, diz:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["As águas roubadas são doces, e o pão comido a ocultas é suave."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Mas não sabe que ali estão os mortos; que os seus convidados estão nas profundezas do inferno."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.8.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.10.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Provérbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.9",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.8",
+      "human": "Provérbios 8"
+    },
+    "current": {
+      "usfm": "PRO.9",
+      "human": "Provérbios 9"
+    },
+    "next": {
+      "usfm": "PRO.10",
+      "human": "Provérbios 10"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O banquete da Sabedoria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A SABEDORIA já edificou a sua casa, já lavrou as suas sete colunas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Já sacrificou as suas vítimas, misturou o seu vinho, e já preparou a sua mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Já deu ordens às suas criadas, já anda convidando, desde as alturas da cidade, dizendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Quem é simples, volte-se para aqui. Aos faltos de entendimento, diz:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Vinde, comei do meu pão, e bebei do vinho que tenho misturado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Deixai os insensatos, e vivei; e andai pelo caminho do entendimento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O que repreende o escarnecedor, afronta toma para si; e o que censura o ímpio, recebe a sua mancha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Não repreendas o escarnecedor, para que te não aborreça: repreende o sábio, e amar-te-á."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Dá instrução ao sábio, e ele se fará mais sábio: ensina ao justo, e ele crescerá em entendimento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O temor do Senhor é o princípio da sabedoria, e a ciência do Santo a prudência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Porque por mim se multiplicam os teus dias, e anos de vida se te acrescentarão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Se fores sábio, para ti sábio serás; e, se fores escarnecedor, tu só o suportarás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "A mulher louca é alvoroçadora; é simples, e não sabe coisa alguma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "E assenta-se à porta da sua casa ou numa cadeira, nas alturas da cidade,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Para chamar os que passam e seguem direitos o seu caminho;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Quem é simples, volte-se para aqui. E aos faltos de entendimento, diz:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "As águas roubadas são doces, e o pão comido a ocultas é suave."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Mas não sabe que ali estão os mortos; que os seus convidados estão nas profundezas do inferno."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

@@ -1,1 +1,227 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.8","is_chapter":true,"previous":{"usfm":"ECC.7","human":"Eclesiastés 7","canonical":true,"toc":true},"current":{"usfm":"ECC.8","human":"Eclesiastés 8"},"next":{"usfm":"ECC.9","human":"Eclesiastés 9","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["¿Quién es como el sabio?","¿Y quién otro sabe la explicación de un asunto?","La sabiduría del hombre ilumina su rostro","Y hace que la dureza de su rostro cambie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yo digo: «Guarda el mandato del rey por causa del juramento de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No te apresures a irte de su presencia. No te unas a una causa impía, porque él hará todo lo que le plazca»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Puesto que la palabra del rey es soberana, ¿quién le dirá: «¿Qué haces?»?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶El que guarda el mandato real no experimenta ningún mal;","Porque el corazón del sabio conoce el tiempo y el modo de hacerlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque para cada deleite hay un tiempo y un modo,","Aunque la aflicción del hombre sea mucha sobre él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Si nadie sabe qué sucederá,","¿Quién le anunciará cómo ha de suceder?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["No hay hombre que tenga potestad para refrenar el viento con el viento,","Ni potestad sobre el día de la muerte.","No se da licencia en tiempo de guerra,","Ni la impiedad salvará a los que la practican."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Todo esto he visto, y he puesto mi corazón en toda obra que se hace bajo el sol, cuando el hombre domina a otro hombre para su mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["También he visto a los impíos ser sepultados, los que entraban y salían del lugar santo, y que fueron pronto olvidados en la ciudad en que así habían actuado. También esto es vanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Porque la sentencia contra una mala obra no se ejecuta enseguida, el corazón de los hijos de los hombres está en ellos entregado enteramente a hacer el mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Aunque el pecador haga el mal cien veces y alargue su vida, con todo, yo sé que les irá bien a los que temen a Dios, a los que temen ante Su presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pero no le irá bien al impío, ni alargará sus días como una sombra, porque no teme ante la presencia de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Hay una vanidad que se hace sobre la tierra: hay justos a quienes les sucede conforme a las obras de los impíos, y hay impíos a quienes les sucede conforme a las obras de los justos. Digo que también esto es vanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por tanto yo alabé el placer, porque no hay nada bueno para el hombre bajo el sol sino comer, beber y divertirse, y esto le acompañará en sus afanes en los días de su vida que Dios le haya dado bajo el sol."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Cuando apliqué mi corazón a conocer la sabiduría y a ver la tarea que ha sido hecha sobre la tierra (aunque uno no durmiera ni de día ni de noche),"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["y vi toda la obra de Dios, decidí que el hombre no puede descubrir la obra que se ha hecho bajo el sol. Aunque el hombre busque con afán, no la descubrirá; y aunque el sabio diga que la conoce, no puede descubrirla."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ECC.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ECC.9.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.7",
+      "human": "Eclesiastés 7"
+    },
+    "current": {
+      "usfm": "ECC.8",
+      "human": "Eclesiastés 8"
+    },
+    "next": {
+      "usfm": "ECC.9",
+      "human": "Eclesiastés 9"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¿Quién es como el sabio?",
+          "¿Y quién otro sabe la explicación de un asunto?",
+          "La sabiduría del hombre ilumina su rostro",
+          "Y hace que la dureza de su rostro cambie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yo digo: «Guarda el mandato del rey por causa del juramento de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No te apresures a irte de su presencia. No te unas a una causa impía, porque él hará todo lo que le plazca»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Puesto que la palabra del rey es soberana, ¿quién le dirá: «¿Qué haces?»?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶El que guarda el mandato real no experimenta ningún mal;",
+          "Porque el corazón del sabio conoce el tiempo y el modo de hacerlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque para cada deleite hay un tiempo y un modo,",
+          "Aunque la aflicción del hombre sea mucha sobre él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Si nadie sabe qué sucederá,",
+          "¿Quién le anunciará cómo ha de suceder?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "No hay hombre que tenga potestad para refrenar el viento con el viento,",
+          "Ni potestad sobre el día de la muerte.",
+          "No se da licencia en tiempo de guerra,",
+          "Ni la impiedad salvará a los que la practican."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Todo esto he visto, y he puesto mi corazón en toda obra que se hace bajo el sol, cuando el hombre domina a otro hombre para su mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "También he visto a los impíos ser sepultados, los que entraban y salían del lugar santo, y que fueron pronto olvidados en la ciudad en que así habían actuado. También esto es vanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Porque la sentencia contra una mala obra no se ejecuta enseguida, el corazón de los hijos de los hombres está en ellos entregado enteramente a hacer el mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Aunque el pecador haga el mal cien veces y alargue su vida, con todo, yo sé que les irá bien a los que temen a Dios, a los que temen ante Su presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pero no le irá bien al impío, ni alargará sus días como una sombra, porque no teme ante la presencia de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Hay una vanidad que se hace sobre la tierra: hay justos a quienes les sucede conforme a las obras de los impíos, y hay impíos a quienes les sucede conforme a las obras de los justos. Digo que también esto es vanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por tanto yo alabé el placer, porque no hay nada bueno para el hombre bajo el sol sino comer, beber y divertirse, y esto le acompañará en sus afanes en los días de su vida que Dios le haya dado bajo el sol."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Cuando apliqué mi corazón a conocer la sabiduría y a ver la tarea que ha sido hecha sobre la tierra (aunque uno no durmiera ni de día ni de noche),"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "y vi toda la obra de Dios, decidí que el hombre no puede descubrir la obra que se ha hecho bajo el sol. Aunque el hombre busque con afán, no la descubrirá; y aunque el sabio diga que la conoce, no puede descubrirla."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

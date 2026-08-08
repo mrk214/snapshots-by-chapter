@@ -1,1 +1,167 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.4","is_chapter":true,"previous":{"usfm":"PSA.3","human":"Salmo 3","canonical":true,"toc":true},"current":{"usfm":"PSA.4","human":"Salmo 4"},"next":{"usfm":"PSA.5","human":"Salmo 5","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Responde a mi clamor,","Dios mío y defensor mío.","Dame alivio cuando esté angustiado,","apiádate de mí y escucha mi oración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Y vosotros, señores,","¿hasta cuándo cambiaréis mi gloria en vergüenza?","¿Hasta cuándo amaréis ídolos vanos","e iréis en pos de lo ilusorio?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sabed que el Señor honra al que le es fiel;","el Señor me escucha cuando lo llamo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Si os enojáis, no pequéis;","en la quietud del descanso nocturno","examinaos el corazón."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ofreced sacrificios de justicia","y confiad en el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Muchos son los que dicen:","«¿Quién puede mostrarnos algún bien?»","¡Haz, Señor, que sobre nosotros","brille la luz de tu rostro!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tú has hecho que mi corazón rebose de alegría,","alegría mayor que la que tienen los que disfrutan de trigo y vino en abundancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["En paz me acuesto y me duermo,","porque solo tú, Señor, me haces vivir confiado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.5.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.3",
+      "human": "Salmo 3"
+    },
+    "current": {
+      "usfm": "PSA.4",
+      "human": "Salmo 4"
+    },
+    "next": {
+      "usfm": "PSA.5",
+      "human": "Salmo 5"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Responde a mi clamor,",
+          "Dios mío y defensor mío.",
+          "Dame alivio cuando esté angustiado,",
+          "apiádate de mí y escucha mi oración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Y vosotros, señores,",
+          "¿hasta cuándo cambiaréis mi gloria en vergüenza?",
+          "¿Hasta cuándo amaréis ídolos vanos",
+          "e iréis en pos de lo ilusorio?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sabed que el Señor honra al que le es fiel;",
+          "el Señor me escucha cuando lo llamo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Si os enojáis, no pequéis;",
+          "en la quietud del descanso nocturno",
+          "examinaos el corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ofreced sacrificios de justicia",
+          "y confiad en el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Muchos son los que dicen:",
+          "«¿Quién puede mostrarnos algún bien?»",
+          "¡Haz, Señor, que sobre nosotros",
+          "brille la luz de tu rostro!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tú has hecho que mi corazón rebose de alegría,",
+          "alegría mayor que la que tienen los que disfrutan de trigo y vino en abundancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "En paz me acuesto y me duermo,",
+          "porque solo tú, Señor, me haces vivir confiado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

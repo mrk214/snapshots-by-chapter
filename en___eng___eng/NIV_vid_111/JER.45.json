@@ -1,1 +1,106 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JER","name":"Jeremiah"},"chapter":{"chapter_usfm":"JER.45","is_chapter":true,"previous":{"usfm":"JER.44","human":"Jeremiah 44","canonical":true,"toc":true},"current":{"usfm":"JER.45","human":"Jeremiah 45"},"next":{"usfm":"JER.46","human":"Jeremiah 46","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Message to Baruch"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["When Baruch son of Neriah wrote on a scroll the words Jeremiah the prophet dictated in the fourth year of Jehoiakim son of Josiah king of Judah, Jeremiah said this to Baruch:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“This is what the Lord, the God of Israel, says to you, Baruch:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["You said, ‘Woe to me! The Lord has added sorrow to my pain; I am worn out with groaning and find no rest.’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But the Lord has told me to say to you, ‘This is what the Lord says: I will overthrow what I have built and uproot what I have planted, throughout the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Should you then seek great things for yourself? Do not seek them. For I will bring disaster on all people, declares the Lord, but wherever you go I will let you escape with your life.’ ”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.44.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.46.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremiah"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.45",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.44",
+      "human": "Jeremiah 44"
+    },
+    "current": {
+      "usfm": "JER.45",
+      "human": "Jeremiah 45"
+    },
+    "next": {
+      "usfm": "JER.46",
+      "human": "Jeremiah 46"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Message to Baruch"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "When Baruch son of Neriah wrote on a scroll the words Jeremiah the prophet dictated in the fourth year of Jehoiakim son of Josiah king of Judah, Jeremiah said this to Baruch:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“This is what the Lord, the God of Israel, says to you, Baruch:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "You said, ‘Woe to me! The Lord has added sorrow to my pain; I am worn out with groaning and find no rest.’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But the Lord has told me to say to you, ‘This is what the Lord says: I will overthrow what I have built and uproot what I have planted, throughout the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Should you then seek great things for yourself? Do not seek them. For I will bring disaster on all people, declares the Lord, but wherever you go I will let you escape with your life.’ ”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

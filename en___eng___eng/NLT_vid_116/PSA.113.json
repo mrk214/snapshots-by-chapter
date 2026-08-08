@@ -1,1 +1,149 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.113","is_chapter":true,"previous":{"usfm":"PSA.112","human":"Psalms 112","canonical":true,"toc":true},"current":{"usfm":"PSA.113","human":"Psalms 113"},"next":{"usfm":"PSA.114","human":"Psalms 114","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","Yes, give praise, O servants of the Lord.","Praise the name of the Lord!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Blessed be the name of the Lord","now and forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Everywhere—from east to west—","praise the name of the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For the Lord is high above the nations;","his glory is higher than the heavens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Who can be compared with the Lord our God,","who is enthroned on high?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He stoops to look down","on heaven and on earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He lifts the poor from the dust","and the needy from the garbage dump."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["He sets them among princes,","even the princes of his own people!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He gives the childless woman a family,","making her a happy mother.","Praise the Lord!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.112.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.114.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.113",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.112",
+      "human": "Psalms 112"
+    },
+    "current": {
+      "usfm": "PSA.113",
+      "human": "Psalms 113"
+    },
+    "next": {
+      "usfm": "PSA.114",
+      "human": "Psalms 114"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "Yes, give praise, O servants of the Lord.",
+          "Praise the name of the Lord!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Blessed be the name of the Lord",
+          "now and forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Everywhere—from east to west—",
+          "praise the name of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For the Lord is high above the nations;",
+          "his glory is higher than the heavens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Who can be compared with the Lord our God,",
+          "who is enthroned on high?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He stoops to look down",
+          "on heaven and on earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He lifts the poor from the dust",
+          "and the needy from the garbage dump."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "He sets them among princes,",
+          "even the princes of his own people!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He gives the childless woman a family,",
+          "making her a happy mother.",
+          "Praise the Lord!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

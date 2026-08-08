@@ -1,1 +1,251 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.2","is_chapter":true,"previous":{"usfm":"AMO.1","human":"Amós 1","canonical":true,"toc":true},"current":{"usfm":"AMO.2","human":"Amós 2"},"next":{"usfm":"AMO.3","human":"Amós 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Así dice el Señor:","«Por tres transgresiones de Moab, y por cuatro,","No revocaré su castigo,","Porque quemó los huesos del rey de Edom hasta calcinarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["-»Enviaré, pues, fuego sobre Moab,","Que consumirá los palacios de Queriot,","Y Moab morirá entre el tumulto,","Entre gritos de guerra y sonido de trompeta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["-»También exterminaré al juez de en medio de ella,","Y mataré a todos sus príncipes con él», dice el Señor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Juicio contra Judá e Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Judá, y por cuatro,","No revocaré su castigo,","Porque desecharon la ley del Señor","Y no guardaron Sus estatutos;","También les han hecho errar sus mentiras,","Tras las cuales anduvieron sus padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["-»Enviaré, pues, fuego sobre Judá,","Y consumirá los palacios de Jerusalén»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Israel, y por cuatro,","No revocaré su castigo,","Porque venden al justo por dinero","Y al necesitado por un par de sandalias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Los que pisotean en el polvo de la tierra la cabeza de los desvalidos,","También tuercen el camino de los humildes.","Un hombre y su padre se llegan a la misma joven","Profanando Mi santo nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»Sobre ropas empeñadas se tienden junto a cualquier altar,","Y el vino de los que han sido multados lo beben en la casa de su Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶»Yo mismo destruí a los amorreos delante de ellos,","Cuya altura era como la altura de los cedros,","Y era fuerte como las encinas;","Destruí su fruto arriba y su raíz abajo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["-»Y a ustedes Yo los hice subir de la tierra de Egipto,","Y los conduje por el desierto cuarenta años","Para que tomaran posesión de la tierra del amorreo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["-»Y levanté profetas de entre sus hijos","Y nazareos de entre sus jóvenes.","¿No es así, israelitas?», declara el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["«Pero ustedes hicieron beber vino a los nazareos,","Y a los profetas les ordenaron: “No profeticen”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["-»Así que yo estoy oprimido debajo de ustedes","Como está oprimida una carreta llena de gavillas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["-»La huida le fallará al ligero,","Y el fuerte no fortalecerá su poder,","Ni el valiente salvará su vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["-»El que empuña el arco no resistirá,","El ligero de pies no escapará,","Ni el que monta a caballo salvará su vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["-»Aun el más intrépido entre los valientes huirá desnudo aquel día», declara el Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/AMO.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/AMO.3.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.1",
+      "human": "Amós 1"
+    },
+    "current": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
+    },
+    "next": {
+      "usfm": "AMO.3",
+      "human": "Amós 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "«Por tres transgresiones de Moab, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque quemó los huesos del rey de Edom hasta calcinarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "-»Enviaré, pues, fuego sobre Moab,",
+          "Que consumirá los palacios de Queriot,",
+          "Y Moab morirá entre el tumulto,",
+          "Entre gritos de guerra y sonido de trompeta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "-»También exterminaré al juez de en medio de ella,",
+          "Y mataré a todos sus príncipes con él», dice el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juicio contra Judá e Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Judá, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque desecharon la ley del Señor",
+          "Y no guardaron Sus estatutos;",
+          "También les han hecho errar sus mentiras,",
+          "Tras las cuales anduvieron sus padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "-»Enviaré, pues, fuego sobre Judá,",
+          "Y consumirá los palacios de Jerusalén»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Israel, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque venden al justo por dinero",
+          "Y al necesitado por un par de sandalias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Los que pisotean en el polvo de la tierra la cabeza de los desvalidos,",
+          "También tuercen el camino de los humildes.",
+          "Un hombre y su padre se llegan a la misma joven",
+          "Profanando Mi santo nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»Sobre ropas empeñadas se tienden junto a cualquier altar,",
+          "Y el vino de los que han sido multados lo beben en la casa de su Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶»Yo mismo destruí a los amorreos delante de ellos,",
+          "Cuya altura era como la altura de los cedros,",
+          "Y era fuerte como las encinas;",
+          "Destruí su fruto arriba y su raíz abajo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "-»Y a ustedes Yo los hice subir de la tierra de Egipto,",
+          "Y los conduje por el desierto cuarenta años",
+          "Para que tomaran posesión de la tierra del amorreo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "-»Y levanté profetas de entre sus hijos",
+          "Y nazareos de entre sus jóvenes.",
+          "¿No es así, israelitas?», declara el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "«Pero ustedes hicieron beber vino a los nazareos,",
+          "Y a los profetas les ordenaron: “No profeticen”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "-»Así que yo estoy oprimido debajo de ustedes",
+          "Como está oprimida una carreta llena de gavillas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "-»La huida le fallará al ligero,",
+          "Y el fuerte no fortalecerá su poder,",
+          "Ni el valiente salvará su vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "-»El que empuña el arco no resistirá,",
+          "El ligero de pies no escapará,",
+          "Ni el que monta a caballo salvará su vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "-»Aun el más intrépido entre los valientes huirá desnudo aquel día», declara el Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

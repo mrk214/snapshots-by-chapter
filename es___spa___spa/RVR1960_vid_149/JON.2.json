@@ -1,1 +1,170 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"JON","name":"Jonás"},"chapter":{"chapter_usfm":"JON.2","is_chapter":true,"previous":{"usfm":"JON.1","human":"Jonás 1","canonical":true,"toc":true},"current":{"usfm":"JON.2","human":"Jonás 2"},"next":{"usfm":"JON.3","human":"Jonás 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración de Jonás"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces oró Jonás a Jehová su Dios desde el vientre del pez,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y dijo:","Invoqué en mi angustia a Jehová, y él me oyó;","Desde el seno del Seol clamé,","Y mi voz oíste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Me echaste a lo profundo, en medio de los mares,","Y me rodeó la corriente;","Todas tus ondas y tus olas pasaron sobre mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entonces dije: Desechado soy de delante de tus ojos;","Mas aún veré tu santo templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Las aguas me rodearon hasta el alma,","Rodeome el abismo;","El alga se enredó a mi cabeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Descendí a los cimientos de los montes;","La tierra echó sus cerrojos sobre mí para siempre;","Mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuando mi alma desfallecía en mí, me acordé de Jehová,","Y mi oración llegó hasta ti en tu santo templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Los que siguen vanidades ilusorias,","Su misericordia abandonan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mas yo con voz de alabanza te ofreceré sacrificios;","Pagaré lo que prometí.","La salvación es de Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y mandó Jehová al pez, y vomitó a Jonás en tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JON.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JON.3.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonás"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.1",
+      "human": "Jonás 1"
+    },
+    "current": {
+      "usfm": "JON.2",
+      "human": "Jonás 2"
+    },
+    "next": {
+      "usfm": "JON.3",
+      "human": "Jonás 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración de Jonás"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces oró Jonás a Jehová su Dios desde el vientre del pez,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y dijo:",
+          "Invoqué en mi angustia a Jehová, y él me oyó;",
+          "Desde el seno del Seol clamé,",
+          "Y mi voz oíste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Me echaste a lo profundo, en medio de los mares,",
+          "Y me rodeó la corriente;",
+          "Todas tus ondas y tus olas pasaron sobre mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entonces dije: Desechado soy de delante de tus ojos;",
+          "Mas aún veré tu santo templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Las aguas me rodearon hasta el alma,",
+          "Rodeome el abismo;",
+          "El alga se enredó a mi cabeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Descendí a los cimientos de los montes;",
+          "La tierra echó sus cerrojos sobre mí para siempre;",
+          "Mas tú sacaste mi vida de la sepultura, oh Jehová Dios mío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuando mi alma desfallecía en mí, me acordé de Jehová,",
+          "Y mi oración llegó hasta ti en tu santo templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Los que siguen vanidades ilusorias,",
+          "Su misericordia abandonan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mas yo con voz de alabanza te ofreceré sacrificios;",
+          "Pagaré lo que prometí.",
+          "La salvación es de Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y mandó Jehová al pez, y vomitó a Jonás en tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

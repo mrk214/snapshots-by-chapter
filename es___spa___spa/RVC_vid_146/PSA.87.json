@@ -1,1 +1,143 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Salmos 87"},"next":{"usfm":"PSA.88","human":"Salmos 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El privilegio de vivir en Sión"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de los hijos de Coré. Cántico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El Señor se estableció en el monte santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El amor del Señor por las puertas de Sión","es mayor que su amor por todas las ciudades de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["De ti, ciudad de Dios,","se dicen cosas gloriosas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entre los que me conocen,","tengo presentes a Rajab y a Babilonia.","Aquí están Filistea y Tiro, con Etiopía.","Este nació allí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["De Sión se dirá:","«Este y aquel nacieron en ella.»","El Altísimo mismo la establecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Al inscribir a los pueblos, el Señor anotará:","«Este nació allá.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Los que cantan y danzan en ella, dirán:","«Todas mis fuentes están en ti.»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Salmos 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Salmos 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El privilegio de vivir en Sión"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de los hijos de Coré. Cántico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El Señor se estableció en el monte santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El amor del Señor por las puertas de Sión",
+          "es mayor que su amor por todas las ciudades de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "De ti, ciudad de Dios,",
+          "se dicen cosas gloriosas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entre los que me conocen,",
+          "tengo presentes a Rajab y a Babilonia.",
+          "Aquí están Filistea y Tiro, con Etiopía.",
+          "Este nació allí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "De Sión se dirá:",
+          "«Este y aquel nacieron en ella.»",
+          "El Altísimo mismo la establecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Al inscribir a los pueblos, el Señor anotará:",
+          "«Este nació allá.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Los que cantan y danzan en ella, dirán:",
+          "«Todas mis fuentes están en ti.»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

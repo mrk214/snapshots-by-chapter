@@ -1,1 +1,146 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"JOS","name":"Joshua"},"chapter":{"chapter_usfm":"JOS.20","is_chapter":true,"previous":{"usfm":"JOS.19","human":"Joshua 19","canonical":true,"toc":true},"current":{"usfm":"JOS.20","human":"Joshua 20"},"next":{"usfm":"JOS.21","human":"Joshua 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Cities of Refuge"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord also spoke to Joshua, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Speak to the children of Israel, saying: ‘Appoint for yourselves cities of refuge, of which I spoke to you through Moses,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["that the slayer who kills a person accidentally or unintentionally may flee there; and they shall be your refuge from the avenger of blood."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And when he flees to one of those cities, and stands at the entrance of the gate of the city, and declares his case in the hearing of the elders of that city, they shall take him into the city as one of them, and give him a place, that he may dwell among them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Then if the avenger of blood pursues him, they shall not deliver the slayer into his hand, because he struck his neighbor unintentionally, but did not hate him beforehand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And he shall dwell in that city until he stands before the congregation for judgment, and until the death of the one who is high priest in those days. Then the slayer may return and come to his own city and his own house, to the city from which he fled.’ ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["So they appointed Kedesh in Galilee, in the mountains of Naphtali, Shechem in the mountains of Ephraim, and Kirjath Arba (which is Hebron) in the mountains of Judah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And on the other side of the Jordan, by Jericho eastward, they assigned Bezer in the wilderness on the plain, from the tribe of Reuben, Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["These were the cities appointed for all the children of Israel and for the stranger who dwelt among them, that whoever killed a person accidentally might flee there, and not die by the hand of the avenger of blood until he stood before the congregation."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.21.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Joshua"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.19",
+      "human": "Joshua 19"
+    },
+    "current": {
+      "usfm": "JOS.20",
+      "human": "Joshua 20"
+    },
+    "next": {
+      "usfm": "JOS.21",
+      "human": "Joshua 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Cities of Refuge"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord also spoke to Joshua, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Speak to the children of Israel, saying: ‘Appoint for yourselves cities of refuge, of which I spoke to you through Moses,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "that the slayer who kills a person accidentally or unintentionally may flee there; and they shall be your refuge from the avenger of blood."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And when he flees to one of those cities, and stands at the entrance of the gate of the city, and declares his case in the hearing of the elders of that city, they shall take him into the city as one of them, and give him a place, that he may dwell among them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Then if the avenger of blood pursues him, they shall not deliver the slayer into his hand, because he struck his neighbor unintentionally, but did not hate him beforehand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And he shall dwell in that city until he stands before the congregation for judgment, and until the death of the one who is high priest in those days. Then the slayer may return and come to his own city and his own house, to the city from which he fled.’ ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "So they appointed Kedesh in Galilee, in the mountains of Naphtali, Shechem in the mountains of Ephraim, and Kirjath Arba (which is Hebron) in the mountains of Judah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And on the other side of the Jordan, by Jericho eastward, they assigned Bezer in the wilderness on the plain, from the tribe of Reuben, Ramoth in Gilead, from the tribe of Gad, and Golan in Bashan, from the tribe of Manasseh."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "These were the cities appointed for all the children of Israel and for the stranger who dwelt among them, that whoever killed a person accidentally might flee there, and not die by the hand of the avenger of blood until he stood before the congregation."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

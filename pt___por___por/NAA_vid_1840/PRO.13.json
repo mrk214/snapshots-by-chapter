@@ -1,1 +1,366 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PRO","name":"Provérbios"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Provérbios 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Provérbios 13"},"next":{"usfm":"PRO.14","human":"Provérbios 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["O filho sábio ouve","a instrução do pai,","mas o zombador não dá ouvidos","à repreensão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Do fruto da boca","cada um comerá o bem,","mas os infiéis","só desejam a violência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quem vigia as suas palavras","conserva a sua vida,","mas o que fala demais","arruína a si mesmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["O preguiçoso deseja e nada tem,","mas o desejo dos que se esforçam","será atendido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O justo odeia a mentira,","mas o ímpio traz vergonha","e desonra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A justiça guarda","o que anda com integridade,","mas a maldade","subverte o pecador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Uns se dizem ricos","sem terem nada;","outros se dizem pobres,","tendo muita riqueza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O resgate pela vida de alguém","são as riquezas que ele tem,","mas o pobre não corre o risco","de ser ameaçado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A luz dos justos","brilha intensamente,","mas a lâmpada dos ímpios","se apagará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Da soberba só resulta","a discórdia,","mas a sabedoria está","com os que se aconselham."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A riqueza obtida com facilidade,","essa diminui,","mas quem a ajunta pelo trabalho,","esse a vê aumentar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Esperança adiada","faz adoecer o coração;","desejo cumprido é árvore de vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Quem despreza a palavra","terá de pagar por isso,","mas o que teme o mandamento","será recompensado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["O ensino do sábio","é fonte de vida","para evitar os laços da morte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["O bom senso conquista favor,","mas o caminho dos infiéis","é intransitável."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Quem é prudente","age com conhecimento,","mas o tolo espalha a sua tolice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["O mensageiro perverso","se precipita no mal,","mas o embaixador fiel produz cura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pobreza e vergonha sobrevêm","ao que rejeita a instrução,","mas o que aceita a repreensão","será honrado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["O desejo que se cumpre","agrada a alma,","mas os tolos detestam","afastar-se do mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Quem anda com os sábios","será sábio,","mas o companheiro dos tolos","acabará mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["A desgraça persegue","os pecadores,","mas os justos serão","recompensados com o bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["O homem bom deixa herança","aos filhos de seus filhos,","mas a riqueza do pecador","é depositada para o justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["As terras dos pobres","dão mantimento em abundância,","mas isso se perde","por falta de justiça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["O que retém a vara","odeia o seu filho;","quem o ama, este o disciplina","desde cedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["O justo tem o bastante","para satisfazer o seu apetite,","mas o estômago dos ímpios","passa fome."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Provérbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Provérbios 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Provérbios 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Provérbios 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O filho sábio ouve",
+          "a instrução do pai,",
+          "mas o zombador não dá ouvidos",
+          "à repreensão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Do fruto da boca",
+          "cada um comerá o bem,",
+          "mas os infiéis",
+          "só desejam a violência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quem vigia as suas palavras",
+          "conserva a sua vida,",
+          "mas o que fala demais",
+          "arruína a si mesmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "O preguiçoso deseja e nada tem,",
+          "mas o desejo dos que se esforçam",
+          "será atendido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O justo odeia a mentira,",
+          "mas o ímpio traz vergonha",
+          "e desonra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A justiça guarda",
+          "o que anda com integridade,",
+          "mas a maldade",
+          "subverte o pecador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Uns se dizem ricos",
+          "sem terem nada;",
+          "outros se dizem pobres,",
+          "tendo muita riqueza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O resgate pela vida de alguém",
+          "são as riquezas que ele tem,",
+          "mas o pobre não corre o risco",
+          "de ser ameaçado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A luz dos justos",
+          "brilha intensamente,",
+          "mas a lâmpada dos ímpios",
+          "se apagará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Da soberba só resulta",
+          "a discórdia,",
+          "mas a sabedoria está",
+          "com os que se aconselham."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A riqueza obtida com facilidade,",
+          "essa diminui,",
+          "mas quem a ajunta pelo trabalho,",
+          "esse a vê aumentar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Esperança adiada",
+          "faz adoecer o coração;",
+          "desejo cumprido é árvore de vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Quem despreza a palavra",
+          "terá de pagar por isso,",
+          "mas o que teme o mandamento",
+          "será recompensado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "O ensino do sábio",
+          "é fonte de vida",
+          "para evitar os laços da morte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "O bom senso conquista favor,",
+          "mas o caminho dos infiéis",
+          "é intransitável."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Quem é prudente",
+          "age com conhecimento,",
+          "mas o tolo espalha a sua tolice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "O mensageiro perverso",
+          "se precipita no mal,",
+          "mas o embaixador fiel produz cura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pobreza e vergonha sobrevêm",
+          "ao que rejeita a instrução,",
+          "mas o que aceita a repreensão",
+          "será honrado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "O desejo que se cumpre",
+          "agrada a alma,",
+          "mas os tolos detestam",
+          "afastar-se do mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Quem anda com os sábios",
+          "será sábio,",
+          "mas o companheiro dos tolos",
+          "acabará mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "A desgraça persegue",
+          "os pecadores,",
+          "mas os justos serão",
+          "recompensados com o bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "O homem bom deixa herança",
+          "aos filhos de seus filhos,",
+          "mas a riqueza do pecador",
+          "é depositada para o justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "As terras dos pobres",
+          "dão mantimento em abundância,",
+          "mas isso se perde",
+          "por falta de justiça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "O que retém a vara",
+          "odeia o seu filho;",
+          "quem o ama, este o disciplina",
+          "desde cedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "O justo tem o bastante",
+          "para satisfazer o seu apetite,",
+          "mas o estômago dos ímpios",
+          "passa fome."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

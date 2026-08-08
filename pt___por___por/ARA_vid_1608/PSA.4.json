@@ -1,1 +1,153 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.4","is_chapter":true,"previous":{"usfm":"PSA.3","human":"Salmos 3","canonical":true,"toc":true},"current":{"usfm":"PSA.4","human":"Salmos 4"},"next":{"usfm":"PSA.5","human":"Salmos 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Confiança em Deus, na angústia"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi ao mestre de canto, com instrumentos de cordas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Responde-me quando clamo, ó Deus da minha justiça;","na angústia, me tens aliviado;","tem misericórdia de mim e ouve a minha oração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ó homens, até quando tornareis a minha glória em vexame,","e amareis a vaidade, e buscareis a mentira?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sabei, porém, que o Senhor distingue para si o piedoso;","o Senhor me ouve quando eu clamo por ele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Irai-vos e não pequeis;","consultai no travesseiro o coração e sossegai."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Oferecei sacrifícios de justiça","e confiai no Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Há muitos que dizem: Quem nos dará a conhecer o bem?","Senhor, levanta sobre nós a luz do teu rosto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mais alegria me puseste no coração do que a alegria deles,","quando lhes há fartura de cereal e de vinho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Em paz me deito e logo pego no sono,","porque, Senhor, só tu me fazes repousar seguro."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.5.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "current": {
+      "usfm": "PSA.4",
+      "human": "Salmos 4"
+    },
+    "next": {
+      "usfm": "PSA.5",
+      "human": "Salmos 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Confiança em Deus, na angústia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi ao mestre de canto, com instrumentos de cordas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Responde-me quando clamo, ó Deus da minha justiça;",
+          "na angústia, me tens aliviado;",
+          "tem misericórdia de mim e ouve a minha oração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ó homens, até quando tornareis a minha glória em vexame,",
+          "e amareis a vaidade, e buscareis a mentira?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sabei, porém, que o Senhor distingue para si o piedoso;",
+          "o Senhor me ouve quando eu clamo por ele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Irai-vos e não pequeis;",
+          "consultai no travesseiro o coração e sossegai."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Oferecei sacrifícios de justiça",
+          "e confiai no Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Há muitos que dizem: Quem nos dará a conhecer o bem?",
+          "Senhor, levanta sobre nós a luz do teu rosto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mais alegria me puseste no coração do que a alegria deles,",
+          "quando lhes há fartura de cereal e de vinho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Em paz me deito e logo pego no sono,",
+          "porque, Senhor, só tu me fazes repousar seguro."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

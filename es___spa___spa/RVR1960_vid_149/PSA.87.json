@@ -1,1 +1,157 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Salmos 87"},"next":{"usfm":"PSA.88","human":"Salmos 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El privilegio de morar en Sion"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A los hijos de Coré. Salmo. Cántico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Su cimiento está en el monte santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ama Jehová las puertas de Sion","Más que todas las moradas de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cosas gloriosas se han dicho de ti,","Ciudad de Dios."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Yo me acordaré de Rahab y de Babilonia entre los que me conocen;","He aquí Filistea y Tiro, con Etiopía;","Este nació allá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Y de Sion se dirá: Este y aquel han nacido en ella,","Y el Altísimo mismo la establecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Jehová contará al inscribir a los pueblos:","Este nació allí."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Y cantores y tañedores en ella dirán:","Todas mis fuentes están en ti."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Salmos 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Salmos 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El privilegio de morar en Sion"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A los hijos de Coré. Salmo. Cántico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Su cimiento está en el monte santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ama Jehová las puertas de Sion",
+          "Más que todas las moradas de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cosas gloriosas se han dicho de ti,",
+          "Ciudad de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Yo me acordaré de Rahab y de Babilonia entre los que me conocen;",
+          "He aquí Filistea y Tiro, con Etiopía;",
+          "Este nació allá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Y de Sion se dirá: Este y aquel han nacido en ella,",
+          "Y el Altísimo mismo la establecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Jehová contará al inscribir a los pueblos:",
+          "Este nació allí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Y cantores y tañedores en ella dirán:",
+          "Todas mis fuentes están en ti."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

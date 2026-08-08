@@ -1,1 +1,169 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.112","is_chapter":true,"previous":{"usfm":"PSA.111","human":"Psalms 111","canonical":true,"toc":true},"current":{"usfm":"PSA.112","human":"Psalms 112"},"next":{"usfm":"PSA.113","human":"Psalms 113","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Traits of the Righteous"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hallelujah!","Happy is the person who fears the Lord,","taking great delight in his commands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["His descendants will be powerful in the land;","the generation of the upright will be blessed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Wealth and riches are in his house,","and his righteousness endures forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Light shines in the darkness for the upright.","He is gracious, compassionate, and righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Good will come to the one who lends generously","and conducts his business fairly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He will never be shaken.","The righteous one will be remembered forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He will not fear bad news;","his heart is confident, trusting in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["His heart is assured; he will not fear.","In the end he will look in triumph on his foes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He distributes freely to the poor;","his righteousness endures forever.","His horn will be exalted in honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The wicked one will see it and be angry;","he will gnash his teeth in despair.","The desire of the wicked leads to ruin."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.111.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.113.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.112",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.111",
+      "human": "Psalms 111"
+    },
+    "current": {
+      "usfm": "PSA.112",
+      "human": "Psalms 112"
+    },
+    "next": {
+      "usfm": "PSA.113",
+      "human": "Psalms 113"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Traits of the Righteous"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hallelujah!",
+          "Happy is the person who fears the Lord,",
+          "taking great delight in his commands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "His descendants will be powerful in the land;",
+          "the generation of the upright will be blessed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Wealth and riches are in his house,",
+          "and his righteousness endures forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Light shines in the darkness for the upright.",
+          "He is gracious, compassionate, and righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Good will come to the one who lends generously",
+          "and conducts his business fairly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He will never be shaken.",
+          "The righteous one will be remembered forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He will not fear bad news;",
+          "his heart is confident, trusting in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "His heart is assured; he will not fear.",
+          "In the end he will look in triumph on his foes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He distributes freely to the poor;",
+          "his righteousness endures forever.",
+          "His horn will be exalted in honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The wicked one will see it and be angry;",
+          "he will gnash his teeth in despair.",
+          "The desire of the wicked leads to ruin."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

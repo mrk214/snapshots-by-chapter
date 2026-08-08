@@ -1,1 +1,312 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.18","is_chapter":true,"previous":{"usfm":"PRO.17","human":"Proverbs 17","canonical":true,"toc":true},"current":{"usfm":"PRO.18","human":"Proverbs 18"},"next":{"usfm":"PRO.19","human":"Proverbs 19","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Whoever isolates himself seeks his own desire;","he breaks out against all sound judgment."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A fool takes no pleasure in understanding,","but only in expressing his opinion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When wickedness comes, contempt comes also,","and with dishonor comes disgrace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The words of a man’s mouth are deep waters;","the fountain of wisdom is a bubbling brook."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["It is not good to be partial to the wicked","or to deprive the righteous of justice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A fool’s lips walk into a fight,","and his mouth invites a beating."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["A fool’s mouth is his ruin,","and his lips are a snare to his soul."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The words of a whisperer are like delicious morsels;","they go down into the inner parts of the body."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Whoever is slack in his work","is a brother to him who destroys."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The name of the Lord is a strong tower;","the righteous man runs into it and is safe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A rich man’s wealth is his strong city,","and like a high wall in his imagination."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Before destruction a man’s heart is haughty,","but humility comes before honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["If one gives an answer before he hears,","it is his folly and shame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["A man’s spirit will endure sickness,","but a crushed spirit who can bear?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["An intelligent heart acquires knowledge,","and the ear of the wise seeks knowledge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["A man’s gift makes room for him","and brings him before the great."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The one who states his case first seems right,","until the other comes and examines him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["The lot puts an end to quarrels","and decides between powerful contenders."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A brother offended is more unyielding than a strong city,","and quarreling is like the bars of a castle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["From the fruit of a man’s mouth his stomach is satisfied;","he is satisfied by the yield of his lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Death and life are in the power of the tongue,","and those who love it will eat its fruits."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["He who finds a wife finds a good thing","and obtains favor from the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["The poor use entreaties,","but the rich answer roughly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["A man of many companions may come to ruin,","but there is a friend who sticks closer than a brother."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.17.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.19.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.18",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.17",
+      "human": "Proverbs 17"
+    },
+    "current": {
+      "usfm": "PRO.18",
+      "human": "Proverbs 18"
+    },
+    "next": {
+      "usfm": "PRO.19",
+      "human": "Proverbs 19"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Whoever isolates himself seeks his own desire;",
+          "he breaks out against all sound judgment."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A fool takes no pleasure in understanding,",
+          "but only in expressing his opinion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When wickedness comes, contempt comes also,",
+          "and with dishonor comes disgrace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The words of a man’s mouth are deep waters;",
+          "the fountain of wisdom is a bubbling brook."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "It is not good to be partial to the wicked",
+          "or to deprive the righteous of justice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A fool’s lips walk into a fight,",
+          "and his mouth invites a beating."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "A fool’s mouth is his ruin,",
+          "and his lips are a snare to his soul."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The words of a whisperer are like delicious morsels;",
+          "they go down into the inner parts of the body."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Whoever is slack in his work",
+          "is a brother to him who destroys."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The name of the Lord is a strong tower;",
+          "the righteous man runs into it and is safe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A rich man’s wealth is his strong city,",
+          "and like a high wall in his imagination."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Before destruction a man’s heart is haughty,",
+          "but humility comes before honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "If one gives an answer before he hears,",
+          "it is his folly and shame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "A man’s spirit will endure sickness,",
+          "but a crushed spirit who can bear?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "An intelligent heart acquires knowledge,",
+          "and the ear of the wise seeks knowledge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "A man’s gift makes room for him",
+          "and brings him before the great."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The one who states his case first seems right,",
+          "until the other comes and examines him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "The lot puts an end to quarrels",
+          "and decides between powerful contenders."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A brother offended is more unyielding than a strong city,",
+          "and quarreling is like the bars of a castle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "From the fruit of a man’s mouth his stomach is satisfied;",
+          "he is satisfied by the yield of his lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Death and life are in the power of the tongue,",
+          "and those who love it will eat its fruits."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "He who finds a wife finds a good thing",
+          "and obtains favor from the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "The poor use entreaties,",
+          "but the rich answer roughly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "A man of many companions may come to ruin,",
+          "but there is a friend who sticks closer than a brother."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

@@ -1,1 +1,152 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.124","is_chapter":true,"previous":{"usfm":"PSA.123","human":"Psalms 123","canonical":true,"toc":true},"current":{"usfm":"PSA.124","human":"Psalms 124"},"next":{"usfm":"PSA.125","human":"Psalms 125","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord the Defense of His People"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents. Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["“If it had not been the Lord who was on our side,”","Let Israel now say—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“If it had not been the Lord who was on our side,","When men rose up against us,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then they would have swallowed us alive,","When their wrath was kindled against us;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then the waters would have overwhelmed us,","The stream would have gone over our soul;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Then the swollen waters","Would have gone over our soul.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Blessed be the Lord,","Who has not given us as prey to their teeth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Our soul has escaped as a bird from the snare of the fowlers;","The snare is broken, and we have escaped."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Our help is in the name of the Lord,","Who made heaven and earth."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.123.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.125.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.124",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.123",
+      "human": "Psalms 123"
+    },
+    "current": {
+      "usfm": "PSA.124",
+      "human": "Psalms 124"
+    },
+    "next": {
+      "usfm": "PSA.125",
+      "human": "Psalms 125"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord the Defense of His People"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents. Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“If it had not been the Lord who was on our side,”",
+          "Let Israel now say—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“If it had not been the Lord who was on our side,",
+          "When men rose up against us,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then they would have swallowed us alive,",
+          "When their wrath was kindled against us;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then the waters would have overwhelmed us,",
+          "The stream would have gone over our soul;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Then the swollen waters",
+          "Would have gone over our soul.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Blessed be the Lord,",
+          "Who has not given us as prey to their teeth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Our soul has escaped as a bird from the snare of the fowlers;",
+          "The snare is broken, and we have escaped."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Our help is in the name of the Lord,",
+          "Who made heaven and earth."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

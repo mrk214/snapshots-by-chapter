@@ -1,1 +1,243 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Salmos 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Salmos 81"},"next":{"usfm":"PSA.82","human":"Salmos 82","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Bondad de Dios y perversidad de Israel"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Sobre Gitit. Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantemos con gozo a Dios, nuestra fortaleza;","aclamemos con júbilo al Dios de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entonemos cánticos, al son del pandero,","de la melodiosa arpa y del salterio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Toquemos la trompeta en el novilunio,","en el día señalado para nuestra fiesta solemne."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Esto es un estatuto para Israel;","es una ordenanza del Dios de Jacob,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["que la constituyó como testimonio para José","cuando salió contra la tierra de Egipto.","Oí un lenguaje que no pude entender:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["«Liberé tu hombro de llevar pesada carga;","tus manos dejaron de cargar los cestos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En tu angustia clamaste a mí, y yo te salvé;","desde el centro del trueno te respondí,","y junto a las aguas de Meriba te puse a prueba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Escúchame, pueblo mío, que quiero amonestarte.","¡Cómo quisiera yo, Israel, que me escucharas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No debes tener ningún dios ajeno.","No debes inclinarte ante dioses extraños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo soy el Señor, tu Dios;","yo te saqué de la tierra de Egipto.","Abre la boca, y yo te daré de comer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Pero tú, mi pueblo, no escuchaste mi voz;","tú, Israel, no quisiste obedecerme,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["y por tu obstinación te abandoné","para que siguieras tus propios consejos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡Ay, pueblo mío! ¡Si me hubieras escuchado!","¡Ay, Israel! ¡Si hubieras seguido mis caminos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡En un instante habría derrotado a tus enemigos,","y habría descargado mi mano sobre tus adversarios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los que me aborrecen se me habrían sometido,","y yo, el Señor, pondría para siempre fin a sus días."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pero a ti te alimentaría con lo mejor del trigo,","y apagaría tu sed con miel extraída de la peña.»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Salmos 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Bondad de Dios y perversidad de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Sobre Gitit. Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantemos con gozo a Dios, nuestra fortaleza;",
+          "aclamemos con júbilo al Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entonemos cánticos, al son del pandero,",
+          "de la melodiosa arpa y del salterio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Toquemos la trompeta en el novilunio,",
+          "en el día señalado para nuestra fiesta solemne."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Esto es un estatuto para Israel;",
+          "es una ordenanza del Dios de Jacob,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "que la constituyó como testimonio para José",
+          "cuando salió contra la tierra de Egipto.",
+          "Oí un lenguaje que no pude entender:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "«Liberé tu hombro de llevar pesada carga;",
+          "tus manos dejaron de cargar los cestos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En tu angustia clamaste a mí, y yo te salvé;",
+          "desde el centro del trueno te respondí,",
+          "y junto a las aguas de Meriba te puse a prueba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Escúchame, pueblo mío, que quiero amonestarte.",
+          "¡Cómo quisiera yo, Israel, que me escucharas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No debes tener ningún dios ajeno.",
+          "No debes inclinarte ante dioses extraños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo soy el Señor, tu Dios;",
+          "yo te saqué de la tierra de Egipto.",
+          "Abre la boca, y yo te daré de comer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Pero tú, mi pueblo, no escuchaste mi voz;",
+          "tú, Israel, no quisiste obedecerme,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "y por tu obstinación te abandoné",
+          "para que siguieras tus propios consejos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡Ay, pueblo mío! ¡Si me hubieras escuchado!",
+          "¡Ay, Israel! ¡Si hubieras seguido mis caminos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡En un instante habría derrotado a tus enemigos,",
+          "y habría descargado mi mano sobre tus adversarios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los que me aborrecen se me habrían sometido,",
+          "y yo, el Señor, pondría para siempre fin a sus días."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pero a ti te alimentaría con lo mejor del trigo,",
+          "y apagaría tu sed con miel extraída de la peña.»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

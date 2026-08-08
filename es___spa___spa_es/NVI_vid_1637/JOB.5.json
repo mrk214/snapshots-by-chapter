@@ -1,1 +1,347 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.5","is_chapter":true,"previous":{"usfm":"JOB.4","human":"Job 4","canonical":true,"toc":true},"current":{"usfm":"JOB.5","human":"Job 5"},"next":{"usfm":"JOB.6","human":"Job 6","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»Llama, si quieres, pero ¿habrá quien te responda?","¿A cuál de los dioses te dirigirás?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El resentimiento mata a los necios;","la envidia mata a los insensatos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Yo mismo he visto al necio echar raíces,","pero de pronto su casa fue maldecida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Sus hijos distan mucho de estar a salvo;","en el tribunal son oprimidos, y nadie los defiende."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los hambrientos se comen su cosecha,","y la recogen de entre las espinas;","los sedientos se beben sus riquezas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y, aunque las penas no brotan del suelo,","ni los sufrimientos provienen de la tierra,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["con todo, el hombre nace para sufrir,","tan cierto como que las chispas vuelan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Si se tratara de mí, yo apelaría a Dios;","ante él expondría mi caso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Él realiza maravillas insondables,","portentos que no pueden contarse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Él derrama lluvia sobre la tierra","y envía agua sobre los campos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Él enaltece a los humildes","y da seguridad a los enlutados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Él deshace las maquinaciones de los astutos,","para que no prospere la obra de sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Él atrapa a los astutos en su astucia,","y desbarata los planes de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["De día estos se topan con las tinieblas;","a plena luz andan a tientas, como si fuera de noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Pero a los menesterosos los salva","de la opresión de los poderosos","y de su lengua viperina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Así es como los pobres recobran la esperanza,","y a la injusticia se le tapa la boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["»¡Qué feliz es el hombre a quien Dios corrige!","No menosprecies la disciplina del Todopoderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque él hiere, pero venda la herida;","golpea, pero trae alivio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["De seis aflicciones te rescatará,","y la séptima no te causará ningún daño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Cuando haya hambre, te salvará de la muerte;","cuando haya guerra, te librará de la espada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Estarás a salvo del latigazo de la lengua,","y no temerás cuando venga la destrucción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Te burlarás de la destrucción y del hambre,","y no temerás a las bestias salvajes,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["pues harás un pacto con las piedras del campo","y las bestias salvajes estarán en paz contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Reconocerás tu casa como lugar seguro;","contarás tu ganado, y ni un solo animal faltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Llegarás a tener muchos hijos,","y descendientes como la hierba del campo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Llegarás al sepulcro anciano pero vigoroso,","como las gavillas que se recogen a tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["»Esto lo hemos examinado, y es verdad.","Así que escúchalo y compruébalo tú mismo»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOB.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOB.6.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.4",
+      "human": "Job 4"
+    },
+    "current": {
+      "usfm": "JOB.5",
+      "human": "Job 5"
+    },
+    "next": {
+      "usfm": "JOB.6",
+      "human": "Job 6"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Llama, si quieres, pero ¿habrá quien te responda?",
+          "¿A cuál de los dioses te dirigirás?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El resentimiento mata a los necios;",
+          "la envidia mata a los insensatos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Yo mismo he visto al necio echar raíces,",
+          "pero de pronto su casa fue maldecida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Sus hijos distan mucho de estar a salvo;",
+          "en el tribunal son oprimidos, y nadie los defiende."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los hambrientos se comen su cosecha,",
+          "y la recogen de entre las espinas;",
+          "los sedientos se beben sus riquezas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y, aunque las penas no brotan del suelo,",
+          "ni los sufrimientos provienen de la tierra,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "con todo, el hombre nace para sufrir,",
+          "tan cierto como que las chispas vuelan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Si se tratara de mí, yo apelaría a Dios;",
+          "ante él expondría mi caso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Él realiza maravillas insondables,",
+          "portentos que no pueden contarse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Él derrama lluvia sobre la tierra",
+          "y envía agua sobre los campos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Él enaltece a los humildes",
+          "y da seguridad a los enlutados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Él deshace las maquinaciones de los astutos,",
+          "para que no prospere la obra de sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Él atrapa a los astutos en su astucia,",
+          "y desbarata los planes de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "De día estos se topan con las tinieblas;",
+          "a plena luz andan a tientas, como si fuera de noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Pero a los menesterosos los salva",
+          "de la opresión de los poderosos",
+          "y de su lengua viperina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Así es como los pobres recobran la esperanza,",
+          "y a la injusticia se le tapa la boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "»¡Qué feliz es el hombre a quien Dios corrige!",
+          "No menosprecies la disciplina del Todopoderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque él hiere, pero venda la herida;",
+          "golpea, pero trae alivio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "De seis aflicciones te rescatará,",
+          "y la séptima no te causará ningún daño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Cuando haya hambre, te salvará de la muerte;",
+          "cuando haya guerra, te librará de la espada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Estarás a salvo del latigazo de la lengua,",
+          "y no temerás cuando venga la destrucción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Te burlarás de la destrucción y del hambre,",
+          "y no temerás a las bestias salvajes,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "pues harás un pacto con las piedras del campo",
+          "y las bestias salvajes estarán en paz contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Reconocerás tu casa como lugar seguro;",
+          "contarás tu ganado, y ni un solo animal faltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Llegarás a tener muchos hijos,",
+          "y descendientes como la hierba del campo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Llegarás al sepulcro anciano pero vigoroso,",
+          "como las gavillas que se recogen a tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "»Esto lo hemos examinado, y es verdad.",
+          "Así que escúchalo y compruébalo tú mismo»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,171 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"NUM","name":"Números"},"chapter":{"chapter_usfm":"NUM.34","is_chapter":true,"previous":{"usfm":"NUM.33","human":"Números 33","canonical":true,"toc":true},"current":{"usfm":"NUM.34","human":"Números 34"},"next":{"usfm":"NUM.35","human":"Números 35","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los límites del territorio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios le ordenó a Moisés:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3,4,5,6,7,8,9,10,11,12],"lines":["«Diles a los israelitas que estos serán los límites del territorio que les voy a dar:","»Límite sur, junto al desierto de Sin y la región de Edom: empieza al este, donde termina el Mar Muerto, y se extiende rumbo sur hasta Cadés-barnea, pasando por la cuesta de Acrabim y por Sin. De Cadés-barnea seguirá rumbo a Hasar-adar, hasta llegar a Asmón. De allí dará vuelta hacia el arroyo de Egipto, y terminará en el mar Mediterráneo.","»Límite oeste: estará formado por la costa del mar Mediterráneo.","»Límite norte: se extiende en línea recta desde el mar Mediterráneo hasta el monte Hor. Desde Hor seguirá hasta la entrada de Hamat, y de allí hasta Sedad. Luego la frontera se alargará hasta Zifrón y terminará en Hasar-enán.","»Límite este: se extiende desde Hasar-enán hasta Sefam. De allí irá hasta Riblá, que está al este de Ain. Luego la frontera bajará por la costa oriental del lago Quinéret, y seguirá por el río Jordán hasta llegar al Mar Muerto»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Cómo repartir el territorio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Moisés les dijo a los israelitas:","«Este es el territorio que Dios repartirá entre las nueve tribus y media. Cada una recibirá su parte, según la suerte que le toque."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14,15],"lines":["La tribu de Rubén, la tribu de Gad y la media tribu de Manasés ya recibieron su parte al otro lado del río Jordán, frente a la ciudad de Jericó»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Y Dios le dijo a Moisés:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["«El sacerdote Eleazar y Josué, repartirán el territorio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18,19,20,21,22,23,24,25,26,27,28,29],"lines":["Además, deben llamar a los siguientes jefes de tribu para que los ayuden:","Caleb, de la tribu de Judá,","Samuel, de la tribu de Simeón,","Elidad, de la tribu de Benjamín,","Buquí, de la tribu de Dan,","Haniel, de la tribu de Manasés,","Quemuel, de la tribu de Efraín,","Elisafán, de la tribu de Zabulón,","Palatiel, de la tribu de Isacar,","Ahihud, de la tribu de Aser, y","Pedahel, de la tribu de Neftalí»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NUM.33.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NUM.35.json"
+  },
+  "book": {
+    "book_usfm": "NUM",
+    "name": "Números"
+  },
+  "chapter": {
+    "chapter_usfm": "NUM.34",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NUM.33",
+      "human": "Números 33"
+    },
+    "current": {
+      "usfm": "NUM.34",
+      "human": "Números 34"
+    },
+    "next": {
+      "usfm": "NUM.35",
+      "human": "Números 35"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los límites del territorio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios le ordenó a Moisés:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11,
+          12
+        ],
+        "lines": [
+          "«Diles a los israelitas que estos serán los límites del territorio que les voy a dar:",
+          "»Límite sur, junto al desierto de Sin y la región de Edom: empieza al este, donde termina el Mar Muerto, y se extiende rumbo sur hasta Cadés-barnea, pasando por la cuesta de Acrabim y por Sin. De Cadés-barnea seguirá rumbo a Hasar-adar, hasta llegar a Asmón. De allí dará vuelta hacia el arroyo de Egipto, y terminará en el mar Mediterráneo.",
+          "»Límite oeste: estará formado por la costa del mar Mediterráneo.",
+          "»Límite norte: se extiende en línea recta desde el mar Mediterráneo hasta el monte Hor. Desde Hor seguirá hasta la entrada de Hamat, y de allí hasta Sedad. Luego la frontera se alargará hasta Zifrón y terminará en Hasar-enán.",
+          "»Límite este: se extiende desde Hasar-enán hasta Sefam. De allí irá hasta Riblá, que está al este de Ain. Luego la frontera bajará por la costa oriental del lago Quinéret, y seguirá por el río Jordán hasta llegar al Mar Muerto»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Cómo repartir el territorio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Moisés les dijo a los israelitas:",
+          "«Este es el territorio que Dios repartirá entre las nueve tribus y media. Cada una recibirá su parte, según la suerte que le toque."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14,
+          15
+        ],
+        "lines": [
+          "La tribu de Rubén, la tribu de Gad y la media tribu de Manasés ya recibieron su parte al otro lado del río Jordán, frente a la ciudad de Jericó»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Y Dios le dijo a Moisés:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "«El sacerdote Eleazar y Josué, repartirán el territorio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29
+        ],
+        "lines": [
+          "Además, deben llamar a los siguientes jefes de tribu para que los ayuden:",
+          "Caleb, de la tribu de Judá,",
+          "Samuel, de la tribu de Simeón,",
+          "Elidad, de la tribu de Benjamín,",
+          "Buquí, de la tribu de Dan,",
+          "Haniel, de la tribu de Manasés,",
+          "Quemuel, de la tribu de Efraín,",
+          "Elisafán, de la tribu de Zabulón,",
+          "Palatiel, de la tribu de Isacar,",
+          "Ahihud, de la tribu de Aser, y",
+          "Pedahel, de la tribu de Neftalí»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

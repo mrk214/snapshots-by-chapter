@@ -1,1 +1,162 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.61","is_chapter":true,"previous":{"usfm":"PSA.60","human":"Psalm 60","canonical":true,"toc":true},"current":{"usfm":"PSA.61","human":"Psalm 61"},"next":{"usfm":"PSA.62","human":"Psalm 62","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Lead Me to the Rock"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: with stringed instruments. Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hear my cry, O God,","listen to my prayer;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["from the end of the earth I call to you","when my heart is faint.","Lead me to the rock","that is higher than I,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["for you have been my refuge,","a strong tower against the enemy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Let me dwell in your tent forever!","Let me take refuge under the shelter of your wings!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For you, O God, have heard my vows;","you have given me the heritage of those who fear your name."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Prolong the life of the king;","may his years endure to all generations!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["May he be enthroned forever before God;","appoint steadfast love and faithfulness to watch over him!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["So will I ever sing praises to your name,","as I perform my vows day after day."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.60.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.62.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.61",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.60",
+      "human": "Psalm 60"
+    },
+    "current": {
+      "usfm": "PSA.61",
+      "human": "Psalm 61"
+    },
+    "next": {
+      "usfm": "PSA.62",
+      "human": "Psalm 62"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lead Me to the Rock"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: with stringed instruments. Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hear my cry, O God,",
+          "listen to my prayer;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "from the end of the earth I call to you",
+          "when my heart is faint.",
+          "Lead me to the rock",
+          "that is higher than I,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "for you have been my refuge,",
+          "a strong tower against the enemy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Let me dwell in your tent forever!",
+          "Let me take refuge under the shelter of your wings!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For you, O God, have heard my vows;",
+          "you have given me the heritage of those who fear your name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Prolong the life of the king;",
+          "may his years endure to all generations!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "May he be enthroned forever before God;",
+          "appoint steadfast love and faithfulness to watch over him!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "So will I ever sing praises to your name,",
+          "as I perform my vows day after day."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

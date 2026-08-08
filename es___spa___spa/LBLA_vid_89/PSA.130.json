@@ -1,1 +1,162 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Salmo 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Salmo 130"},"next":{"usfm":"PSA.131","human":"Salmo 131","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 130"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Clamor de un pecador"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico de ascenso gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Desde lo más profundo, oh Señor, he clamado a ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Señor, oye mi voz!","Estén atentos tus oídos","a la voz de mis súplicas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Señor, si tú tuvieras en cuenta las iniquidades,","¿quién, oh Señor, podría permanecer?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero en ti hay perdón,","para que seas temido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶Espero en el Señor; en Él espera mi alma,","y en su palabra tengo mi esperanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mi alma espera al Señor","más que los centinelas a la mañana;","sí, más que los centinelas a la mañana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Oh Israel, espera en el Señor,","porque en el Señor hay misericordia,","y en Él hay abundante redención;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Él redimirá a Israel","de todas sus iniquidades."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Salmo 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Salmo 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Salmo 131"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 130"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Clamor de un pecador"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de ascenso gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Desde lo más profundo, oh Señor, he clamado a ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Señor, oye mi voz!",
+          "Estén atentos tus oídos",
+          "a la voz de mis súplicas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Señor, si tú tuvieras en cuenta las iniquidades,",
+          "¿quién, oh Señor, podría permanecer?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero en ti hay perdón,",
+          "para que seas temido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶Espero en el Señor; en Él espera mi alma,",
+          "y en su palabra tengo mi esperanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mi alma espera al Señor",
+          "más que los centinelas a la mañana;",
+          "sí, más que los centinelas a la mañana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Oh Israel, espera en el Señor,",
+          "porque en el Señor hay misericordia,",
+          "y en Él hay abundante redención;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Él redimirá a Israel",
+          "de todas sus iniquidades."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

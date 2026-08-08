@@ -1,1 +1,270 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.51","is_chapter":true,"previous":{"usfm":"PSA.50","human":"Salmos 50","canonical":true,"toc":true},"current":{"usfm":"PSA.51","human":"Salmos 51"},"next":{"usfm":"PSA.52","human":"Salmos 52","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. Salmo de Davi. Escrito quando o profeta Natã veio falar com Davi, depois que este cometeu adultério com Bate-Seba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Tem misericórdia de mim, ó Deus, por teu amor;","por tua grande compaixão apaga as minhas transgressões."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lava-me de toda a minha culpa","e purifica-me do meu pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pois eu mesmo reconheço as minhas transgressões,","e o meu pecado sempre me persegue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Contra ti, só contra ti, pequei","e fiz o que tu reprovas,","de modo que justa é a tua sentença","e tens razão em condenar-me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sei que sou pecador desde que nasci;","sim, desde que me concebeu minha mãe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sei que desejas a verdade no íntimo;","e no coração me ensinas a sabedoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Purifica-me com hissopo, e ficarei puro;","lava-me, e mais branco do que a neve serei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Faze-me ouvir de novo júbilo e alegria,","e os ossos que esmagaste exultarão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Esconde o rosto dos meus pecados","e apaga todas as minhas iniquidades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cria em mim um coração puro, ó Deus,","e renova dentro de mim um espírito estável."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Não me expulses da tua presença","nem tires de mim o teu Santo Espírito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Devolve-me a alegria da tua salvação","e sustenta-me com um espírito pronto a obedecer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Então ensinarei os teus caminhos aos transgressores,","para que os pecadores se voltem para ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Livra-me da culpa dos crimes de sangue,","ó Deus, Deus da minha salvação!","E a minha língua aclamará a tua justiça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ó Senhor, dá palavras aos meus lábios,","e a minha boca anunciará o teu louvor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Não te deleitas em sacrifícios nem te agradas em holocaustos,","senão eu os traria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Os sacrifícios que agradam a Deus são um espírito quebrantado;","um coração quebrantado e contrito,","ó Deus, não desprezarás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Por tua boa vontade faze Sião prosperar;","ergue os muros de Jerusalém."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Então te agradarás dos sacrifícios sinceros,","das ofertas queimadas e dos holocaustos;","e novilhos serão oferecidos sobre o teu altar."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.50.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.52.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.51",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.50",
+      "human": "Salmos 50"
+    },
+    "current": {
+      "usfm": "PSA.51",
+      "human": "Salmos 51"
+    },
+    "next": {
+      "usfm": "PSA.52",
+      "human": "Salmos 52"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. Salmo de Davi. Escrito quando o profeta Natã veio falar com Davi, depois que este cometeu adultério com Bate-Seba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Tem misericórdia de mim, ó Deus, por teu amor;",
+          "por tua grande compaixão apaga as minhas transgressões."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lava-me de toda a minha culpa",
+          "e purifica-me do meu pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pois eu mesmo reconheço as minhas transgressões,",
+          "e o meu pecado sempre me persegue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Contra ti, só contra ti, pequei",
+          "e fiz o que tu reprovas,",
+          "de modo que justa é a tua sentença",
+          "e tens razão em condenar-me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sei que sou pecador desde que nasci;",
+          "sim, desde que me concebeu minha mãe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sei que desejas a verdade no íntimo;",
+          "e no coração me ensinas a sabedoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Purifica-me com hissopo, e ficarei puro;",
+          "lava-me, e mais branco do que a neve serei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Faze-me ouvir de novo júbilo e alegria,",
+          "e os ossos que esmagaste exultarão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Esconde o rosto dos meus pecados",
+          "e apaga todas as minhas iniquidades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cria em mim um coração puro, ó Deus,",
+          "e renova dentro de mim um espírito estável."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Não me expulses da tua presença",
+          "nem tires de mim o teu Santo Espírito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Devolve-me a alegria da tua salvação",
+          "e sustenta-me com um espírito pronto a obedecer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Então ensinarei os teus caminhos aos transgressores,",
+          "para que os pecadores se voltem para ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Livra-me da culpa dos crimes de sangue,",
+          "ó Deus, Deus da minha salvação!",
+          "E a minha língua aclamará a tua justiça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ó Senhor, dá palavras aos meus lábios,",
+          "e a minha boca anunciará o teu louvor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Não te deleitas em sacrifícios nem te agradas em holocaustos,",
+          "senão eu os traria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Os sacrifícios que agradam a Deus são um espírito quebrantado;",
+          "um coração quebrantado e contrito,",
+          "ó Deus, não desprezarás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Por tua boa vontade faze Sião prosperar;",
+          "ergue os muros de Jerusalém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Então te agradarás dos sacrifícios sinceros,",
+          "das ofertas queimadas e dos holocaustos;",
+          "e novilhos serão oferecidos sobre o teu altar."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

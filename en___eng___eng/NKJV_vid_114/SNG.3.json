@@ -1,1 +1,222 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"SNG","name":"Song of Solomon"},"chapter":{"chapter_usfm":"SNG.3","is_chapter":true,"previous":{"usfm":"SNG.2","human":"Song of Solomon 2","canonical":true,"toc":true},"current":{"usfm":"SNG.3","human":"Song of Solomon 3"},"next":{"usfm":"SNG.4","human":"Song of Solomon 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Troubled Night"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["By night on my bed I sought the one I love;","I sought him, but I did not find him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“I will rise now,” I said,","“And go about the city;","In the streets and in the squares","I will seek the one I love.”","I sought him, but I did not find him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The watchmen who go about the city found me;","I said,","“Have you seen the one I love?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Scarcely had I passed by them,","When I found the one I love.","I held him and would not let him go,","Until I had brought him to the house of my mother,","And into the chamber of her who conceived me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I charge you, O daughters of Jerusalem,","By the gazelles or by the does of the field,","Do not stir up nor awaken love","Until it pleases."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Coming of Solomon"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Shulamite"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Who is this coming out of the wilderness","Like pillars of smoke,","Perfumed with myrrh and frankincense,","With all the merchant’s fragrant powders?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Behold, it is Solomon’s couch,","With sixty valiant men around it,","Of the valiant of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They all hold swords,","Being expert in war.","Every man has his sword on his thigh","Because of fear in the night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Of the wood of Lebanon","Solomon the King","Made himself a palanquin:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["He made its pillars of silver,","Its support of gold,","Its seat of purple,","Its interior paved with love","By the daughters of Jerusalem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Go forth, O daughters of Zion,","And see King Solomon with the crown","With which his mother crowned him","On the day of his wedding,","The day of the gladness of his heart."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/SNG.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/SNG.4.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Song of Solomon"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.2",
+      "human": "Song of Solomon 2"
+    },
+    "current": {
+      "usfm": "SNG.3",
+      "human": "Song of Solomon 3"
+    },
+    "next": {
+      "usfm": "SNG.4",
+      "human": "Song of Solomon 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Troubled Night"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "By night on my bed I sought the one I love;",
+          "I sought him, but I did not find him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“I will rise now,” I said,",
+          "“And go about the city;",
+          "In the streets and in the squares",
+          "I will seek the one I love.”",
+          "I sought him, but I did not find him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The watchmen who go about the city found me;",
+          "I said,",
+          "“Have you seen the one I love?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Scarcely had I passed by them,",
+          "When I found the one I love.",
+          "I held him and would not let him go,",
+          "Until I had brought him to the house of my mother,",
+          "And into the chamber of her who conceived me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I charge you, O daughters of Jerusalem,",
+          "By the gazelles or by the does of the field,",
+          "Do not stir up nor awaken love",
+          "Until it pleases."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Coming of Solomon"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Shulamite"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Who is this coming out of the wilderness",
+          "Like pillars of smoke,",
+          "Perfumed with myrrh and frankincense,",
+          "With all the merchant’s fragrant powders?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Behold, it is Solomon’s couch,",
+          "With sixty valiant men around it,",
+          "Of the valiant of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They all hold swords,",
+          "Being expert in war.",
+          "Every man has his sword on his thigh",
+          "Because of fear in the night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Of the wood of Lebanon",
+          "Solomon the King",
+          "Made himself a palanquin:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "He made its pillars of silver,",
+          "Its support of gold,",
+          "Its seat of purple,",
+          "Its interior paved with love",
+          "By the daughters of Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Go forth, O daughters of Zion,",
+          "And see King Solomon with the crown",
+          "With which his mother crowned him",
+          "On the day of his wedding,",
+          "The day of the gladness of his heart."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,125 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.13","is_chapter":true,"previous":{"usfm":"PSA.12","human":"Salmo 12","canonical":true,"toc":true},"current":{"usfm":"PSA.13","human":"Salmo 13"},"next":{"usfm":"PSA.14","human":"Salmo 14","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¿Hasta cuándo, Señor, me seguirás olvidando?","¿Hasta cuándo me esconderás tu rostro?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¿Hasta cuándo he de estar angustiado","y he de sufrir cada día en mi corazón?","¿Hasta cuándo el enemigo me seguirá dominando?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Señor y Dios mío,","mírame y respóndeme;","ilumina mis ojos.","Así no caeré en el sueño de la muerte;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["así no dirá mi enemigo: «Lo he vencido»;","así mi adversario no se alegrará de mi caída."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pero yo confío en tu gran amor;","mi corazón se alegra en tu salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Canto salmos al Señor.","¡El Señor ha sido bueno conmigo!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.14.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.12",
+      "human": "Salmo 12"
+    },
+    "current": {
+      "usfm": "PSA.13",
+      "human": "Salmo 13"
+    },
+    "next": {
+      "usfm": "PSA.14",
+      "human": "Salmo 14"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¿Hasta cuándo, Señor, me seguirás olvidando?",
+          "¿Hasta cuándo me esconderás tu rostro?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¿Hasta cuándo he de estar angustiado",
+          "y he de sufrir cada día en mi corazón?",
+          "¿Hasta cuándo el enemigo me seguirá dominando?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Señor y Dios mío,",
+          "mírame y respóndeme;",
+          "ilumina mis ojos.",
+          "Así no caeré en el sueño de la muerte;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "así no dirá mi enemigo: «Lo he vencido»;",
+          "así mi adversario no se alegrará de mi caída."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pero yo confío en tu gran amor;",
+          "mi corazón se alegra en tu salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Canto salmos al Señor.",
+          "¡El Señor ha sido bueno conmigo!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

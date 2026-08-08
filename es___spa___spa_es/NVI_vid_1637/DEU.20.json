@@ -1,1 +1,256 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"DEU","name":"Deuteronomio"},"chapter":{"chapter_usfm":"DEU.20","is_chapter":true,"previous":{"usfm":"DEU.19","human":"Deuteronomio 19","canonical":true,"toc":true},"current":{"usfm":"DEU.20","human":"Deuteronomio 20"},"next":{"usfm":"DEU.21","human":"Deuteronomio 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Instrucciones para la guerra"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["»Cuando salgas a pelear contra tus enemigos y veas un ejército superior al tuyo, con muchos caballos y carros de guerra, no les temas, porque el Señor tu Dios, que te sacó de Egipto, estará contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cuando estés a punto de entrar en batalla, el sacerdote pasará al frente y exhortará al ejército"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["con estas palabras: “¡Escucha, Israel! Hoy vas a entrar en batalla contra tus enemigos. No te desanimes ni tengas miedo; no te acobardes ni te llenes de pavor ante ellos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["porque el Señor tu Dios está contigo; él peleará en favor tuyo y te dará la victoria sobre tus enemigos”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Luego los oficiales le dirán al ejército: “Si alguno de vosotros ha construido una casa nueva y no la ha estrenado, que vuelva a su casa, no sea que muera en batalla y otro la estrene."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y si alguno ha plantado una viña y no ha disfrutado de las uvas, que vuelva a su finca, no sea que muera en batalla y sea otro el que disfrute de ellas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Y si alguno se ha comprometido con una mujer y no se ha casado, que regrese a su pueblo, no sea que muera en batalla y sea otro el que se case con ella”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Y añadirán los oficiales: “Si alguno de vosotros es miedoso o cobarde, que vuelva a su casa, no sea que desanime también a sus hermanos”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Cuando los oficiales hayan terminado de hablar, nombrarán capitanes que dirijan el ejército."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Cuando te acerques a una ciudad para atacarla, hazle primero una oferta de paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Si acepta y abre las puertas, todos los habitantes de esa ciudad quedarán bajo tu dominio y serán tus esclavos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Pero, si la ciudad rechaza la paz y entra en batalla contra ti, la sitiarás;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["y cuando el Señor tu Dios la entregue en tus manos, matarás a filo de espada a todos sus hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como botín, podrás retener a las mujeres y a los niños, y el ganado y todo lo demás que haya en la ciudad. También podrás comer del botín de tus enemigos, que te entrega el Señor tu Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Así tratarás a todas las ciudades lejanas que no pertenezcan a las naciones vecinas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["»Sin embargo, en las ciudades de los pueblos que el Señor tu Dios te da como herencia, no dejarás nada con vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Exterminarás del todo a hititas, amorreos, cananeos, ferezeos, heveos y jebuseos, tal como el Señor tu Dios te ha mandado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["De lo contrario, ellos te enseñarán a hacer todas las cosas abominables que hacen para adorar a sus dioses, y pecarás contra el Señor tu Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["»Si antes de conquistar una ciudad tienes que sitiarla por mucho tiempo, no derribes sus árboles a golpe de hacha, pues necesitarás alimentarte de sus frutos. No los derribes, pues no son hombres que puedan defenderse de ti, sino solo árboles del campo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Sin embargo, podrás derribar los árboles que no sean frutales y construir con ellos instrumentos de asedio contra la ciudad que tengas sitiada, hasta que caiga bajo tu dominio."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/DEU.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/DEU.21.json"
+  },
+  "book": {
+    "book_usfm": "DEU",
+    "name": "Deuteronomio"
+  },
+  "chapter": {
+    "chapter_usfm": "DEU.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.19",
+      "human": "Deuteronomio 19"
+    },
+    "current": {
+      "usfm": "DEU.20",
+      "human": "Deuteronomio 20"
+    },
+    "next": {
+      "usfm": "DEU.21",
+      "human": "Deuteronomio 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Instrucciones para la guerra"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Cuando salgas a pelear contra tus enemigos y veas un ejército superior al tuyo, con muchos caballos y carros de guerra, no les temas, porque el Señor tu Dios, que te sacó de Egipto, estará contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cuando estés a punto de entrar en batalla, el sacerdote pasará al frente y exhortará al ejército"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "con estas palabras: “¡Escucha, Israel! Hoy vas a entrar en batalla contra tus enemigos. No te desanimes ni tengas miedo; no te acobardes ni te llenes de pavor ante ellos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "porque el Señor tu Dios está contigo; él peleará en favor tuyo y te dará la victoria sobre tus enemigos”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Luego los oficiales le dirán al ejército: “Si alguno de vosotros ha construido una casa nueva y no la ha estrenado, que vuelva a su casa, no sea que muera en batalla y otro la estrene."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y si alguno ha plantado una viña y no ha disfrutado de las uvas, que vuelva a su finca, no sea que muera en batalla y sea otro el que disfrute de ellas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Y si alguno se ha comprometido con una mujer y no se ha casado, que regrese a su pueblo, no sea que muera en batalla y sea otro el que se case con ella”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Y añadirán los oficiales: “Si alguno de vosotros es miedoso o cobarde, que vuelva a su casa, no sea que desanime también a sus hermanos”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Cuando los oficiales hayan terminado de hablar, nombrarán capitanes que dirijan el ejército."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Cuando te acerques a una ciudad para atacarla, hazle primero una oferta de paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Si acepta y abre las puertas, todos los habitantes de esa ciudad quedarán bajo tu dominio y serán tus esclavos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Pero, si la ciudad rechaza la paz y entra en batalla contra ti, la sitiarás;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "y cuando el Señor tu Dios la entregue en tus manos, matarás a filo de espada a todos sus hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como botín, podrás retener a las mujeres y a los niños, y el ganado y todo lo demás que haya en la ciudad. También podrás comer del botín de tus enemigos, que te entrega el Señor tu Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Así tratarás a todas las ciudades lejanas que no pertenezcan a las naciones vecinas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "»Sin embargo, en las ciudades de los pueblos que el Señor tu Dios te da como herencia, no dejarás nada con vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Exterminarás del todo a hititas, amorreos, cananeos, ferezeos, heveos y jebuseos, tal como el Señor tu Dios te ha mandado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "De lo contrario, ellos te enseñarán a hacer todas las cosas abominables que hacen para adorar a sus dioses, y pecarás contra el Señor tu Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "»Si antes de conquistar una ciudad tienes que sitiarla por mucho tiempo, no derribes sus árboles a golpe de hacha, pues necesitarás alimentarte de sus frutos. No los derribes, pues no son hombres que puedan defenderse de ti, sino solo árboles del campo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Sin embargo, podrás derribar los árboles que no sean frutales y construir con ellos instrumentos de asedio contra la ciudad que tengas sitiada, hasta que caiga bajo tu dominio."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

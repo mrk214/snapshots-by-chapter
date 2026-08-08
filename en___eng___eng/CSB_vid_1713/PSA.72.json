@@ -1,1 +1,296 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.72","is_chapter":true,"previous":{"usfm":"PSA.71","human":"Psalms 71","canonical":true,"toc":true},"current":{"usfm":"PSA.72","human":"Psalms 72"},"next":{"usfm":"PSA.73","human":"Psalms 73","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Prayer for the King"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Of Solomon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["God, give your justice to the king","and your righteousness to the king’s son."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He will judge your people with righteousness","and your afflicted ones with justice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["May the mountains bring well-being to the people","and the hills, righteousness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["May he vindicate the afflicted among the people,","help the poor,","and crush the oppressor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["May they fear you while the sun endures","and as long as the moon, throughout all generations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["May the king be like rain that falls on the cut grass,","like spring showers that water the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["May the righteous flourish in his days","and well-being abound","until the moon is no more."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["May he rule from sea to sea","and from the Euphrates","to the ends of the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["May desert tribes kneel before him","and his enemies lick the dust."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["May the kings of Tarshish","and the coasts and islands bring tribute,","the kings of Sheba and Seba offer gifts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Let all kings bow in homage to him,","all nations serve him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["For he will rescue the poor who cry out","and the afflicted who have no helper."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["He will have pity on the poor and helpless","and save the lives of the poor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["He will redeem them from oppression and violence,","for their lives are precious in his sight."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["May he live long!","May gold from Sheba be given to him.","May prayer be offered for him continually,","and may he be blessed all day long."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["May there be plenty of grain in the land;","may it wave on the tops of the mountains.","May its crops be like Lebanon.","May people flourish in the cities","like the grass of the field."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["May his name endure forever;","as long as the sun shines,","may his fame increase.","May all nations be blessed by him","and call him blessed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Blessed be the Lord God, the God of Israel,","who alone does wonders."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Blessed be his glorious name forever;","the whole earth is filled with his glory.","Amen and amen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["The prayers of David son of Jesse are concluded."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.71.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.73.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.72",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.71",
+      "human": "Psalms 71"
+    },
+    "current": {
+      "usfm": "PSA.72",
+      "human": "Psalms 72"
+    },
+    "next": {
+      "usfm": "PSA.73",
+      "human": "Psalms 73"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Prayer for the King"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Of Solomon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "God, give your justice to the king",
+          "and your righteousness to the king’s son."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He will judge your people with righteousness",
+          "and your afflicted ones with justice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "May the mountains bring well-being to the people",
+          "and the hills, righteousness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "May he vindicate the afflicted among the people,",
+          "help the poor,",
+          "and crush the oppressor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "May they fear you while the sun endures",
+          "and as long as the moon, throughout all generations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "May the king be like rain that falls on the cut grass,",
+          "like spring showers that water the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "May the righteous flourish in his days",
+          "and well-being abound",
+          "until the moon is no more."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "May he rule from sea to sea",
+          "and from the Euphrates",
+          "to the ends of the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "May desert tribes kneel before him",
+          "and his enemies lick the dust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "May the kings of Tarshish",
+          "and the coasts and islands bring tribute,",
+          "the kings of Sheba and Seba offer gifts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Let all kings bow in homage to him,",
+          "all nations serve him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "For he will rescue the poor who cry out",
+          "and the afflicted who have no helper."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "He will have pity on the poor and helpless",
+          "and save the lives of the poor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "He will redeem them from oppression and violence,",
+          "for their lives are precious in his sight."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "May he live long!",
+          "May gold from Sheba be given to him.",
+          "May prayer be offered for him continually,",
+          "and may he be blessed all day long."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "May there be plenty of grain in the land;",
+          "may it wave on the tops of the mountains.",
+          "May its crops be like Lebanon.",
+          "May people flourish in the cities",
+          "like the grass of the field."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "May his name endure forever;",
+          "as long as the sun shines,",
+          "may his fame increase.",
+          "May all nations be blessed by him",
+          "and call him blessed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Blessed be the Lord God, the God of Israel,",
+          "who alone does wonders."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Blessed be his glorious name forever;",
+          "the whole earth is filled with his glory.",
+          "Amen and amen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "The prayers of David son of Jesse are concluded."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

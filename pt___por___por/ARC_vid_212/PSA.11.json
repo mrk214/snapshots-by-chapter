@@ -1,1 +1,134 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.11","is_chapter":true,"previous":{"usfm":"PSA.10","human":"Salmos 10","canonical":true,"toc":true},"current":{"usfm":"PSA.11","human":"Salmos 11"},"next":{"usfm":"PSA.12","human":"Salmos 12","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Deus salva os retos e castiga os ímpios"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi para o cantor-mor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No Senhor confio; como dizeis, pois, à minha alma: Foge para a tua montanha como pássaro?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque eis que os ímpios armam o arco, põem as flechas na corda, para com elas atirarem, às ocultas, aos retos de coração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Na verdade, que já os fundamentos se transtornam; que pode fazer o justo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["O Senhor está no seu santo templo; o trono do Senhor está nos céus; os seus olhos estão atentos, e as suas pálpebras provam os filhos dos homens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor prova o justo, mas a sua alma aborrece o ímpio e o que ama a violência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sobre os ímpios fará chover laços, fogo, enxofre e vento tempestuoso; eis a porção do seu copo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque o Senhor é justo e ama a justiça; o seu rosto está voltado para os retos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.12.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.10",
+      "human": "Salmos 10"
+    },
+    "current": {
+      "usfm": "PSA.11",
+      "human": "Salmos 11"
+    },
+    "next": {
+      "usfm": "PSA.12",
+      "human": "Salmos 12"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deus salva os retos e castiga os ímpios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi para o cantor-mor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No Senhor confio; como dizeis, pois, à minha alma: Foge para a tua montanha como pássaro?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque eis que os ímpios armam o arco, põem as flechas na corda, para com elas atirarem, às ocultas, aos retos de coração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Na verdade, que já os fundamentos se transtornam; que pode fazer o justo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "O Senhor está no seu santo templo; o trono do Senhor está nos céus; os seus olhos estão atentos, e as suas pálpebras provam os filhos dos homens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor prova o justo, mas a sua alma aborrece o ímpio e o que ama a violência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sobre os ímpios fará chover laços, fogo, enxofre e vento tempestuoso; eis a porção do seu copo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque o Senhor é justo e ama a justiça; o seu rosto está voltado para os retos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

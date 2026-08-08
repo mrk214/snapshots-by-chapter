@@ -1,1 +1,146 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.20","is_chapter":true,"previous":{"usfm":"JOS.19","human":"Josué 19","canonical":true,"toc":true},"current":{"usfm":"JOS.20","human":"Josué 20"},"next":{"usfm":"JOS.21","human":"Josué 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ciudades de refugio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El Señor dijo a Josué:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Pide a los israelitas que designen algunas ciudades de refugio, tal como te lo ordené por medio de Moisés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Así cualquier persona que mate a otra accidentalmente o sin premeditación podrá huir a esas ciudades para refugiarse del vengador del delito de sangre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Cuando tal persona huya a una de esas ciudades, se ubicará a la entrada y allí presentará su caso ante los jefes de la ciudad. Acto seguido, los ancianos lo aceptarán en esa ciudad y le asignarán un lugar para vivir con ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Si el vengador del delito de sangre persigue a la persona hasta esa ciudad, los ancianos no deberán entregárselo, pues ya habrán aceptado al que mató sin premeditación ni rencor alguno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El acusado permanecerá en aquella ciudad hasta haber comparecido ante la asamblea del pueblo y hasta que el sumo sacerdote en funciones haya fallecido. Solo después de esto el acusado podrá regresar a su hogar y al pueblo del cual huyó tiempo atrás»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En respuesta a la orden de Josué, los israelitas designaron Cedes en Galilea, en la región montañosa de Neftalí; Siquén, en la región montañosa de Efraín, y Quiriat Arbá, conocida como Hebrón, en la región montañosa de Judá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Al este del río Jordán, escogieron las tres ciudades siguientes: Béser, en el desierto que está en la meseta perteneciente al territorio de la tribu de Rubén; Ramot de Galaad, en el territorio de la tribu de Gad, y Golán de Basán, en el territorio de la tribu de Manasés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Todo israelita o extranjero residente que hubiera matado accidentalmente a alguien podría huir hacia una de esas ciudades para no morir por mano del vengador del delito de sangre, antes de ser juzgado por la asamblea."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOS.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOS.21.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.19",
+      "human": "Josué 19"
+    },
+    "current": {
+      "usfm": "JOS.20",
+      "human": "Josué 20"
+    },
+    "next": {
+      "usfm": "JOS.21",
+      "human": "Josué 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ciudades de refugio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El Señor dijo a Josué:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Pide a los israelitas que designen algunas ciudades de refugio, tal como te lo ordené por medio de Moisés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Así cualquier persona que mate a otra accidentalmente o sin premeditación podrá huir a esas ciudades para refugiarse del vengador del delito de sangre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Cuando tal persona huya a una de esas ciudades, se ubicará a la entrada y allí presentará su caso ante los jefes de la ciudad. Acto seguido, los ancianos lo aceptarán en esa ciudad y le asignarán un lugar para vivir con ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Si el vengador del delito de sangre persigue a la persona hasta esa ciudad, los ancianos no deberán entregárselo, pues ya habrán aceptado al que mató sin premeditación ni rencor alguno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El acusado permanecerá en aquella ciudad hasta haber comparecido ante la asamblea del pueblo y hasta que el sumo sacerdote en funciones haya fallecido. Solo después de esto el acusado podrá regresar a su hogar y al pueblo del cual huyó tiempo atrás»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En respuesta a la orden de Josué, los israelitas designaron Cedes en Galilea, en la región montañosa de Neftalí; Siquén, en la región montañosa de Efraín, y Quiriat Arbá, conocida como Hebrón, en la región montañosa de Judá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Al este del río Jordán, escogieron las tres ciudades siguientes: Béser, en el desierto que está en la meseta perteneciente al territorio de la tribu de Rubén; Ramot de Galaad, en el territorio de la tribu de Gad, y Golán de Basán, en el territorio de la tribu de Manasés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Todo israelita o extranjero residente que hubiera matado accidentalmente a alguien podría huir hacia una de esas ciudades para no morir por mano del vengador del delito de sangre, antes de ser juzgado por la asamblea."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,142 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.142","is_chapter":true,"previous":{"usfm":"PSA.141","human":"Salmos 141","canonical":true,"toc":true},"current":{"usfm":"PSA.142","human":"Salmos 142"},"next":{"usfm":"PSA.143","human":"Salmos 143","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David, acerca de su experiencia en la cueva. Oración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Clamo al Señor;","ruego la misericordia del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Expongo mis quejas delante de él","y le cuento todos mis problemas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando me siento agobiado,","solo tú sabes qué camino debo tomar.","Vaya adonde vaya,","mis enemigos me han tendido trampas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Busco a alguien que venga a ayudarme,","¡pero a nadie se le ocurre hacerlo!","Nadie me ayudará;","a nadie le importa un bledo lo que me pasa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces oro a ti, oh Señor,","y digo: «Tú eres mi lugar de refugio.","En verdad, eres todo lo que quiero en la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oye mi clamor,","porque estoy muy decaído.","Rescátame de mis perseguidores,","porque son demasiado fuertes para mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Sácame de la prisión","para que pueda agradecerte.","Los justos se amontonarán a mi alrededor,","porque tú eres bueno conmigo»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.141.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.143.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.142",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.141",
+      "human": "Salmos 141"
+    },
+    "current": {
+      "usfm": "PSA.142",
+      "human": "Salmos 142"
+    },
+    "next": {
+      "usfm": "PSA.143",
+      "human": "Salmos 143"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David, acerca de su experiencia en la cueva. Oración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Clamo al Señor;",
+          "ruego la misericordia del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Expongo mis quejas delante de él",
+          "y le cuento todos mis problemas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando me siento agobiado,",
+          "solo tú sabes qué camino debo tomar.",
+          "Vaya adonde vaya,",
+          "mis enemigos me han tendido trampas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Busco a alguien que venga a ayudarme,",
+          "¡pero a nadie se le ocurre hacerlo!",
+          "Nadie me ayudará;",
+          "a nadie le importa un bledo lo que me pasa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces oro a ti, oh Señor,",
+          "y digo: «Tú eres mi lugar de refugio.",
+          "En verdad, eres todo lo que quiero en la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oye mi clamor,",
+          "porque estoy muy decaído.",
+          "Rescátame de mis perseguidores,",
+          "porque son demasiado fuertes para mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Sácame de la prisión",
+          "para que pueda agradecerte.",
+          "Los justos se amontonarán a mi alrededor,",
+          "porque tú eres bueno conmigo»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

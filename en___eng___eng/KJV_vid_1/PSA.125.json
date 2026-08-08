@@ -1,1 +1,113 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.125","is_chapter":true,"previous":{"usfm":"PSA.124","human":"Psalm 124","canonical":true,"toc":true},"current":{"usfm":"PSA.125","human":"Psalm 125"},"next":{"usfm":"PSA.126","human":"Psalm 126","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["They that trust in the LORD","Shall be as mount Zion,","Which cannot be removed,","But abideth for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["As the mountains are round about Jerusalem,","So the LORD is round about his people from henceforth even for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For the rod of the wicked shall not rest upon the lot of the righteous;","Lest the righteous put forth their hands unto iniquity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Do good, O LORD,","Unto those that be good, and to them that are upright in their hearts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity:","But peace shall be upon Israel."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.124.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.126.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.125",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.124",
+      "human": "Psalm 124"
+    },
+    "current": {
+      "usfm": "PSA.125",
+      "human": "Psalm 125"
+    },
+    "next": {
+      "usfm": "PSA.126",
+      "human": "Psalm 126"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "They that trust in the LORD",
+          "Shall be as mount Zion,",
+          "Which cannot be removed,",
+          "But abideth for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "As the mountains are round about Jerusalem,",
+          "So the LORD is round about his people from henceforth even for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For the rod of the wicked shall not rest upon the lot of the righteous;",
+          "Lest the righteous put forth their hands unto iniquity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Do good, O LORD,",
+          "Unto those that be good, and to them that are upright in their hearts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "As for such as turn aside unto their crooked ways, the LORD shall lead them forth with the workers of iniquity:",
+          "But peace shall be upon Israel."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

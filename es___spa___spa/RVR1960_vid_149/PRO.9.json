@@ -1,1 +1,254 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.9","is_chapter":true,"previous":{"usfm":"PRO.8","human":"Proverbios 8","canonical":true,"toc":true},"current":{"usfm":"PRO.9","human":"Proverbios 9"},"next":{"usfm":"PRO.10","human":"Proverbios 10","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La sabiduría y la mujer insensata"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["La sabiduría edificó su casa,","Labró sus siete columnas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mató sus víctimas, mezcló su vino,","Y puso su mesa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Envió sus criadas;","Sobre lo más alto de la ciudad clamó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dice a cualquier simple: Ven acá.","A los faltos de cordura dice:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Venid, comed mi pan,","Y bebed del vino que yo he mezclado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Dejad las simplezas, y vivid,","Y andad por el camino de la inteligencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El que corrige al escarnecedor, se acarrea afrenta;","El que reprende al impío, se atrae mancha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["No reprendas al escarnecedor, para que no te aborrezca;","Corrige al sabio, y te amará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Da al sabio, y será más sabio;","Enseña al justo, y aumentará su saber."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El temor de Jehová es el principio de la sabiduría,","Y el conocimiento del Santísimo es la inteligencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Porque por mí se aumentarán tus días,","Y años de vida se te añadirán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Si fueres sabio, para ti lo serás;","Y si fueres escarnecedor, pagarás tú solo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La mujer insensata es alborotadora;","Es simple e ignorante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Se sienta en una silla a la puerta de su casa,","En los lugares altos de la ciudad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Para llamar a los que pasan por el camino,","Que van por sus caminos derechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Dice a cualquier simple: Ven acá.","A los faltos de cordura dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Las aguas hurtadas son dulces,","Y el pan comido en oculto es sabroso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Y no saben que allí están los muertos;","Que sus convidados están en lo profundo del Seol."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.8.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.10.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.9",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.8",
+      "human": "Proverbios 8"
+    },
+    "current": {
+      "usfm": "PRO.9",
+      "human": "Proverbios 9"
+    },
+    "next": {
+      "usfm": "PRO.10",
+      "human": "Proverbios 10"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La sabiduría y la mujer insensata"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "La sabiduría edificó su casa,",
+          "Labró sus siete columnas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mató sus víctimas, mezcló su vino,",
+          "Y puso su mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Envió sus criadas;",
+          "Sobre lo más alto de la ciudad clamó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dice a cualquier simple: Ven acá.",
+          "A los faltos de cordura dice:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Venid, comed mi pan,",
+          "Y bebed del vino que yo he mezclado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Dejad las simplezas, y vivid,",
+          "Y andad por el camino de la inteligencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El que corrige al escarnecedor, se acarrea afrenta;",
+          "El que reprende al impío, se atrae mancha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "No reprendas al escarnecedor, para que no te aborrezca;",
+          "Corrige al sabio, y te amará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Da al sabio, y será más sabio;",
+          "Enseña al justo, y aumentará su saber."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El temor de Jehová es el principio de la sabiduría,",
+          "Y el conocimiento del Santísimo es la inteligencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Porque por mí se aumentarán tus días,",
+          "Y años de vida se te añadirán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Si fueres sabio, para ti lo serás;",
+          "Y si fueres escarnecedor, pagarás tú solo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La mujer insensata es alborotadora;",
+          "Es simple e ignorante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Se sienta en una silla a la puerta de su casa,",
+          "En los lugares altos de la ciudad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Para llamar a los que pasan por el camino,",
+          "Que van por sus caminos derechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Dice a cualquier simple: Ven acá.",
+          "A los faltos de cordura dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Las aguas hurtadas son dulces,",
+          "Y el pan comido en oculto es sabroso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Y no saben que allí están los muertos;",
+          "Que sus convidados están en lo profundo del Seol."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

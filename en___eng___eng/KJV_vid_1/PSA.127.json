@@ -1,1 +1,113 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.127","is_chapter":true,"previous":{"usfm":"PSA.126","human":"Psalm 126","canonical":true,"toc":true},"current":{"usfm":"PSA.127","human":"Psalm 127"},"next":{"usfm":"PSA.128","human":"Psalm 128","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees for Solomon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Except the LORD build the house,","They labour in vain that build it:","Except the LORD keep the city,","The watchman waketh but in vain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["It is vain for you to rise up early, to sit up late, to eat the bread of sorrows:","For so he giveth his beloved sleep."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Lo, children are an heritage of the LORD:","And the fruit of the womb is his reward."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["As arrows are in the hand of a mighty man;","So are children of the youth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Happy is the man that hath his quiver full of them:","They shall not be ashamed, but they shall speak with the enemies in the gate."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.126.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.128.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.127",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.126",
+      "human": "Psalm 126"
+    },
+    "current": {
+      "usfm": "PSA.127",
+      "human": "Psalm 127"
+    },
+    "next": {
+      "usfm": "PSA.128",
+      "human": "Psalm 128"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees for Solomon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Except the LORD build the house,",
+          "They labour in vain that build it:",
+          "Except the LORD keep the city,",
+          "The watchman waketh but in vain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "It is vain for you to rise up early, to sit up late, to eat the bread of sorrows:",
+          "For so he giveth his beloved sleep."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Lo, children are an heritage of the LORD:",
+          "And the fruit of the womb is his reward."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "As arrows are in the hand of a mighty man;",
+          "So are children of the youth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Happy is the man that hath his quiver full of them:",
+          "They shall not be ashamed, but they shall speak with the enemies in the gate."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

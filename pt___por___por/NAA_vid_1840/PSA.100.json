@@ -1,1 +1,129 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.100","is_chapter":true,"previous":{"usfm":"PSA.99","human":"Salmos 99","canonical":true,"toc":true},"current":{"usfm":"PSA.100","human":"Salmos 100"},"next":{"usfm":"PSA.101","human":"Salmos 101","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Hino de louvor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de ações de graças"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Celebrem com júbilo ao Senhor,","todas as terras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sirvam ao Senhor com alegria,","apresentem-se diante dele","com cântico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Saibam que o Senhor é Deus;","foi ele quem nos fez, e dele somos;","somos o seu povo","e rebanho do seu pastoreio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entrem por suas portas","com ações de graças","e nos seus átrios,","com hinos de louvor;","rendam-lhe graças","e bendigam o seu nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque o Senhor é bom,","a sua misericórdia","dura para sempre,","e, de geração em geração,","a sua fidelidade."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.99.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.101.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.100",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "current": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "next": {
+      "usfm": "PSA.101",
+      "human": "Salmos 101"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Hino de louvor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de ações de graças"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Celebrem com júbilo ao Senhor,",
+          "todas as terras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sirvam ao Senhor com alegria,",
+          "apresentem-se diante dele",
+          "com cântico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Saibam que o Senhor é Deus;",
+          "foi ele quem nos fez, e dele somos;",
+          "somos o seu povo",
+          "e rebanho do seu pastoreio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entrem por suas portas",
+          "com ações de graças",
+          "e nos seus átrios,",
+          "com hinos de louvor;",
+          "rendam-lhe graças",
+          "e bendigam o seu nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque o Senhor é bom,",
+          "a sua misericórdia",
+          "dura para sempre,",
+          "e, de geração em geração,",
+          "a sua fidelidade."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

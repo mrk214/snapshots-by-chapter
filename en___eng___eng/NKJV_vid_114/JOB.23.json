@@ -1,1 +1,243 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.23","is_chapter":true,"previous":{"usfm":"JOB.22","human":"Job 22","canonical":true,"toc":true},"current":{"usfm":"JOB.23","human":"Job 23"},"next":{"usfm":"JOB.24","human":"Job 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job Proclaims God’s Righteous Judgments"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then Job answered and said:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Even today my complaint is bitter;","My hand is listless because of my groaning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Oh, that I knew where I might find Him,","That I might come to His seat!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I would present my case before Him,","And fill my mouth with arguments."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I would know the words which He would answer me,","And understand what He would say to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Would He contend with me in His great power?","No! But He would take note of me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["There the upright could reason with Him,","And I would be delivered forever from my Judge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Look, I go forward, but He is not there,","And backward, but I cannot perceive Him;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["When He works on the left hand, I cannot behold Him;","When He turns to the right hand, I cannot see Him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["But He knows the way that I take;","When He has tested me, I shall come forth as gold."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["My foot has held fast to His steps;","I have kept His way and not turned aside."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["I have not departed from the commandment of His lips;","I have treasured the words of His mouth","More than my necessary food."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“But He is unique, and who can make Him change?","And whatever His soul desires, that He does."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["For He performs what is appointed for me,","And many such things are with Him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Therefore I am terrified at His presence;","When I consider this, I am afraid of Him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["For God made my heart weak,","And the Almighty terrifies me;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Because I was not cut off from the presence of darkness,","And He did not hide deep darkness from my face."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOB.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOB.24.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.22",
+      "human": "Job 22"
+    },
+    "current": {
+      "usfm": "JOB.23",
+      "human": "Job 23"
+    },
+    "next": {
+      "usfm": "JOB.24",
+      "human": "Job 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job Proclaims God’s Righteous Judgments"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then Job answered and said:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Even today my complaint is bitter;",
+          "My hand is listless because of my groaning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Oh, that I knew where I might find Him,",
+          "That I might come to His seat!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I would present my case before Him,",
+          "And fill my mouth with arguments."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I would know the words which He would answer me,",
+          "And understand what He would say to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Would He contend with me in His great power?",
+          "No! But He would take note of me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "There the upright could reason with Him,",
+          "And I would be delivered forever from my Judge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Look, I go forward, but He is not there,",
+          "And backward, but I cannot perceive Him;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "When He works on the left hand, I cannot behold Him;",
+          "When He turns to the right hand, I cannot see Him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "But He knows the way that I take;",
+          "When He has tested me, I shall come forth as gold."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "My foot has held fast to His steps;",
+          "I have kept His way and not turned aside."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "I have not departed from the commandment of His lips;",
+          "I have treasured the words of His mouth",
+          "More than my necessary food."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“But He is unique, and who can make Him change?",
+          "And whatever His soul desires, that He does."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "For He performs what is appointed for me,",
+          "And many such things are with Him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Therefore I am terrified at His presence;",
+          "When I consider this, I am afraid of Him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "For God made my heart weak,",
+          "And the Almighty terrifies me;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Because I was not cut off from the presence of darkness,",
+          "And He did not hide deep darkness from my face."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

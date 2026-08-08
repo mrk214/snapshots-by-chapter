@@ -1,1 +1,360 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.27","is_chapter":true,"previous":{"usfm":"PRO.26","human":"Proverbios 26","canonical":true,"toc":true},"current":{"usfm":"PRO.27","human":"Proverbios 27"},"next":{"usfm":"PRO.28","human":"Proverbios 28","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["¡Nadie controla el futuro!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No presumas hoy","de lo que piensas hacer mañana;","¡nadie sabe lo que traerá el futuro!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No presumas de ti mismo;","deja que te alaben los demás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Las piedras son pesadas,","y la arena también,","pero aún más pesado","es el enojo del necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El enojo es cruel,","la ira es destructiva,","y la envidia es incontrolable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quien de veras te ama","te reprenderá abiertamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Más te quiere tu amigo cuando te hiere","que tu enemigo cuando te besa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuando no se tiene hambre,","hasta la miel empalaga;","cuando se tiene hambre,","hasta lo amargo sabe dulce."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Estar lejos de la patria,","es andar como pájaro sin nido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Con un buen perfume","se alegra el corazón;","con la dulzura de la amistad","se vuelve a la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Nunca les falles a los amigos,","sean tuyos o de tu padre.","Nunca lleves tus problemas","a la casa de tu hermano.","Más vale amigo cercano","que pariente lejano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Querido jovencito,","hazme feliz actuando con sabiduría,","para taparles la boca","a los que quieran humillarme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Prever el peligro y evitarlo","es actuar con inteligencia;","hay que ser muy tonto","para no preverlo ni evitarlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El que se comprometa a pagar","las deudas de un desconocido","y se enrede con una mujer infiel","perderá todo lo que tenga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Hasta el mejor saludo","es un insulto grave,","si se hace a gritos","y en la madrugada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Peor que gotera en día lluvioso,","es la persona que por todo pelea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Querer controlarla","es querer atajar el viento","o retener aceite en la mano!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Para afilar el hierro, la lima;","para ser mejor persona, el amigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si quieres buena fruta,","cuida del árbol;","si quieres buen trato,","trata bien a tu jefe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El espejo refleja el rostro;","y los ojos revelan la personalidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Hay tres cosas","que nunca están satisfechas:","la tumba, la muerte,","y la ambición humana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Con el fuego se descubre","qué clase de metal tenemos;","con los elogios se descubre","qué clase de persona somos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Si al trigo lo machacas,","puedes quitarle la cáscara,","pero al necio, aunque lo remuelas,","no se le quita lo necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23,24,25],"lines":["Las riquezas no son eternas","ni el dinero dura para siempre.","Las cosechas se acaban,","y la hierba se seca.","Por eso, cuida bien tus rebaños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26,27],"lines":["Tus ovejas te darán su lana,","tus cabras te darán mucha leche,","y así podrán alimentarse","tú y tu familia","y hasta tus empleados.","Además podrás vender tus cabras","y con el dinero comprar un terreno."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.26.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.28.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.27",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.26",
+      "human": "Proverbios 26"
+    },
+    "current": {
+      "usfm": "PRO.27",
+      "human": "Proverbios 27"
+    },
+    "next": {
+      "usfm": "PRO.28",
+      "human": "Proverbios 28"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "¡Nadie controla el futuro!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No presumas hoy",
+          "de lo que piensas hacer mañana;",
+          "¡nadie sabe lo que traerá el futuro!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No presumas de ti mismo;",
+          "deja que te alaben los demás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Las piedras son pesadas,",
+          "y la arena también,",
+          "pero aún más pesado",
+          "es el enojo del necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El enojo es cruel,",
+          "la ira es destructiva,",
+          "y la envidia es incontrolable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quien de veras te ama",
+          "te reprenderá abiertamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Más te quiere tu amigo cuando te hiere",
+          "que tu enemigo cuando te besa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuando no se tiene hambre,",
+          "hasta la miel empalaga;",
+          "cuando se tiene hambre,",
+          "hasta lo amargo sabe dulce."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Estar lejos de la patria,",
+          "es andar como pájaro sin nido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Con un buen perfume",
+          "se alegra el corazón;",
+          "con la dulzura de la amistad",
+          "se vuelve a la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Nunca les falles a los amigos,",
+          "sean tuyos o de tu padre.",
+          "Nunca lleves tus problemas",
+          "a la casa de tu hermano.",
+          "Más vale amigo cercano",
+          "que pariente lejano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Querido jovencito,",
+          "hazme feliz actuando con sabiduría,",
+          "para taparles la boca",
+          "a los que quieran humillarme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Prever el peligro y evitarlo",
+          "es actuar con inteligencia;",
+          "hay que ser muy tonto",
+          "para no preverlo ni evitarlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El que se comprometa a pagar",
+          "las deudas de un desconocido",
+          "y se enrede con una mujer infiel",
+          "perderá todo lo que tenga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Hasta el mejor saludo",
+          "es un insulto grave,",
+          "si se hace a gritos",
+          "y en la madrugada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Peor que gotera en día lluvioso,",
+          "es la persona que por todo pelea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Querer controlarla",
+          "es querer atajar el viento",
+          "o retener aceite en la mano!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Para afilar el hierro, la lima;",
+          "para ser mejor persona, el amigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si quieres buena fruta,",
+          "cuida del árbol;",
+          "si quieres buen trato,",
+          "trata bien a tu jefe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El espejo refleja el rostro;",
+          "y los ojos revelan la personalidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Hay tres cosas",
+          "que nunca están satisfechas:",
+          "la tumba, la muerte,",
+          "y la ambición humana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Con el fuego se descubre",
+          "qué clase de metal tenemos;",
+          "con los elogios se descubre",
+          "qué clase de persona somos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Si al trigo lo machacas,",
+          "puedes quitarle la cáscara,",
+          "pero al necio, aunque lo remuelas,",
+          "no se le quita lo necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23,
+          24,
+          25
+        ],
+        "lines": [
+          "Las riquezas no son eternas",
+          "ni el dinero dura para siempre.",
+          "Las cosechas se acaban,",
+          "y la hierba se seca.",
+          "Por eso, cuida bien tus rebaños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26,
+          27
+        ],
+        "lines": [
+          "Tus ovejas te darán su lana,",
+          "tus cabras te darán mucha leche,",
+          "y así podrán alimentarse",
+          "tú y tu familia",
+          "y hasta tus empleados.",
+          "Además podrás vender tus cabras",
+          "y con el dinero comprar un terreno."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

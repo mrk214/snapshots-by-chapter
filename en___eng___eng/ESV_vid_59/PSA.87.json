@@ -1,1 +1,158 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Psalm 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Psalm 87"},"next":{"usfm":"PSA.88","human":"Psalm 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Glorious Things of You Are Spoken"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of the Sons of Korah. A Song."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["On the holy mount stands the city he founded;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["the Lord loves the gates of Zion","more than all the dwelling places of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Glorious things of you are spoken,","O city of God."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Among those who know me I mention Rahab and Babylon;","behold, Philistia and Tyre, with Cush—","“This one was born there,” they say."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And of Zion it shall be said,","“This one and that one were born in her”;","for the Most High himself will establish her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The Lord records as he registers the peoples,","“This one was born there.”"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Singers and dancers alike say,","“All my springs are in you.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Psalm 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Psalm 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Psalm 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Glorious Things of You Are Spoken"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of the Sons of Korah. A Song."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "On the holy mount stands the city he founded;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "the Lord loves the gates of Zion",
+          "more than all the dwelling places of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Glorious things of you are spoken,",
+          "O city of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Among those who know me I mention Rahab and Babylon;",
+          "behold, Philistia and Tyre, with Cush—",
+          "“This one was born there,” they say."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And of Zion it shall be said,",
+          "“This one and that one were born in her”;",
+          "for the Most High himself will establish her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The Lord records as he registers the peoples,",
+          "“This one was born there.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Singers and dancers alike say,",
+          "“All my springs are in you.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

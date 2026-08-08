@@ -1,1 +1,309 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.66","is_chapter":true,"previous":{"usfm":"PSA.65","human":"Salmo 65","canonical":true,"toc":true},"current":{"usfm":"PSA.66","human":"Salmo 66"},"next":{"usfm":"PSA.67","human":"Salmo 67","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Cántico. Salmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Aclamad alegres a Dios,","habitantes de toda la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cantad salmos a su glorioso nombre;","¡rendidle gloriosas alabanzas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Decidle a Dios:","«¡Cuán imponentes son tus obras!","Es tan grande tu poder","que tus enemigos mismos se rinden ante ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Toda la tierra se postra en tu presencia,","y te cantan salmos;","cantan salmos a tu nombre»."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Venid y ved las proezas de Dios,","sus obras portentosas en nuestro favor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Convirtió el mar en tierra seca,","y el pueblo cruzó el río a pie.","¡Regocijémonos en él!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Con su poder gobierna eternamente;","sus ojos vigilan a las naciones.","¡Que no se levanten contra él los rebeldes!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pueblos todos, bendecid a nuestro Dios,","haced oír la voz de su alabanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Él ha protegido nuestra vida,","ha evitado que resbalen nuestros pies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tú, oh Dios, nos has puesto a prueba;","nos has purificado como a la plata."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Nos has hecho caer en una red;","¡pesada carga nos has echado a cuestas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Las caballerías nos han aplastado la cabeza;","hemos pasado por el fuego y por el agua,","pero al fin nos has dado un respiro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Me presentaré en tu templo con holocaustos","y cumpliré los votos que te hice,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["los votos de mis labios y mi boca","que pronuncié en medio de mi angustia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Te ofreceré holocaustos de animales engordados,","junto con el humo de ofrendas de carneros;","te ofreceré toros y machos cabríos."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Venid vosotros, los que teméis a Dios,","escuchad, que voy a contaros","todo lo que él ha hecho por mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Clamé a él con mi boca;","lo alabé con mi lengua."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si en mi corazón hubiera yo abrigado maldad,","el Señor no me habría escuchado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["pero Dios sí me ha escuchado,","ha atendido a la voz de mi plegaria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¡Bendito sea Dios,","que no rechazó mi plegaria","ni me negó su amor!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.65.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.67.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.66",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.65",
+      "human": "Salmo 65"
+    },
+    "current": {
+      "usfm": "PSA.66",
+      "human": "Salmo 66"
+    },
+    "next": {
+      "usfm": "PSA.67",
+      "human": "Salmo 67"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Cántico. Salmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Aclamad alegres a Dios,",
+          "habitantes de toda la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cantad salmos a su glorioso nombre;",
+          "¡rendidle gloriosas alabanzas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Decidle a Dios:",
+          "«¡Cuán imponentes son tus obras!",
+          "Es tan grande tu poder",
+          "que tus enemigos mismos se rinden ante ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Toda la tierra se postra en tu presencia,",
+          "y te cantan salmos;",
+          "cantan salmos a tu nombre»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Venid y ved las proezas de Dios,",
+          "sus obras portentosas en nuestro favor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Convirtió el mar en tierra seca,",
+          "y el pueblo cruzó el río a pie.",
+          "¡Regocijémonos en él!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Con su poder gobierna eternamente;",
+          "sus ojos vigilan a las naciones.",
+          "¡Que no se levanten contra él los rebeldes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pueblos todos, bendecid a nuestro Dios,",
+          "haced oír la voz de su alabanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Él ha protegido nuestra vida,",
+          "ha evitado que resbalen nuestros pies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tú, oh Dios, nos has puesto a prueba;",
+          "nos has purificado como a la plata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Nos has hecho caer en una red;",
+          "¡pesada carga nos has echado a cuestas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Las caballerías nos han aplastado la cabeza;",
+          "hemos pasado por el fuego y por el agua,",
+          "pero al fin nos has dado un respiro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Me presentaré en tu templo con holocaustos",
+          "y cumpliré los votos que te hice,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "los votos de mis labios y mi boca",
+          "que pronuncié en medio de mi angustia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Te ofreceré holocaustos de animales engordados,",
+          "junto con el humo de ofrendas de carneros;",
+          "te ofreceré toros y machos cabríos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Venid vosotros, los que teméis a Dios,",
+          "escuchad, que voy a contaros",
+          "todo lo que él ha hecho por mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Clamé a él con mi boca;",
+          "lo alabé con mi lengua."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si en mi corazón hubiera yo abrigado maldad,",
+          "el Señor no me habría escuchado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "pero Dios sí me ha escuchado,",
+          "ha atendido a la voz de mi plegaria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¡Bendito sea Dios,",
+          "que no rechazó mi plegaria",
+          "ni me negó su amor!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

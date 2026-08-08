@@ -1,1 +1,409 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.10","is_chapter":true,"previous":{"usfm":"PRO.9","human":"Proverbs 9","canonical":true,"toc":true},"current":{"usfm":"PRO.10","human":"Proverbs 10"},"next":{"usfm":"PRO.11","human":"Proverbs 11","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Proverbs of Solomon"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The proverbs of Solomon.","A wise son makes a glad father,","but a foolish son is a sorrow to his mother."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Treasures gained by wickedness do not profit,","but righteousness delivers from death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The Lord does not let the righteous go hungry,","but he thwarts the craving of the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A slack hand causes poverty,","but the hand of the diligent makes rich."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He who gathers in summer is a prudent son,","but he who sleeps in harvest is a son who brings shame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Blessings are on the head of the righteous,","but the mouth of the wicked conceals violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The memory of the righteous is a blessing,","but the name of the wicked will rot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The wise of heart will receive commandments,","but a babbling fool will come to ruin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Whoever walks in integrity walks securely,","but he who makes his ways crooked will be found out."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Whoever winks the eye causes trouble,","and a babbling fool will come to ruin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The mouth of the righteous is a fountain of life,","but the mouth of the wicked conceals violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Hatred stirs up strife,","but love covers all offenses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["On the lips of him who has understanding, wisdom is found,","but a rod is for the back of him who lacks sense."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The wise lay up knowledge,","but the mouth of a fool brings ruin near."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["A rich man’s wealth is his strong city;","the poverty of the poor is their ruin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The wage of the righteous leads to life,","the gain of the wicked to sin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Whoever heeds instruction is on the path to life,","but he who rejects reproof leads others astray."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["The one who conceals hatred has lying lips,","and whoever utters slander is a fool."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["When words are many, transgression is not lacking,","but whoever restrains his lips is prudent."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["The tongue of the righteous is choice silver;","the heart of the wicked is of little worth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["The lips of the righteous feed many,","but fools die for lack of sense."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The blessing of the Lord makes rich,","and he adds no sorrow with it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Doing wrong is like a joke to a fool,","but wisdom is pleasure to a man of understanding."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["What the wicked dreads will come upon him,","but the desire of the righteous will be granted."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["When the tempest passes, the wicked is no more,","but the righteous is established forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Like vinegar to the teeth and smoke to the eyes,","so is the sluggard to those who send him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["The fear of the Lord prolongs life,","but the years of the wicked will be short."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["The hope of the righteous brings joy,","but the expectation of the wicked will perish."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["The way of the Lord is a stronghold to the blameless,","but destruction to evildoers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["The righteous will never be removed,","but the wicked will not dwell in the land."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["The mouth of the righteous brings forth wisdom,","but the perverse tongue will be cut off."],"rlw_lines":[]},{"type":"verse","verse_numbers":[32],"lines":["The lips of the righteous know what is acceptable,","but the mouth of the wicked, what is perverse."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.11.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.9",
+      "human": "Proverbs 9"
+    },
+    "current": {
+      "usfm": "PRO.10",
+      "human": "Proverbs 10"
+    },
+    "next": {
+      "usfm": "PRO.11",
+      "human": "Proverbs 11"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Proverbs of Solomon"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The proverbs of Solomon.",
+          "A wise son makes a glad father,",
+          "but a foolish son is a sorrow to his mother."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Treasures gained by wickedness do not profit,",
+          "but righteousness delivers from death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The Lord does not let the righteous go hungry,",
+          "but he thwarts the craving of the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A slack hand causes poverty,",
+          "but the hand of the diligent makes rich."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He who gathers in summer is a prudent son,",
+          "but he who sleeps in harvest is a son who brings shame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Blessings are on the head of the righteous,",
+          "but the mouth of the wicked conceals violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The memory of the righteous is a blessing,",
+          "but the name of the wicked will rot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The wise of heart will receive commandments,",
+          "but a babbling fool will come to ruin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Whoever walks in integrity walks securely,",
+          "but he who makes his ways crooked will be found out."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Whoever winks the eye causes trouble,",
+          "and a babbling fool will come to ruin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The mouth of the righteous is a fountain of life,",
+          "but the mouth of the wicked conceals violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Hatred stirs up strife,",
+          "but love covers all offenses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "On the lips of him who has understanding, wisdom is found,",
+          "but a rod is for the back of him who lacks sense."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The wise lay up knowledge,",
+          "but the mouth of a fool brings ruin near."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "A rich man’s wealth is his strong city;",
+          "the poverty of the poor is their ruin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The wage of the righteous leads to life,",
+          "the gain of the wicked to sin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Whoever heeds instruction is on the path to life,",
+          "but he who rejects reproof leads others astray."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "The one who conceals hatred has lying lips,",
+          "and whoever utters slander is a fool."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "When words are many, transgression is not lacking,",
+          "but whoever restrains his lips is prudent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "The tongue of the righteous is choice silver;",
+          "the heart of the wicked is of little worth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "The lips of the righteous feed many,",
+          "but fools die for lack of sense."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The blessing of the Lord makes rich,",
+          "and he adds no sorrow with it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Doing wrong is like a joke to a fool,",
+          "but wisdom is pleasure to a man of understanding."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "What the wicked dreads will come upon him,",
+          "but the desire of the righteous will be granted."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "When the tempest passes, the wicked is no more,",
+          "but the righteous is established forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Like vinegar to the teeth and smoke to the eyes,",
+          "so is the sluggard to those who send him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "The fear of the Lord prolongs life,",
+          "but the years of the wicked will be short."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "The hope of the righteous brings joy,",
+          "but the expectation of the wicked will perish."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "The way of the Lord is a stronghold to the blameless,",
+          "but destruction to evildoers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "The righteous will never be removed,",
+          "but the wicked will not dwell in the land."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "The mouth of the righteous brings forth wisdom,",
+          "but the perverse tongue will be cut off."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          32
+        ],
+        "lines": [
+          "The lips of the righteous know what is acceptable,",
+          "but the mouth of the wicked, what is perverse."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

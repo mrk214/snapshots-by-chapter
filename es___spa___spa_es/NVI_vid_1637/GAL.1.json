@@ -1,1 +1,305 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"GAL","name":"Gálatas"},"chapter":{"chapter_usfm":"GAL.1","is_chapter":true,"previous":{"usfm":"2CO.13","human":"2 Corintios 13","canonical":true,"toc":true},"current":{"usfm":"GAL.1","human":"Gálatas 1"},"next":{"usfm":"GAL.2","human":"Gálatas 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Pablo, apóstol, no por investidura ni mediación humanas, sino por Jesucristo y por Dios Padre, que lo levantó de entre los muertos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y todos los hermanos que están conmigo,","a las iglesias de Galacia:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que Dios nuestro Padre y el Señor Jesucristo os concedan gracia y paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Jesucristo dio su vida por nuestros pecados para rescatarnos de este mundo malvado, según la voluntad de nuestro Dios y Padre,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["a quien sea la gloria por los siglos de los siglos. Amén."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["No hay otro evangelio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Me asombra que tan pronto estéis dejando a quien os llamó por la gracia de Cristo, para pasaros a otro evangelio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No es que haya otro evangelio, sino que ciertos individuos están sembrando confusión entre vosotros y quieren tergiversar el evangelio de Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pero, aun si alguno de nosotros o un ángel del cielo os predicara un evangelio distinto del que os hemos predicado, ¡que caiga bajo maldición!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Como ya lo hemos dicho, ahora lo repito: si alguien os anda predicando un evangelio distinto del que recibisteis, ¡que caiga bajo maldición!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¿Qué busco con esto: ganarme la aprobación humana o la de Dios? ¿Pensáis que procuro agradar a los demás? Si yo buscara agradar a otros, no sería siervo de Cristo."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Pablo, llamado por Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Quiero que sepáis, hermanos, que el evangelio que yo predico no es invención humana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["No lo recibí ni lo aprendí de ningún ser humano, sino que me llegó por revelación de Jesucristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Vosotros ya estáis enterados de mi conducta cuando pertenecía al judaísmo, de la furia con que perseguía a la iglesia de Dios, tratando de destruirla."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["En la práctica del judaísmo, yo aventajaba a muchos de mis contemporáneos en mi celo exagerado por las tradiciones de mis antepasados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Sin embargo, Dios me había apartado desde el vientre de mi madre y me llamó por su gracia. Y, cuando él tuvo a bien"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["revelarme a su Hijo para que yo lo predicara entre los gentiles, no consulté con nadie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Tampoco subí a Jerusalén para ver a los que eran apóstoles antes que yo, sino que fui de inmediato a Arabia, de donde luego regresé a Damasco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Después de tres años, subí a Jerusalén para visitar a Pedro, y me quedé con él quince días."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["No vi a ningún otro apóstol; solo vi a Jacobo, el hermano del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Dios me es testigo de que en esto que os escribo no miento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Más tarde fui a las regiones de Siria y Cilicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Pero en Judea las iglesias de Cristo no me conocían personalmente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Solo habían oído decir: «El que antes nos perseguía ahora predica la fe que procuraba destruir»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Y por mi causa glorificaban a Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/2CO.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GAL.2.json"
+  },
+  "book": {
+    "book_usfm": "GAL",
+    "name": "Gálatas"
+  },
+  "chapter": {
+    "chapter_usfm": "GAL.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2CO.13",
+      "human": "2 Corintios 13"
+    },
+    "current": {
+      "usfm": "GAL.1",
+      "human": "Gálatas 1"
+    },
+    "next": {
+      "usfm": "GAL.2",
+      "human": "Gálatas 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Pablo, apóstol, no por investidura ni mediación humanas, sino por Jesucristo y por Dios Padre, que lo levantó de entre los muertos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y todos los hermanos que están conmigo,",
+          "a las iglesias de Galacia:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que Dios nuestro Padre y el Señor Jesucristo os concedan gracia y paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Jesucristo dio su vida por nuestros pecados para rescatarnos de este mundo malvado, según la voluntad de nuestro Dios y Padre,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "a quien sea la gloria por los siglos de los siglos. Amén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "No hay otro evangelio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Me asombra que tan pronto estéis dejando a quien os llamó por la gracia de Cristo, para pasaros a otro evangelio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No es que haya otro evangelio, sino que ciertos individuos están sembrando confusión entre vosotros y quieren tergiversar el evangelio de Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pero, aun si alguno de nosotros o un ángel del cielo os predicara un evangelio distinto del que os hemos predicado, ¡que caiga bajo maldición!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Como ya lo hemos dicho, ahora lo repito: si alguien os anda predicando un evangelio distinto del que recibisteis, ¡que caiga bajo maldición!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¿Qué busco con esto: ganarme la aprobación humana o la de Dios? ¿Pensáis que procuro agradar a los demás? Si yo buscara agradar a otros, no sería siervo de Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Pablo, llamado por Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Quiero que sepáis, hermanos, que el evangelio que yo predico no es invención humana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "No lo recibí ni lo aprendí de ningún ser humano, sino que me llegó por revelación de Jesucristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Vosotros ya estáis enterados de mi conducta cuando pertenecía al judaísmo, de la furia con que perseguía a la iglesia de Dios, tratando de destruirla."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "En la práctica del judaísmo, yo aventajaba a muchos de mis contemporáneos en mi celo exagerado por las tradiciones de mis antepasados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Sin embargo, Dios me había apartado desde el vientre de mi madre y me llamó por su gracia. Y, cuando él tuvo a bien"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "revelarme a su Hijo para que yo lo predicara entre los gentiles, no consulté con nadie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Tampoco subí a Jerusalén para ver a los que eran apóstoles antes que yo, sino que fui de inmediato a Arabia, de donde luego regresé a Damasco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Después de tres años, subí a Jerusalén para visitar a Pedro, y me quedé con él quince días."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "No vi a ningún otro apóstol; solo vi a Jacobo, el hermano del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Dios me es testigo de que en esto que os escribo no miento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Más tarde fui a las regiones de Siria y Cilicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Pero en Judea las iglesias de Cristo no me conocían personalmente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Solo habían oído decir: «El que antes nos perseguía ahora predica la fe que procuraba destruir»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Y por mi causa glorificaban a Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

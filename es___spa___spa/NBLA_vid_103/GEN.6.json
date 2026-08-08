@@ -1,1 +1,284 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.6","is_chapter":true,"previous":{"usfm":"GEN.5","human":"Génesis 5","canonical":true,"toc":true},"current":{"usfm":"GEN.6","human":"Génesis 6"},"next":{"usfm":"GEN.7","human":"Génesis 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Maldad de los hombres"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aconteció que cuando los hombres comenzaron a multiplicarse sobre la superficie de la tierra, y les nacieron hijas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["los hijos de Dios vieron que las hijas de los hombres eran hermosas, y tomaron para sí mujeres de entre todas las que les gustaban."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Entonces el Señor dijo: «Mi Espíritu no luchará para siempre con el hombre, porque ciertamente él es carne. Serán, pues, sus días 120 años»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Había gigantes en la tierra en aquellos días, y también después, cuando los hijos de Dios se unieron a las hijas de los hombres y ellas les dieron hijos. Estos son los héroes de la antigüedad, hombres de renombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El Señor vio que era mucha la maldad de los hombres en la tierra, y que toda intención de los pensamientos de su corazón era solo hacer siempre el mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y al Señor le pesó haber hecho al hombre en la tierra, y sintió tristeza en Su corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entonces el Señor dijo: «Borraré de la superficie de la tierra al hombre que he creado, desde el hombre hasta el ganado, los reptiles y las aves del cielo, porque me pesa haberlos hecho»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pero Noé halló gracia ante los ojos del Señor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Noé construye el arca"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Estas son las generaciones de Noé. Noé era un hombre justo, perfecto entre sus contemporáneos. Noé siempre andaba con Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Noé engendró tres hijos: Sem, Cam y Jafet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero la tierra se había corrompido delante de Dios, y estaba la tierra llena de violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Dios miró a la tierra, y vio que estaba corrompida, porque toda carne había corrompido su camino sobre la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Entonces Dios dijo a Noé: «He decidido poner fin a toda carne, porque la tierra está llena de violencia por causa de ellos; por eso voy a destruirlos junto con la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Hazte un arca de madera de ciprés. Harás el arca con compartimientos, y la cubrirás con brea por dentro y por fuera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["De esta manera la harás: de 300 codos (135 metros) la longitud del arca, de 50 codos (22.5 metros) su anchura y de 30 codos (13.5 metros) su altura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Le harás una ventana que terminará a un codo (45 centímetros) del techo, y pondrás la puerta en su costado. Harás el arca de tres pisos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["»Entonces Yo traeré un diluvio sobre la tierra, para destruir toda carne en que hay aliento de vida debajo del cielo. Todo lo que hay en la tierra perecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pero estableceré Mi pacto contigo. Entrarás en el arca tú, y contigo tus hijos, tu mujer y las mujeres de tus hijos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["»Y de todo ser viviente, de toda carne, meterás dos de cada especie en el arca, para preservarles la vida contigo; macho y hembra serán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["De las aves según su especie, de los animales según su especie y de todo reptil de la tierra según su especie, dos de cada especie vendrán a ti para que les preserves la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["»Y tú, toma para ti de todo alimento que se come, y almacénalo, y será alimento para ti y para ellos»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Así lo hizo Noé; conforme a todo lo que Dios le había mandado, así lo hizo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.7.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.5",
+      "human": "Génesis 5"
+    },
+    "current": {
+      "usfm": "GEN.6",
+      "human": "Génesis 6"
+    },
+    "next": {
+      "usfm": "GEN.7",
+      "human": "Génesis 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Maldad de los hombres"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aconteció que cuando los hombres comenzaron a multiplicarse sobre la superficie de la tierra, y les nacieron hijas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "los hijos de Dios vieron que las hijas de los hombres eran hermosas, y tomaron para sí mujeres de entre todas las que les gustaban."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Entonces el Señor dijo: «Mi Espíritu no luchará para siempre con el hombre, porque ciertamente él es carne. Serán, pues, sus días 120 años»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Había gigantes en la tierra en aquellos días, y también después, cuando los hijos de Dios se unieron a las hijas de los hombres y ellas les dieron hijos. Estos son los héroes de la antigüedad, hombres de renombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El Señor vio que era mucha la maldad de los hombres en la tierra, y que toda intención de los pensamientos de su corazón era solo hacer siempre el mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y al Señor le pesó haber hecho al hombre en la tierra, y sintió tristeza en Su corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entonces el Señor dijo: «Borraré de la superficie de la tierra al hombre que he creado, desde el hombre hasta el ganado, los reptiles y las aves del cielo, porque me pesa haberlos hecho»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pero Noé halló gracia ante los ojos del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Noé construye el arca"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Estas son las generaciones de Noé. Noé era un hombre justo, perfecto entre sus contemporáneos. Noé siempre andaba con Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Noé engendró tres hijos: Sem, Cam y Jafet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero la tierra se había corrompido delante de Dios, y estaba la tierra llena de violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Dios miró a la tierra, y vio que estaba corrompida, porque toda carne había corrompido su camino sobre la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Entonces Dios dijo a Noé: «He decidido poner fin a toda carne, porque la tierra está llena de violencia por causa de ellos; por eso voy a destruirlos junto con la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Hazte un arca de madera de ciprés. Harás el arca con compartimientos, y la cubrirás con brea por dentro y por fuera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "De esta manera la harás: de 300 codos (135 metros) la longitud del arca, de 50 codos (22.5 metros) su anchura y de 30 codos (13.5 metros) su altura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Le harás una ventana que terminará a un codo (45 centímetros) del techo, y pondrás la puerta en su costado. Harás el arca de tres pisos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "»Entonces Yo traeré un diluvio sobre la tierra, para destruir toda carne en que hay aliento de vida debajo del cielo. Todo lo que hay en la tierra perecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pero estableceré Mi pacto contigo. Entrarás en el arca tú, y contigo tus hijos, tu mujer y las mujeres de tus hijos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "»Y de todo ser viviente, de toda carne, meterás dos de cada especie en el arca, para preservarles la vida contigo; macho y hembra serán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "De las aves según su especie, de los animales según su especie y de todo reptil de la tierra según su especie, dos de cada especie vendrán a ti para que les preserves la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "»Y tú, toma para ti de todo alimento que se come, y almacénalo, y será alimento para ti y para ellos»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Así lo hizo Noé; conforme a todo lo que Dios le había mandado, así lo hizo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

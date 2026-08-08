@@ -1,1 +1,264 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"DEU","name":"Deuteronomio"},"chapter":{"chapter_usfm":"DEU.8","is_chapter":true,"previous":{"usfm":"DEU.7","human":"Deuteronomio 7","canonical":true,"toc":true},"current":{"usfm":"DEU.8","human":"Deuteronomio 8"},"next":{"usfm":"DEU.9","human":"Deuteronomio 9","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Descripción de la Tierra Prometida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Todos los mandamientos que yo os ordeno hoy, tendréis cuidado de ponerlos por obra, a fin de que viváis y os multipliquéis, y entréis y toméis posesión de la tierra que el Señor juró dar a vuestros padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Y te acordarás de todo el camino por donde el Señor tu Dios te ha traído por el desierto durante estos cuarenta años, para humillarte, probándote, a fin de saber lo que había en tu corazón, si guardarías o no sus mandamientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y te humilló, y te dejó tener hambre, y te alimentó con el maná que no conocías, ni tus padres habían conocido, para hacerte entender que el hombre no solo vive de pan, sino que vive de todo lo que procede de la boca del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tu ropa no se gastó sobre ti, ni se hinchó tu pie durante estos cuarenta años."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por tanto, debes comprender en tu corazón que el Señor tu Dios te estaba disciplinando así como un hombre disciplina a su hijo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Guardarás, pues, los mandamientos del Señor tu Dios, para andar en sus caminos y para temerle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque el Señor tu Dios te trae a una tierra buena, a una tierra de corrientes de aguas, de fuentes y manantiales que fluyen por valles y colinas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["una tierra de trigo y cebada, de viñas, higueras y granados; una tierra de aceite de oliva y miel;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["una tierra donde comerás el pan sin escasez, donde nada te faltará; una tierra cuyas piedras son hierro, y de cuyos montes puedes sacar cobre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cuando hayas comido y te hayas saciado, bendecirás al Señor tu Dios por la buena tierra que Él te ha dado."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El peligro de olvidar a Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Cuídate de no olvidar al Señor tu Dios dejando de guardar sus mandamientos, sus ordenanzas y sus estatutos que yo te ordeno hoy;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["no sea que cuando hayas comido y te hayas saciado, y hayas construido buenas casas y habitado en ellas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["y cuando tus vacas y tus ovejas se multipliquen, y tu plata y oro se multipliquen, y todo lo que tengas se multiplique,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["entonces tu corazón se enorgullezca, y te olvides del Señor tu Dios que te sacó de la tierra de Egipto de la casa de servidumbre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Él te condujo a través del inmenso y terrible desierto, con sus serpientes abrasadoras y escorpiones, tierra sedienta donde no había agua; Él sacó para ti agua de la roca de pedernal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["En el desierto te alimentó con el maná que tus padres no habían conocido, para humillarte y probarte, y para finalmente hacerte bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No sea que digas en tu corazón: «Mi poder y la fuerza de mi mano me han producido esta riqueza»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Mas acuérdate del Señor tu Dios, porque Él es el que te da poder para hacer riquezas, a fin de confirmar su pacto, el cual juró a tus padres como en este día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Y sucederá que si alguna vez te olvidas del Señor tu Dios, y vas en pos de otros dioses, y los sirves y los adoras, yo testifico contra vosotros hoy, que ciertamente pereceréis."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Como las naciones que el Señor destruye delante de vosotros, así pereceréis, porque no oísteis la voz del Señor vuestro Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.9.json"
+  },
+  "book": {
+    "book_usfm": "DEU",
+    "name": "Deuteronomio"
+  },
+  "chapter": {
+    "chapter_usfm": "DEU.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.7",
+      "human": "Deuteronomio 7"
+    },
+    "current": {
+      "usfm": "DEU.8",
+      "human": "Deuteronomio 8"
+    },
+    "next": {
+      "usfm": "DEU.9",
+      "human": "Deuteronomio 9"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Descripción de la Tierra Prometida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Todos los mandamientos que yo os ordeno hoy, tendréis cuidado de ponerlos por obra, a fin de que viváis y os multipliquéis, y entréis y toméis posesión de la tierra que el Señor juró dar a vuestros padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Y te acordarás de todo el camino por donde el Señor tu Dios te ha traído por el desierto durante estos cuarenta años, para humillarte, probándote, a fin de saber lo que había en tu corazón, si guardarías o no sus mandamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y te humilló, y te dejó tener hambre, y te alimentó con el maná que no conocías, ni tus padres habían conocido, para hacerte entender que el hombre no solo vive de pan, sino que vive de todo lo que procede de la boca del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tu ropa no se gastó sobre ti, ni se hinchó tu pie durante estos cuarenta años."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por tanto, debes comprender en tu corazón que el Señor tu Dios te estaba disciplinando así como un hombre disciplina a su hijo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Guardarás, pues, los mandamientos del Señor tu Dios, para andar en sus caminos y para temerle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque el Señor tu Dios te trae a una tierra buena, a una tierra de corrientes de aguas, de fuentes y manantiales que fluyen por valles y colinas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "una tierra de trigo y cebada, de viñas, higueras y granados; una tierra de aceite de oliva y miel;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "una tierra donde comerás el pan sin escasez, donde nada te faltará; una tierra cuyas piedras son hierro, y de cuyos montes puedes sacar cobre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cuando hayas comido y te hayas saciado, bendecirás al Señor tu Dios por la buena tierra que Él te ha dado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El peligro de olvidar a Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Cuídate de no olvidar al Señor tu Dios dejando de guardar sus mandamientos, sus ordenanzas y sus estatutos que yo te ordeno hoy;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "no sea que cuando hayas comido y te hayas saciado, y hayas construido buenas casas y habitado en ellas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "y cuando tus vacas y tus ovejas se multipliquen, y tu plata y oro se multipliquen, y todo lo que tengas se multiplique,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "entonces tu corazón se enorgullezca, y te olvides del Señor tu Dios que te sacó de la tierra de Egipto de la casa de servidumbre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Él te condujo a través del inmenso y terrible desierto, con sus serpientes abrasadoras y escorpiones, tierra sedienta donde no había agua; Él sacó para ti agua de la roca de pedernal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "En el desierto te alimentó con el maná que tus padres no habían conocido, para humillarte y probarte, y para finalmente hacerte bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No sea que digas en tu corazón: «Mi poder y la fuerza de mi mano me han producido esta riqueza»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Mas acuérdate del Señor tu Dios, porque Él es el que te da poder para hacer riquezas, a fin de confirmar su pacto, el cual juró a tus padres como en este día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Y sucederá que si alguna vez te olvidas del Señor tu Dios, y vas en pos de otros dioses, y los sirves y los adoras, yo testifico contra vosotros hoy, que ciertamente pereceréis."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Como las naciones que el Señor destruye delante de vosotros, así pereceréis, porque no oísteis la voz del Señor vuestro Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,357 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.28","is_chapter":true,"previous":{"usfm":"PRO.27","human":"Proverbs 27","canonical":true,"toc":true},"current":{"usfm":"PRO.28","human":"Proverbs 28"},"next":{"usfm":"PRO.29","human":"Proverbs 29","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["The wicked flee when no man pursueth:","But the righteous are bold as a lion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For the transgression of a land many are the princes thereof:","But by a man of understanding and knowledge the state thereof shall be prolonged."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A poor man that oppresseth the poor","Is like a sweeping rain which leaveth no food."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["They that forsake the law praise the wicked:","But such as keep the law contend with them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Evil men understand not judgment:","But they that seek the LORD understand all things."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Better is the poor that walketh in his uprightness,","Than he that is perverse in his ways, though he be rich."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Whoso keepeth the law is a wise son:","But he that is a companion of riotous men shameth his father."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["He that by usury and unjust gain increaseth his substance,","He shall gather it for him that will pity the poor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He that turneth away his ear from hearing the law,","Even his prayer shall be abomination."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Whoso causeth the righteous to go astray in an evil way,","He shall fall himself into his own pit:","But the upright shall have good things in possession."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The rich man is wise in his own conceit;","But the poor that hath understanding searcheth him out."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["When righteous men do rejoice, there is great glory:","But when the wicked rise, a man is hidden."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["He that covereth his sins shall not prosper:","But whoso confesseth and forsaketh them shall have mercy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Happy is the man that feareth alway:","But he that hardeneth his heart shall fall into mischief."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["As a roaring lion, and a ranging bear;","So is a wicked ruler over the poor people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The prince that wanteth understanding is also a great oppressor:","But he that hateth covetousness shall prolong his days."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["A man that doeth violence to the blood of any person","Shall flee to the pit; let no man stay him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Whoso walketh uprightly shall be saved:","But he that is perverse in his ways shall fall at once."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["He that tilleth his land shall have plenty of bread:","But he that followeth after vain persons shall have poverty enough."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["A faithful man shall abound with blessings:","But he that maketh haste to be rich shall not be innocent."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["To have respect of persons is not good:","For for a piece of bread that man will transgress."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["He that hasteth to be rich hath an evil eye,","And considereth not that poverty shall come upon him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["He that rebuketh a man afterwards shall find more favour","Than he that flattereth with the tongue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Whoso robbeth his father or his mother, and saith, It is no transgression;","The same is the companion of a destroyer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["He that is of a proud heart stirreth up strife:","But he that putteth his trust in the LORD shall be made fat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["He that trusteth in his own heart is a fool:","But whoso walketh wisely, he shall be delivered."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["He that giveth unto the poor shall not lack:","But he that hideth his eyes shall have many a curse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["When the wicked rise, men hide themselves:","But when they perish, the righteous increase."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.27.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.29.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.28",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.27",
+      "human": "Proverbs 27"
+    },
+    "current": {
+      "usfm": "PRO.28",
+      "human": "Proverbs 28"
+    },
+    "next": {
+      "usfm": "PRO.29",
+      "human": "Proverbs 29"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The wicked flee when no man pursueth:",
+          "But the righteous are bold as a lion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For the transgression of a land many are the princes thereof:",
+          "But by a man of understanding and knowledge the state thereof shall be prolonged."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A poor man that oppresseth the poor",
+          "Is like a sweeping rain which leaveth no food."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "They that forsake the law praise the wicked:",
+          "But such as keep the law contend with them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Evil men understand not judgment:",
+          "But they that seek the LORD understand all things."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Better is the poor that walketh in his uprightness,",
+          "Than he that is perverse in his ways, though he be rich."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Whoso keepeth the law is a wise son:",
+          "But he that is a companion of riotous men shameth his father."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "He that by usury and unjust gain increaseth his substance,",
+          "He shall gather it for him that will pity the poor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He that turneth away his ear from hearing the law,",
+          "Even his prayer shall be abomination."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Whoso causeth the righteous to go astray in an evil way,",
+          "He shall fall himself into his own pit:",
+          "But the upright shall have good things in possession."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The rich man is wise in his own conceit;",
+          "But the poor that hath understanding searcheth him out."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "When righteous men do rejoice, there is great glory:",
+          "But when the wicked rise, a man is hidden."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "He that covereth his sins shall not prosper:",
+          "But whoso confesseth and forsaketh them shall have mercy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Happy is the man that feareth alway:",
+          "But he that hardeneth his heart shall fall into mischief."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "As a roaring lion, and a ranging bear;",
+          "So is a wicked ruler over the poor people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The prince that wanteth understanding is also a great oppressor:",
+          "But he that hateth covetousness shall prolong his days."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "A man that doeth violence to the blood of any person",
+          "Shall flee to the pit; let no man stay him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Whoso walketh uprightly shall be saved:",
+          "But he that is perverse in his ways shall fall at once."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "He that tilleth his land shall have plenty of bread:",
+          "But he that followeth after vain persons shall have poverty enough."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "A faithful man shall abound with blessings:",
+          "But he that maketh haste to be rich shall not be innocent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "To have respect of persons is not good:",
+          "For for a piece of bread that man will transgress."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "He that hasteth to be rich hath an evil eye,",
+          "And considereth not that poverty shall come upon him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "He that rebuketh a man afterwards shall find more favour",
+          "Than he that flattereth with the tongue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Whoso robbeth his father or his mother, and saith, It is no transgression;",
+          "The same is the companion of a destroyer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "He that is of a proud heart stirreth up strife:",
+          "But he that putteth his trust in the LORD shall be made fat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "He that trusteth in his own heart is a fool:",
+          "But whoso walketh wisely, he shall be delivered."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "He that giveth unto the poor shall not lack:",
+          "But he that hideth his eyes shall have many a curse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "When the wicked rise, men hide themselves:",
+          "But when they perish, the righteous increase."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

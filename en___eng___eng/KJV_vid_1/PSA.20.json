@@ -1,1 +1,163 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.20","is_chapter":true,"previous":{"usfm":"PSA.19","human":"Psalm 19","canonical":true,"toc":true},"current":{"usfm":"PSA.20","human":"Psalm 20"},"next":{"usfm":"PSA.21","human":"Psalm 21","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician, A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The LORD hear thee in the day of trouble;","The name of the God of Jacob defend thee;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Send thee help from the sanctuary,","And strengthen thee out of Zion;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Remember all thy offerings,","And accept thy burnt sacrifice;"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Grant thee according to thine own heart,","And fulfil all thy counsel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["We will rejoice in thy salvation, and in the name of our God we will set up our banners:","The LORD fulfil all thy petitions."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Now know I that the LORD saveth his anointed; He will hear him from his holy heaven","With the saving strength of his right hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Some trust in chariots, and some in horses:","But we will remember the name of the LORD our God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They are brought down and fallen:","But we are risen, and stand upright."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Save, LORD:","Let the king hear us when we call."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.21.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.19",
+      "human": "Psalm 19"
+    },
+    "current": {
+      "usfm": "PSA.20",
+      "human": "Psalm 20"
+    },
+    "next": {
+      "usfm": "PSA.21",
+      "human": "Psalm 21"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician, A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The LORD hear thee in the day of trouble;",
+          "The name of the God of Jacob defend thee;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Send thee help from the sanctuary,",
+          "And strengthen thee out of Zion;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Remember all thy offerings,",
+          "And accept thy burnt sacrifice;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Grant thee according to thine own heart,",
+          "And fulfil all thy counsel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "We will rejoice in thy salvation, and in the name of our God we will set up our banners:",
+          "The LORD fulfil all thy petitions."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Now know I that the LORD saveth his anointed; He will hear him from his holy heaven",
+          "With the saving strength of his right hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Some trust in chariots, and some in horses:",
+          "But we will remember the name of the LORD our God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They are brought down and fallen:",
+          "But we are risen, and stand upright."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Save, LORD:",
+          "Let the king hear us when we call."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

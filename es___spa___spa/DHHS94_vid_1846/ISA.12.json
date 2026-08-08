@@ -1,1 +1,130 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.12","is_chapter":true,"previous":{"usfm":"ISA.11","human":"Isaías 11","canonical":true,"toc":true},"current":{"usfm":"ISA.12","human":"Isaías 12"},"next":{"usfm":"ISA.13","human":"Isaías 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Canto de acción de gracias"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En ese tiempo dirás:","«Te doy gracias, Señor,","porque aunque estuviste enojado conmigo,","tu ira ya pasó","y me has devuelto la paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Dios es quien me salva;","tengo confianza, no temo.","El Señor es mi refugio y mi fuerza,","él es mi salvador.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["También ustedes podrán ir a beber con alegría","en esa fuente de salvación,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["y entonces dirán:","«Den gracias e invoquen al Señor,","cuenten a las naciones las cosas que ha hecho,","recuérdenles que él está por encima de todo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Canten al Señor, porque ha hecho algo grandioso","que debe conocerse en toda la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Den gritos de alegría, habitantes de Sión,","porque el Dios Santo de Israel está en medio de ustedes","con toda su grandeza.»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.13.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.11",
+      "human": "Isaías 11"
+    },
+    "current": {
+      "usfm": "ISA.12",
+      "human": "Isaías 12"
+    },
+    "next": {
+      "usfm": "ISA.13",
+      "human": "Isaías 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Canto de acción de gracias"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En ese tiempo dirás:",
+          "«Te doy gracias, Señor,",
+          "porque aunque estuviste enojado conmigo,",
+          "tu ira ya pasó",
+          "y me has devuelto la paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Dios es quien me salva;",
+          "tengo confianza, no temo.",
+          "El Señor es mi refugio y mi fuerza,",
+          "él es mi salvador.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "También ustedes podrán ir a beber con alegría",
+          "en esa fuente de salvación,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "y entonces dirán:",
+          "«Den gracias e invoquen al Señor,",
+          "cuenten a las naciones las cosas que ha hecho,",
+          "recuérdenles que él está por encima de todo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Canten al Señor, porque ha hecho algo grandioso",
+          "que debe conocerse en toda la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Den gritos de alegría, habitantes de Sión,",
+          "porque el Dios Santo de Israel está en medio de ustedes",
+          "con toda su grandeza.»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

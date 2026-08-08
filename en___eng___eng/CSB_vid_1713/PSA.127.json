@@ -1,1 +1,123 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.127","is_chapter":true,"previous":{"usfm":"PSA.126","human":"Psalms 126","canonical":true,"toc":true},"current":{"usfm":"PSA.127","human":"Psalms 127"},"next":{"usfm":"PSA.128","human":"Psalms 128","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Blessing of the Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents. Of Solomon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Unless the Lord builds a house,","its builders labor over it in vain;","unless the Lord watches over a city,","the watchman stays alert in vain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["In vain you get up early and stay up late,","working hard to have enough food #— #","yes, he gives sleep to the one he loves. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sons are indeed a heritage from the Lord,","offspring, a reward."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Like arrows in the hand of a warrior","are the sons born in one’s youth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Happy is the man who has filled his quiver with them.","They will never be put to shame","when they speak with their enemies at the city gate."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.126.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.128.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.127",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.126",
+      "human": "Psalms 126"
+    },
+    "current": {
+      "usfm": "PSA.127",
+      "human": "Psalms 127"
+    },
+    "next": {
+      "usfm": "PSA.128",
+      "human": "Psalms 128"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Blessing of the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents. Of Solomon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Unless the Lord builds a house,",
+          "its builders labor over it in vain;",
+          "unless the Lord watches over a city,",
+          "the watchman stays alert in vain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "In vain you get up early and stay up late,",
+          "working hard to have enough food #— #",
+          "yes, he gives sleep to the one he loves. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sons are indeed a heritage from the Lord,",
+          "offspring, a reward."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Like arrows in the hand of a warrior",
+          "are the sons born in one’s youth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Happy is the man who has filled his quiver with them.",
+          "They will never be put to shame",
+          "when they speak with their enemies at the city gate."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

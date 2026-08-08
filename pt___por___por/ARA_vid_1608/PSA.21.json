@@ -1,1 +1,208 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.21","is_chapter":true,"previous":{"usfm":"PSA.20","human":"Salmos 20","canonical":true,"toc":true},"current":{"usfm":"PSA.21","human":"Salmos 21"},"next":{"usfm":"PSA.22","human":"Salmos 22","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ações de graças pela vitória"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao mestre de canto. Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Na tua força, Senhor, o rei se alegra!","E como exulta com a tua salvação!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Satisfizeste-lhe o desejo do coração","e não lhe negaste as súplicas dos seus lábios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pois o supres das bênçãos de bondade;","pões-lhe na cabeça uma coroa de ouro puro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ele te pediu vida, e tu lha deste;","sim, longevidade para todo o sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Grande lhe é a glória da tua salvação;","de esplendor e majestade o sobrevestiste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Pois o puseste por bênção para sempre","e o encheste de gozo com a tua presença."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O rei confia no Senhor","e pela misericórdia do Altíssimo jamais vacilará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A tua mão alcançará todos os teus inimigos,","a tua destra apanhará os que te odeiam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tu os tornarás como em fornalha ardente, quando te manifestares;","o Senhor, na sua indignação, os consumirá,","o fogo os devorará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Destruirás da terra a sua posteridade","e a sua descendência, de entre os filhos dos homens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Se contra ti intentarem o mal","e urdirem intrigas, não conseguirão efetuá-los;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["porquanto lhes farás voltar as costas","e mirarás o rosto deles com o teu arco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Exalta-te, Senhor, na tua força!","Nós cantaremos e louvaremos o teu poder."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.20.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.22.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.21",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.20",
+      "human": "Salmos 20"
+    },
+    "current": {
+      "usfm": "PSA.21",
+      "human": "Salmos 21"
+    },
+    "next": {
+      "usfm": "PSA.22",
+      "human": "Salmos 22"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ações de graças pela vitória"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao mestre de canto. Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Na tua força, Senhor, o rei se alegra!",
+          "E como exulta com a tua salvação!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Satisfizeste-lhe o desejo do coração",
+          "e não lhe negaste as súplicas dos seus lábios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pois o supres das bênçãos de bondade;",
+          "pões-lhe na cabeça uma coroa de ouro puro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ele te pediu vida, e tu lha deste;",
+          "sim, longevidade para todo o sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Grande lhe é a glória da tua salvação;",
+          "de esplendor e majestade o sobrevestiste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Pois o puseste por bênção para sempre",
+          "e o encheste de gozo com a tua presença."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O rei confia no Senhor",
+          "e pela misericórdia do Altíssimo jamais vacilará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A tua mão alcançará todos os teus inimigos,",
+          "a tua destra apanhará os que te odeiam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tu os tornarás como em fornalha ardente, quando te manifestares;",
+          "o Senhor, na sua indignação, os consumirá,",
+          "o fogo os devorará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Destruirás da terra a sua posteridade",
+          "e a sua descendência, de entre os filhos dos homens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Se contra ti intentarem o mal",
+          "e urdirem intrigas, não conseguirão efetuá-los;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "porquanto lhes farás voltar as costas",
+          "e mirarás o rosto deles com o teu arco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Exalta-te, Senhor, na tua força!",
+          "Nós cantaremos e louvaremos o teu poder."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

@@ -1,1 +1,323 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Proverbs 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Proverbs 13"},"next":{"usfm":"PRO.14","human":"Proverbs 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["A wise child accepts a parent’s discipline;","a mocker refuses to listen to correction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Wise words will win you a good meal,","but treacherous people have an appetite for violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Those who control their tongue will have a long life;","opening your mouth can ruin everything."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lazy people want much but get little,","but those who work hard will prosper."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The godly hate lies;","the wicked cause shame and disgrace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Godliness guards the path of the blameless,","but the evil are misled by sin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Some who are poor pretend to be rich;","others who are rich pretend to be poor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The rich can pay a ransom for their lives,","but the poor won’t even get threatened."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The life of the godly is full of light and joy,","but the light of the wicked will be snuffed out."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pride leads to conflict;","those who take advice are wise."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Wealth from get-rich-quick schemes quickly disappears;","wealth from hard work grows over time."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Hope deferred makes the heart sick,","but a dream fulfilled is a tree of life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["People who despise advice are asking for trouble;","those who respect a command will succeed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The instruction of the wise is like a life-giving fountain;","those who accept it avoid the snares of death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["A person with good sense is respected;","a treacherous person is headed for destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Wise people think before they act;","fools don’t—and even brag about their foolishness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["An unreliable messenger stumbles into trouble,","but a reliable messenger brings healing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["If you ignore criticism, you will end in poverty and disgrace;","if you accept correction, you will be honored."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["It is pleasant to see dreams come true,","but fools refuse to turn from evil to attain them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Walk with the wise and become wise;","associate with fools and get in trouble."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Trouble chases sinners,","while blessings reward the righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Good people leave an inheritance to their grandchildren,","but the sinner’s wealth passes to the godly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["A poor person’s farm may produce much food,","but injustice sweeps it all away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Those who spare the rod of discipline hate their children.","Those who love their children care enough to discipline them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["The godly eat to their hearts’ content,","but the belly of the wicked goes hungry."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Proverbs 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Proverbs 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Proverbs 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A wise child accepts a parent’s discipline;",
+          "a mocker refuses to listen to correction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Wise words will win you a good meal,",
+          "but treacherous people have an appetite for violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Those who control their tongue will have a long life;",
+          "opening your mouth can ruin everything."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lazy people want much but get little,",
+          "but those who work hard will prosper."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The godly hate lies;",
+          "the wicked cause shame and disgrace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Godliness guards the path of the blameless,",
+          "but the evil are misled by sin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Some who are poor pretend to be rich;",
+          "others who are rich pretend to be poor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The rich can pay a ransom for their lives,",
+          "but the poor won’t even get threatened."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The life of the godly is full of light and joy,",
+          "but the light of the wicked will be snuffed out."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pride leads to conflict;",
+          "those who take advice are wise."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Wealth from get-rich-quick schemes quickly disappears;",
+          "wealth from hard work grows over time."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Hope deferred makes the heart sick,",
+          "but a dream fulfilled is a tree of life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "People who despise advice are asking for trouble;",
+          "those who respect a command will succeed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The instruction of the wise is like a life-giving fountain;",
+          "those who accept it avoid the snares of death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "A person with good sense is respected;",
+          "a treacherous person is headed for destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Wise people think before they act;",
+          "fools don’t—and even brag about their foolishness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "An unreliable messenger stumbles into trouble,",
+          "but a reliable messenger brings healing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "If you ignore criticism, you will end in poverty and disgrace;",
+          "if you accept correction, you will be honored."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "It is pleasant to see dreams come true,",
+          "but fools refuse to turn from evil to attain them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Walk with the wise and become wise;",
+          "associate with fools and get in trouble."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Trouble chases sinners,",
+          "while blessings reward the righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Good people leave an inheritance to their grandchildren,",
+          "but the sinner’s wealth passes to the godly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "A poor person’s farm may produce much food,",
+          "but injustice sweeps it all away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Those who spare the rod of discipline hate their children.",
+          "Those who love their children care enough to discipline them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "The godly eat to their hearts’ content,",
+          "but the belly of the wicked goes hungry."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

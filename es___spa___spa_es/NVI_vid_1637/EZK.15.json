@@ -1,1 +1,136 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"EZK","name":"Ezequiel"},"chapter":{"chapter_usfm":"EZK.15","is_chapter":true,"previous":{"usfm":"EZK.14","human":"Ezequiel 14","canonical":true,"toc":true},"current":{"usfm":"EZK.15","human":"Ezequiel 15"},"next":{"usfm":"EZK.16","human":"Ezequiel 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jerusalén, una vid inútil"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El Señor me habló diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Hijo de hombre, ¿en qué supera la madera de la vid a la madera de los árboles del bosque?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Esa madera no sirve para hacer muebles, ¡y ni siquiera para hacer una percha!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Escasamente sirve para alimentar el fuego! Pero ¿de qué sirve cuando sus extremos se consumen y ya se ha quemado por dentro?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Si cuando estaba entera no servía para nada, ¡mucho menos cuando ya ha sido consumida por el fuego!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Por tanto, así dice el Señor omnipotente: Como el leño de la vid que eché al fuego, así haré con los habitantes de Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Voy a enfrentarme a ellos; ¡se han librado de un fuego, pero serán consumidos por otro! Cuando me enfrente a ellos, vosotros sabréis que yo soy el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Convertiré a este país en desolación, porque ha sido infiel. Lo afirma el Señor omnipotente»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.16.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezequiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.14",
+      "human": "Ezequiel 14"
+    },
+    "current": {
+      "usfm": "EZK.15",
+      "human": "Ezequiel 15"
+    },
+    "next": {
+      "usfm": "EZK.16",
+      "human": "Ezequiel 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jerusalén, una vid inútil"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El Señor me habló diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Hijo de hombre, ¿en qué supera la madera de la vid a la madera de los árboles del bosque?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Esa madera no sirve para hacer muebles, ¡y ni siquiera para hacer una percha!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Escasamente sirve para alimentar el fuego! Pero ¿de qué sirve cuando sus extremos se consumen y ya se ha quemado por dentro?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Si cuando estaba entera no servía para nada, ¡mucho menos cuando ya ha sido consumida por el fuego!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Por tanto, así dice el Señor omnipotente: Como el leño de la vid que eché al fuego, así haré con los habitantes de Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Voy a enfrentarme a ellos; ¡se han librado de un fuego, pero serán consumidos por otro! Cuando me enfrente a ellos, vosotros sabréis que yo soy el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Convertiré a este país en desolación, porque ha sido infiel. Lo afirma el Señor omnipotente»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

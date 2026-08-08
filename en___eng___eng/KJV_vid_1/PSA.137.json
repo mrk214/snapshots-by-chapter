@@ -1,1 +1,147 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.137","is_chapter":true,"previous":{"usfm":"PSA.136","human":"Psalm 136","canonical":true,"toc":true},"current":{"usfm":"PSA.137","human":"Psalm 137"},"next":{"usfm":"PSA.138","human":"Psalm 138","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["By the rivers of Babylon, there we sat down, yea, we wept,","When we remembered Zion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["We hanged our harps","Upon the willows in the midst thereof."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For there they that carried us away captive required of us a song; And they that wasted us required of us mirth, saying,","Sing us one of the songs of Zion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["How shall we sing","The LORD's song in a strange land?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["If I forget thee, O Jerusalem,","Let my right hand forget her cunning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["If I do not remember thee, let my tongue cleave to the roof of my mouth;","If I prefer not Jerusalem above my chief joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Remember, O LORD, the children of Edom in the day of Jerusalem;","Who said, Rase it, rase it, even to the foundation thereof."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O daughter of Babylon, who art to be destroyed;","Happy shall he be, that rewardeth thee as thou hast served us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Happy shall he be, that taketh and dasheth thy little ones","Against the stones."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.136.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.138.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.137",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.136",
+      "human": "Psalm 136"
+    },
+    "current": {
+      "usfm": "PSA.137",
+      "human": "Psalm 137"
+    },
+    "next": {
+      "usfm": "PSA.138",
+      "human": "Psalm 138"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "By the rivers of Babylon, there we sat down, yea, we wept,",
+          "When we remembered Zion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "We hanged our harps",
+          "Upon the willows in the midst thereof."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For there they that carried us away captive required of us a song; And they that wasted us required of us mirth, saying,",
+          "Sing us one of the songs of Zion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "How shall we sing",
+          "The LORD's song in a strange land?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "If I forget thee, O Jerusalem,",
+          "Let my right hand forget her cunning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "If I do not remember thee, let my tongue cleave to the roof of my mouth;",
+          "If I prefer not Jerusalem above my chief joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Remember, O LORD, the children of Edom in the day of Jerusalem;",
+          "Who said, Rase it, rase it, even to the foundation thereof."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O daughter of Babylon, who art to be destroyed;",
+          "Happy shall he be, that rewardeth thee as thou hast served us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Happy shall he be, that taketh and dasheth thy little ones",
+          "Against the stones."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

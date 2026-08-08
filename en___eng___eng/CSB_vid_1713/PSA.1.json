@@ -1,1 +1,126 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.1","is_chapter":true,"previous":{"usfm":"JOB.42","human":"Job 42","canonical":true,"toc":true},"current":{"usfm":"PSA.1","human":"Psalms 1"},"next":{"usfm":"PSA.2","human":"Psalms 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Two Ways"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How happy is the one who does not","walk in the advice of the wicked","or stand in the pathway with sinners","or sit in the company of mockers!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Instead, his delight is in the Lord’s instruction,","and he meditates on it day and night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He is like a tree planted beside flowing streams","that bears its fruit in its season,","and its leaf does not wither.","Whatever he does prospers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The wicked are not like this;","instead, they are like chaff that the wind blows away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Therefore the wicked will not stand up in the judgment,","nor sinners in the assembly of the righteous."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["For the Lord watches over the way of the righteous,","but the way of the wicked leads to ruin."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JOB.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.2.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Job 42"
+    },
+    "current": {
+      "usfm": "PSA.1",
+      "human": "Psalms 1"
+    },
+    "next": {
+      "usfm": "PSA.2",
+      "human": "Psalms 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Two Ways"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How happy is the one who does not",
+          "walk in the advice of the wicked",
+          "or stand in the pathway with sinners",
+          "or sit in the company of mockers!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Instead, his delight is in the Lord’s instruction,",
+          "and he meditates on it day and night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He is like a tree planted beside flowing streams",
+          "that bears its fruit in its season,",
+          "and its leaf does not wither.",
+          "Whatever he does prospers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The wicked are not like this;",
+          "instead, they are like chaff that the wind blows away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Therefore the wicked will not stand up in the judgment,",
+          "nor sinners in the assembly of the righteous."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "For the Lord watches over the way of the righteous,",
+          "but the way of the wicked leads to ruin."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

@@ -1,1 +1,155 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.99","is_chapter":true,"previous":{"usfm":"PSA.98","human":"Salmos 98","canonical":true,"toc":true},"current":{"usfm":"PSA.99","human":"Salmos 99"},"next":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["¡El Señor es rey!","¡Que tiemblen las naciones!","Está sentado en su trono, entre los querubines.","¡Que se estremezca toda la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor se sienta con majestad en Jerusalén,","exaltado sobre todas las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que ellas alaben tu nombre grande y temible.","¡Tu nombre es santo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Rey poderoso, amante de la justicia,","tú has establecido la imparcialidad.","Has actuado con justicia","y con rectitud en todo Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Exalten al Señor nuestro Dios!","¡Póstrense ante sus pies porque él es santo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moisés y Aarón estaban entre sus sacerdotes;","Samuel también invocó su nombre.","Clamaron al Señor por ayuda,","y él les respondió."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Habló a Israel desde la columna de nube,","y los israelitas siguieron las leyes y los decretos que les dio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Oh Señor nuestro Dios, tú les respondiste;","para ellos fuiste Dios perdonador,","pero los castigaste cuando se desviaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Exalten al Señor nuestro Dios","y adoren en su monte santo, en Jerusalén,","¡porque el Señor nuestro Dios es santo!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.98.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.100.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.99",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "current": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "next": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡El Señor es rey!",
+          "¡Que tiemblen las naciones!",
+          "Está sentado en su trono, entre los querubines.",
+          "¡Que se estremezca toda la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor se sienta con majestad en Jerusalén,",
+          "exaltado sobre todas las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que ellas alaben tu nombre grande y temible.",
+          "¡Tu nombre es santo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Rey poderoso, amante de la justicia,",
+          "tú has establecido la imparcialidad.",
+          "Has actuado con justicia",
+          "y con rectitud en todo Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Exalten al Señor nuestro Dios!",
+          "¡Póstrense ante sus pies porque él es santo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moisés y Aarón estaban entre sus sacerdotes;",
+          "Samuel también invocó su nombre.",
+          "Clamaron al Señor por ayuda,",
+          "y él les respondió."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Habló a Israel desde la columna de nube,",
+          "y los israelitas siguieron las leyes y los decretos que les dio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Oh Señor nuestro Dios, tú les respondiste;",
+          "para ellos fuiste Dios perdonador,",
+          "pero los castigaste cuando se desviaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Exalten al Señor nuestro Dios",
+          "y adoren en su monte santo, en Jerusalén,",
+          "¡porque el Señor nuestro Dios es santo!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

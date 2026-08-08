@@ -1,1 +1,303 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"SNG","name":"Cantar de los Cantares"},"chapter":{"chapter_usfm":"SNG.2","is_chapter":true,"previous":{"usfm":"SNG.1","human":"Cantar de los Cantares 1","canonical":true,"toc":true},"current":{"usfm":"SNG.2","human":"Cantar de los Cantares 2"},"next":{"usfm":"SNG.3","human":"Cantar de los Cantares 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Soy el azafrán de primavera que florece en la llanura de Sarón,","el lirio del valle."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como un lirio entre los cardos","es mi amada entre las jóvenes."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Como el manzano más selecto del huerto","es mi amante entre los jóvenes.","Me siento bajo su sombra placentera","y saboreo sus deliciosos frutos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Él me escolta hasta la sala de banquetes;","es evidente lo mucho que me ama."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Fortalézcanme con pasteles de pasas,","refrésquenme con manzanas,","porque desfallezco de amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Su brazo izquierdo está debajo de mi cabeza,","y su brazo derecho me abraza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Prométanme, oh mujeres de Jerusalén,","por las gacelas y los ciervos salvajes,","que no despertarán al amor hasta que llegue el momento apropiado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¡Ay, oigo que viene mi amado!","Viene saltando por las montañas,","brincando por las colinas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mi amante es como una gacela veloz","o un venado joven.","¡Miren! Allí está, detrás del muro,","asomándose por la ventana,","mirando dentro de la habitación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Mi amante me dijo:","«¡Levántate, amada mía!","¡Ven conmigo, mi bella mujer!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Mira, el invierno se acabó","y las lluvias ya pasaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Las flores están brotando;","ha llegado la temporada de los pájaros cantores,","y el arrullo de las tórtolas llena el aire."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Las higueras comienzan a formar su fruto,","y las vides fragantes están en flor.","¡Levántate, amada mía!","¡Ven conmigo, mi bella mujer!»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mi paloma se esconde detrás de las rocas,","detrás de un peñasco en el precipicio.","Déjame ver tu cara;","déjame oír tu voz.","Pues tu voz es agradable,","y tu cara es hermosa."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Las jóvenes de Jerusalén"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Atrapen todos los zorros,","esos zorros pequeños,","antes de que arruinen el viñedo del amor,","¡porque las vides están en flor!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La joven"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Mi amado es mío, y yo soy suya.","Él apacienta entre los lirios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Antes de que soplen las brisas del amanecer","y huyan las sombras de la noche,","regresa a mí, amor mío, como una gacela","o un venado joven sobre montes empinados."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.3.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantar de los Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.1",
+      "human": "Cantar de los Cantares 1"
+    },
+    "current": {
+      "usfm": "SNG.2",
+      "human": "Cantar de los Cantares 2"
+    },
+    "next": {
+      "usfm": "SNG.3",
+      "human": "Cantar de los Cantares 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Soy el azafrán de primavera que florece en la llanura de Sarón,",
+          "el lirio del valle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como un lirio entre los cardos",
+          "es mi amada entre las jóvenes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Como el manzano más selecto del huerto",
+          "es mi amante entre los jóvenes.",
+          "Me siento bajo su sombra placentera",
+          "y saboreo sus deliciosos frutos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Él me escolta hasta la sala de banquetes;",
+          "es evidente lo mucho que me ama."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Fortalézcanme con pasteles de pasas,",
+          "refrésquenme con manzanas,",
+          "porque desfallezco de amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Su brazo izquierdo está debajo de mi cabeza,",
+          "y su brazo derecho me abraza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Prométanme, oh mujeres de Jerusalén,",
+          "por las gacelas y los ciervos salvajes,",
+          "que no despertarán al amor hasta que llegue el momento apropiado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¡Ay, oigo que viene mi amado!",
+          "Viene saltando por las montañas,",
+          "brincando por las colinas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mi amante es como una gacela veloz",
+          "o un venado joven.",
+          "¡Miren! Allí está, detrás del muro,",
+          "asomándose por la ventana,",
+          "mirando dentro de la habitación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Mi amante me dijo:",
+          "«¡Levántate, amada mía!",
+          "¡Ven conmigo, mi bella mujer!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Mira, el invierno se acabó",
+          "y las lluvias ya pasaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Las flores están brotando;",
+          "ha llegado la temporada de los pájaros cantores,",
+          "y el arrullo de las tórtolas llena el aire."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Las higueras comienzan a formar su fruto,",
+          "y las vides fragantes están en flor.",
+          "¡Levántate, amada mía!",
+          "¡Ven conmigo, mi bella mujer!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mi paloma se esconde detrás de las rocas,",
+          "detrás de un peñasco en el precipicio.",
+          "Déjame ver tu cara;",
+          "déjame oír tu voz.",
+          "Pues tu voz es agradable,",
+          "y tu cara es hermosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las jóvenes de Jerusalén"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Atrapen todos los zorros,",
+          "esos zorros pequeños,",
+          "antes de que arruinen el viñedo del amor,",
+          "¡porque las vides están en flor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La joven"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Mi amado es mío, y yo soy suya.",
+          "Él apacienta entre los lirios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Antes de que soplen las brisas del amanecer",
+          "y huyan las sombras de la noche,",
+          "regresa a mí, amor mío, como una gacela",
+          "o un venado joven sobre montes empinados."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

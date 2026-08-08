@@ -1,1 +1,136 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"EZK","name":"Ezequiel"},"chapter":{"chapter_usfm":"EZK.15","is_chapter":true,"previous":{"usfm":"EZK.14","human":"Ezequiel 14","canonical":true,"toc":true},"current":{"usfm":"EZK.15","human":"Ezequiel 15"},"next":{"usfm":"EZK.16","human":"Ezequiel 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jerusalén, una vid inútil"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Luego recibí este mensaje del Señor:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Hijo de hombre, ¿cómo se compara una vid con un árbol? ¿Es la madera de una vid tan útil como la de un árbol?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Sirve su madera para hacer objetos, como ganchos para colgar ollas y sartenes?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No, solo sirve para leña y aun como leña se consume demasiado rápido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Las vides son inútiles antes y después de arrojarlas al fuego!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Esto dice el Señor Soberano: los habitantes de Jerusalén son como vides que crecen entre los árboles del bosque. Dado que son inútiles, los arrojé al fuego para que se quemen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Si escapan de un fuego, me encargaré de que caigan en otro. Cuando me ponga en su contra, ustedes sabrán que yo soy el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Haré que el país quede desolado porque mi pueblo me ha sido infiel. ¡Yo, el Señor Soberano, he hablado!»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EZK.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EZK.16.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezequiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.14",
+      "human": "Ezequiel 14"
+    },
+    "current": {
+      "usfm": "EZK.15",
+      "human": "Ezequiel 15"
+    },
+    "next": {
+      "usfm": "EZK.16",
+      "human": "Ezequiel 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jerusalén, una vid inútil"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Luego recibí este mensaje del Señor:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Hijo de hombre, ¿cómo se compara una vid con un árbol? ¿Es la madera de una vid tan útil como la de un árbol?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Sirve su madera para hacer objetos, como ganchos para colgar ollas y sartenes?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No, solo sirve para leña y aun como leña se consume demasiado rápido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Las vides son inútiles antes y después de arrojarlas al fuego!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Esto dice el Señor Soberano: los habitantes de Jerusalén son como vides que crecen entre los árboles del bosque. Dado que son inútiles, los arrojé al fuego para que se quemen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Si escapan de un fuego, me encargaré de que caigan en otro. Cuando me ponga en su contra, ustedes sabrán que yo soy el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Haré que el país quede desolado porque mi pueblo me ha sido infiel. ¡Yo, el Señor Soberano, he hablado!»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

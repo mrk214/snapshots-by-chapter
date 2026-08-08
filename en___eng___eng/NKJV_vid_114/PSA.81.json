@@ -1,1 +1,251 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Psalms 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Psalms 81"},"next":{"usfm":"PSA.82","human":"Psalms 82","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["An Appeal for Israel’s Repentance"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the Chief Musician. On an instrument of Gath. A Psalm of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Sing aloud to God our strength;","Make a joyful shout to the God of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Raise a song and strike the timbrel,","The pleasant harp with the lute."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Blow the trumpet at the time of the New Moon,","At the full moon, on our solemn feast day."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For this is a statute for Israel,","A law of the God of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["This He established in Joseph as a testimony,","When He went throughout the land of Egypt,","Where I heard a language I did not understand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“I removed his shoulder from the burden;","His hands were freed from the baskets."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["You called in trouble, and I delivered you;","I answered you in the secret place of thunder;","I tested you at the waters of Meribah."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Hear, O My people, and I will admonish you!","O Israel, if you will listen to Me!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["There shall be no foreign god among you;","Nor shall you worship any foreign god."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I am the Lord your God,","Who brought you out of the land of Egypt;","Open your mouth wide, and I will fill it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“But My people would not heed My voice,","And Israel would have none of Me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["So I gave them over to their own stubborn heart,","To walk in their own counsels."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Oh, that My people would listen to Me,","That Israel would walk in My ways!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I would soon subdue their enemies,","And turn My hand against their adversaries."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The haters of the Lord would pretend submission to Him,","But their fate would endure forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He would have fed them also with the finest of wheat;","And with honey from the rock I would have satisfied you.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Psalms 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Psalms 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Psalms 82"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "An Appeal for Israel’s Repentance"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the Chief Musician. On an instrument of Gath. A Psalm of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Sing aloud to God our strength;",
+          "Make a joyful shout to the God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Raise a song and strike the timbrel,",
+          "The pleasant harp with the lute."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Blow the trumpet at the time of the New Moon,",
+          "At the full moon, on our solemn feast day."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For this is a statute for Israel,",
+          "A law of the God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "This He established in Joseph as a testimony,",
+          "When He went throughout the land of Egypt,",
+          "Where I heard a language I did not understand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“I removed his shoulder from the burden;",
+          "His hands were freed from the baskets."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "You called in trouble, and I delivered you;",
+          "I answered you in the secret place of thunder;",
+          "I tested you at the waters of Meribah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Hear, O My people, and I will admonish you!",
+          "O Israel, if you will listen to Me!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "There shall be no foreign god among you;",
+          "Nor shall you worship any foreign god."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I am the Lord your God,",
+          "Who brought you out of the land of Egypt;",
+          "Open your mouth wide, and I will fill it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“But My people would not heed My voice,",
+          "And Israel would have none of Me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "So I gave them over to their own stubborn heart,",
+          "To walk in their own counsels."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Oh, that My people would listen to Me,",
+          "That Israel would walk in My ways!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I would soon subdue their enemies,",
+          "And turn My hand against their adversaries."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The haters of the Lord would pretend submission to Him,",
+          "But their fate would endure forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He would have fed them also with the finest of wheat;",
+          "And with honey from the rock I would have satisfied you.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,244 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"JOS","name":"Joshua"},"chapter":{"chapter_usfm":"JOS.1","is_chapter":true,"previous":{"usfm":"DEU.34","human":"Deuteronomy 34","canonical":true,"toc":true},"current":{"usfm":"JOS.1","human":"Joshua 1"},"next":{"usfm":"JOS.2","human":"Joshua 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["God’s Commission to Joshua"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["After the death of Moses the servant of the Lord, it came to pass that the Lord spoke to Joshua the son of Nun, Moses’ assistant, saying:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Moses My servant is dead. Now therefore, arise, go over this Jordan, you and all this people, to the land which I am giving to them—the children of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Every place that the sole of your foot will tread upon I have given you, as I said to Moses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["From the wilderness and this Lebanon as far as the great river, the River Euphrates, all the land of the Hittites, and to the Great Sea toward the going down of the sun, shall be your territory."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No man shall be able to stand before you all the days of your life; as I was with Moses, so I will be with you. I will not leave you nor forsake you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Be strong and of good courage, for to this people you shall divide as an inheritance the land which I swore to their fathers to give them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Only be strong and very courageous, that you may observe to do according to all the law which Moses My servant commanded you; do not turn from it to the right hand or to the left, that you may prosper wherever you go."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["This Book of the Law shall not depart from your mouth, but you shall meditate in it day and night, that you may observe to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Have I not commanded you? Be strong and of good courage; do not be afraid, nor be dismayed, for the Lord your God is with you wherever you go.”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Order to Cross the Jordan"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Then Joshua commanded the officers of the people, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“Pass through the camp and command the people, saying, ‘Prepare provisions for yourselves, for within three days you will cross over this Jordan, to go in to possess the land which the Lord your God is giving you to possess.’ ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And to the Reubenites, the Gadites, and half the tribe of Manasseh Joshua spoke, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Remember the word which Moses the servant of the Lord commanded you, saying, ‘The Lord your God is giving you rest and is giving you this land.’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Your wives, your little ones, and your livestock shall remain in the land which Moses gave you on this side of the Jordan. But you shall pass before your brethren armed, all your mighty men of valor, and help them,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["until the Lord has given your brethren rest, as He gave you, and they also have taken possession of the land which the Lord your God is giving them. Then you shall return to the land of your possession and enjoy it, which Moses the Lord’s servant gave you on this side of the Jordan toward the sunrise.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["So they answered Joshua, saying, “All that you command us we will do, and wherever you send us we will go."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Just as we heeded Moses in all things, so we will heed you. Only the Lord your God be with you, as He was with Moses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Whoever rebels against your command and does not heed your words, in all that you command him, shall be put to death. Only be strong and of good courage.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.34.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.2.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Joshua"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.34",
+      "human": "Deuteronomy 34"
+    },
+    "current": {
+      "usfm": "JOS.1",
+      "human": "Joshua 1"
+    },
+    "next": {
+      "usfm": "JOS.2",
+      "human": "Joshua 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "God’s Commission to Joshua"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "After the death of Moses the servant of the Lord, it came to pass that the Lord spoke to Joshua the son of Nun, Moses’ assistant, saying:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Moses My servant is dead. Now therefore, arise, go over this Jordan, you and all this people, to the land which I am giving to them—the children of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Every place that the sole of your foot will tread upon I have given you, as I said to Moses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "From the wilderness and this Lebanon as far as the great river, the River Euphrates, all the land of the Hittites, and to the Great Sea toward the going down of the sun, shall be your territory."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No man shall be able to stand before you all the days of your life; as I was with Moses, so I will be with you. I will not leave you nor forsake you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Be strong and of good courage, for to this people you shall divide as an inheritance the land which I swore to their fathers to give them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Only be strong and very courageous, that you may observe to do according to all the law which Moses My servant commanded you; do not turn from it to the right hand or to the left, that you may prosper wherever you go."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "This Book of the Law shall not depart from your mouth, but you shall meditate in it day and night, that you may observe to do according to all that is written in it. For then you will make your way prosperous, and then you will have good success."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Have I not commanded you? Be strong and of good courage; do not be afraid, nor be dismayed, for the Lord your God is with you wherever you go.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Order to Cross the Jordan"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Then Joshua commanded the officers of the people, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“Pass through the camp and command the people, saying, ‘Prepare provisions for yourselves, for within three days you will cross over this Jordan, to go in to possess the land which the Lord your God is giving you to possess.’ ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And to the Reubenites, the Gadites, and half the tribe of Manasseh Joshua spoke, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Remember the word which Moses the servant of the Lord commanded you, saying, ‘The Lord your God is giving you rest and is giving you this land.’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Your wives, your little ones, and your livestock shall remain in the land which Moses gave you on this side of the Jordan. But you shall pass before your brethren armed, all your mighty men of valor, and help them,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "until the Lord has given your brethren rest, as He gave you, and they also have taken possession of the land which the Lord your God is giving them. Then you shall return to the land of your possession and enjoy it, which Moses the Lord’s servant gave you on this side of the Jordan toward the sunrise.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "So they answered Joshua, saying, “All that you command us we will do, and wherever you send us we will go."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Just as we heeded Moses in all things, so we will heed you. Only the Lord your God be with you, as He was with Moses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Whoever rebels against your command and does not heed your words, in all that you command him, shall be put to death. Only be strong and of good courage.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

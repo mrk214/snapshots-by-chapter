@@ -1,1 +1,356 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.7","is_chapter":true,"previous":{"usfm":"PRO.6","human":"Proverbios 6","canonical":true,"toc":true},"current":{"usfm":"PRO.7","human":"Proverbios 7"},"next":{"usfm":"PRO.8","human":"Proverbios 8","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Las artimañas de la ramera"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hijo mío, guarda mis razones,","Y atesora contigo mis mandamientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Guarda mis mandamientos y vivirás,","Y mi ley como las niñas de tus ojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Lígalos a tus dedos;","Escríbelos en la tabla de tu corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Di a la sabiduría: Tú eres mi hermana,","Y a la inteligencia llama parienta;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Para que te guarden de la mujer ajena,","Y de la extraña que ablanda sus palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque mirando yo por la ventana de mi casa,","Por mi celosía,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Vi entre los simples,","Consideré entre los jóvenes,","A un joven falto de entendimiento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El cual pasaba por la calle, junto a la esquina,","E iba camino a la casa de ella,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A la tarde del día, cuando ya oscurecía,","En la oscuridad y tinieblas de la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cuando he aquí, una mujer le sale al encuentro,","Con atavío de ramera y astuta de corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Alborotadora y rencillosa,","Sus pies no pueden estar en casa;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Unas veces está en la calle, otras veces en las plazas,","Acechando por todas las esquinas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Se asió de él, y le besó.","Con semblante descarado le dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Sacrificios de paz había prometido,","Hoy he pagado mis votos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por tanto, he salido a encontrarte,","Buscando diligentemente tu rostro, y te he hallado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He adornado mi cama con colchas","Recamadas con cordoncillo de Egipto;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He perfumado mi cámara","Con mirra, áloes y canela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Ven, embriaguémonos de amores hasta la mañana;","Alegrémonos en amores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Porque el marido no está en casa;","Se ha ido a un largo viaje."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["La bolsa de dinero llevó en su mano;","El día señalado volverá a su casa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Lo rindió con la suavidad de sus muchas palabras,","Le obligó con la zalamería de sus labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Al punto se marchó tras ella,","Como va el buey al degolladero,","Y como el necio a las prisiones para ser castigado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Como el ave que se apresura a la red,","Y no sabe que es contra su vida,","Hasta que la saeta traspasa su corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Ahora pues, hijos, oídme,","Y estad atentos a las razones de mi boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["No se aparte tu corazón a sus caminos;","No yerres en sus veredas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Porque a muchos ha hecho caer heridos,","Y aun los más fuertes han sido muertos por ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Camino al Seol es su casa,","Que conduce a las cámaras de la muerte."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.8.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.6",
+      "human": "Proverbios 6"
+    },
+    "current": {
+      "usfm": "PRO.7",
+      "human": "Proverbios 7"
+    },
+    "next": {
+      "usfm": "PRO.8",
+      "human": "Proverbios 8"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las artimañas de la ramera"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hijo mío, guarda mis razones,",
+          "Y atesora contigo mis mandamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Guarda mis mandamientos y vivirás,",
+          "Y mi ley como las niñas de tus ojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Lígalos a tus dedos;",
+          "Escríbelos en la tabla de tu corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Di a la sabiduría: Tú eres mi hermana,",
+          "Y a la inteligencia llama parienta;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Para que te guarden de la mujer ajena,",
+          "Y de la extraña que ablanda sus palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque mirando yo por la ventana de mi casa,",
+          "Por mi celosía,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Vi entre los simples,",
+          "Consideré entre los jóvenes,",
+          "A un joven falto de entendimiento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El cual pasaba por la calle, junto a la esquina,",
+          "E iba camino a la casa de ella,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A la tarde del día, cuando ya oscurecía,",
+          "En la oscuridad y tinieblas de la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cuando he aquí, una mujer le sale al encuentro,",
+          "Con atavío de ramera y astuta de corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Alborotadora y rencillosa,",
+          "Sus pies no pueden estar en casa;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Unas veces está en la calle, otras veces en las plazas,",
+          "Acechando por todas las esquinas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Se asió de él, y le besó.",
+          "Con semblante descarado le dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Sacrificios de paz había prometido,",
+          "Hoy he pagado mis votos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por tanto, he salido a encontrarte,",
+          "Buscando diligentemente tu rostro, y te he hallado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He adornado mi cama con colchas",
+          "Recamadas con cordoncillo de Egipto;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He perfumado mi cámara",
+          "Con mirra, áloes y canela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Ven, embriaguémonos de amores hasta la mañana;",
+          "Alegrémonos en amores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Porque el marido no está en casa;",
+          "Se ha ido a un largo viaje."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "La bolsa de dinero llevó en su mano;",
+          "El día señalado volverá a su casa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Lo rindió con la suavidad de sus muchas palabras,",
+          "Le obligó con la zalamería de sus labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Al punto se marchó tras ella,",
+          "Como va el buey al degolladero,",
+          "Y como el necio a las prisiones para ser castigado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Como el ave que se apresura a la red,",
+          "Y no sabe que es contra su vida,",
+          "Hasta que la saeta traspasa su corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Ahora pues, hijos, oídme,",
+          "Y estad atentos a las razones de mi boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "No se aparte tu corazón a sus caminos;",
+          "No yerres en sus veredas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Porque a muchos ha hecho caer heridos,",
+          "Y aun los más fuertes han sido muertos por ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Camino al Seol es su casa,",
+          "Que conduce a las cámaras de la muerte."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

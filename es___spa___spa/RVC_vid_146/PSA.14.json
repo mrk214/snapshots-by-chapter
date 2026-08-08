@@ -1,1 +1,148 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.14","is_chapter":true,"previous":{"usfm":"PSA.13","human":"Salmos 13","canonical":true,"toc":true},"current":{"usfm":"PSA.14","human":"Salmos 14"},"next":{"usfm":"PSA.15","human":"Salmos 15","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Insensatez y maldad humana"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dentro de sí dicen los necios:","«Dios no existe.»","Corrompidos están. Sus hechos son repugnantes.","No hay nadie que haga el bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Desde el cielo, observa el Señor a la humanidad,","para ver si hay alguien con sabiduría,","que busque a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pero todos se han desviado;","todos a una se han corrompido.","No hay nadie que haga el bien;","¡ni siquiera hay uno solo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Acaso no piensan esos malhechores,","que devoran a mi pueblo como si fuera pan,","y jamás invocan al Señor?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Pues van a temblar de miedo;","porque Dios está a favor de los justos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los malvados se burlan de los pobres,","porque ellos ponen su esperanza en el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¡Que venga de Sión la salvación de Israel!","Cuando el Señor haga volver a su pueblo cautivo,","¡se alegrará Jacob, se regocijará Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.15.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.14",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.13",
+      "human": "Salmos 13"
+    },
+    "current": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "next": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Insensatez y maldad humana"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dentro de sí dicen los necios:",
+          "«Dios no existe.»",
+          "Corrompidos están. Sus hechos son repugnantes.",
+          "No hay nadie que haga el bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Desde el cielo, observa el Señor a la humanidad,",
+          "para ver si hay alguien con sabiduría,",
+          "que busque a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pero todos se han desviado;",
+          "todos a una se han corrompido.",
+          "No hay nadie que haga el bien;",
+          "¡ni siquiera hay uno solo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Acaso no piensan esos malhechores,",
+          "que devoran a mi pueblo como si fuera pan,",
+          "y jamás invocan al Señor?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Pues van a temblar de miedo;",
+          "porque Dios está a favor de los justos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los malvados se burlan de los pobres,",
+          "porque ellos ponen su esperanza en el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¡Que venga de Sión la salvación de Israel!",
+          "Cuando el Señor haga volver a su pueblo cautivo,",
+          "¡se alegrará Jacob, se regocijará Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

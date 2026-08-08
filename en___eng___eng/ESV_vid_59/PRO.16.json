@@ -1,1 +1,411 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.16","is_chapter":true,"previous":{"usfm":"PRO.15","human":"Proverbs 15","canonical":true,"toc":true},"current":{"usfm":"PRO.16","human":"Proverbs 16"},"next":{"usfm":"PRO.17","human":"Proverbs 17","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["The plans of the heart belong to man,","but the answer of the tongue is from the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["All the ways of a man are pure in his own eyes,","but the Lord weighs the spirit."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Commit your work to the Lord,","and your plans will be established."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord has made everything for its purpose,","even the wicked for the day of trouble."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Everyone who is arrogant in heart is an abomination to the Lord;","be assured, he will not go unpunished."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["By steadfast love and faithfulness iniquity is atoned for,","and by the fear of the Lord one turns away from evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["When a man’s ways please the Lord,","he makes even his enemies to be at peace with him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Better is a little with righteousness","than great revenues with injustice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The heart of man plans his way,","but the Lord establishes his steps."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["An oracle is on the lips of a king;","his mouth does not sin in judgment."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A just balance and scales are the Lord’s;","all the weights in the bag are his work."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["It is an abomination to kings to do evil,","for the throne is established by righteousness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Righteous lips are the delight of a king,","and he loves him who speaks what is right."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["A king’s wrath is a messenger of death,","and a wise man will appease it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["In the light of a king’s face there is life,","and his favor is like the clouds that bring the spring rain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["How much better to get wisdom than gold!","To get understanding is to be chosen rather than silver."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The highway of the upright turns aside from evil;","whoever guards his way preserves his life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pride goes before destruction,","and a haughty spirit before a fall."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["It is better to be of a lowly spirit with the poor","than to divide the spoil with the proud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Whoever gives thought to the word will discover good,","and blessed is he who trusts in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["The wise of heart is called discerning,","and sweetness of speech increases persuasiveness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Good sense is a fountain of life to him who has it,","but the instruction of fools is folly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["The heart of the wise makes his speech judicious","and adds persuasiveness to his lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Gracious words are like a honeycomb,","sweetness to the soul and health to the body."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["There is a way that seems right to a man,","but its end is the way to death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["A worker’s appetite works for him;","his mouth urges him on."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["A worthless man plots evil,","and his speech is like a scorching fire."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["A dishonest man spreads strife,","and a whisperer separates close friends."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["A man of violence entices his neighbor","and leads him in a way that is not good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Whoever winks his eyes plans dishonest things;","he who purses his lips brings evil to pass."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["Gray hair is a crown of glory;","it is gained in a righteous life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[32],"lines":["Whoever is slow to anger is better than the mighty,","and he who rules his spirit than he who takes a city."],"rlw_lines":[]},{"type":"verse","verse_numbers":[33],"lines":["The lot is cast into the lap,","but its every decision is from the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.17.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.15",
+      "human": "Proverbs 15"
+    },
+    "current": {
+      "usfm": "PRO.16",
+      "human": "Proverbs 16"
+    },
+    "next": {
+      "usfm": "PRO.17",
+      "human": "Proverbs 17"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The plans of the heart belong to man,",
+          "but the answer of the tongue is from the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "All the ways of a man are pure in his own eyes,",
+          "but the Lord weighs the spirit."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Commit your work to the Lord,",
+          "and your plans will be established."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord has made everything for its purpose,",
+          "even the wicked for the day of trouble."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Everyone who is arrogant in heart is an abomination to the Lord;",
+          "be assured, he will not go unpunished."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "By steadfast love and faithfulness iniquity is atoned for,",
+          "and by the fear of the Lord one turns away from evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "When a man’s ways please the Lord,",
+          "he makes even his enemies to be at peace with him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Better is a little with righteousness",
+          "than great revenues with injustice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The heart of man plans his way,",
+          "but the Lord establishes his steps."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "An oracle is on the lips of a king;",
+          "his mouth does not sin in judgment."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A just balance and scales are the Lord’s;",
+          "all the weights in the bag are his work."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "It is an abomination to kings to do evil,",
+          "for the throne is established by righteousness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Righteous lips are the delight of a king,",
+          "and he loves him who speaks what is right."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "A king’s wrath is a messenger of death,",
+          "and a wise man will appease it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "In the light of a king’s face there is life,",
+          "and his favor is like the clouds that bring the spring rain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "How much better to get wisdom than gold!",
+          "To get understanding is to be chosen rather than silver."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The highway of the upright turns aside from evil;",
+          "whoever guards his way preserves his life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pride goes before destruction,",
+          "and a haughty spirit before a fall."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "It is better to be of a lowly spirit with the poor",
+          "than to divide the spoil with the proud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Whoever gives thought to the word will discover good,",
+          "and blessed is he who trusts in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "The wise of heart is called discerning,",
+          "and sweetness of speech increases persuasiveness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Good sense is a fountain of life to him who has it,",
+          "but the instruction of fools is folly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "The heart of the wise makes his speech judicious",
+          "and adds persuasiveness to his lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Gracious words are like a honeycomb,",
+          "sweetness to the soul and health to the body."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "There is a way that seems right to a man,",
+          "but its end is the way to death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "A worker’s appetite works for him;",
+          "his mouth urges him on."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "A worthless man plots evil,",
+          "and his speech is like a scorching fire."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "A dishonest man spreads strife,",
+          "and a whisperer separates close friends."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "A man of violence entices his neighbor",
+          "and leads him in a way that is not good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Whoever winks his eyes plans dishonest things;",
+          "he who purses his lips brings evil to pass."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "Gray hair is a crown of glory;",
+          "it is gained in a righteous life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          32
+        ],
+        "lines": [
+          "Whoever is slow to anger is better than the mighty,",
+          "and he who rules his spirit than he who takes a city."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          33
+        ],
+        "lines": [
+          "The lot is cast into the lap,",
+          "but its every decision is from the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

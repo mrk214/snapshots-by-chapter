@@ -1,1 +1,169 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.99","is_chapter":true,"previous":{"usfm":"PSA.98","human":"Salmo 98","canonical":true,"toc":true},"current":{"usfm":"PSA.99","human":"Salmo 99"},"next":{"usfm":"PSA.100","human":"Salmo 100","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 99"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Alaben al Señor por su fidelidad para con Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡El Señor reina, estremézcanse los pueblos;","Él está sentado como Rey sobre los querubines, tiemble la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor es grande en Sión,","Y exaltado sobre todos los pueblos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alaben Tu nombre grande y temible;","Él es santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El poder del Rey ama la justicia;","Tú has establecido la equidad;","Has hecho juicio y justicia en Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Exalten al Señor nuestro Dios,","Y póstrense ante el estrado de Sus pies;","Él es santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Moisés y Aarón estaban entre Sus sacerdotes,","Y Samuel entre los que invocaron Su nombre;","Ellos clamaron al Señor, y Él les respondió."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Les habló en la columna de nube;","Guardaron Sus testimonios,","Y el estatuto que Él les dio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Oh Señor, Dios nuestro, Tú les respondiste;","Fuiste para ellos un Dios perdonador,","Pero también vengador de sus malas obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Exalten al Señor nuestro Dios,","Y póstrense ante Su santo monte,","Porque santo es el Señor nuestro Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.98.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.100.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.99",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.98",
+      "human": "Salmo 98"
+    },
+    "current": {
+      "usfm": "PSA.99",
+      "human": "Salmo 99"
+    },
+    "next": {
+      "usfm": "PSA.100",
+      "human": "Salmo 100"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 99"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alaben al Señor por su fidelidad para con Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡El Señor reina, estremézcanse los pueblos;",
+          "Él está sentado como Rey sobre los querubines, tiemble la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor es grande en Sión,",
+          "Y exaltado sobre todos los pueblos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alaben Tu nombre grande y temible;",
+          "Él es santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El poder del Rey ama la justicia;",
+          "Tú has establecido la equidad;",
+          "Has hecho juicio y justicia en Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Exalten al Señor nuestro Dios,",
+          "Y póstrense ante el estrado de Sus pies;",
+          "Él es santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Moisés y Aarón estaban entre Sus sacerdotes,",
+          "Y Samuel entre los que invocaron Su nombre;",
+          "Ellos clamaron al Señor, y Él les respondió."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Les habló en la columna de nube;",
+          "Guardaron Sus testimonios,",
+          "Y el estatuto que Él les dio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Oh Señor, Dios nuestro, Tú les respondiste;",
+          "Fuiste para ellos un Dios perdonador,",
+          "Pero también vengador de sus malas obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Exalten al Señor nuestro Dios,",
+          "Y póstrense ante Su santo monte,",
+          "Porque santo es el Señor nuestro Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

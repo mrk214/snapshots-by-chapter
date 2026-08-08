@@ -1,1 +1,281 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"1TI","name":"I Timothy"},"chapter":{"chapter_usfm":"1TI.1","is_chapter":true,"previous":{"usfm":"2TH.3","human":"II Thessalonians 3","canonical":true,"toc":true},"current":{"usfm":"1TI.1","human":"I Timothy 1"},"next":{"usfm":"1TI.2","human":"I Timothy 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Greeting"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["To Timothy, a true son in the faith:","Grace, mercy, and peace from God our Father and Jesus Christ our Lord."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["No Other Doctrine"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["As I urged you when I went into Macedonia—remain in Ephesus that you may charge some that they teach no other doctrine,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Now the purpose of the commandment is love from a pure heart, from a good conscience, and from sincere faith,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["from which some, having strayed, have turned aside to idle talk,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["desiring to be teachers of the law, understanding neither what they say nor the things which they affirm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But we know that the law is good if one uses it lawfully,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["knowing this: that the law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and for sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["for fornicators, for sodomites, for kidnappers, for liars, for perjurers, and if there is any other thing that is contrary to sound doctrine,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["according to the glorious gospel of the blessed God which was committed to my trust."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Glory to God for His Grace"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And the grace of our Lord was exceedingly abundant, with faith and love which are in Christ Jesus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["However, for this reason I obtained mercy, that in me first Jesus Christ might show all longsuffering, as a pattern to those who are going to believe on Him for everlasting life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Fight the Good Fight"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["This charge I commit to you, son Timothy, according to the prophecies previously made concerning you, that by them you may wage the good warfare,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["having faith and a good conscience, which some having rejected, concerning the faith have suffered shipwreck,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["of whom are Hymenaeus and Alexander, whom I delivered to Satan that they may learn not to blaspheme."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2TH.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TI.2.json"
+  },
+  "book": {
+    "book_usfm": "1TI",
+    "name": "I Timothy"
+  },
+  "chapter": {
+    "chapter_usfm": "1TI.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2TH.3",
+      "human": "II Thessalonians 3"
+    },
+    "current": {
+      "usfm": "1TI.1",
+      "human": "I Timothy 1"
+    },
+    "next": {
+      "usfm": "1TI.2",
+      "human": "I Timothy 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Greeting"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Paul, an apostle of Jesus Christ, by the commandment of God our Savior and the Lord Jesus Christ, our hope,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "To Timothy, a true son in the faith:",
+          "Grace, mercy, and peace from God our Father and Jesus Christ our Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "No Other Doctrine"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "As I urged you when I went into Macedonia—remain in Ephesus that you may charge some that they teach no other doctrine,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "nor give heed to fables and endless genealogies, which cause disputes rather than godly edification which is in faith."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Now the purpose of the commandment is love from a pure heart, from a good conscience, and from sincere faith,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "from which some, having strayed, have turned aside to idle talk,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "desiring to be teachers of the law, understanding neither what they say nor the things which they affirm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But we know that the law is good if one uses it lawfully,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "knowing this: that the law is not made for a righteous person, but for the lawless and insubordinate, for the ungodly and for sinners, for the unholy and profane, for murderers of fathers and murderers of mothers, for manslayers,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "for fornicators, for sodomites, for kidnappers, for liars, for perjurers, and if there is any other thing that is contrary to sound doctrine,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "according to the glorious gospel of the blessed God which was committed to my trust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Glory to God for His Grace"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And I thank Christ Jesus our Lord who has enabled me, because He counted me faithful, putting me into the ministry,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "although I was formerly a blasphemer, a persecutor, and an insolent man; but I obtained mercy because I did it ignorantly in unbelief."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And the grace of our Lord was exceedingly abundant, with faith and love which are in Christ Jesus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "This is a faithful saying and worthy of all acceptance, that Christ Jesus came into the world to save sinners, of whom I am chief."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "However, for this reason I obtained mercy, that in me first Jesus Christ might show all longsuffering, as a pattern to those who are going to believe on Him for everlasting life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Now to the King eternal, immortal, invisible, to God who alone is wise, be honor and glory forever and ever. Amen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Fight the Good Fight"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "This charge I commit to you, son Timothy, according to the prophecies previously made concerning you, that by them you may wage the good warfare,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "having faith and a good conscience, which some having rejected, concerning the faith have suffered shipwreck,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "of whom are Hymenaeus and Alexander, whom I delivered to Satan that they may learn not to blaspheme."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

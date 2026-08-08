@@ -1,1 +1,264 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.132","is_chapter":true,"previous":{"usfm":"PSA.131","human":"Salmos 131","canonical":true,"toc":true},"current":{"usfm":"PSA.132","human":"Salmos 132"},"next":{"usfm":"PSA.133","human":"Salmos 133","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plegaria por bendición sobre el santuario"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Acuérdate, oh Jehová, de David,","Y de toda su aflicción;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De cómo juró a Jehová,","Y prometió al Fuerte de Jacob:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No entraré en la morada de mi casa,","Ni subiré sobre el lecho de mi estrado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No daré sueño a mis ojos,","Ni a mis párpados adormecimiento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Hasta que halle lugar para Jehová,","Morada para el Fuerte de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He aquí en Efrata lo oímos;","Lo hallamos en los campos del bosque."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entraremos en su tabernáculo;","Nos postraremos ante el estrado de sus pies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levántate, oh Jehová, al lugar de tu reposo,","Tú y el arca de tu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tus sacerdotes se vistan de justicia,","Y se regocijen tus santos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por amor de David tu siervo","No vuelvas de tu ungido el rostro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["En verdad juró Jehová a David,","Y no se retractará de ello:","De tu descendencia pondré sobre tu trono."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Si tus hijos guardaren mi pacto,","Y mi testimonio que yo les enseñaré,","Sus hijos también se sentarán sobre tu trono para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Porque Jehová ha elegido a Sion;","La quiso por habitación para sí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Este es para siempre el lugar de mi reposo;","Aquí habitaré, porque la he querido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Bendeciré abundantemente su provisión;","A sus pobres saciaré de pan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Asimismo vestiré de salvación a sus sacerdotes,","Y sus santos darán voces de júbilo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Allí haré retoñar el poder de David;","He dispuesto lámpara a mi ungido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["A sus enemigos vestiré de confusión,","Mas sobre él florecerá su corona."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.131.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.133.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.132",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.131",
+      "human": "Salmos 131"
+    },
+    "current": {
+      "usfm": "PSA.132",
+      "human": "Salmos 132"
+    },
+    "next": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plegaria por bendición sobre el santuario"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Acuérdate, oh Jehová, de David,",
+          "Y de toda su aflicción;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De cómo juró a Jehová,",
+          "Y prometió al Fuerte de Jacob:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No entraré en la morada de mi casa,",
+          "Ni subiré sobre el lecho de mi estrado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No daré sueño a mis ojos,",
+          "Ni a mis párpados adormecimiento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Hasta que halle lugar para Jehová,",
+          "Morada para el Fuerte de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He aquí en Efrata lo oímos;",
+          "Lo hallamos en los campos del bosque."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entraremos en su tabernáculo;",
+          "Nos postraremos ante el estrado de sus pies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levántate, oh Jehová, al lugar de tu reposo,",
+          "Tú y el arca de tu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tus sacerdotes se vistan de justicia,",
+          "Y se regocijen tus santos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por amor de David tu siervo",
+          "No vuelvas de tu ungido el rostro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "En verdad juró Jehová a David,",
+          "Y no se retractará de ello:",
+          "De tu descendencia pondré sobre tu trono."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Si tus hijos guardaren mi pacto,",
+          "Y mi testimonio que yo les enseñaré,",
+          "Sus hijos también se sentarán sobre tu trono para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Porque Jehová ha elegido a Sion;",
+          "La quiso por habitación para sí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Este es para siempre el lugar de mi reposo;",
+          "Aquí habitaré, porque la he querido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Bendeciré abundantemente su provisión;",
+          "A sus pobres saciaré de pan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Asimismo vestiré de salvación a sus sacerdotes,",
+          "Y sus santos darán voces de júbilo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Allí haré retoñar el poder de David;",
+          "He dispuesto lámpara a mi ungido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "A sus enemigos vestiré de confusión,",
+          "Mas sobre él florecerá su corona."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

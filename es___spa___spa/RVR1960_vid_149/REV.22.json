@@ -1,1 +1,263 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"REV","name":"Apocalipsis"},"chapter":{"chapter_usfm":"REV.22","is_chapter":true,"previous":{"usfm":"REV.21","human":"Apocalipsis 21","canonical":true,"toc":true},"current":{"usfm":"REV.22","human":"Apocalipsis 22"},"next":null,"items":[{"type":"verse","verse_numbers":[1],"lines":["Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y no habrá más maldición; y el trono de Dios y del Cordero estará en ella, y sus siervos le servirán,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["y verán su rostro, y su nombre estará en sus frentes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No habrá allí más noche; y no tienen necesidad de luz de lámpara, ni de luz del sol, porque Dios el Señor los iluminará; y reinarán por los siglos de los siglos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La venida de Cristo está cerca"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y me dijo: Estas palabras son fieles y verdaderas. Y el Señor, el Dios de los espíritus de los profetas, ha enviado su ángel, para mostrar a sus siervos las cosas que deben suceder pronto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¡He aquí, vengo pronto! Bienaventurado el que guarda las palabras de la profecía de este libro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Yo Juan soy el que oyó y vio estas cosas. Y después que las hube oído y visto, me postré para adorar a los pies del ángel que me mostraba estas cosas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pero él me dijo: Mira, no lo hagas; porque yo soy consiervo tuyo, de tus hermanos los profetas, y de los que guardan las palabras de este libro. Adora a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y me dijo: No selles las palabras de la profecía de este libro, porque el tiempo está cerca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El que es injusto, sea injusto todavía; y el que es inmundo, sea inmundo todavía; y el que es justo, practique la justicia todavía; y el que es santo, santifíquese todavía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Yo soy el Alfa y la Omega, el principio y el fin, el primero y el último."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Mas los perros estarán fuera, y los hechiceros, los fornicarios, los homicidas, los idólatras, y todo aquel que ama y hace mentira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Yo Jesús he enviado mi ángel para daros testimonio de estas cosas en las iglesias. Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Yo testifico a todo aquel que oye las palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios traerá sobre él las plagas que están escritas en este libro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Y si alguno quitare de las palabras del libro de esta profecía, Dios quitará su parte del libro de la vida, y de la santa ciudad y de las cosas que están escritas en este libro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/REV.21.json",
+    "next": null
+  },
+  "book": {
+    "book_usfm": "REV",
+    "name": "Apocalipsis"
+  },
+  "chapter": {
+    "chapter_usfm": "REV.22",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "REV.21",
+      "human": "Apocalipsis 21"
+    },
+    "current": {
+      "usfm": "REV.22",
+      "human": "Apocalipsis 22"
+    },
+    "next": null,
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Después me mostró un río limpio de agua de vida, resplandeciente como cristal, que salía del trono de Dios y del Cordero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En medio de la calle de la ciudad, y a uno y otro lado del río, estaba el árbol de la vida, que produce doce frutos, dando cada mes su fruto; y las hojas del árbol eran para la sanidad de las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y no habrá más maldición; y el trono de Dios y del Cordero estará en ella, y sus siervos le servirán,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "y verán su rostro, y su nombre estará en sus frentes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No habrá allí más noche; y no tienen necesidad de luz de lámpara, ni de luz del sol, porque Dios el Señor los iluminará; y reinarán por los siglos de los siglos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La venida de Cristo está cerca"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y me dijo: Estas palabras son fieles y verdaderas. Y el Señor, el Dios de los espíritus de los profetas, ha enviado su ángel, para mostrar a sus siervos las cosas que deben suceder pronto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¡He aquí, vengo pronto! Bienaventurado el que guarda las palabras de la profecía de este libro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Yo Juan soy el que oyó y vio estas cosas. Y después que las hube oído y visto, me postré para adorar a los pies del ángel que me mostraba estas cosas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pero él me dijo: Mira, no lo hagas; porque yo soy consiervo tuyo, de tus hermanos los profetas, y de los que guardan las palabras de este libro. Adora a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y me dijo: No selles las palabras de la profecía de este libro, porque el tiempo está cerca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El que es injusto, sea injusto todavía; y el que es inmundo, sea inmundo todavía; y el que es justo, practique la justicia todavía; y el que es santo, santifíquese todavía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "He aquí yo vengo pronto, y mi galardón conmigo, para recompensar a cada uno según sea su obra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Yo soy el Alfa y la Omega, el principio y el fin, el primero y el último."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Bienaventurados los que lavan sus ropas, para tener derecho al árbol de la vida, y para entrar por las puertas en la ciudad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Mas los perros estarán fuera, y los hechiceros, los fornicarios, los homicidas, los idólatras, y todo aquel que ama y hace mentira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Yo Jesús he enviado mi ángel para daros testimonio de estas cosas en las iglesias. Yo soy la raíz y el linaje de David, la estrella resplandeciente de la mañana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Y el Espíritu y la Esposa dicen: Ven. Y el que oye, diga: Ven. Y el que tiene sed, venga; y el que quiera, tome del agua de la vida gratuitamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Yo testifico a todo aquel que oye las palabras de la profecía de este libro: Si alguno añadiere a estas cosas, Dios traerá sobre él las plagas que están escritas en este libro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Y si alguno quitare de las palabras del libro de esta profecía, Dios quitará su parte del libro de la vida, y de la santa ciudad y de las cosas que están escritas en este libro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El que da testimonio de estas cosas dice: Ciertamente vengo en breve. Amén; sí, ven, Señor Jesús."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "La gracia de nuestro Señor Jesucristo sea con todos vosotros. Amén."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

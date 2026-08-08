@@ -1,1 +1,298 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.2","is_chapter":true,"previous":{"usfm":"PRO.1","human":"Proverbios 1","canonical":true,"toc":true},"current":{"usfm":"PRO.2","human":"Proverbios 2"},"next":{"usfm":"PRO.3","human":"Proverbios 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La sabiduría protege del mal"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hijo mío, si recibes mis palabras,","y atesoras mis mandamientos dentro de ti,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["da oído a la sabiduría,","inclina tu corazón al entendimiento;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["porque si clamas a la inteligencia,","y alzas tu voz al entendimiento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["si la buscas como a plata,","y la procuras como a tesoros escondidos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["entonces entenderás el temor del Señor,","y descubrirás el conocimiento de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque el Señor da sabiduría,","de su boca vienen el conocimiento y la inteligencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Él reserva la prosperidad para los rectos,","es escudo para los que andan en integridad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["guarda las sendas del juicio,","y preserva el camino de sus santos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces discernirás justicia y juicio,","equidad y todo buen sendero;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["porque la sabiduría entrará en tu corazón,","y el conocimiento será grato a tu alma;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["la discreción velará sobre ti,","el entendimiento te protegerá,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["para librarte de la senda del mal,","del hombre que habla cosas perversas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["de los que dejan las sendas de rectitud,","para andar por los caminos tenebrosos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["de los que se deleitan en hacer el mal,","y se regocijan en las perversidades del mal,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["cuyas sendas son torcidas,","y se extravían en sus senderos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Ella te librará de la mujer extraña,","de la desconocida que lisonjea con sus palabras,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["la cual deja al compañero de su juventud,","y olvida el pacto de su Dios;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["porque su casa se inclina hacia la muerte,","y sus senderos hacia los muertos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["todos los que a ella van, no vuelven,","ni alcanzan las sendas de la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Por tanto andarás en el camino de los buenos,","y guardarás las sendas de los justos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["porque los rectos morarán en la tierra,","y los íntegros permanecerán en ella;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["pero los impíos serán cortados de la tierra,","y los pérfidos serán desarraigados de ella."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PRO.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PRO.3.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.1",
+      "human": "Proverbios 1"
+    },
+    "current": {
+      "usfm": "PRO.2",
+      "human": "Proverbios 2"
+    },
+    "next": {
+      "usfm": "PRO.3",
+      "human": "Proverbios 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La sabiduría protege del mal"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hijo mío, si recibes mis palabras,",
+          "y atesoras mis mandamientos dentro de ti,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "da oído a la sabiduría,",
+          "inclina tu corazón al entendimiento;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "porque si clamas a la inteligencia,",
+          "y alzas tu voz al entendimiento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "si la buscas como a plata,",
+          "y la procuras como a tesoros escondidos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "entonces entenderás el temor del Señor,",
+          "y descubrirás el conocimiento de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque el Señor da sabiduría,",
+          "de su boca vienen el conocimiento y la inteligencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Él reserva la prosperidad para los rectos,",
+          "es escudo para los que andan en integridad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "guarda las sendas del juicio,",
+          "y preserva el camino de sus santos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces discernirás justicia y juicio,",
+          "equidad y todo buen sendero;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "porque la sabiduría entrará en tu corazón,",
+          "y el conocimiento será grato a tu alma;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "la discreción velará sobre ti,",
+          "el entendimiento te protegerá,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "para librarte de la senda del mal,",
+          "del hombre que habla cosas perversas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "de los que dejan las sendas de rectitud,",
+          "para andar por los caminos tenebrosos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "de los que se deleitan en hacer el mal,",
+          "y se regocijan en las perversidades del mal,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "cuyas sendas son torcidas,",
+          "y se extravían en sus senderos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Ella te librará de la mujer extraña,",
+          "de la desconocida que lisonjea con sus palabras,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "la cual deja al compañero de su juventud,",
+          "y olvida el pacto de su Dios;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "porque su casa se inclina hacia la muerte,",
+          "y sus senderos hacia los muertos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "todos los que a ella van, no vuelven,",
+          "ni alcanzan las sendas de la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Por tanto andarás en el camino de los buenos,",
+          "y guardarás las sendas de los justos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "porque los rectos morarán en la tierra,",
+          "y los íntegros permanecerán en ella;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "pero los impíos serán cortados de la tierra,",
+          "y los pérfidos serán desarraigados de ella."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

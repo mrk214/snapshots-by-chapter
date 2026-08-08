@@ -1,1 +1,176 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.97","is_chapter":true,"previous":{"usfm":"PSA.96","human":"Salmos 96","canonical":true,"toc":true},"current":{"usfm":"PSA.97","human":"Salmos 97"},"next":{"usfm":"PSA.98","human":"Salmos 98","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A majestade de Deus e o seu domínio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor reina, regozije-se a terra; alegrem-se as numerosas ilhas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Nuvens e escuridão o rodeiam; justiça e retidão são a base do seu trono."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Diante dele vai um fogo que consome seus inimigos ao redor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Seus relâmpagos iluminam o mundo; a terra os vê e treme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Os montes derretem como cera na presença do Senhor, na presença do Senhor de toda a terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Os céus anunciam sua justiça, e todos os povos veem sua glória."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos os que adoram imagens, que se gloriam de ídolos, ficam envergonhados; prostrai-vos diante dele, todos os deuses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Senhor, Sião ouve e se alegra, e as filhas de Judá regozijam-se por causa dos teus juízos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pois tu, Senhor, és o Altíssimo sobre toda a terra; tu és extremamente exaltado acima de todos os deuses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Vós que amais o Senhor, detestai o mal. Ele protege a vida dos seus santos e os livra das mãos dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["A luz brilha para o justo, e a alegria, para os de coração reto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ó justos, alegrai-vos no Senhor e rendei graças ao seu santo nome."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.96.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.98.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.97",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.96",
+      "human": "Salmos 96"
+    },
+    "current": {
+      "usfm": "PSA.97",
+      "human": "Salmos 97"
+    },
+    "next": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A majestade de Deus e o seu domínio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor reina, regozije-se a terra; alegrem-se as numerosas ilhas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Nuvens e escuridão o rodeiam; justiça e retidão são a base do seu trono."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Diante dele vai um fogo que consome seus inimigos ao redor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Seus relâmpagos iluminam o mundo; a terra os vê e treme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Os montes derretem como cera na presença do Senhor, na presença do Senhor de toda a terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Os céus anunciam sua justiça, e todos os povos veem sua glória."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos os que adoram imagens, que se gloriam de ídolos, ficam envergonhados; prostrai-vos diante dele, todos os deuses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Senhor, Sião ouve e se alegra, e as filhas de Judá regozijam-se por causa dos teus juízos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pois tu, Senhor, és o Altíssimo sobre toda a terra; tu és extremamente exaltado acima de todos os deuses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Vós que amais o Senhor, detestai o mal. Ele protege a vida dos seus santos e os livra das mãos dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "A luz brilha para o justo, e a alegria, para os de coração reto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ó justos, alegrai-vos no Senhor e rendei graças ao seu santo nome."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

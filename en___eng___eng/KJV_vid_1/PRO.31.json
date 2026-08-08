@@ -1,1 +1,405 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PRO","name":"Proverbs"},"chapter":{"chapter_usfm":"PRO.31","is_chapter":true,"previous":{"usfm":"PRO.30","human":"Proverbs 30","canonical":true,"toc":true},"current":{"usfm":"PRO.31","human":"Proverbs 31"},"next":{"usfm":"ECC.1","human":"Ecclesiastes 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Words of Lemuel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The words of king Lemuel, the prophecy that his mother taught him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["What, my son? and what, the son of my womb?","And what, the son of my vows?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Give not thy strength unto women,","Nor thy ways to that which destroyeth kings."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["It is not for kings, O Lemuel, it is not for kings to drink wine;","Nor for princes strong drink:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Lest they drink, and forget the law,","And pervert the judgment of any of the afflicted."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Give strong drink unto him that is ready to perish,","And wine unto those that be of heavy hearts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Let him drink, and forget his poverty,","And remember his misery no more."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Open thy mouth for the dumb","In the cause of all such as are appointed to destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Open thy mouth, judge righteously,","And plead the cause of the poor and needy."],"rlw_lines":[]},{"type":"heading2","verse_numbers":[],"lines":["The Good Wife"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Who can find a virtuous woman?","For her price is far above rubies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The heart of her husband doth safely trust in her,","So that he shall have no need of spoil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["She will do him good and not evil","All the days of her life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["She seeketh wool, and flax,","And worketh willingly with her hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["She is like the merchants' ships;","She bringeth her food from afar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["She riseth also while it is yet night,","And giveth meat to her household,","And a portion to her maidens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["She considereth a field, and buyeth it:","With the fruit of her hands she planteth a vineyard."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["She girdeth her loins with strength,","And strengtheneth her arms."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["She perceiveth that her merchandise is good:","Her candle goeth not out by night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["She layeth her hands to the spindle,","And her hands hold the distaff."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["She stretcheth out her hand to the poor;","Yea, she reacheth forth her hands to the needy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["She is not afraid of the snow for her household:","For all her household are clothed with scarlet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["She maketh herself coverings of tapestry;","Her clothing is silk and purple."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Her husband is known in the gates,","When he sitteth among the elders of the land."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["She maketh fine linen, and selleth it;","And delivereth girdles unto the merchant."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Strength and honour are her clothing;","And she shall rejoice in time to come."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["She openeth her mouth with wisdom;","And in her tongue is the law of kindness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["She looketh well to the ways of her household,","And eateth not the bread of idleness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Her children arise up, and call her blessed;","Her husband also, and he praiseth her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Many daughters have done virtuously,","But thou excellest them all."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Favour is deceitful, and beauty is vain:","But a woman that feareth the LORD, she shall be praised."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["Give her of the fruit of her hands;","And let her own works praise her in the gates."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PRO.30.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ECC.1.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbs"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.31",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.30",
+      "human": "Proverbs 30"
+    },
+    "current": {
+      "usfm": "PRO.31",
+      "human": "Proverbs 31"
+    },
+    "next": {
+      "usfm": "ECC.1",
+      "human": "Ecclesiastes 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Words of Lemuel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The words of king Lemuel, the prophecy that his mother taught him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "What, my son? and what, the son of my womb?",
+          "And what, the son of my vows?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Give not thy strength unto women,",
+          "Nor thy ways to that which destroyeth kings."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "It is not for kings, O Lemuel, it is not for kings to drink wine;",
+          "Nor for princes strong drink:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Lest they drink, and forget the law,",
+          "And pervert the judgment of any of the afflicted."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Give strong drink unto him that is ready to perish,",
+          "And wine unto those that be of heavy hearts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Let him drink, and forget his poverty,",
+          "And remember his misery no more."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Open thy mouth for the dumb",
+          "In the cause of all such as are appointed to destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Open thy mouth, judge righteously,",
+          "And plead the cause of the poor and needy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "The Good Wife"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Who can find a virtuous woman?",
+          "For her price is far above rubies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The heart of her husband doth safely trust in her,",
+          "So that he shall have no need of spoil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "She will do him good and not evil",
+          "All the days of her life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "She seeketh wool, and flax,",
+          "And worketh willingly with her hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "She is like the merchants' ships;",
+          "She bringeth her food from afar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "She riseth also while it is yet night,",
+          "And giveth meat to her household,",
+          "And a portion to her maidens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "She considereth a field, and buyeth it:",
+          "With the fruit of her hands she planteth a vineyard."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "She girdeth her loins with strength,",
+          "And strengtheneth her arms."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "She perceiveth that her merchandise is good:",
+          "Her candle goeth not out by night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "She layeth her hands to the spindle,",
+          "And her hands hold the distaff."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "She stretcheth out her hand to the poor;",
+          "Yea, she reacheth forth her hands to the needy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "She is not afraid of the snow for her household:",
+          "For all her household are clothed with scarlet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "She maketh herself coverings of tapestry;",
+          "Her clothing is silk and purple."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Her husband is known in the gates,",
+          "When he sitteth among the elders of the land."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "She maketh fine linen, and selleth it;",
+          "And delivereth girdles unto the merchant."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Strength and honour are her clothing;",
+          "And she shall rejoice in time to come."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "She openeth her mouth with wisdom;",
+          "And in her tongue is the law of kindness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "She looketh well to the ways of her household,",
+          "And eateth not the bread of idleness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Her children arise up, and call her blessed;",
+          "Her husband also, and he praiseth her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Many daughters have done virtuously,",
+          "But thou excellest them all."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Favour is deceitful, and beauty is vain:",
+          "But a woman that feareth the LORD, she shall be praised."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "Give her of the fruit of her hands;",
+          "And let her own works praise her in the gates."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,366 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.13","is_chapter":true,"previous":{"usfm":"JOB.12","human":"Job 12","canonical":true,"toc":true},"current":{"usfm":"JOB.13","human":"Job 13"},"next":{"usfm":"JOB.14","human":"Job 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Defensa de Job"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["He aquí todo esto han visto mis ojos,","lo ha escuchado y entendido mi oído."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lo que vosotros sabéis yo también lo sé;","no soy menos que vosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¶Pero quiero hablar al Todopoderoso,","y deseo argumentar con Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mas vosotros sois forjadores de mentiras;","todos vosotros sois médicos inútiles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Quién diera que guardarais completo silencio","y se convirtiera esto en vuestra sabiduría!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oíd, os ruego, mi razonamiento,","y prestad atención a los argumentos de mis labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¿Hablaréis por Dios lo que es injusto","y diréis por Él lo que es engañoso?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¿Mostraréis por Él parcialidad?","¿Contenderéis por Dios?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¿Os irá bien cuando Él os escudriñe,","o le engañaréis como se engaña a un hombre?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ciertamente Él os reprenderá","si en secreto mostráis parcialidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿No os llenará de temor su majestad,","y no caerá sobre vosotros su terror?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Vuestras máximas son proverbios de ceniza,","vuestras defensas son defensas de barro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶Callad delante de mí para que pueda hablar yo;","y venga sobre mí lo que venga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¿Por qué me he de quitar la carne con mis dientes,","y poner mi vida en mis manos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Aunque Él me mate,","en Él esperaré;","pero defenderé mis caminos delante de Él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Esta también será mi salvación,","porque un impío no comparecería en su presencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Escuchad atentamente mis palabras,","y que mi declaración llene vuestros oídos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["He aquí ahora, yo he preparado mi causa;","sé que seré justificado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["¿Quién contenderá conmigo?,","porque entonces me callaría y moriría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¶Solo dos cosas deseo que hagas conmigo,","y no me esconderé de tu rostro:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Que retires de mí tu mano,","y que tu terror no me espante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Entonces llámame, y yo responderé;","o déjame hablar, y respóndeme tú."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["¿Cuántas son mis iniquidades y pecados?","Hazme conocer mi rebelión y mi pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["¿Por qué escondes tu rostro","y me consideras tu enemigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["¿Harás que tiemble una hoja llevada por el viento,","o perseguirás a la paja seca?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Pues escribes contra mí cosas amargas,","y me haces responsable de las iniquidades de mi juventud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Pones mis pies en el cepo,","y vigilas todas mis sendas;","pones límite a las plantas de mis pies,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["mientras me deshago como cosa podrida,","como vestido comido de polilla."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.14.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.12",
+      "human": "Job 12"
+    },
+    "current": {
+      "usfm": "JOB.13",
+      "human": "Job 13"
+    },
+    "next": {
+      "usfm": "JOB.14",
+      "human": "Job 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Defensa de Job"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "He aquí todo esto han visto mis ojos,",
+          "lo ha escuchado y entendido mi oído."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lo que vosotros sabéis yo también lo sé;",
+          "no soy menos que vosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¶Pero quiero hablar al Todopoderoso,",
+          "y deseo argumentar con Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mas vosotros sois forjadores de mentiras;",
+          "todos vosotros sois médicos inútiles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Quién diera que guardarais completo silencio",
+          "y se convirtiera esto en vuestra sabiduría!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oíd, os ruego, mi razonamiento,",
+          "y prestad atención a los argumentos de mis labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¿Hablaréis por Dios lo que es injusto",
+          "y diréis por Él lo que es engañoso?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¿Mostraréis por Él parcialidad?",
+          "¿Contenderéis por Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¿Os irá bien cuando Él os escudriñe,",
+          "o le engañaréis como se engaña a un hombre?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ciertamente Él os reprenderá",
+          "si en secreto mostráis parcialidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿No os llenará de temor su majestad,",
+          "y no caerá sobre vosotros su terror?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Vuestras máximas son proverbios de ceniza,",
+          "vuestras defensas son defensas de barro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶Callad delante de mí para que pueda hablar yo;",
+          "y venga sobre mí lo que venga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¿Por qué me he de quitar la carne con mis dientes,",
+          "y poner mi vida en mis manos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Aunque Él me mate,",
+          "en Él esperaré;",
+          "pero defenderé mis caminos delante de Él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Esta también será mi salvación,",
+          "porque un impío no comparecería en su presencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Escuchad atentamente mis palabras,",
+          "y que mi declaración llene vuestros oídos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "He aquí ahora, yo he preparado mi causa;",
+          "sé que seré justificado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "¿Quién contenderá conmigo?,",
+          "porque entonces me callaría y moriría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¶Solo dos cosas deseo que hagas conmigo,",
+          "y no me esconderé de tu rostro:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Que retires de mí tu mano,",
+          "y que tu terror no me espante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Entonces llámame, y yo responderé;",
+          "o déjame hablar, y respóndeme tú."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "¿Cuántas son mis iniquidades y pecados?",
+          "Hazme conocer mi rebelión y mi pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "¿Por qué escondes tu rostro",
+          "y me consideras tu enemigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "¿Harás que tiemble una hoja llevada por el viento,",
+          "o perseguirás a la paja seca?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Pues escribes contra mí cosas amargas,",
+          "y me haces responsable de las iniquidades de mi juventud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Pones mis pies en el cepo,",
+          "y vigilas todas mis sendas;",
+          "pones límite a las plantas de mis pies,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "mientras me deshago como cosa podrida,",
+          "como vestido comido de polilla."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

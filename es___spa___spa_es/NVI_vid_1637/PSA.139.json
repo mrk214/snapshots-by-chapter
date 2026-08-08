@@ -1,1 +1,330 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.139","is_chapter":true,"previous":{"usfm":"PSA.138","human":"Salmo 138","canonical":true,"toc":true},"current":{"usfm":"PSA.139","human":"Salmo 139"},"next":{"usfm":"PSA.140","human":"Salmo 140","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Señor, tú me examinas,","tú me conoces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sabes cuándo me siento y cuándo me levanto;","aun en la distancia me lees el pensamiento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mis trajines y descansos los conoces;","todos mis caminos te son familiares."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No me llega aún la palabra a la lengua","cuando tú, Señor, ya la conoces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tu protección me envuelve por completo;","me cubres con la palma de tu mano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Conocimiento tan maravilloso rebasa mi comprensión;","tan sublime es que no puedo entenderlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¿A dónde podría alejarme de tu Espíritu?","¿A dónde podría huir de tu presencia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Si subiera al cielo,","allí estás tú;","si tendiera mi lecho en el fondo del abismo,","también estás allí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si me elevara sobre las alas del alba,","o me estableciera en los extremos del mar,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["aun allí tu mano me guiaría,","¡me sostendría tu mano derecha!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Y, si dijera: «Que me oculten las tinieblas;","que la luz se haga noche en torno a mí»,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["ni las tinieblas serían oscuras para ti,","y aun la noche sería clara como el día.","¡Lo mismo son para ti las tinieblas que la luz!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Tú creaste mis entrañas;","me formaste en el vientre de mi madre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡Te alabo porque soy una creación admirable!","¡Tus obras son maravillosas,","y esto lo sé muy bien!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Mis huesos no te fueron desconocidos","cuando en lo más recóndito era yo formado,","cuando en lo más profundo de la tierra","era yo entretejido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Tus ojos vieron mi cuerpo en gestación:","todo estaba ya escrito en tu libro;","todos mis días se estaban diseñando,","aunque no existía uno solo de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["¡Cuán preciosos, oh Dios, me son tus pensamientos!","¡Cuán inmensa es la suma de ellos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si me propusiera contarlos,","sumarían más que los granos de arena.","Y, si terminara de hacerlo,","aún estaría a tu lado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Oh Dios, ¡si les quitaras la vida a los impíos!","¡Si de mí se apartara la gente sanguinaria,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["esos que con malicia te difaman","y que en vano se rebelan contra ti!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["¿Acaso no aborrezco, Señor, a los que te odian,","y abomino a los que te rechazan?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["El odio que les tengo es un odio implacable;","¡los cuento entre mis enemigos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Examíname, oh Dios, y sondea mi corazón;","ponme a prueba y sondea mis pensamientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Fíjate en si voy por mal camino,","y guíame por el camino eterno."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.138.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.140.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.139",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.138",
+      "human": "Salmo 138"
+    },
+    "current": {
+      "usfm": "PSA.139",
+      "human": "Salmo 139"
+    },
+    "next": {
+      "usfm": "PSA.140",
+      "human": "Salmo 140"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Señor, tú me examinas,",
+          "tú me conoces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sabes cuándo me siento y cuándo me levanto;",
+          "aun en la distancia me lees el pensamiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mis trajines y descansos los conoces;",
+          "todos mis caminos te son familiares."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No me llega aún la palabra a la lengua",
+          "cuando tú, Señor, ya la conoces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tu protección me envuelve por completo;",
+          "me cubres con la palma de tu mano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Conocimiento tan maravilloso rebasa mi comprensión;",
+          "tan sublime es que no puedo entenderlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¿A dónde podría alejarme de tu Espíritu?",
+          "¿A dónde podría huir de tu presencia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Si subiera al cielo,",
+          "allí estás tú;",
+          "si tendiera mi lecho en el fondo del abismo,",
+          "también estás allí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si me elevara sobre las alas del alba,",
+          "o me estableciera en los extremos del mar,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "aun allí tu mano me guiaría,",
+          "¡me sostendría tu mano derecha!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Y, si dijera: «Que me oculten las tinieblas;",
+          "que la luz se haga noche en torno a mí»,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "ni las tinieblas serían oscuras para ti,",
+          "y aun la noche sería clara como el día.",
+          "¡Lo mismo son para ti las tinieblas que la luz!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Tú creaste mis entrañas;",
+          "me formaste en el vientre de mi madre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡Te alabo porque soy una creación admirable!",
+          "¡Tus obras son maravillosas,",
+          "y esto lo sé muy bien!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Mis huesos no te fueron desconocidos",
+          "cuando en lo más recóndito era yo formado,",
+          "cuando en lo más profundo de la tierra",
+          "era yo entretejido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Tus ojos vieron mi cuerpo en gestación:",
+          "todo estaba ya escrito en tu libro;",
+          "todos mis días se estaban diseñando,",
+          "aunque no existía uno solo de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "¡Cuán preciosos, oh Dios, me son tus pensamientos!",
+          "¡Cuán inmensa es la suma de ellos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si me propusiera contarlos,",
+          "sumarían más que los granos de arena.",
+          "Y, si terminara de hacerlo,",
+          "aún estaría a tu lado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Oh Dios, ¡si les quitaras la vida a los impíos!",
+          "¡Si de mí se apartara la gente sanguinaria,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "esos que con malicia te difaman",
+          "y que en vano se rebelan contra ti!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "¿Acaso no aborrezco, Señor, a los que te odian,",
+          "y abomino a los que te rechazan?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "El odio que les tengo es un odio implacable;",
+          "¡los cuento entre mis enemigos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Examíname, oh Dios, y sondea mi corazón;",
+          "ponme a prueba y sondea mis pensamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Fíjate en si voy por mal camino,",
+          "y guíame por el camino eterno."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

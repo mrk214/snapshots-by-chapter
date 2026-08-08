@@ -1,1 +1,392 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.30","is_chapter":true,"previous":{"usfm":"JOB.29","human":"Job 29","canonical":true,"toc":true},"current":{"usfm":"JOB.30","human":"Job 30"},"next":{"usfm":"JOB.31","human":"Job 31","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["But now they that are younger than I have me in derision,","Whose fathers I would have disdained to have set with the dogs of my flock."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yea, whereto might the strength of their hands profit me,","In whom old age was perished?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For want and famine they were solitary;","Fleeing into the wilderness in former time desolate and waste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Who cut up mallows by the bushes,","And juniper roots for their meat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They were driven forth from among men,","(They cried after them as after a thief;)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["To dwell in the cliffs of the valleys,","in caves of the earth, and in the rocks."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Among the bushes they brayed;","Under the nettles they were gathered together."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They were children of fools, yea, children of base men:","They were viler than the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["And now am I their song,","Yea, I am their byword."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They abhor me, they flee far from me,","And spare not to spit in my face."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Because he hath loosed my cord, and afflicted me,","They have also let loose the bridle before me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Upon my right hand rise the youth;","They push away my feet,","And they raise up against me the ways of their destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["They mar my path,","They set forward my calamity,","They have no helper."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["They came upon me as a wide breaking in of waters:","In the desolation they rolled themselves upon me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Terrors are turned upon me:","They pursue my soul as the wind:","And my welfare passeth away as a cloud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["And now my soul is poured out upon me;","The days of affliction have taken hold upon me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["My bones are pierced in me in the night season:","And my sinews take no rest."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["By the great force of my disease is my garment changed:","It bindeth me about as the collar of my coat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["He hath cast me into the mire,","And I am become like dust and ashes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["I cry unto thee, and thou dost not hear me:","I stand up, and thou regardest me not."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Thou art become cruel to me:","With thy strong hand thou opposest thyself against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Thou liftest me up to the wind; thou causest me to ride upon it,","And dissolvest my substance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["For I know that thou wilt bring me to death,","And to the house appointed for all living."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Howbeit he will not stretch out his hand to the grave,","Though they cry in his destruction."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Did not I weep for him that was in trouble?","Was not my soul grieved for the poor?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["When I looked for good, then evil came unto me:","And when I waited for light, there came darkness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["My bowels boiled, and rested not:","The days of affliction prevented me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["I went mourning without the sun:","I stood up, and I cried in the congregation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["I am a brother to dragons,","And a companion to owls."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["My skin is black upon me,","And my bones are burned with heat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["My harp also is turned to mourning,","And my organ into the voice of them that weep."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.31.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.29",
+      "human": "Job 29"
+    },
+    "current": {
+      "usfm": "JOB.30",
+      "human": "Job 30"
+    },
+    "next": {
+      "usfm": "JOB.31",
+      "human": "Job 31"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "But now they that are younger than I have me in derision,",
+          "Whose fathers I would have disdained to have set with the dogs of my flock."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yea, whereto might the strength of their hands profit me,",
+          "In whom old age was perished?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For want and famine they were solitary;",
+          "Fleeing into the wilderness in former time desolate and waste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Who cut up mallows by the bushes,",
+          "And juniper roots for their meat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They were driven forth from among men,",
+          "(They cried after them as after a thief;)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "To dwell in the cliffs of the valleys,",
+          "in caves of the earth, and in the rocks."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Among the bushes they brayed;",
+          "Under the nettles they were gathered together."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They were children of fools, yea, children of base men:",
+          "They were viler than the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "And now am I their song,",
+          "Yea, I am their byword."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They abhor me, they flee far from me,",
+          "And spare not to spit in my face."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Because he hath loosed my cord, and afflicted me,",
+          "They have also let loose the bridle before me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Upon my right hand rise the youth;",
+          "They push away my feet,",
+          "And they raise up against me the ways of their destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "They mar my path,",
+          "They set forward my calamity,",
+          "They have no helper."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "They came upon me as a wide breaking in of waters:",
+          "In the desolation they rolled themselves upon me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Terrors are turned upon me:",
+          "They pursue my soul as the wind:",
+          "And my welfare passeth away as a cloud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "And now my soul is poured out upon me;",
+          "The days of affliction have taken hold upon me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "My bones are pierced in me in the night season:",
+          "And my sinews take no rest."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "By the great force of my disease is my garment changed:",
+          "It bindeth me about as the collar of my coat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "He hath cast me into the mire,",
+          "And I am become like dust and ashes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "I cry unto thee, and thou dost not hear me:",
+          "I stand up, and thou regardest me not."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Thou art become cruel to me:",
+          "With thy strong hand thou opposest thyself against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Thou liftest me up to the wind; thou causest me to ride upon it,",
+          "And dissolvest my substance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "For I know that thou wilt bring me to death,",
+          "And to the house appointed for all living."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Howbeit he will not stretch out his hand to the grave,",
+          "Though they cry in his destruction."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Did not I weep for him that was in trouble?",
+          "Was not my soul grieved for the poor?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "When I looked for good, then evil came unto me:",
+          "And when I waited for light, there came darkness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "My bowels boiled, and rested not:",
+          "The days of affliction prevented me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "I went mourning without the sun:",
+          "I stood up, and I cried in the congregation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "I am a brother to dragons,",
+          "And a companion to owls."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "My skin is black upon me,",
+          "And my bones are burned with heat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "My harp also is turned to mourning,",
+          "And my organ into the voice of them that weep."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

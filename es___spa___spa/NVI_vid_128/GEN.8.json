@@ -1,1 +1,272 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.8","is_chapter":true,"previous":{"usfm":"GEN.7","human":"Génesis 7","canonical":true,"toc":true},"current":{"usfm":"GEN.8","human":"Génesis 8"},"next":{"usfm":"GEN.9","human":"Génesis 9","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Dios se acordó entonces de Noé y de todos los animales salvajes y domésticos que estaban con él en el arca. Hizo que soplara un fuerte viento sobre la tierra y las aguas comenzaron a bajar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Se cerraron las fuentes del mar profundo y las compuertas del cielo, y dejó de llover."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Poco a poco las aguas se fueron retirando de la tierra. Al cabo de ciento cincuenta días las aguas habían disminuido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El día diecisiete del mes séptimo el arca se detuvo sobre las montañas de Ararat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Las aguas siguieron bajando hasta que el primer día del mes décimo pudieron verse las cimas de las montañas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Después de cuarenta días, Noé abrió la ventana del arca que había hecho"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["y soltó un cuervo, el cual estuvo volando de un lado a otro a la espera de que se secara la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Luego soltó una paloma para ver si las aguas que cubrían la tierra ya se habían retirado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pero la paloma no encontró un lugar donde posarse y volvió al arca porque las aguas aún cubrían la tierra. Noé extendió la mano, tomó la paloma y la metió consigo en el arca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Esperó siete días más y volvió a soltar la paloma fuera del arca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Caía la noche cuando la paloma regresó trayendo en su pico una hoja de olivo recién cortada. Así Noé se dio cuenta de que las aguas habían bajado hasta dejar la tierra al descubierto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Esperó siete días más y volvió a soltar la paloma, pero esta vez la paloma ya no regresó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Noé tenía seiscientos un años cuando las aguas se secaron. El primer día del primer mes de ese año, Noé quitó la cubierta del arca y vio que la tierra estaba seca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Para el día veintisiete del segundo mes, la tierra estaba ya completamente seca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Entonces Dios dijo a Noé:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["«¡Sal del arca junto con tus hijos, tu esposa y tus nueras!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Saca también a todos los seres vivientes que están contigo: las aves, el ganado y todos los animales que se arrastran por el suelo. Que sean fecundos y que se multipliquen y llenen la tierra»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Salieron, pues, del arca Noé y sus hijos, su esposa y sus nueras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["También salieron todos los animales, las criaturas que se mueven en la tierra y las aves. Todos los seres vivientes que se mueven sobre la tierra, cada uno según su especie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Luego Noé construyó un altar al Señor, y sobre ese altar ofreció como holocausto animales y aves puros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Cuando el Señor percibió el grato aroma, se dijo a sí mismo: «Aunque la inclinación del corazón del ser humano es perversa desde su juventud, nunca más volveré a maldecir la tierra por culpa suya. Tampoco volveré a destruir a todos los seres vivientes, como acabo de hacerlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["»Mientras la tierra exista,","habrá siembra y cosecha,","frío y calor,","verano e invierno,","días y noches»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/GEN.9.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.7",
+      "human": "Génesis 7"
+    },
+    "current": {
+      "usfm": "GEN.8",
+      "human": "Génesis 8"
+    },
+    "next": {
+      "usfm": "GEN.9",
+      "human": "Génesis 9"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios se acordó entonces de Noé y de todos los animales salvajes y domésticos que estaban con él en el arca. Hizo que soplara un fuerte viento sobre la tierra y las aguas comenzaron a bajar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Se cerraron las fuentes del mar profundo y las compuertas del cielo, y dejó de llover."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Poco a poco las aguas se fueron retirando de la tierra. Al cabo de ciento cincuenta días las aguas habían disminuido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El día diecisiete del mes séptimo el arca se detuvo sobre las montañas de Ararat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Las aguas siguieron bajando hasta que el primer día del mes décimo pudieron verse las cimas de las montañas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Después de cuarenta días, Noé abrió la ventana del arca que había hecho"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "y soltó un cuervo, el cual estuvo volando de un lado a otro a la espera de que se secara la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Luego soltó una paloma para ver si las aguas que cubrían la tierra ya se habían retirado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pero la paloma no encontró un lugar donde posarse y volvió al arca porque las aguas aún cubrían la tierra. Noé extendió la mano, tomó la paloma y la metió consigo en el arca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Esperó siete días más y volvió a soltar la paloma fuera del arca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Caía la noche cuando la paloma regresó trayendo en su pico una hoja de olivo recién cortada. Así Noé se dio cuenta de que las aguas habían bajado hasta dejar la tierra al descubierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Esperó siete días más y volvió a soltar la paloma, pero esta vez la paloma ya no regresó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Noé tenía seiscientos un años cuando las aguas se secaron. El primer día del primer mes de ese año, Noé quitó la cubierta del arca y vio que la tierra estaba seca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Para el día veintisiete del segundo mes, la tierra estaba ya completamente seca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Entonces Dios dijo a Noé:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "«¡Sal del arca junto con tus hijos, tu esposa y tus nueras!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Saca también a todos los seres vivientes que están contigo: las aves, el ganado y todos los animales que se arrastran por el suelo. Que sean fecundos y que se multipliquen y llenen la tierra»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Salieron, pues, del arca Noé y sus hijos, su esposa y sus nueras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "También salieron todos los animales, las criaturas que se mueven en la tierra y las aves. Todos los seres vivientes que se mueven sobre la tierra, cada uno según su especie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Luego Noé construyó un altar al Señor, y sobre ese altar ofreció como holocausto animales y aves puros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Cuando el Señor percibió el grato aroma, se dijo a sí mismo: «Aunque la inclinación del corazón del ser humano es perversa desde su juventud, nunca más volveré a maldecir la tierra por culpa suya. Tampoco volveré a destruir a todos los seres vivientes, como acabo de hacerlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "»Mientras la tierra exista,",
+          "habrá siembra y cosecha,",
+          "frío y calor,",
+          "verano e invierno,",
+          "días y noches»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

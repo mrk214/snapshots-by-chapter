@@ -1,1 +1,124 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Salmos 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Salmos 126"},"next":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Louvor pelo retorno do cativeiro"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Quando o Senhor trouxe os cativos de volta a Sião, ficamos como quem sonha!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Então nossa boca se encheu de riso, e nossa língua, de cânticos de alegria. E se dizia entre as nações: O Senhor fez grandes coisas por eles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sim, o Senhor fez grandes coisas por nós, e por isso estamos alegres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Senhor, restaura nossos cativos, assim como renovas as correntes no Neguebe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Os que semeiam em lágrimas colherão com cânticos de júbilo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Aquele que sai chorando a plantar a semente voltará com cânticos de júbilo, trazendo consigo seus feixes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Salmos 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Louvor pelo retorno do cativeiro"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Quando o Senhor trouxe os cativos de volta a Sião, ficamos como quem sonha!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Então nossa boca se encheu de riso, e nossa língua, de cânticos de alegria. E se dizia entre as nações: O Senhor fez grandes coisas por eles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sim, o Senhor fez grandes coisas por nós, e por isso estamos alegres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Senhor, restaura nossos cativos, assim como renovas as correntes no Neguebe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Os que semeiam em lágrimas colherão com cânticos de júbilo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Aquele que sai chorando a plantar a semente voltará com cânticos de júbilo, trazendo consigo seus feixes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

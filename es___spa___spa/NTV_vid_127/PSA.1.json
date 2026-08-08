@@ -1,1 +1,126 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.1","is_chapter":true,"previous":{"usfm":"JOB.42","human":"Job 42","canonical":true,"toc":true},"current":{"usfm":"PSA.1","human":"Salmos 1"},"next":{"usfm":"PSA.2","human":"Salmos 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Libro Primero (Salmos 1–41)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Qué alegría para los que","no siguen el consejo de malos,","ni andan con pecadores,","ni se juntan con burlones,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["sino que se deleitan en la ley del Señor","meditando en ella día y noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Son como árboles plantados a la orilla de un río,","que siempre dan fruto en su tiempo.","Sus hojas nunca se marchitan,","y prosperan en todo lo que hacen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡No sucede lo mismo con los malos!","Son como paja inútil que esparce el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Serán condenados cuando llegue el juicio;","los pecadores no tendrán lugar entre los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Pues el Señor cuida el sendero de los justos,","pero la senda de los malos lleva a la destrucción."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.2.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Job 42"
+    },
+    "current": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "next": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Libro Primero (Salmos 1–41)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Qué alegría para los que",
+          "no siguen el consejo de malos,",
+          "ni andan con pecadores,",
+          "ni se juntan con burlones,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "sino que se deleitan en la ley del Señor",
+          "meditando en ella día y noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Son como árboles plantados a la orilla de un río,",
+          "que siempre dan fruto en su tiempo.",
+          "Sus hojas nunca se marchitan,",
+          "y prosperan en todo lo que hacen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡No sucede lo mismo con los malos!",
+          "Son como paja inútil que esparce el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Serán condenados cuando llegue el juicio;",
+          "los pecadores no tendrán lugar entre los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Pues el Señor cuida el sendero de los justos,",
+          "pero la senda de los malos lleva a la destrucción."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

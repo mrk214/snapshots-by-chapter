@@ -1,1 +1,250 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.115","is_chapter":true,"previous":{"usfm":"PSA.114","human":"Psalms 114","canonical":true,"toc":true},"current":{"usfm":"PSA.115","human":"Psalms 115"},"next":{"usfm":"PSA.116","human":"Psalms 116","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Not to us, Lord, not to us","but to your name be the glory,","because of your love and faithfulness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Why do the nations say,","“Where is their God?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Our God is in heaven;","he does whatever pleases him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But their idols are silver and gold,","made by human hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They have mouths, but cannot speak,","eyes, but cannot see."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["They have ears, but cannot hear,","noses, but cannot smell."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["They have hands, but cannot feel,","feet, but cannot walk,","nor can they utter a sound with their throats."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Those who make them will be like them,","and so will all who trust in them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["All you Israelites, trust in the Lord—","he is their help and shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["House of Aaron, trust in the Lord—","he is their help and shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["You who fear him, trust in the Lord—","he is their help and shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The Lord remembers us and will bless us:","He will bless his people Israel,","he will bless the house of Aaron,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["he will bless those who fear the Lord—","small and great alike."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["May the Lord cause you to flourish,","both you and your children."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["May you be blessed by the Lord,","the Maker of heaven and earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The highest heavens belong to the Lord,","but the earth he has given to mankind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["It is not the dead who praise the Lord,","those who go down to the place of silence;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["it is we who extol the Lord,","both now and forevermore.","Praise the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.114.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.116.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.115",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.114",
+      "human": "Psalms 114"
+    },
+    "current": {
+      "usfm": "PSA.115",
+      "human": "Psalms 115"
+    },
+    "next": {
+      "usfm": "PSA.116",
+      "human": "Psalms 116"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Not to us, Lord, not to us",
+          "but to your name be the glory,",
+          "because of your love and faithfulness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Why do the nations say,",
+          "“Where is their God?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Our God is in heaven;",
+          "he does whatever pleases him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But their idols are silver and gold,",
+          "made by human hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They have mouths, but cannot speak,",
+          "eyes, but cannot see."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "They have ears, but cannot hear,",
+          "noses, but cannot smell."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "They have hands, but cannot feel,",
+          "feet, but cannot walk,",
+          "nor can they utter a sound with their throats."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Those who make them will be like them,",
+          "and so will all who trust in them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "All you Israelites, trust in the Lord—",
+          "he is their help and shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "House of Aaron, trust in the Lord—",
+          "he is their help and shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "You who fear him, trust in the Lord—",
+          "he is their help and shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The Lord remembers us and will bless us:",
+          "He will bless his people Israel,",
+          "he will bless the house of Aaron,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "he will bless those who fear the Lord—",
+          "small and great alike."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "May the Lord cause you to flourish,",
+          "both you and your children."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "May you be blessed by the Lord,",
+          "the Maker of heaven and earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The highest heavens belong to the Lord,",
+          "but the earth he has given to mankind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "It is not the dead who praise the Lord,",
+          "those who go down to the place of silence;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "it is we who extol the Lord,",
+          "both now and forevermore.",
+          "Praise the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

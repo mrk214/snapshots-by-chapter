@@ -1,1 +1,278 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"2TI","name":"2 Timothy"},"chapter":{"chapter_usfm":"2TI.4","is_chapter":true,"previous":{"usfm":"2TI.3","human":"2 Timothy 3","canonical":true,"toc":true},"current":{"usfm":"2TI.4","human":"2 Timothy 4"},"next":{"usfm":"TIT.1","human":"Titus 1","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["A Farewell Charge"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["and they shall turn away their ears from the truth, and shall be turned unto fables."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["For I am now ready to be offered, and the time of my departure is at hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I have fought a good fight, I have finished my course, I have kept the faith:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Do thy diligence to come shortly unto me:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["for Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And Tychicus have I sent to Ephesus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Alexander the coppersmith did me much evil: the Lord reward him according to his works:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["of whom be thou ware also; for he hath greatly withstood our words."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Salute Prisca and Aquila, and the household of Onesiphorus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Erastus abode at Corinth: but Trophimus have I left at Miletum sick."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Do thy diligence to come before winter.","Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.","The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2TI.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/TIT.1.json"
+  },
+  "book": {
+    "book_usfm": "2TI",
+    "name": "2 Timothy"
+  },
+  "chapter": {
+    "chapter_usfm": "2TI.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2TI.3",
+      "human": "2 Timothy 3"
+    },
+    "current": {
+      "usfm": "2TI.4",
+      "human": "2 Timothy 4"
+    },
+    "next": {
+      "usfm": "TIT.1",
+      "human": "Titus 1"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "A Farewell Charge"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I charge thee therefore before God, and the Lord Jesus Christ, who shall judge the quick and the dead at his appearing and his kingdom;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "preach the word; be instant in season, out of season; reprove, rebuke, exhort with all longsuffering and doctrine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For the time will come when they will not endure sound doctrine; but after their own lusts shall they heap to themselves teachers, having itching ears;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "and they shall turn away their ears from the truth, and shall be turned unto fables."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But watch thou in all things, endure afflictions, do the work of an evangelist, make full proof of thy ministry."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "For I am now ready to be offered, and the time of my departure is at hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I have fought a good fight, I have finished my course, I have kept the faith:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "henceforth there is laid up for me a crown of righteousness, which the Lord, the righteous judge, shall give me at that day: and not to me only, but unto all them also that love his appearing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Do thy diligence to come shortly unto me:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "for Demas hath forsaken me, having loved this present world, and is departed unto Thessalonica; Crescens to Galatia, Titus unto Dalmatia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Only Luke is with me. Take Mark, and bring him with thee: for he is profitable to me for the ministry."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And Tychicus have I sent to Ephesus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The cloke that I left at Troas with Carpus, when thou comest, bring with thee, and the books, but especially the parchments."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Alexander the coppersmith did me much evil: the Lord reward him according to his works:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "of whom be thou ware also; for he hath greatly withstood our words."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "At my first answer no man stood with me, but all men forsook me: I pray God that it may not be laid to their charge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Notwithstanding the Lord stood with me, and strengthened me; that by me the preaching might be fully known, and that all the Gentiles might hear: and I was delivered out of the mouth of the lion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "And the Lord shall deliver me from every evil work, and will preserve me unto his heavenly kingdom: to whom be glory for ever and ever. Amen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Salute Prisca and Aquila, and the household of Onesiphorus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Erastus abode at Corinth: but Trophimus have I left at Miletum sick."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Do thy diligence to come before winter.",
+          "Eubulus greeteth thee, and Pudens, and Linus, and Claudia, and all the brethren."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "The Lord Jesus Christ be with thy spirit. Grace be with you. Amen.",
+          "The second epistle unto Timotheus, ordained the first bishop of the church of the Ephesians, was written from Rome, when Paul was brought before Nero the second time."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

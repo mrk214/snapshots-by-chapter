@@ -1,1 +1,189 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.36","is_chapter":true,"previous":{"usfm":"PSA.35","human":"Psalm 35","canonical":true,"toc":true},"current":{"usfm":"PSA.36","human":"Psalm 36"},"next":{"usfm":"PSA.37","human":"Psalm 37","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician, A Psalm of David the servant of the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The transgression of the wicked saith within my heart,","That there is no fear of God before his eyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For he flattereth himself in his own eyes, until his iniquity be found to be hateful."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The words of his mouth are iniquity and deceit:","He hath left off to be wise, and to do good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He deviseth mischief upon his bed;","He setteth himself in a way that is not good;","He abhorreth not evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Thy mercy, O LORD, is in the heavens;","And thy faithfulness reacheth unto the clouds."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Thy righteousness is like the great mountains;","Thy judgments are a great deep:","O LORD, thou preservest man and beast."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["How excellent is thy lovingkindness, O God!","Therefore the children of men put their trust under the shadow of thy wings."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They shall be abundantly satisfied with the fatness of thy house;","And thou shalt make them drink of the river of thy pleasures."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For with thee is the fountain of life:","In thy light shall we see light."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O continue thy lovingkindness unto them that know thee;","And thy righteousness to the upright in heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Let not the foot of pride come against me,","And let not the hand of the wicked remove me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["There are the workers of iniquity fallen:","They are cast down, and shall not be able to rise."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.35.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.37.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.36",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.35",
+      "human": "Psalm 35"
+    },
+    "current": {
+      "usfm": "PSA.36",
+      "human": "Psalm 36"
+    },
+    "next": {
+      "usfm": "PSA.37",
+      "human": "Psalm 37"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician, A Psalm of David the servant of the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The transgression of the wicked saith within my heart,",
+          "That there is no fear of God before his eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For he flattereth himself in his own eyes, until his iniquity be found to be hateful."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The words of his mouth are iniquity and deceit:",
+          "He hath left off to be wise, and to do good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He deviseth mischief upon his bed;",
+          "He setteth himself in a way that is not good;",
+          "He abhorreth not evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Thy mercy, O LORD, is in the heavens;",
+          "And thy faithfulness reacheth unto the clouds."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Thy righteousness is like the great mountains;",
+          "Thy judgments are a great deep:",
+          "O LORD, thou preservest man and beast."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "How excellent is thy lovingkindness, O God!",
+          "Therefore the children of men put their trust under the shadow of thy wings."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They shall be abundantly satisfied with the fatness of thy house;",
+          "And thou shalt make them drink of the river of thy pleasures."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For with thee is the fountain of life:",
+          "In thy light shall we see light."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O continue thy lovingkindness unto them that know thee;",
+          "And thy righteousness to the upright in heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Let not the foot of pride come against me,",
+          "And let not the hand of the wicked remove me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "There are the workers of iniquity fallen:",
+          "They are cast down, and shall not be able to rise."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

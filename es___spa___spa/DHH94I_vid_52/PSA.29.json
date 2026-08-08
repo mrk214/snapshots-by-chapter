@@ -1,1 +1,186 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.29","is_chapter":true,"previous":{"usfm":"PSA.28","human":"Salmos 28","canonical":true,"toc":true},"current":{"usfm":"PSA.29","human":"Salmos 29"},"next":{"usfm":"PSA.30","human":"Salmos 30","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La poderosa voz del Señor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["1a (1a) Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Alaben al Señor, seres celestiales:","alaben el poder y la gloria del Señor,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["alaben el glorioso nombre del Señor,","adoren al Señor en su hermoso santuario.,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["La voz del Señor resuena sobre el mar;","el Dios glorioso hace tronar:","¡el Señor está sobre el mar inmenso!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["La voz del Señor resuena con fuerza;","la voz del Señor resuena imponente;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["la voz del Señor desgaja los cedros.","¡El Señor desgaja los cedros del Líbano!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Hace temblar los montes Líbano y Sirión;","¡los hace saltar como toros y becerros!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La voz del Señor lanza llamas de fuego;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["la voz del Señor hace temblar al desierto;","¡el Señor hace temblar al desierto de Cadés!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La voz del Señor sacude las encinas","y deja sin árboles los bosques.","En su templo, todos le rinden honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El Señor gobierna las lluvias;","¡el Señor gobierna cual rey eterno!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El Señor da fuerza a su pueblo;","el Señor bendice a su pueblo con paz."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.28.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.30.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.29",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.28",
+      "human": "Salmos 28"
+    },
+    "current": {
+      "usfm": "PSA.29",
+      "human": "Salmos 29"
+    },
+    "next": {
+      "usfm": "PSA.30",
+      "human": "Salmos 30"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La poderosa voz del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "1a (1a) Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Alaben al Señor, seres celestiales:",
+          "alaben el poder y la gloria del Señor,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "alaben el glorioso nombre del Señor,",
+          "adoren al Señor en su hermoso santuario.,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "La voz del Señor resuena sobre el mar;",
+          "el Dios glorioso hace tronar:",
+          "¡el Señor está sobre el mar inmenso!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "La voz del Señor resuena con fuerza;",
+          "la voz del Señor resuena imponente;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "la voz del Señor desgaja los cedros.",
+          "¡El Señor desgaja los cedros del Líbano!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Hace temblar los montes Líbano y Sirión;",
+          "¡los hace saltar como toros y becerros!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La voz del Señor lanza llamas de fuego;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "la voz del Señor hace temblar al desierto;",
+          "¡el Señor hace temblar al desierto de Cadés!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La voz del Señor sacude las encinas",
+          "y deja sin árboles los bosques.",
+          "En su templo, todos le rinden honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El Señor gobierna las lluvias;",
+          "¡el Señor gobierna cual rey eterno!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El Señor da fuerza a su pueblo;",
+          "el Señor bendice a su pueblo con paz."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

@@ -1,1 +1,242 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.23","is_chapter":true,"previous":{"usfm":"JOB.22","human":"Job 22","canonical":true,"toc":true},"current":{"usfm":"JOB.23","human":"Job 23"},"next":{"usfm":"JOB.24","human":"Job 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then Job replied:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Even today my complaint is bitter;","his hand is heavy in spite of my groaning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["If only I knew where to find him;","if only I could go to his dwelling!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I would state my case before him","and fill my mouth with arguments."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I would find out what he would answer me,","and consider what he would say to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Would he vigorously oppose me?","No, he would not press charges against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["There the upright can establish their innocence before him,","and there I would be delivered forever from my judge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“But if I go to the east, he is not there;","if I go to the west, I do not find him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["When he is at work in the north, I do not see him;","when he turns to the south, I catch no glimpse of him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["But he knows the way that I take;","when he has tested me, I will come forth as gold."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["My feet have closely followed his steps;","I have kept to his way without turning aside."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["I have not departed from the commands of his lips;","I have treasured the words of his mouth more than my daily bread."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“But he stands alone, and who can oppose him?","He does whatever he pleases."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["He carries out his decree against me,","and many such plans he still has in store."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["That is why I am terrified before him;","when I think of all this, I fear him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["God has made my heart faint;","the Almighty has terrified me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Yet I am not silenced by the darkness,","by the thick darkness that covers my face."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.24.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.22",
+      "human": "Job 22"
+    },
+    "current": {
+      "usfm": "JOB.23",
+      "human": "Job 23"
+    },
+    "next": {
+      "usfm": "JOB.24",
+      "human": "Job 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then Job replied:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Even today my complaint is bitter;",
+          "his hand is heavy in spite of my groaning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "If only I knew where to find him;",
+          "if only I could go to his dwelling!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I would state my case before him",
+          "and fill my mouth with arguments."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I would find out what he would answer me,",
+          "and consider what he would say to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Would he vigorously oppose me?",
+          "No, he would not press charges against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "There the upright can establish their innocence before him,",
+          "and there I would be delivered forever from my judge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“But if I go to the east, he is not there;",
+          "if I go to the west, I do not find him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "When he is at work in the north, I do not see him;",
+          "when he turns to the south, I catch no glimpse of him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "But he knows the way that I take;",
+          "when he has tested me, I will come forth as gold."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "My feet have closely followed his steps;",
+          "I have kept to his way without turning aside."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "I have not departed from the commands of his lips;",
+          "I have treasured the words of his mouth more than my daily bread."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“But he stands alone, and who can oppose him?",
+          "He does whatever he pleases."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "He carries out his decree against me,",
+          "and many such plans he still has in store."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "That is why I am terrified before him;",
+          "when I think of all this, I fear him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "God has made my heart faint;",
+          "the Almighty has terrified me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Yet I am not silenced by the darkness,",
+          "by the thick darkness that covers my face."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

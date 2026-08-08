@@ -1,1 +1,204 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.48","is_chapter":true,"previous":{"usfm":"PSA.47","human":"Salmos 47","canonical":true,"toc":true},"current":{"usfm":"PSA.48","human":"Salmos 48"},"next":{"usfm":"PSA.49","human":"Salmos 49","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A beleza e os privilégios de Sião"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico. Salmo para os filhos de Corá"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Grande é o Senhor e mui digno de louvor na cidade do nosso Deus, no seu monte santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Formoso de sítio e alegria de toda a terra é o monte Sião sobre os lados do Norte, a cidade do grande Rei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Deus é conhecido nos seus palácios por um alto refúgio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque eis que os reis se ajuntaram; eles passaram juntos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Viram-no e ficaram maravilhados; ficaram assombrados e se apressaram em fugir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tremor ali os tomou, e dores, como de parturiente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tu quebras as naus de Társis com um vento oriental."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Como o ouvimos, assim o vimos na cidade do Senhor dos Exércitos, na cidade do nosso Deus. Deus a confirmará para sempre. (Selá)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Lembramo-nos, ó Deus, da tua benignidade no meio do teu templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Segundo é o teu nome, ó Deus, assim é o teu louvor, até aos confins da terra; a tua mão direita está cheia de justiça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Alegre-se o monte de Sião; alegrem-se as filhas de Judá por causa dos teus juízos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Rodeai Sião; cercai-a; contai as suas torres;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["notai bem os seus antemuros; observai os seus palácios, para que tudo narreis à geração seguinte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Porque este Deus é o nosso Deus para sempre; ele será nosso guia até à morte."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.47.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.49.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.48",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.47",
+      "human": "Salmos 47"
+    },
+    "current": {
+      "usfm": "PSA.48",
+      "human": "Salmos 48"
+    },
+    "next": {
+      "usfm": "PSA.49",
+      "human": "Salmos 49"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A beleza e os privilégios de Sião"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico. Salmo para os filhos de Corá"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Grande é o Senhor e mui digno de louvor na cidade do nosso Deus, no seu monte santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Formoso de sítio e alegria de toda a terra é o monte Sião sobre os lados do Norte, a cidade do grande Rei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Deus é conhecido nos seus palácios por um alto refúgio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque eis que os reis se ajuntaram; eles passaram juntos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Viram-no e ficaram maravilhados; ficaram assombrados e se apressaram em fugir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tremor ali os tomou, e dores, como de parturiente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tu quebras as naus de Társis com um vento oriental."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Como o ouvimos, assim o vimos na cidade do Senhor dos Exércitos, na cidade do nosso Deus. Deus a confirmará para sempre. (Selá)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Lembramo-nos, ó Deus, da tua benignidade no meio do teu templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Segundo é o teu nome, ó Deus, assim é o teu louvor, até aos confins da terra; a tua mão direita está cheia de justiça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Alegre-se o monte de Sião; alegrem-se as filhas de Judá por causa dos teus juízos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Rodeai Sião; cercai-a; contai as suas torres;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "notai bem os seus antemuros; observai os seus palácios, para que tudo narreis à geração seguinte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Porque este Deus é o nosso Deus para sempre; ele será nosso guia até à morte."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

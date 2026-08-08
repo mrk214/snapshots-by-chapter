@@ -1,1 +1,136 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.23","is_chapter":true,"previous":{"usfm":"PSA.22","human":"Psalms 22","canonical":true,"toc":true},"current":{"usfm":"PSA.23","human":"Psalms 23"},"next":{"usfm":"PSA.24","human":"Psalms 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord the Shepherd of His People"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord is my shepherd;","I shall not want."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He makes me to lie down in green pastures;","He leads me beside the still waters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He restores my soul;","He leads me in the paths of righteousness","For His name’s sake."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Yea, though I walk through the valley of the shadow of death,","I will fear no evil;","For You are with me;","Your rod and Your staff, they comfort me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["You prepare a table before me in the presence of my enemies;","You anoint my head with oil;","My cup runs over."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Surely goodness and mercy shall follow me","All the days of my life;","And I will dwell in the house of the Lord","Forever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.24.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.22",
+      "human": "Psalms 22"
+    },
+    "current": {
+      "usfm": "PSA.23",
+      "human": "Psalms 23"
+    },
+    "next": {
+      "usfm": "PSA.24",
+      "human": "Psalms 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord the Shepherd of His People"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord is my shepherd;",
+          "I shall not want."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He makes me to lie down in green pastures;",
+          "He leads me beside the still waters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He restores my soul;",
+          "He leads me in the paths of righteousness",
+          "For His name’s sake."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Yea, though I walk through the valley of the shadow of death,",
+          "I will fear no evil;",
+          "For You are with me;",
+          "Your rod and Your staff, they comfort me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "You prepare a table before me in the presence of my enemies;",
+          "You anoint my head with oil;",
+          "My cup runs over."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Surely goodness and mercy shall follow me",
+          "All the days of my life;",
+          "And I will dwell in the house of the Lord",
+          "Forever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

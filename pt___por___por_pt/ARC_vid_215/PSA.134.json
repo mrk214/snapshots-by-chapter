@@ -1,1 +1,94 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.134","is_chapter":true,"previous":{"usfm":"PSA.133","human":"Salmos 133","canonical":true,"toc":true},"current":{"usfm":"PSA.134","human":"Salmos 134"},"next":{"usfm":"PSA.135","human":"Salmos 135","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Exortação a bendizer o Senhor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico dos degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["EIS aqui, bendizei ao Senhor, todos vós, servos do Senhor, que assistis na casa do Senhor todas as noites."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Levantai as vossas mãos no santuário, e bendizei ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O Senhor, que fez o céu e a terra, te abençoe desde Sião."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.133.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.135.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.134",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "current": {
+      "usfm": "PSA.134",
+      "human": "Salmos 134"
+    },
+    "next": {
+      "usfm": "PSA.135",
+      "human": "Salmos 135"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Exortação a bendizer o Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico dos degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "EIS aqui, bendizei ao Senhor, todos vós, servos do Senhor, que assistis na casa do Senhor todas as noites."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Levantai as vossas mãos no santuário, e bendizei ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O Senhor, que fez o céu e a terra, te abençoe desde Sião."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

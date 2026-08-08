@@ -1,1 +1,280 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JER","name":"Jeremías"},"chapter":{"chapter_usfm":"JER.20","is_chapter":true,"previous":{"usfm":"JER.19","human":"Jeremías 19","canonical":true,"toc":true},"current":{"usfm":"JER.20","human":"Jeremías 20"},"next":{"usfm":"JER.21","human":"Jeremías 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Profecía contra Pasur"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando el sacerdote Pasur, hijo de Imer, que era el oficial principal en la casa del Señor, oyó a Jeremías profetizar estas cosas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["hizo azotar al profeta Jeremías y lo puso en el cepo que estaba en la parte superior de la puerta de Benjamín, la cual conducía a la casa del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Al día siguiente, cuando Pasur soltó a Jeremías del cepo, Jeremías le dijo: «No es Pasur el nombre con que el Señor te llama ahora, sino Magor Misabib."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque así dice el Señor: “Te voy a convertir en terror para ti mismo y para todos tus amigos; ellos caerán por la espada de tus enemigos, y tus ojos lo verán. Entregaré a todo Judá en manos del rey de Babilonia, y él los llevará como desterrados a Babilonia y los matará a espada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["También entregaré toda la riqueza de esta ciudad, todos sus productos y todas las cosas de gran valor, aun todos los tesoros de los reyes de Judá, los entregaré en manos de sus enemigos, que los saquearán, los tomarán y se los llevarán a Babilonia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y tú, Pasur, con todos los moradores de tu casa, irás al cautiverio y entrarás en Babilonia; allí morirás y allí serás enterrado, tú y todos tus amigos a quienes has profetizado falsamente” »."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Lamento del profeta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Me persuadiste, oh Señor, y quedé persuadido;","Fuiste más fuerte que yo y prevaleciste.","He sido el hazmerreír cada día;","Todos se burlan de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Porque cada vez que hablo, grito;","Proclamo: ¡Violencia, destrucción!","Pues la palabra del Señor ha venido a ser para mí","Oprobio y escarnio cada día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pero si digo: «No lo recordaré","Ni hablaré más en Su nombre»,","Esto se convierte dentro de mí como fuego ardiente","Encerrado en mis huesos.","Hago esfuerzos por contenerlo,","Y no puedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Porque he oído las murmuraciones de muchos:","«¡Terror por todas partes!","¡Denúncienlo, vamos a denunciarlo!».","Todos mis amigos de confianza,","Esperando mi caída, dicen:","«Tal vez será persuadido, prevaleceremos contra él","Y tomaremos nuestra venganza contra él»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero el Señor está conmigo como campeón temible;","Por tanto, mis perseguidores tropezarán y no prevalecerán.","Quedarán muy avergonzados, pues no triunfaron,","Tendrán afrenta perpetua que nunca será olvidada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Oh Señor de los ejércitos, que pruebas al justo,","Que ves las entrañas y el corazón,","Vea yo Tu venganza sobre ellos,","Pues a Ti he encomendado mi causa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Canten al Señor, alaben al Señor,","Porque ha librado el alma del pobre","De manos de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¶Maldito el día en que nací;","El día en que mi madre me dio a luz no sea bendito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Maldito el hombre que dio la noticia","A mi padre, diciéndole:","«¡Te ha nacido un hijo varón!»,","Haciéndolo muy feliz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Sea ese hombre como las ciudades","Que el Señor destruyó sin piedad;","Oiga gritos de mañana","Y alaridos al mediodía,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Porque no me mató en el vientre","Así mi madre hubiera sido mi sepultura,","Y su vientre embarazado para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["¿Por qué salí del vientre","Para ver pena y aflicción,","Y que acaben en vergüenza mis días?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JER.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JER.21.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremías"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.19",
+      "human": "Jeremías 19"
+    },
+    "current": {
+      "usfm": "JER.20",
+      "human": "Jeremías 20"
+    },
+    "next": {
+      "usfm": "JER.21",
+      "human": "Jeremías 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra Pasur"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando el sacerdote Pasur, hijo de Imer, que era el oficial principal en la casa del Señor, oyó a Jeremías profetizar estas cosas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "hizo azotar al profeta Jeremías y lo puso en el cepo que estaba en la parte superior de la puerta de Benjamín, la cual conducía a la casa del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Al día siguiente, cuando Pasur soltó a Jeremías del cepo, Jeremías le dijo: «No es Pasur el nombre con que el Señor te llama ahora, sino Magor Misabib."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque así dice el Señor: “Te voy a convertir en terror para ti mismo y para todos tus amigos; ellos caerán por la espada de tus enemigos, y tus ojos lo verán. Entregaré a todo Judá en manos del rey de Babilonia, y él los llevará como desterrados a Babilonia y los matará a espada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "También entregaré toda la riqueza de esta ciudad, todos sus productos y todas las cosas de gran valor, aun todos los tesoros de los reyes de Judá, los entregaré en manos de sus enemigos, que los saquearán, los tomarán y se los llevarán a Babilonia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y tú, Pasur, con todos los moradores de tu casa, irás al cautiverio y entrarás en Babilonia; allí morirás y allí serás enterrado, tú y todos tus amigos a quienes has profetizado falsamente” »."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lamento del profeta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Me persuadiste, oh Señor, y quedé persuadido;",
+          "Fuiste más fuerte que yo y prevaleciste.",
+          "He sido el hazmerreír cada día;",
+          "Todos se burlan de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Porque cada vez que hablo, grito;",
+          "Proclamo: ¡Violencia, destrucción!",
+          "Pues la palabra del Señor ha venido a ser para mí",
+          "Oprobio y escarnio cada día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pero si digo: «No lo recordaré",
+          "Ni hablaré más en Su nombre»,",
+          "Esto se convierte dentro de mí como fuego ardiente",
+          "Encerrado en mis huesos.",
+          "Hago esfuerzos por contenerlo,",
+          "Y no puedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Porque he oído las murmuraciones de muchos:",
+          "«¡Terror por todas partes!",
+          "¡Denúncienlo, vamos a denunciarlo!».",
+          "Todos mis amigos de confianza,",
+          "Esperando mi caída, dicen:",
+          "«Tal vez será persuadido, prevaleceremos contra él",
+          "Y tomaremos nuestra venganza contra él»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero el Señor está conmigo como campeón temible;",
+          "Por tanto, mis perseguidores tropezarán y no prevalecerán.",
+          "Quedarán muy avergonzados, pues no triunfaron,",
+          "Tendrán afrenta perpetua que nunca será olvidada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Oh Señor de los ejércitos, que pruebas al justo,",
+          "Que ves las entrañas y el corazón,",
+          "Vea yo Tu venganza sobre ellos,",
+          "Pues a Ti he encomendado mi causa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Canten al Señor, alaben al Señor,",
+          "Porque ha librado el alma del pobre",
+          "De manos de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¶Maldito el día en que nací;",
+          "El día en que mi madre me dio a luz no sea bendito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Maldito el hombre que dio la noticia",
+          "A mi padre, diciéndole:",
+          "«¡Te ha nacido un hijo varón!»,",
+          "Haciéndolo muy feliz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Sea ese hombre como las ciudades",
+          "Que el Señor destruyó sin piedad;",
+          "Oiga gritos de mañana",
+          "Y alaridos al mediodía,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Porque no me mató en el vientre",
+          "Así mi madre hubiera sido mi sepultura,",
+          "Y su vientre embarazado para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "¿Por qué salí del vientre",
+          "Para ver pena y aflicción,",
+          "Y que acaben en vergüenza mis días?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,354 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.4","is_chapter":true,"previous":{"usfm":"PRO.3","human":"Proverbios 3","canonical":true,"toc":true},"current":{"usfm":"PRO.4","human":"Proverbios 4"},"next":{"usfm":"PRO.5","human":"Proverbios 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Instrucciones de un padre"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oigan, hijos, la instrucción de un padre,","Y presten atención para que ganen entendimiento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque les doy buena enseñanza;","No abandonen mi instrucción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando yo fui hijo para mi padre,","Tierno y único a los ojos de mi madre,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entonces él me enseñaba y me decía:","«Retenga tu corazón mis palabras,","Guarda mis mandamientos y vivirás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["-»Adquiere sabiduría, adquiere inteligencia;","No te olvides ni te apartes de las palabras de mi boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["-»No la abandones y ella velará sobre ti;","Ámala y ella te protegerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Lo principal es la sabiduría; adquiere sabiduría,","Y con todo lo que obtengas adquiere inteligencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»Estímala, y ella te ensalzará;","Ella te honrará si tú la abrazas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Guirnalda de gracia pondrá en tu cabeza,","Corona de hermosura te entregará»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¶Oye, hijo mío, recibe mis palabras,","Y muchos serán los años de tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Por el camino de la sabiduría te he conducido,","Por sendas de rectitud te he guiado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando andes, tus pasos no serán obstruidos,","Y si corres, no tropezarás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Aférrate a la instrucción, no la sueltes;","Guárdala, porque ella es tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No entres en la senda de los impíos,","Ni vayas por el camino de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Evítalo, no pases por él;","Apártate de él y sigue adelante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Porque ellos no duermen a menos que hagan lo malo,","Y pierden el sueño si no han hecho caer a alguien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Porque comen pan de maldad,","Y beben vino de violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pero la senda de los justos es como la luz de la aurora,","Que va aumentando en resplandor hasta que es pleno día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El camino de los impíos es como las tinieblas,","No saben en qué tropiezan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¶Hijo mío, presta atención a mis palabras;","Inclina tu oído a mis razones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Que no se aparten de tus ojos;","Guárdalas en medio de tu corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Porque son vida para los que las hallan,","Y salud para todo su cuerpo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Con toda diligencia guarda tu corazón,","Porque de él brotan los manantiales de la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Aparta de ti la boca perversa","Y aleja de ti los labios falsos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Miren tus ojos hacia adelante,","Y que tu mirada se fije en lo que está frente a ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Fíjate en el sendero de tus pies,","Y todos tus caminos serán establecidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["No te desvíes a la derecha ni a la izquierda;","Aparta tu pie del mal."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.5.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.3",
+      "human": "Proverbios 3"
+    },
+    "current": {
+      "usfm": "PRO.4",
+      "human": "Proverbios 4"
+    },
+    "next": {
+      "usfm": "PRO.5",
+      "human": "Proverbios 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Instrucciones de un padre"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oigan, hijos, la instrucción de un padre,",
+          "Y presten atención para que ganen entendimiento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque les doy buena enseñanza;",
+          "No abandonen mi instrucción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando yo fui hijo para mi padre,",
+          "Tierno y único a los ojos de mi madre,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entonces él me enseñaba y me decía:",
+          "«Retenga tu corazón mis palabras,",
+          "Guarda mis mandamientos y vivirás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "-»Adquiere sabiduría, adquiere inteligencia;",
+          "No te olvides ni te apartes de las palabras de mi boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "-»No la abandones y ella velará sobre ti;",
+          "Ámala y ella te protegerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Lo principal es la sabiduría; adquiere sabiduría,",
+          "Y con todo lo que obtengas adquiere inteligencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»Estímala, y ella te ensalzará;",
+          "Ella te honrará si tú la abrazas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Guirnalda de gracia pondrá en tu cabeza,",
+          "Corona de hermosura te entregará»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¶Oye, hijo mío, recibe mis palabras,",
+          "Y muchos serán los años de tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Por el camino de la sabiduría te he conducido,",
+          "Por sendas de rectitud te he guiado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando andes, tus pasos no serán obstruidos,",
+          "Y si corres, no tropezarás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Aférrate a la instrucción, no la sueltes;",
+          "Guárdala, porque ella es tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No entres en la senda de los impíos,",
+          "Ni vayas por el camino de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Evítalo, no pases por él;",
+          "Apártate de él y sigue adelante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Porque ellos no duermen a menos que hagan lo malo,",
+          "Y pierden el sueño si no han hecho caer a alguien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Porque comen pan de maldad,",
+          "Y beben vino de violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pero la senda de los justos es como la luz de la aurora,",
+          "Que va aumentando en resplandor hasta que es pleno día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El camino de los impíos es como las tinieblas,",
+          "No saben en qué tropiezan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¶Hijo mío, presta atención a mis palabras;",
+          "Inclina tu oído a mis razones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Que no se aparten de tus ojos;",
+          "Guárdalas en medio de tu corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Porque son vida para los que las hallan,",
+          "Y salud para todo su cuerpo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Con toda diligencia guarda tu corazón,",
+          "Porque de él brotan los manantiales de la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Aparta de ti la boca perversa",
+          "Y aleja de ti los labios falsos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Miren tus ojos hacia adelante,",
+          "Y que tu mirada se fije en lo que está frente a ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Fíjate en el sendero de tus pies,",
+          "Y todos tus caminos serán establecidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "No te desvíes a la derecha ni a la izquierda;",
+          "Aparta tu pie del mal."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

@@ -1,1 +1,224 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.17","is_chapter":true,"previous":{"usfm":"JOB.16","human":"Job 16","canonical":true,"toc":true},"current":{"usfm":"JOB.17","human":"Job 17"},"next":{"usfm":"JOB.18","human":"Job 18","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["My breath is corrupt, my days are extinct,","The graves are ready for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Are there not mockers with me?","And doth not mine eye continue in their provocation?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Lay down now, put me in a surety with thee;","Who is he that will strike hands with me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For thou hast hid their heart from understanding:","Therefore shalt thou not exalt them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He that speaketh flattery to his friends,","Even the eyes of his children shall fail."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He hath made me also a byword of the people;","And aforetime I was as a tabret."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mine eye also is dim by reason of sorrow,","And all my members are as a shadow."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Upright men shall be astonied at this,","And the innocent shall stir up himself against the hypocrite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The righteous also shall hold on his way,","And he that hath clean hands shall be stronger and stronger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["But as for you all, do ye return, and come now:","For I cannot find one wise man among you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["My days are past, my purposes are broken off,","Even the thoughts of my heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["They change the night into day:","The light is short because of darkness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["If I wait, the grave is mine house:","I have made my bed in the darkness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I have said to corruption, Thou art my father:","To the worm, Thou art my mother, and my sister."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["And where is now my hope?","As for my hope, who shall see it?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["They shall go down to the bars of the pit,","When our rest together is in the dust."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.18.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.16",
+      "human": "Job 16"
+    },
+    "current": {
+      "usfm": "JOB.17",
+      "human": "Job 17"
+    },
+    "next": {
+      "usfm": "JOB.18",
+      "human": "Job 18"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "My breath is corrupt, my days are extinct,",
+          "The graves are ready for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Are there not mockers with me?",
+          "And doth not mine eye continue in their provocation?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Lay down now, put me in a surety with thee;",
+          "Who is he that will strike hands with me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For thou hast hid their heart from understanding:",
+          "Therefore shalt thou not exalt them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He that speaketh flattery to his friends,",
+          "Even the eyes of his children shall fail."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He hath made me also a byword of the people;",
+          "And aforetime I was as a tabret."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mine eye also is dim by reason of sorrow,",
+          "And all my members are as a shadow."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Upright men shall be astonied at this,",
+          "And the innocent shall stir up himself against the hypocrite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The righteous also shall hold on his way,",
+          "And he that hath clean hands shall be stronger and stronger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "But as for you all, do ye return, and come now:",
+          "For I cannot find one wise man among you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "My days are past, my purposes are broken off,",
+          "Even the thoughts of my heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "They change the night into day:",
+          "The light is short because of darkness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "If I wait, the grave is mine house:",
+          "I have made my bed in the darkness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I have said to corruption, Thou art my father:",
+          "To the worm, Thou art my mother, and my sister."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "And where is now my hope?",
+          "As for my hope, who shall see it?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "They shall go down to the bars of the pit,",
+          "When our rest together is in the dust."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,247 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.115","is_chapter":true,"previous":{"usfm":"PSA.114","human":"Psalm 114","canonical":true,"toc":true},"current":{"usfm":"PSA.115","human":"Psalm 115"},"next":{"usfm":"PSA.116","human":"Psalm 116","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Not unto us, O LORD, not unto us, but unto thy name give glory,","For thy mercy, and for thy truth's sake."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Wherefore should the heathen say,","Where is now their God?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But our God is in the heavens:","He hath done whatsoever he hath pleased."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Their idols are silver and gold,","The work of men's hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They have mouths, but they speak not:","Eyes have they, but they see not:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["They have ears, but they hear not:","Noses have they, but they smell not:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["They have hands, but they handle not: Feet have they, but they walk not:","Neither speak they through their throat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They that make them are like unto them;","So is every one that trusteth in them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["O Israel, trust thou in the LORD:","He is their help and their shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O house of Aaron, trust in the LORD:","He is their help and their shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ye that fear the LORD, trust in the LORD:","He is their help and their shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The LORD hath been mindful of us: he will bless us;","He will bless the house of Israel; He will bless the house of Aaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["He will bless them that fear","the LORD, both small and great."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The LORD shall increase you more and more,","You and your children."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ye are blessed of the LORD","Which made heaven and earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The heaven, even the heavens, are the LORD's:","But the earth hath he given to the children of men."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["The dead praise not the LORD,","Neither any that go down into silence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["But we will bless the LORD","From this time forth and for evermore.","Praise the LORD."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.114.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.116.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.115",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.114",
+      "human": "Psalm 114"
+    },
+    "current": {
+      "usfm": "PSA.115",
+      "human": "Psalm 115"
+    },
+    "next": {
+      "usfm": "PSA.116",
+      "human": "Psalm 116"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Not unto us, O LORD, not unto us, but unto thy name give glory,",
+          "For thy mercy, and for thy truth's sake."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Wherefore should the heathen say,",
+          "Where is now their God?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But our God is in the heavens:",
+          "He hath done whatsoever he hath pleased."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Their idols are silver and gold,",
+          "The work of men's hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They have mouths, but they speak not:",
+          "Eyes have they, but they see not:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "They have ears, but they hear not:",
+          "Noses have they, but they smell not:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "They have hands, but they handle not: Feet have they, but they walk not:",
+          "Neither speak they through their throat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They that make them are like unto them;",
+          "So is every one that trusteth in them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "O Israel, trust thou in the LORD:",
+          "He is their help and their shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O house of Aaron, trust in the LORD:",
+          "He is their help and their shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ye that fear the LORD, trust in the LORD:",
+          "He is their help and their shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The LORD hath been mindful of us: he will bless us;",
+          "He will bless the house of Israel; He will bless the house of Aaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "He will bless them that fear",
+          "the LORD, both small and great."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The LORD shall increase you more and more,",
+          "You and your children."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ye are blessed of the LORD",
+          "Which made heaven and earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The heaven, even the heavens, are the LORD's:",
+          "But the earth hath he given to the children of men."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "The dead praise not the LORD,",
+          "Neither any that go down into silence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "But we will bless the LORD",
+          "From this time forth and for evermore.",
+          "Praise the LORD."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,366 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.25","is_chapter":true,"previous":{"usfm":"PRO.24","human":"Proverbios 24","canonical":true,"toc":true},"current":{"usfm":"PRO.25","human":"Proverbios 25"},"next":{"usfm":"PRO.26","human":"Proverbios 26","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Comparaciones y lecciones morales"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["También estos son proverbios de Salomón, que transcribieron los hombres de Ezequías, rey de Judá:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¶Es gloria de Dios encubrir una cosa,","Pero la gloria de los reyes es investigar un asunto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Como la altura de los cielos y la profundidad de la tierra,","Así es el corazón de los reyes, inescrutable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Quita la escoria de la plata,","Y saldrá un vaso para el orfebre;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quita al malo de delante del rey,","Y su trono se afianzará en la justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No hagas ostentación ante el rey,","Y no te pongas en el lugar de los grandes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque es mejor que te digan: «Sube acá»,","A que te humillen delante del príncipe","A quien tus ojos han visto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶No te apresures a presentar pleito;","Pues ¿qué harás al final,","Cuando tu prójimo te avergüence?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Discute tu caso con tu prójimo","Y no descubras el secreto de otro,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No sea que te reproche el que lo oiga","Y tu mala fama no se acabe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¶Como manzanas de oro en engastes de plata","Es la palabra dicha a su tiempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Como pendiente de oro y adorno de oro fino","Es el sabio que reprende al oído atento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Como frescura de nieve en tiempo de la siega","Es el mensajero fiel para los que lo envían,","Porque refresca el alma de sus señores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como las nubes y el viento sin lluvia","Es el hombre que se jacta falsamente de sus dones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Con la mucha paciencia se persuade al príncipe,","Y la lengua suave quebranta los huesos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¿Has hallado miel? Come solo lo que necesites,","No sea que te hartes y la vomites."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No frecuente tu pie la casa de tu vecino,","No sea que él se hastíe de ti y te aborrezca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Como mazo y espada y flecha aguda","Es el hombre que levanta falso testimonio contra su prójimo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Como diente malo y pie que resbala","Es la confianza en el hombre engañador en tiempo de angustia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Como el que se quita la ropa en día de frío, o como el vinagre sobre la lejía,","Es el que canta canciones a un corazón afligido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Si tu enemigo tiene hambre, dale de comer pan,","Y si tiene sed, dale a beber agua;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Porque así amontonarás brasas sobre su cabeza,","Y el Señor te recompensará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["El viento del norte trae la lluvia,","Y la lengua murmuradora, el semblante lleno de ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Mejor es vivir en un rincón del terrado","Que en una casa con mujer rencillosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Como agua fría para el alma sedienta,","Así son las buenas nuevas de una tierra lejana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Como manantial turbio y pozo contaminado","Es el justo que cede ante el impío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["No es bueno comer mucha miel,","Ni el buscar la propia gloria es gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Como ciudad invadida y sin murallas","Es el hombre que no domina su espíritu."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.26.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.24",
+      "human": "Proverbios 24"
+    },
+    "current": {
+      "usfm": "PRO.25",
+      "human": "Proverbios 25"
+    },
+    "next": {
+      "usfm": "PRO.26",
+      "human": "Proverbios 26"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Comparaciones y lecciones morales"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "También estos son proverbios de Salomón, que transcribieron los hombres de Ezequías, rey de Judá:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¶Es gloria de Dios encubrir una cosa,",
+          "Pero la gloria de los reyes es investigar un asunto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Como la altura de los cielos y la profundidad de la tierra,",
+          "Así es el corazón de los reyes, inescrutable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Quita la escoria de la plata,",
+          "Y saldrá un vaso para el orfebre;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quita al malo de delante del rey,",
+          "Y su trono se afianzará en la justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No hagas ostentación ante el rey,",
+          "Y no te pongas en el lugar de los grandes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque es mejor que te digan: «Sube acá»,",
+          "A que te humillen delante del príncipe",
+          "A quien tus ojos han visto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶No te apresures a presentar pleito;",
+          "Pues ¿qué harás al final,",
+          "Cuando tu prójimo te avergüence?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Discute tu caso con tu prójimo",
+          "Y no descubras el secreto de otro,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No sea que te reproche el que lo oiga",
+          "Y tu mala fama no se acabe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¶Como manzanas de oro en engastes de plata",
+          "Es la palabra dicha a su tiempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Como pendiente de oro y adorno de oro fino",
+          "Es el sabio que reprende al oído atento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Como frescura de nieve en tiempo de la siega",
+          "Es el mensajero fiel para los que lo envían,",
+          "Porque refresca el alma de sus señores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como las nubes y el viento sin lluvia",
+          "Es el hombre que se jacta falsamente de sus dones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Con la mucha paciencia se persuade al príncipe,",
+          "Y la lengua suave quebranta los huesos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¿Has hallado miel? Come solo lo que necesites,",
+          "No sea que te hartes y la vomites."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No frecuente tu pie la casa de tu vecino,",
+          "No sea que él se hastíe de ti y te aborrezca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Como mazo y espada y flecha aguda",
+          "Es el hombre que levanta falso testimonio contra su prójimo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Como diente malo y pie que resbala",
+          "Es la confianza en el hombre engañador en tiempo de angustia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Como el que se quita la ropa en día de frío, o como el vinagre sobre la lejía,",
+          "Es el que canta canciones a un corazón afligido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Si tu enemigo tiene hambre, dale de comer pan,",
+          "Y si tiene sed, dale a beber agua;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Porque así amontonarás brasas sobre su cabeza,",
+          "Y el Señor te recompensará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "El viento del norte trae la lluvia,",
+          "Y la lengua murmuradora, el semblante lleno de ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Mejor es vivir en un rincón del terrado",
+          "Que en una casa con mujer rencillosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Como agua fría para el alma sedienta,",
+          "Así son las buenas nuevas de una tierra lejana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Como manantial turbio y pozo contaminado",
+          "Es el justo que cede ante el impío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "No es bueno comer mucha miel,",
+          "Ni el buscar la propia gloria es gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Como ciudad invadida y sin murallas",
+          "Es el hombre que no domina su espíritu."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

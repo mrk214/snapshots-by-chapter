@@ -1,1 +1,124 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.13","is_chapter":true,"previous":{"usfm":"PSA.12","human":"Salmos 12","canonical":true,"toc":true},"current":{"usfm":"PSA.13","human":"Salmos 13"},"next":{"usfm":"PSA.14","human":"Salmos 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oração por proteção"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao regente do coro: Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Até quando, Senhor? Tu te esquecerás de mim para sempre? Até quando esconderás o rosto de mim?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Até quando relutarei dia após dia, com tristeza em meu coração? Até quando o meu inimigo se exaltará sobre mim?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Atenta para mim, ó Senhor, meu Deus, e responde-me. Ilumina meus olhos para que eu não durma o sono da morte,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["para que meu inimigo não diga: Prevaleci contra ele, e meus adversários não se alegrem com a minha derrota."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Mas eu confio na tua misericórdia; meu coração se alegra na tua salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cantarei ao Senhor, porque ele me tem feito muito bem."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.14.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.12",
+      "human": "Salmos 12"
+    },
+    "current": {
+      "usfm": "PSA.13",
+      "human": "Salmos 13"
+    },
+    "next": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oração por proteção"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao regente do coro: Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Até quando, Senhor? Tu te esquecerás de mim para sempre? Até quando esconderás o rosto de mim?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Até quando relutarei dia após dia, com tristeza em meu coração? Até quando o meu inimigo se exaltará sobre mim?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Atenta para mim, ó Senhor, meu Deus, e responde-me. Ilumina meus olhos para que eu não durma o sono da morte,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "para que meu inimigo não diga: Prevaleci contra ele, e meus adversários não se alegrem com a minha derrota."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Mas eu confio na tua misericórdia; meu coração se alegra na tua salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cantarei ao Senhor, porque ele me tem feito muito bem."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

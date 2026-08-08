@@ -1,1 +1,204 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.5","is_chapter":true,"previous":{"usfm":"PSA.4","human":"Psalms 4","canonical":true,"toc":true},"current":{"usfm":"PSA.5","human":"Psalms 5"},"next":{"usfm":"PSA.6","human":"Psalms 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Prayer for Guidance"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the Chief Musician. With flutes. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Give ear to my words, O Lord,","Consider my meditation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Give heed to the voice of my cry,","My King and my God,","For to You I will pray."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["My voice You shall hear in the morning, O Lord;","In the morning I will direct it to You,","And I will look up."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For You are not a God who takes pleasure in wickedness,","Nor shall evil dwell with You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The boastful shall not stand in Your sight;","You hate all workers of iniquity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You shall destroy those who speak falsehood;","The Lord abhors the bloodthirsty and deceitful man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But as for me, I will come into Your house in the multitude of Your mercy;","In fear of You I will worship toward Your holy temple."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Lead me, O Lord, in Your righteousness because of my enemies;","Make Your way straight before my face."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For there is no faithfulness in their mouth;","Their inward part is destruction;","Their throat is an open tomb;","They flatter with their tongue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pronounce them guilty, O God!","Let them fall by their own counsels;","Cast them out in the multitude of their transgressions,","For they have rebelled against You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["But let all those rejoice who put their trust in You;","Let them ever shout for joy, because You defend them;","Let those also who love Your name","Be joyful in You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["For You, O Lord, will bless the righteous;","With favor You will surround him as with a shield."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.6.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.4",
+      "human": "Psalms 4"
+    },
+    "current": {
+      "usfm": "PSA.5",
+      "human": "Psalms 5"
+    },
+    "next": {
+      "usfm": "PSA.6",
+      "human": "Psalms 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Prayer for Guidance"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the Chief Musician. With flutes. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Give ear to my words, O Lord,",
+          "Consider my meditation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Give heed to the voice of my cry,",
+          "My King and my God,",
+          "For to You I will pray."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "My voice You shall hear in the morning, O Lord;",
+          "In the morning I will direct it to You,",
+          "And I will look up."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For You are not a God who takes pleasure in wickedness,",
+          "Nor shall evil dwell with You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The boastful shall not stand in Your sight;",
+          "You hate all workers of iniquity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You shall destroy those who speak falsehood;",
+          "The Lord abhors the bloodthirsty and deceitful man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But as for me, I will come into Your house in the multitude of Your mercy;",
+          "In fear of You I will worship toward Your holy temple."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Lead me, O Lord, in Your righteousness because of my enemies;",
+          "Make Your way straight before my face."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For there is no faithfulness in their mouth;",
+          "Their inward part is destruction;",
+          "Their throat is an open tomb;",
+          "They flatter with their tongue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pronounce them guilty, O God!",
+          "Let them fall by their own counsels;",
+          "Cast them out in the multitude of their transgressions,",
+          "For they have rebelled against You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "But let all those rejoice who put their trust in You;",
+          "Let them ever shout for joy, because You defend them;",
+          "Let those also who love Your name",
+          "Be joyful in You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "For You, O Lord, will bless the righteous;",
+          "With favor You will surround him as with a shield."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

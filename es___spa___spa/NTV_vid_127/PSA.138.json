@@ -1,1 +1,149 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.138","is_chapter":true,"previous":{"usfm":"PSA.137","human":"Salmos 137","canonical":true,"toc":true},"current":{"usfm":"PSA.138","human":"Salmos 138"},"next":{"usfm":"PSA.139","human":"Salmos 139","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Te doy gracias, oh Señor, con todo el corazón;","delante de los dioses cantaré tus alabanzas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Me inclino ante tu santo templo mientras adoro;","alabo tu nombre por tu amor inagotable y tu fidelidad,","porque tus promesas están respaldadas","por todo el honor de tu nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En cuanto oro, tú me respondes;","me alientas al darme fuerza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Todos los reyes del mundo te darán gracias, Señor,","porque cada uno de ellos escuchará tus palabras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Así es, cantarán acerca de los caminos del Señor,","porque la gloria del Señor es muy grande."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Aunque el Señor es grande, se ocupa de los humildes,","pero se mantiene distante de los orgullosos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Aunque estoy rodeado de dificultades,","tú me protegerás del enojo de mis enemigos.","Extiendes tu mano,","y el poder de tu mano derecha me salva."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor llevará a cabo los planes que tiene para mi vida,","pues tu fiel amor, oh Señor, permanece para siempre.","No me abandones, porque tú me creaste."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.137.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.139.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.138",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.137",
+      "human": "Salmos 137"
+    },
+    "current": {
+      "usfm": "PSA.138",
+      "human": "Salmos 138"
+    },
+    "next": {
+      "usfm": "PSA.139",
+      "human": "Salmos 139"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Te doy gracias, oh Señor, con todo el corazón;",
+          "delante de los dioses cantaré tus alabanzas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Me inclino ante tu santo templo mientras adoro;",
+          "alabo tu nombre por tu amor inagotable y tu fidelidad,",
+          "porque tus promesas están respaldadas",
+          "por todo el honor de tu nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En cuanto oro, tú me respondes;",
+          "me alientas al darme fuerza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Todos los reyes del mundo te darán gracias, Señor,",
+          "porque cada uno de ellos escuchará tus palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Así es, cantarán acerca de los caminos del Señor,",
+          "porque la gloria del Señor es muy grande."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Aunque el Señor es grande, se ocupa de los humildes,",
+          "pero se mantiene distante de los orgullosos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Aunque estoy rodeado de dificultades,",
+          "tú me protegerás del enojo de mis enemigos.",
+          "Extiendes tu mano,",
+          "y el poder de tu mano derecha me salva."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor llevará a cabo los planes que tiene para mi vida,",
+          "pues tu fiel amor, oh Señor, permanece para siempre.",
+          "No me abandones, porque tú me creaste."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,236 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.20","is_chapter":true,"previous":{"usfm":"GEN.19","human":"Genesis 19","canonical":true,"toc":true},"current":{"usfm":"GEN.20","human":"Genesis 20"},"next":{"usfm":"GEN.21","human":"Genesis 21","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Abraham and Abimelech"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.21.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.19",
+      "human": "Genesis 19"
+    },
+    "current": {
+      "usfm": "GEN.20",
+      "human": "Genesis 20"
+    },
+    "next": {
+      "usfm": "GEN.21",
+      "human": "Genesis 21"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Abraham and Abimelech"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And Abraham journeyed from thence toward the south country, and dwelled between Kadesh and Shur, and sojourned in Gerar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And Abraham said of Sarah his wife, She is my sister: and Abimelech king of Gerar sent, and took Sarah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But God came to Abimelech in a dream by night, and said to him, Behold, thou art but a dead man, for the woman which thou hast taken; for she is a man's wife."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But Abimelech had not come near her: and he said, Lord, wilt thou slay also a righteous nation?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Said he not unto me, She is my sister? and she, even she herself said, He is my brother: in the integrity of my heart and innocency of my hands have I done this."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And God said unto him in a dream, Yea, I know that thou didst this in the integrity of thy heart; for I also withheld thee from sinning against me: therefore suffered I thee not to touch her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Now therefore restore the man his wife; for he is a prophet, and he shall pray for thee, and thou shalt live: and if thou restore her not, know thou that thou shalt surely die, thou, and all that are thine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Therefore Abimelech rose early in the morning, and called all his servants, and told all these things in their ears: and the men were sore afraid."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Then Abimelech called Abraham, and said unto him, What hast thou done unto us? and what have I offended thee, that thou hast brought on me and on my kingdom a great sin? thou hast done deeds unto me that ought not to be done."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And Abimelech said unto Abraham, What sawest thou, that thou hast done this thing?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "And Abraham said, Because I thought, Surely the fear of God is not in this place; and they will slay me for my wife's sake."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And yet indeed she is my sister; she is the daughter of my father, but not the daughter of my mother; and she became my wife."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "And it came to pass, when God caused me to wander from my father's house, that I said unto her, This is thy kindness which thou shalt shew unto me; at every place whither we shall come, say of me, He is my brother."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And Abimelech took sheep, and oxen, and menservants, and womenservants, and gave them unto Abraham, and restored him Sarah his wife."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "And Abimelech said, Behold, my land is before thee: dwell where it pleaseth thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "And unto Sarah he said, Behold, I have given thy brother a thousand pieces of silver: behold, he is to thee a covering of the eyes, unto all that are with thee, and with all other: thus she was reproved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "So Abraham prayed unto God: and God healed Abimelech, and his wife, and his maidservants; and they bare children."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "For the LORD had fast closed up all the wombs of the house of Abimelech, because of Sarah Abraham's wife."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

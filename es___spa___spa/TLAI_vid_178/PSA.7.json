@@ -1,1 +1,263 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.7","is_chapter":true,"previous":{"usfm":"PSA.6","human":"Salmos 6","canonical":true,"toc":true},"current":{"usfm":"PSA.7","human":"Salmos 7"},"next":{"usfm":"PSA.8","human":"Salmos 8","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración pidiendo justicia"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1) Lamento de David dirigido a Dios por lo que le hizo un hombre de la tribu de Benjamín, que se llamaba Cus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (2) Mi Dios, en ti confío;","¡sálvame de los que me persiguen!,","¡líbrame de todos ellos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["2 (3) Si no me salvas, acabarán conmigo;","me despedazarán como leones","y nadie podrá librarme de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["3 (4) Dios mío,","¿qué daño les hice?,","¿qué mal cometí?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["4 (5) ¿Acaso le hice daño a mi amigo?","¿Acaso le quité algo","a quien me maltrata sin razón?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["5 (6) Si es así,","deja que mi enemigo","me persiga y me alcance;","deja que me arrastre por el suelo","y que me ponga en vergüenza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6,7],"lines":["6-7 (7-8) Dios mío,","¡siéntate ya en tu alto trono,","y rodeado de las naciones,","declárame inocente!","¡Enfréntate a la furia de mis enemigos","y muéstrales tu enojo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["8 (9) Tú, Dios mío,","eres el juez de los pueblos:","¡júzgame y dicta mi sentencia,","pero toma en cuenta que soy inocente!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["9 (10) Tú eres un Dios justo,","y conoces nuestros pensamientos:","¡acaba, pues, con los malvados,","para que ya no hagan lo malo,","pero dale tu apoyo a la gente honrada!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["10 (11) Dios mío,","tú me das tu protección;","me proteges como un escudo.","Tú salvas a la gente honrada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["11 (12) Tú eres un juez justo","y siempre castigas a los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["12 (13) Si estos no se arrepienten,","tú afilarás tu espada","y prepararás tu arco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["13 (14) Ya tienes listas tus armas de muerte;","¡ya tienes listas tus flechas de fuego!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["14 (15) ¡Fíjense en el malvado!","Planea el crimen, lo comete","y luego niega haberlo cometido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["15 (16) Ha hecho un hoyo muy profundo,","pero en ese mismo hoyo caerá,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["16 (17) y sufrirá las consecuencias","de su violencia y maldad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["17 (18) Yo, en cambio,","alabaré a Dios porque es justo.","¡Yo le cantaré himnos","al Dios altísimo!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.8.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.6",
+      "human": "Salmos 6"
+    },
+    "current": {
+      "usfm": "PSA.7",
+      "human": "Salmos 7"
+    },
+    "next": {
+      "usfm": "PSA.8",
+      "human": "Salmos 8"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración pidiendo justicia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1) Lamento de David dirigido a Dios por lo que le hizo un hombre de la tribu de Benjamín, que se llamaba Cus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (2) Mi Dios, en ti confío;",
+          "¡sálvame de los que me persiguen!,",
+          "¡líbrame de todos ellos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "2 (3) Si no me salvas, acabarán conmigo;",
+          "me despedazarán como leones",
+          "y nadie podrá librarme de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "3 (4) Dios mío,",
+          "¿qué daño les hice?,",
+          "¿qué mal cometí?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "4 (5) ¿Acaso le hice daño a mi amigo?",
+          "¿Acaso le quité algo",
+          "a quien me maltrata sin razón?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "5 (6) Si es así,",
+          "deja que mi enemigo",
+          "me persiga y me alcance;",
+          "deja que me arrastre por el suelo",
+          "y que me ponga en vergüenza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6,
+          7
+        ],
+        "lines": [
+          "6-7 (7-8) Dios mío,",
+          "¡siéntate ya en tu alto trono,",
+          "y rodeado de las naciones,",
+          "declárame inocente!",
+          "¡Enfréntate a la furia de mis enemigos",
+          "y muéstrales tu enojo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "8 (9) Tú, Dios mío,",
+          "eres el juez de los pueblos:",
+          "¡júzgame y dicta mi sentencia,",
+          "pero toma en cuenta que soy inocente!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "9 (10) Tú eres un Dios justo,",
+          "y conoces nuestros pensamientos:",
+          "¡acaba, pues, con los malvados,",
+          "para que ya no hagan lo malo,",
+          "pero dale tu apoyo a la gente honrada!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "10 (11) Dios mío,",
+          "tú me das tu protección;",
+          "me proteges como un escudo.",
+          "Tú salvas a la gente honrada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "11 (12) Tú eres un juez justo",
+          "y siempre castigas a los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "12 (13) Si estos no se arrepienten,",
+          "tú afilarás tu espada",
+          "y prepararás tu arco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "13 (14) Ya tienes listas tus armas de muerte;",
+          "¡ya tienes listas tus flechas de fuego!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "14 (15) ¡Fíjense en el malvado!",
+          "Planea el crimen, lo comete",
+          "y luego niega haberlo cometido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "15 (16) Ha hecho un hoyo muy profundo,",
+          "pero en ese mismo hoyo caerá,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "16 (17) y sufrirá las consecuencias",
+          "de su violencia y maldad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "17 (18) Yo, en cambio,",
+          "alabaré a Dios porque es justo.",
+          "¡Yo le cantaré himnos",
+          "al Dios altísimo!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

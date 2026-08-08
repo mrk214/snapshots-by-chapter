@@ -1,1 +1,235 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.39","is_chapter":true,"previous":{"usfm":"PSA.38","human":"Psalms 38","canonical":true,"toc":true},"current":{"usfm":"PSA.39","human":"Psalms 39"},"next":{"usfm":"PSA.40","human":"Psalms 40","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prayer for Wisdom and Forgiveness"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the Chief Musician. To Jeduthun. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I said, “I will guard my ways,","Lest I sin with my tongue;","I will restrain my mouth with a muzzle,","While the wicked are before me.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I was mute with silence,","I held my peace even from good;","And my sorrow was stirred up."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["My heart was hot within me;","While I was musing, the fire burned.","Then I spoke with my tongue:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“Lord, make me to know my end,","And what is the measure of my days,","That I may know how frail I am."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Indeed, You have made my days as handbreadths,","And my age is as nothing before You;","Certainly every man at his best state is but vapor."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Surely every man walks about like a shadow;","Surely they busy themselves in vain;","He heaps up riches,","And does not know who will gather them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["“And now, Lord, what do I wait for?","My hope is in You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Deliver me from all my transgressions;","Do not make me the reproach of the foolish."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["I was mute, I did not open my mouth,","Because it was You who did it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Remove Your plague from me;","I am consumed by the blow of Your hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["When with rebukes You correct man for iniquity,","You make his beauty melt away like a moth;","Surely every man is vapor."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["“Hear my prayer, O Lord,","And give ear to my cry;","Do not be silent at my tears;","For I am a stranger with You,","A sojourner, as all my fathers were."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Remove Your gaze from me, that I may regain strength,","Before I go away and am no more.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.38.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.40.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.39",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.38",
+      "human": "Psalms 38"
+    },
+    "current": {
+      "usfm": "PSA.39",
+      "human": "Psalms 39"
+    },
+    "next": {
+      "usfm": "PSA.40",
+      "human": "Psalms 40"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prayer for Wisdom and Forgiveness"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the Chief Musician. To Jeduthun. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I said, “I will guard my ways,",
+          "Lest I sin with my tongue;",
+          "I will restrain my mouth with a muzzle,",
+          "While the wicked are before me.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I was mute with silence,",
+          "I held my peace even from good;",
+          "And my sorrow was stirred up."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "My heart was hot within me;",
+          "While I was musing, the fire burned.",
+          "Then I spoke with my tongue:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“Lord, make me to know my end,",
+          "And what is the measure of my days,",
+          "That I may know how frail I am."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Indeed, You have made my days as handbreadths,",
+          "And my age is as nothing before You;",
+          "Certainly every man at his best state is but vapor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Surely every man walks about like a shadow;",
+          "Surely they busy themselves in vain;",
+          "He heaps up riches,",
+          "And does not know who will gather them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "“And now, Lord, what do I wait for?",
+          "My hope is in You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Deliver me from all my transgressions;",
+          "Do not make me the reproach of the foolish."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "I was mute, I did not open my mouth,",
+          "Because it was You who did it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Remove Your plague from me;",
+          "I am consumed by the blow of Your hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "When with rebukes You correct man for iniquity,",
+          "You make his beauty melt away like a moth;",
+          "Surely every man is vapor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "“Hear my prayer, O Lord,",
+          "And give ear to my cry;",
+          "Do not be silent at my tears;",
+          "For I am a stranger with You,",
+          "A sojourner, as all my fathers were."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Remove Your gaze from me, that I may regain strength,",
+          "Before I go away and am no more.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

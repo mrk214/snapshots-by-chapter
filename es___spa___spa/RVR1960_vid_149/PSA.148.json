@@ -1,1 +1,221 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.148","is_chapter":true,"previous":{"usfm":"PSA.147","human":"Salmos 147","canonical":true,"toc":true},"current":{"usfm":"PSA.148","human":"Salmos 148"},"next":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Exhortación a la creación, para que alabe a Jehová"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Aleluya."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Alabad a Jehová desde los cielos;","Alabadle en las alturas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Alabadle, vosotros todos sus ángeles;","Alabadle, vosotros todos sus ejércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alabadle, sol y luna;","Alabadle, vosotras todas, lucientes estrellas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Alabadle, cielos de los cielos,","Y las aguas que están sobre los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Alaben el nombre de Jehová;","Porque él mandó, y fueron creados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los hizo ser eternamente y para siempre;","Les puso ley que no será quebrantada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Alabad a Jehová desde la tierra,","Los monstruos marinos y todos los abismos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El fuego y el granizo, la nieve y el vapor,","El viento de tempestad que ejecuta su palabra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los montes y todos los collados,","El árbol de fruto y todos los cedros;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La bestia y todo animal,","Reptiles y volátiles;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Los reyes de la tierra y todos los pueblos,","Los príncipes y todos los jueces de la tierra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Los jóvenes y también las doncellas,","Los ancianos y los niños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Alaben el nombre de Jehová,","Porque solo su nombre es enaltecido.","Su gloria es sobre tierra y cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Él ha exaltado el poderío de su pueblo;","Alábenle todos sus santos, los hijos de Israel,","El pueblo a él cercano.","Aleluya."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.147.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.149.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.148",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.147",
+      "human": "Salmos 147"
+    },
+    "current": {
+      "usfm": "PSA.148",
+      "human": "Salmos 148"
+    },
+    "next": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Exhortación a la creación, para que alabe a Jehová"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Aleluya."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Alabad a Jehová desde los cielos;",
+          "Alabadle en las alturas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Alabadle, vosotros todos sus ángeles;",
+          "Alabadle, vosotros todos sus ejércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alabadle, sol y luna;",
+          "Alabadle, vosotras todas, lucientes estrellas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Alabadle, cielos de los cielos,",
+          "Y las aguas que están sobre los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Alaben el nombre de Jehová;",
+          "Porque él mandó, y fueron creados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los hizo ser eternamente y para siempre;",
+          "Les puso ley que no será quebrantada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Alabad a Jehová desde la tierra,",
+          "Los monstruos marinos y todos los abismos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El fuego y el granizo, la nieve y el vapor,",
+          "El viento de tempestad que ejecuta su palabra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los montes y todos los collados,",
+          "El árbol de fruto y todos los cedros;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La bestia y todo animal,",
+          "Reptiles y volátiles;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Los reyes de la tierra y todos los pueblos,",
+          "Los príncipes y todos los jueces de la tierra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Los jóvenes y también las doncellas,",
+          "Los ancianos y los niños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Alaben el nombre de Jehová,",
+          "Porque solo su nombre es enaltecido.",
+          "Su gloria es sobre tierra y cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Él ha exaltado el poderío de su pueblo;",
+          "Alábenle todos sus santos, los hijos de Israel,",
+          "El pueblo a él cercano.",
+          "Aleluya."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

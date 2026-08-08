@@ -1,1 +1,124 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.127","is_chapter":true,"previous":{"usfm":"PSA.126","human":"Psalms 126","canonical":true,"toc":true},"current":{"usfm":"PSA.127","human":"Psalms 127"},"next":{"usfm":"PSA.128","human":"Psalms 128","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Laboring and Prospering with the Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents. Of Solomon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Unless the Lord builds the house,","They labor in vain who build it;","Unless the Lord guards the city,","The watchman stays awake in vain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["It is vain for you to rise up early,","To sit up late,","To eat the bread of sorrows;","For so He gives His beloved sleep."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Behold, children are a heritage from the Lord,","The fruit of the womb is a reward."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Like arrows in the hand of a warrior,","So are the children of one’s youth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Happy is the man who has his quiver full of them;","They shall not be ashamed,","But shall speak with their enemies in the gate."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.126.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.128.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.127",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.126",
+      "human": "Psalms 126"
+    },
+    "current": {
+      "usfm": "PSA.127",
+      "human": "Psalms 127"
+    },
+    "next": {
+      "usfm": "PSA.128",
+      "human": "Psalms 128"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Laboring and Prospering with the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents. Of Solomon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Unless the Lord builds the house,",
+          "They labor in vain who build it;",
+          "Unless the Lord guards the city,",
+          "The watchman stays awake in vain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "It is vain for you to rise up early,",
+          "To sit up late,",
+          "To eat the bread of sorrows;",
+          "For so He gives His beloved sleep."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Behold, children are a heritage from the Lord,",
+          "The fruit of the womb is a reward."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Like arrows in the hand of a warrior,",
+          "So are the children of one’s youth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Happy is the man who has his quiver full of them;",
+          "They shall not be ashamed,",
+          "But shall speak with their enemies in the gate."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

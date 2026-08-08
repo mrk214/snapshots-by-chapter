@@ -1,1 +1,129 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Salmos 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Salmos 126"},"next":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["De la tristeza a la alegría"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1a) Cántico para las peregrinaciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Cuando Dios nos hizo volver","de Babilonia a Jerusalén,","creíamos estar soñando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De los labios nos brotaban","risas y cánticos alegres.","Hasta decían las demás naciones:","«Realmente es maravilloso","lo que Dios ha hecho por ellos»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Lo que Dios hizo por nosotros","fue realmente maravilloso,","y nos llenó de alegría!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dios,","devuélvenos el bienestar,","como le devuelves al desierto","sus arroyos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5,6],"lines":["Las lágrimas que derramamos","cuando sembramos la semilla","se volverán cantos de alegría","cuando cosechemos el trigo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Salmos 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "De la tristeza a la alegría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1a) Cántico para las peregrinaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Cuando Dios nos hizo volver",
+          "de Babilonia a Jerusalén,",
+          "creíamos estar soñando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De los labios nos brotaban",
+          "risas y cánticos alegres.",
+          "Hasta decían las demás naciones:",
+          "«Realmente es maravilloso",
+          "lo que Dios ha hecho por ellos»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Lo que Dios hizo por nosotros",
+          "fue realmente maravilloso,",
+          "y nos llenó de alegría!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dios,",
+          "devuélvenos el bienestar,",
+          "como le devuelves al desierto",
+          "sus arroyos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5,
+          6
+        ],
+        "lines": [
+          "Las lágrimas que derramamos",
+          "cuando sembramos la semilla",
+          "se volverán cantos de alegría",
+          "cuando cosechemos el trigo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

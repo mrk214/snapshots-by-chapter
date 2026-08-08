@@ -1,1 +1,150 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Psalm 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Psalm 54"},"next":{"usfm":"PSA.55","human":"Psalm 55","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord Upholds My Life"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O God, save me by your name,","and vindicate me by your might."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O God, hear my prayer;","give ear to the words of my mouth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For strangers have risen against me;","ruthless men seek my life;","they do not set God before themselves."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Behold, God is my helper;","the Lord is the upholder of my life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He will return the evil to my enemies;","in your faithfulness put an end to them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["With a freewill offering I will sacrifice to you;","I will give thanks to your name, O Lord, for it is good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For he has delivered me from every trouble,","and my eye has looked in triumph on my enemies."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Psalm 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Psalm 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Psalm 55"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord Upholds My Life"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: with stringed instruments. A Maskil of David, when the Ziphites went and told Saul, “Is not David hiding among us?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O God, save me by your name,",
+          "and vindicate me by your might."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O God, hear my prayer;",
+          "give ear to the words of my mouth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For strangers have risen against me;",
+          "ruthless men seek my life;",
+          "they do not set God before themselves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Behold, God is my helper;",
+          "the Lord is the upholder of my life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He will return the evil to my enemies;",
+          "in your faithfulness put an end to them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "With a freewill offering I will sacrifice to you;",
+          "I will give thanks to your name, O Lord, for it is good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For he has delivered me from every trouble,",
+          "and my eye has looked in triumph on my enemies."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

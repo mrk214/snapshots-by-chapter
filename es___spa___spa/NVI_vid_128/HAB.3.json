@@ -1,1 +1,342 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"HAB","name":"Habacuc"},"chapter":{"chapter_usfm":"HAB.3","is_chapter":true,"previous":{"usfm":"HAB.2","human":"Habacuc 2","canonical":true,"toc":true},"current":{"usfm":"HAB.3","human":"Habacuc 3"},"next":{"usfm":"ZEP.1","human":"Sofonías 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La oración de Habacuc"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oración del profeta Habacuc. Según sigionot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Señor, he sabido de tu fama;","tiemblo delante de tus obras, Señor.","Repítelas en nuestros días,","dalas a conocer en nuestro tiempo;","en tu ira, ten presente tu misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Dios viene desde Temán;","el Santo, desde el monte de Parán."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Su gloria cubre el cielo","y su alabanza llena la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Su resplandor es como el sol;","rayos brotan de sus manos;","su poder se esconde en sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Una plaga mortal lo precede","y una epidemia sigue sus pasos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Se detiene y la tierra se estremece;","lanza una mirada y las naciones tiemblan.","Se desmoronan las antiguas montañas","y se desploman las viejas colinas,","pero sus caminos son eternos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He visto afligidos los campamentos de Cusán,","y angustiadas las moradas de Madián."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¿Te enojaste, oh Señor, con los ríos?","¿Estuviste airado contra las corrientes?","¿Tan enfurecido estabas contra el mar","que cabalgaste en tus caballos","y montaste en tus carros victoriosos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Descubriste tu arco,","llenaste de flechas tu aljaba."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tus ríos dividen la tierra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["las montañas te ven y se retuercen.","Pasan los torrentes de agua;","el abismo ruge y levanta sus olas en lo alto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El sol y la luna se detienen en el cielo","por el fulgor de tus veloces flechas,","por el deslumbrante brillo de tu lanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Indignado, marchas sobre la tierra;","en tu ira aplastas las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Saliste a liberar a tu pueblo,","saliste a salvar a tu ungido.","Aplastaste al rey de la perversa dinastía,","¡lo desnudaste de pies a cabeza!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Con su propia lanza atravesaste la cabeza de sus guerreros","que enfurecidos querían dispersarnos,","que con placer arrogante se lanzaron","como quien devora en secreto a un pobre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Pisoteaste el mar con tus corceles","que agitaban las inmensas aguas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Al oírlo, se estremecieron mis entrañas;","a su voz, me temblaron los labios;","la debilidad entró en los huesos","y se me aflojaron las piernas.","Pero yo espero con paciencia el día en que la calamidad","vendrá sobre la nación que nos invade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Aunque la higuera no florezca","ni haya frutos en las vides;","aunque falle la cosecha del olivo","y los campos no produzcan alimentos;","aunque en el redil no haya ovejas","ni vaca alguna en los establos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["aun así, yo me regocijaré en el Señor.","¡Me alegraré en el Dios de mi salvación!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El Señor y Dios es mi fuerza;","da a mis pies la ligereza de una gacela","y me hace caminar por las alturas."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al director musical. Sobre instrumentos de cuerda."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HAB.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEP.1.json"
+  },
+  "book": {
+    "book_usfm": "HAB",
+    "name": "Habacuc"
+  },
+  "chapter": {
+    "chapter_usfm": "HAB.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HAB.2",
+      "human": "Habacuc 2"
+    },
+    "current": {
+      "usfm": "HAB.3",
+      "human": "Habacuc 3"
+    },
+    "next": {
+      "usfm": "ZEP.1",
+      "human": "Sofonías 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La oración de Habacuc"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oración del profeta Habacuc. Según sigionot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Señor, he sabido de tu fama;",
+          "tiemblo delante de tus obras, Señor.",
+          "Repítelas en nuestros días,",
+          "dalas a conocer en nuestro tiempo;",
+          "en tu ira, ten presente tu misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Dios viene desde Temán;",
+          "el Santo, desde el monte de Parán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Su gloria cubre el cielo",
+          "y su alabanza llena la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Su resplandor es como el sol;",
+          "rayos brotan de sus manos;",
+          "su poder se esconde en sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Una plaga mortal lo precede",
+          "y una epidemia sigue sus pasos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Se detiene y la tierra se estremece;",
+          "lanza una mirada y las naciones tiemblan.",
+          "Se desmoronan las antiguas montañas",
+          "y se desploman las viejas colinas,",
+          "pero sus caminos son eternos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He visto afligidos los campamentos de Cusán,",
+          "y angustiadas las moradas de Madián."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¿Te enojaste, oh Señor, con los ríos?",
+          "¿Estuviste airado contra las corrientes?",
+          "¿Tan enfurecido estabas contra el mar",
+          "que cabalgaste en tus caballos",
+          "y montaste en tus carros victoriosos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Descubriste tu arco,",
+          "llenaste de flechas tu aljaba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tus ríos dividen la tierra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "las montañas te ven y se retuercen.",
+          "Pasan los torrentes de agua;",
+          "el abismo ruge y levanta sus olas en lo alto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El sol y la luna se detienen en el cielo",
+          "por el fulgor de tus veloces flechas,",
+          "por el deslumbrante brillo de tu lanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Indignado, marchas sobre la tierra;",
+          "en tu ira aplastas las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Saliste a liberar a tu pueblo,",
+          "saliste a salvar a tu ungido.",
+          "Aplastaste al rey de la perversa dinastía,",
+          "¡lo desnudaste de pies a cabeza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Con su propia lanza atravesaste la cabeza de sus guerreros",
+          "que enfurecidos querían dispersarnos,",
+          "que con placer arrogante se lanzaron",
+          "como quien devora en secreto a un pobre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Pisoteaste el mar con tus corceles",
+          "que agitaban las inmensas aguas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Al oírlo, se estremecieron mis entrañas;",
+          "a su voz, me temblaron los labios;",
+          "la debilidad entró en los huesos",
+          "y se me aflojaron las piernas.",
+          "Pero yo espero con paciencia el día en que la calamidad",
+          "vendrá sobre la nación que nos invade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Aunque la higuera no florezca",
+          "ni haya frutos en las vides;",
+          "aunque falle la cosecha del olivo",
+          "y los campos no produzcan alimentos;",
+          "aunque en el redil no haya ovejas",
+          "ni vaca alguna en los establos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "aun así, yo me regocijaré en el Señor.",
+          "¡Me alegraré en el Dios de mi salvación!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El Señor y Dios es mi fuerza;",
+          "da a mis pies la ligereza de una gacela",
+          "y me hace caminar por las alturas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Sobre instrumentos de cuerda."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,136 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.114","is_chapter":true,"previous":{"usfm":"PSA.113","human":"Psalm 113","canonical":true,"toc":true},"current":{"usfm":"PSA.114","human":"Psalm 114"},"next":{"usfm":"PSA.115","human":"Psalm 115","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["When Israel went out of Egypt,","The house of Jacob from a people of strange language;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Judah was his sanctuary,","And Israel his dominion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The sea saw it, and fled:","Jordan was driven back."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The mountains skipped like rams,","And the little hills like lambs."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["What ailed thee, O thou sea, that thou fleddest?","Thou Jordan, that thou wast driven back?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ye mountains, that ye skipped like rams;","And ye little hills, like lambs?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tremble, thou earth, at the presence of the Lord,","At the presence of the God of Jacob;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Which turned the rock into a standing water,","The flint into a fountain of waters."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.113.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.115.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.114",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.113",
+      "human": "Psalm 113"
+    },
+    "current": {
+      "usfm": "PSA.114",
+      "human": "Psalm 114"
+    },
+    "next": {
+      "usfm": "PSA.115",
+      "human": "Psalm 115"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "When Israel went out of Egypt,",
+          "The house of Jacob from a people of strange language;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Judah was his sanctuary,",
+          "And Israel his dominion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The sea saw it, and fled:",
+          "Jordan was driven back."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The mountains skipped like rams,",
+          "And the little hills like lambs."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "What ailed thee, O thou sea, that thou fleddest?",
+          "Thou Jordan, that thou wast driven back?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ye mountains, that ye skipped like rams;",
+          "And ye little hills, like lambs?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tremble, thou earth, at the presence of the Lord,",
+          "At the presence of the God of Jacob;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Which turned the rock into a standing water,",
+          "The flint into a fountain of waters."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

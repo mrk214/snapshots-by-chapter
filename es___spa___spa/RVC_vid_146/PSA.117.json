@@ -1,1 +1,79 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.117","is_chapter":true,"previous":{"usfm":"PSA.116","human":"Salmos 116","canonical":true,"toc":true},"current":{"usfm":"PSA.117","human":"Salmos 117"},"next":{"usfm":"PSA.118","human":"Salmos 118","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza por la misericordia del Señor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ustedes, naciones todas, ¡alaben al Señor!","Y ustedes, pueblos todos, ¡alaben al Señor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Grande es su misericordia por nosotros!","¡La fidelidad del Señor permanece para siempre!","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.116.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.118.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.117",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.116",
+      "human": "Salmos 116"
+    },
+    "current": {
+      "usfm": "PSA.117",
+      "human": "Salmos 117"
+    },
+    "next": {
+      "usfm": "PSA.118",
+      "human": "Salmos 118"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza por la misericordia del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ustedes, naciones todas, ¡alaben al Señor!",
+          "Y ustedes, pueblos todos, ¡alaben al Señor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Grande es su misericordia por nosotros!",
+          "¡La fidelidad del Señor permanece para siempre!",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

@@ -1,1 +1,108 @@
-{"version":{"version_id":212,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>","text":"A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."}},"book":{"book_usfm":"MAL","name":"Malaquias"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malaquias 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malaquias 4"},"next":{"usfm":"MAT.1","human":"Mateus 1","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Porque eis que aquele dia vem ardendo como forno; todos os soberbos e todos os que cometem impiedade serão como palha; e o dia que está para vir os abrasará, diz o Senhor dos Exércitos, de sorte que lhes não deixará nem raiz nem ramo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mas para vós que temeis o meu nome nascerá o sol da justiça e salvação trará debaixo das suas asas; e saireis e crescereis como os bezerros do cevadouro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que farei, diz o Senhor dos Exércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lembrai-vos da Lei de Moisés, meu servo, a qual lhe mandei em Horebe para todo o Israel, a qual são os estatutos e juízos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eis que eu vos envio o profeta Elias, antes que venha o dia grande e terrível do Senhor;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malaquias"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malaquias 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malaquias 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Mateus 1"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Porque eis que aquele dia vem ardendo como forno; todos os soberbos e todos os que cometem impiedade serão como palha; e o dia que está para vir os abrasará, diz o Senhor dos Exércitos, de sorte que lhes não deixará nem raiz nem ramo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mas para vós que temeis o meu nome nascerá o sol da justiça e salvação trará debaixo das suas asas; e saireis e crescereis como os bezerros do cevadouro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "E pisareis os ímpios, porque se farão cinza debaixo das plantas de vossos pés, naquele dia que farei, diz o Senhor dos Exércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lembrai-vos da Lei de Moisés, meu servo, a qual lhe mandei em Horebe para todo o Israel, a qual são os estatutos e juízos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eis que eu vos envio o profeta Elias, antes que venha o dia grande e terrível do Senhor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e converterá o coração dos pais aos filhos e o coração dos filhos a seus pais; para que eu não venha e fira a terra com maldição."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 212,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A <a href=\"http://www.sbb.org.br\">Sociedade Bíblica do Brasil</a> trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode <a href=\"http://www.sbb.org.br/apoieacausadabiblia/\">apoiar a Causa da Bíblia!</a> ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados.</p>",
+      "text": "A Sociedade Bíblica do Brasil trabalha para que a Bíblia esteja, efetivamente, ao alcance de todos e seja lida por todos. A SBB é uma entidade sem fins lucrativos, dedicada a disseminar a Bíblia e, por meio dela, promover o desenvolvimento integral do ser humano. Você também pode apoiar a Causa da Bíblia! ARC © 2009 Sociedade Bíblica do Brasil. Todos os direitos reservados."
+    }
+  }
+}

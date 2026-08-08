@@ -1,1 +1,307 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.38","is_chapter":true,"previous":{"usfm":"PSA.37","human":"Salmos 37","canonical":true,"toc":true},"current":{"usfm":"PSA.38","human":"Salmos 38"},"next":{"usfm":"PSA.39","human":"Salmos 39","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración de un penitente"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David, para recordar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Señor, no me reprendas en tu enojo;","¡no me castigues en tu ira!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tus flechas se han clavado en mí;","¡sobre mí has dejado caer tu mano!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por causa de tu enojo, nada sano hay en mi cuerpo;","por causa de mi maldad, no hay paz en mis huesos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mi pecado pesa sobre mi cabeza;","¡es una carga que ya no puedo soportar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por causa de mi locura,","mis heridas supuran y apestan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Estoy abrumado, totalmente abatido;","¡todo el tiempo ando afligido!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La espalda me arde sin cesar;","¡no hay nada sano en todo mi cuerpo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Me siento débil y en gran manera agobiado;","¡mis quejas son las de un corazón atribulado!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Señor, tú conoces todos mis deseos;","mis anhelos no te son ocultos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Mi corazón se agita, me faltan fuerzas,","y hasta mis ojos se van apagando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Mis mejores amigos se alejan de mis males;","¡hasta mis parientes se apartan de mí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Hay quienes conspiran contra mi vida;","buscan mi mal y tratan de arruinarme.","¡Todo el tiempo hacen planes contra mí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Pero yo cierro los oídos, y no los oigo;","finjo ser mudo y no abro la boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Soy como los que no oyen","ni profieren ningún reproche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Señor, yo confío en ti;","¡tú, Señor mi Dios, responderás por mí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Tan solo pido que no se alegren de mí;","¡que no se burlen de mí, si acaso caigo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["En realidad, estoy a punto de caer,","y mi dolor no me abandona."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Por eso, voy a confesar mi maldad;","pues me pesa haber pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Mis enemigos están sanos y fuertes;","aumentan los que me odian sin razón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Los que me pagan mal por bien","me atacan porque prefiero hacer lo bueno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Señor, ¡no me abandones!","Dios mío, ¡no te alejes de mí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Señor, mi salvador,","¡ven pronto en mi ayuda!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.37.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.39.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.38",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.37",
+      "human": "Salmos 37"
+    },
+    "current": {
+      "usfm": "PSA.38",
+      "human": "Salmos 38"
+    },
+    "next": {
+      "usfm": "PSA.39",
+      "human": "Salmos 39"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración de un penitente"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David, para recordar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Señor, no me reprendas en tu enojo;",
+          "¡no me castigues en tu ira!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tus flechas se han clavado en mí;",
+          "¡sobre mí has dejado caer tu mano!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por causa de tu enojo, nada sano hay en mi cuerpo;",
+          "por causa de mi maldad, no hay paz en mis huesos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mi pecado pesa sobre mi cabeza;",
+          "¡es una carga que ya no puedo soportar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por causa de mi locura,",
+          "mis heridas supuran y apestan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Estoy abrumado, totalmente abatido;",
+          "¡todo el tiempo ando afligido!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La espalda me arde sin cesar;",
+          "¡no hay nada sano en todo mi cuerpo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Me siento débil y en gran manera agobiado;",
+          "¡mis quejas son las de un corazón atribulado!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Señor, tú conoces todos mis deseos;",
+          "mis anhelos no te son ocultos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Mi corazón se agita, me faltan fuerzas,",
+          "y hasta mis ojos se van apagando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Mis mejores amigos se alejan de mis males;",
+          "¡hasta mis parientes se apartan de mí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Hay quienes conspiran contra mi vida;",
+          "buscan mi mal y tratan de arruinarme.",
+          "¡Todo el tiempo hacen planes contra mí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Pero yo cierro los oídos, y no los oigo;",
+          "finjo ser mudo y no abro la boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Soy como los que no oyen",
+          "ni profieren ningún reproche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Señor, yo confío en ti;",
+          "¡tú, Señor mi Dios, responderás por mí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Tan solo pido que no se alegren de mí;",
+          "¡que no se burlen de mí, si acaso caigo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "En realidad, estoy a punto de caer,",
+          "y mi dolor no me abandona."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Por eso, voy a confesar mi maldad;",
+          "pues me pesa haber pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Mis enemigos están sanos y fuertes;",
+          "aumentan los que me odian sin razón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Los que me pagan mal por bien",
+          "me atacan porque prefiero hacer lo bueno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Señor, ¡no me abandones!",
+          "Dios mío, ¡no te alejes de mí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Señor, mi salvador,",
+          "¡ven pronto en mi ayuda!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

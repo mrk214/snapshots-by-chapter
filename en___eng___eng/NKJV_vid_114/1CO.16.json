@@ -1,1 +1,321 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"1CO","name":"I Corinthians"},"chapter":{"chapter_usfm":"1CO.16","is_chapter":true,"previous":{"usfm":"1CO.15","human":"I Corinthians 15","canonical":true,"toc":true},"current":{"usfm":"1CO.16","human":"I Corinthians 16"},"next":{"usfm":"2CO.1","human":"II Corinthians 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Collection for the Saints"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Now concerning the collection for the saints, as I have given orders to the churches of Galatia, so you must do also:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["On the first day of the week let each one of you lay something aside, storing up as he may prosper, that there be no collections when I come."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And when I come, whomever you approve by your letters I will send to bear your gift to Jerusalem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But if it is fitting that I go also, they will go with me."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Personal Plans"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Now I will come to you when I pass through Macedonia (for I am passing through Macedonia)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And it may be that I will remain, or even spend the winter with you, that you may send me on my journey, wherever I go."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For I do not wish to see you now on the way; but I hope to stay a while with you, if the Lord permits."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But I will tarry in Ephesus until Pentecost."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For a great and effective door has opened to me, and there are many adversaries."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And if Timothy comes, see that he may be with you without fear; for he does the work of the Lord, as I also do."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Therefore let no one despise him. But send him on his journey in peace, that he may come to me; for I am waiting for him with the brethren."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Now concerning our brother Apollos, I strongly urged him to come to you with the brethren, but he was quite unwilling to come at this time; however, he will come when he has a convenient time."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Final Exhortations"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Watch, stand fast in the faith, be brave, be strong."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Let all that you do be done with love."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["I urge you, brethren—you know the household of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["that you also submit to such, and to everyone who works and labors with us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I am glad about the coming of Stephanas, Fortunatus, and Achaicus, for what was lacking on your part they supplied."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["For they refreshed my spirit and yours. Therefore acknowledge such men."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Greetings and a Solemn Farewell"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["The churches of Asia greet you. Aquila and Priscilla greet you heartily in the Lord, with the church that is in their house."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["All the brethren greet you.","Greet one another with a holy kiss."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["The salutation with my own hand—Paul’s."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["If anyone does not love the Lord Jesus Christ, let him be accursed. O Lord, come!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["The grace of our Lord Jesus Christ be with you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["My love be with you all in Christ Jesus. Amen."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CO.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2CO.1.json"
+  },
+  "book": {
+    "book_usfm": "1CO",
+    "name": "I Corinthians"
+  },
+  "chapter": {
+    "chapter_usfm": "1CO.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1CO.15",
+      "human": "I Corinthians 15"
+    },
+    "current": {
+      "usfm": "1CO.16",
+      "human": "I Corinthians 16"
+    },
+    "next": {
+      "usfm": "2CO.1",
+      "human": "II Corinthians 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Collection for the Saints"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Now concerning the collection for the saints, as I have given orders to the churches of Galatia, so you must do also:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "On the first day of the week let each one of you lay something aside, storing up as he may prosper, that there be no collections when I come."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And when I come, whomever you approve by your letters I will send to bear your gift to Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But if it is fitting that I go also, they will go with me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Personal Plans"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Now I will come to you when I pass through Macedonia (for I am passing through Macedonia)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And it may be that I will remain, or even spend the winter with you, that you may send me on my journey, wherever I go."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For I do not wish to see you now on the way; but I hope to stay a while with you, if the Lord permits."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But I will tarry in Ephesus until Pentecost."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For a great and effective door has opened to me, and there are many adversaries."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And if Timothy comes, see that he may be with you without fear; for he does the work of the Lord, as I also do."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Therefore let no one despise him. But send him on his journey in peace, that he may come to me; for I am waiting for him with the brethren."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Now concerning our brother Apollos, I strongly urged him to come to you with the brethren, but he was quite unwilling to come at this time; however, he will come when he has a convenient time."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Final Exhortations"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Watch, stand fast in the faith, be brave, be strong."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Let all that you do be done with love."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "I urge you, brethren—you know the household of Stephanas, that it is the firstfruits of Achaia, and that they have devoted themselves to the ministry of the saints—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "that you also submit to such, and to everyone who works and labors with us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I am glad about the coming of Stephanas, Fortunatus, and Achaicus, for what was lacking on your part they supplied."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "For they refreshed my spirit and yours. Therefore acknowledge such men."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Greetings and a Solemn Farewell"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "The churches of Asia greet you. Aquila and Priscilla greet you heartily in the Lord, with the church that is in their house."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "All the brethren greet you.",
+          "Greet one another with a holy kiss."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "The salutation with my own hand—Paul’s."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "If anyone does not love the Lord Jesus Christ, let him be accursed. O Lord, come!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "The grace of our Lord Jesus Christ be with you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "My love be with you all in Christ Jesus. Amen."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

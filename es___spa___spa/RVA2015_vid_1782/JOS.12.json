@@ -1,1 +1,304 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.12","is_chapter":true,"previous":{"usfm":"JOS.11","human":"Josué 11","canonical":true,"toc":true},"current":{"usfm":"JOS.12","human":"Josué 12"},"next":{"usfm":"JOS.13","human":"Josué 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Reyes derrotados por Moisés"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Estos son los reyes de la tierra a quienes derrotaron los hijos de Israel y cuyas tierras poseyeron al lado oriental del Jordán, desde el río Arnón hasta el monte Hermón y todo el Arabá oriental:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sejón, rey de los amorreos, que habitaba en Hesbón. Este reinaba desde Aroer, que está en la ribera del río Arnón y desde el centro del valle hasta el río Jaboc, que sirve de frontera con los hijos de Amón. Esta región incluía la mitad de Galaad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y el Arabá, desde el mar Quinéret, al oriente, hasta el mar del Arabá, o mar Salado, al oriente en dirección a Bet-jesimot, y por el sur hasta más abajo de las faldas del Pisga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Og, rey de Basán, sobreviviente de los refaítas, quien residía en Astarot y en Edrei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Este reinaba en el monte Hermón, en Salca y en todo Basán, hasta la frontera de Gesur y de Maaca y en la mitad de Galaad, hasta la frontera de Sejón, rey de Hesbón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moisés, siervo del SEÑOR, y los hijos de Israel los derrotaron. Y Moisés, siervo del SEÑOR, dio la tierra en posesión a los rubenitas, a los gaditas y a la media tribu de Manasés."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Reyes derrotados por Josué"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Estos son los reyes de la tierra a quienes derrotaron Josué y los hijos de Israel en el lado occidental del Jordán, desde Baal-gad, en el valle del Líbano, hasta el monte Halac que sube a Seír, cuya tierra dio Josué en posesión a las tribus de Israel conforme a su distribución,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["en la región montañosa, en la Sefela, en el Arabá, en las laderas, en el desierto y en el Néguev, donde habitaban los heteos, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El rey de Jericó, uno; el rey de Hai (que está junto a Betel), uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["el rey de Jerusalén, uno; el rey de Hebrón, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["el rey de Jarmut, uno; el rey de Laquis, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["el rey de Eglón, uno; el rey de Gezer, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["el rey de Debir, uno; el rey de Geder, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["el rey de Horma, uno; el rey de Arad, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["el rey de Libna, uno; el rey de Adulam, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["el rey de Maqueda, uno; el rey de Betel, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["el rey de Tapúaj, uno; el rey de Hefer, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["el rey de Afec, uno; el rey de Sarón, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["el rey de Madón, uno; el rey de Hazor, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["el rey de Simron-merón, uno; el rey de Acsaf, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["el rey de Taanac, uno; el rey de Meguido, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["el rey de Quedes, uno; el rey de Jocneam del Carmelo, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["el rey de Dor en Nafot-dor, uno; el rey de Goím en Gilgal, uno;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["el rey de Tirsa, uno. Treinta y un reyes en total."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.13.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.11",
+      "human": "Josué 11"
+    },
+    "current": {
+      "usfm": "JOS.12",
+      "human": "Josué 12"
+    },
+    "next": {
+      "usfm": "JOS.13",
+      "human": "Josué 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Reyes derrotados por Moisés"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Estos son los reyes de la tierra a quienes derrotaron los hijos de Israel y cuyas tierras poseyeron al lado oriental del Jordán, desde el río Arnón hasta el monte Hermón y todo el Arabá oriental:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sejón, rey de los amorreos, que habitaba en Hesbón. Este reinaba desde Aroer, que está en la ribera del río Arnón y desde el centro del valle hasta el río Jaboc, que sirve de frontera con los hijos de Amón. Esta región incluía la mitad de Galaad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y el Arabá, desde el mar Quinéret, al oriente, hasta el mar del Arabá, o mar Salado, al oriente en dirección a Bet-jesimot, y por el sur hasta más abajo de las faldas del Pisga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Og, rey de Basán, sobreviviente de los refaítas, quien residía en Astarot y en Edrei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Este reinaba en el monte Hermón, en Salca y en todo Basán, hasta la frontera de Gesur y de Maaca y en la mitad de Galaad, hasta la frontera de Sejón, rey de Hesbón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moisés, siervo del SEÑOR, y los hijos de Israel los derrotaron. Y Moisés, siervo del SEÑOR, dio la tierra en posesión a los rubenitas, a los gaditas y a la media tribu de Manasés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Reyes derrotados por Josué"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Estos son los reyes de la tierra a quienes derrotaron Josué y los hijos de Israel en el lado occidental del Jordán, desde Baal-gad, en el valle del Líbano, hasta el monte Halac que sube a Seír, cuya tierra dio Josué en posesión a las tribus de Israel conforme a su distribución,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "en la región montañosa, en la Sefela, en el Arabá, en las laderas, en el desierto y en el Néguev, donde habitaban los heteos, los amorreos, los cananeos, los ferezeos, los heveos y los jebuseos:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El rey de Jericó, uno; el rey de Hai (que está junto a Betel), uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "el rey de Jerusalén, uno; el rey de Hebrón, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "el rey de Jarmut, uno; el rey de Laquis, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "el rey de Eglón, uno; el rey de Gezer, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "el rey de Debir, uno; el rey de Geder, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "el rey de Horma, uno; el rey de Arad, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "el rey de Libna, uno; el rey de Adulam, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "el rey de Maqueda, uno; el rey de Betel, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "el rey de Tapúaj, uno; el rey de Hefer, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "el rey de Afec, uno; el rey de Sarón, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "el rey de Madón, uno; el rey de Hazor, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "el rey de Simron-merón, uno; el rey de Acsaf, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "el rey de Taanac, uno; el rey de Meguido, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "el rey de Quedes, uno; el rey de Jocneam del Carmelo, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "el rey de Dor en Nafot-dor, uno; el rey de Goím en Gilgal, uno;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "el rey de Tirsa, uno. Treinta y un reyes en total."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

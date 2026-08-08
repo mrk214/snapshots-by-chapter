@@ -1,1 +1,146 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.120","is_chapter":true,"previous":{"usfm":"PSA.119","human":"Salmos 119","canonical":true,"toc":true},"current":{"usfm":"PSA.120","human":"Salmos 120"},"next":{"usfm":"PSA.121","human":"Salmos 121","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Contra as más línguas"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de peregrinação"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Na minha angústia,","clamo ao Senhor,","e ele me ouve."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Senhor, livra-me","dos lábios mentirosos,","da língua enganadora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O que lhe será dado","ou o que lhe será acrescentado,","ó língua enganadora?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Flechas afiadas de guerreiro","e brasas vivas de zimbro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ai de mim,","que peregrino em Meseque","e habito nas tendas de Quedar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Já há tempo demais que habito","com aqueles que odeiam a paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Sou pela paz;","quando, porém, eu falo,","eles teimam pela guerra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.119.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.121.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.120",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.119",
+      "human": "Salmos 119"
+    },
+    "current": {
+      "usfm": "PSA.120",
+      "human": "Salmos 120"
+    },
+    "next": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Contra as más línguas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de peregrinação"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Na minha angústia,",
+          "clamo ao Senhor,",
+          "e ele me ouve."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Senhor, livra-me",
+          "dos lábios mentirosos,",
+          "da língua enganadora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O que lhe será dado",
+          "ou o que lhe será acrescentado,",
+          "ó língua enganadora?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Flechas afiadas de guerreiro",
+          "e brasas vivas de zimbro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ai de mim,",
+          "que peregrino em Meseque",
+          "e habito nas tendas de Quedar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Já há tempo demais que habito",
+          "com aqueles que odeiam a paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Sou pela paz;",
+          "quando, porém, eu falo,",
+          "eles teimam pela guerra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

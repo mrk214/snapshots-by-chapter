@@ -1,1 +1,363 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.19","is_chapter":true,"previous":{"usfm":"SIR.18","human":"Eclesiástico 18","canonical":true,"toc":true},"current":{"usfm":"SIR.19","human":"Eclesiástico 19"},"next":{"usfm":"SIR.20","human":"Eclesiástico 20","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El que hace eso nunca llegará a ser rico;","el que descuida las cosas pequeñas terminará en la ruina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El vino y las mujeres llevan al libertinaje,","y el que anda con prostitutas se vuelve descarado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Se pudrirá, los gusanos se lo comerán,","y su descaro será aniquilado."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Pecados de la lengua"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El que se fía a la primera, es un espíritu ligero;","el que peca, se hace mal a sí mismo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El que goza haciendo el mal, será condenado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El que domina su lengua, vivirá en paz,","y el que odia la murmuración, sufrirá poco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No repitas los chismes","y te evitarás perjuicios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["No los cuentes ni de amigos ni de enemigos;","no los reveles, a menos que peques por callar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si uno de ellos te oye, desconfiará de ti","y más tarde te odiará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Si te cuentan algo, guárdalo hasta la tumba;","no te preocupes, que no vas a reventar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Un imprudente guardando un secreto","sufre más que una mujer de parto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Como flecha clavada en la pierna,","es un secreto en el pecho de un imprudente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Si te cuentan algo de un amigo, pregúntale,","quizá él no haya hecho lo que dicen;","y si lo hizo, para que no lo vuelva a hacer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Si te cuentan algo de tu prójimo, pregúntale,","quizá no haya dicho lo que le achacan;","pero si lo dijo, para que no vuelva a decirlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Pregunta al amigo;","con frecuencia es pura calumnia;","no creas todo lo que dicen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["A veces uno se equivoca, pero sin querer;","¿quién no ha pecado con la lengua?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Antes de amenazar al prójimo, pregúntale;","deja que la ley del Altísimo siga su curso."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La verdadera sabiduría"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Toda la sabiduría está en honrar al Señor","y en cumplir su ley."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Saber mucho de maldad, eso no es sabiduría;","seguir el consejo de los pecadores no es sensatez."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Hay una astucia detestable,","pero hay tontos que no tienen la culpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Más vale ser ignorante y honrar a Dios","que ser muy listo y faltar a la ley."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Hay habilidad consumada pero injusta,","y hay quien actúa torcidamente para que le hagan justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Hay quien anda agachado y triste,","pero por dentro está lleno de engaños;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["agacha la cabeza y se hace el sordo,","pero cuando no lo ven, te saca ventaja,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["y si no tiene fuerza para ahora hacerte mal,","en la primera ocasión te causará algún perjuicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Por la cara se conoce a una persona,","y por el aspecto se distingue al sabio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["La manera de vestirse, de reír y caminar,","muestra lo que uno es."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/SIR.18.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/SIR.20.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.19",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.18",
+      "human": "Eclesiástico 18"
+    },
+    "current": {
+      "usfm": "SIR.19",
+      "human": "Eclesiástico 19"
+    },
+    "next": {
+      "usfm": "SIR.20",
+      "human": "Eclesiástico 20"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El que hace eso nunca llegará a ser rico;",
+          "el que descuida las cosas pequeñas terminará en la ruina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El vino y las mujeres llevan al libertinaje,",
+          "y el que anda con prostitutas se vuelve descarado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Se pudrirá, los gusanos se lo comerán,",
+          "y su descaro será aniquilado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Pecados de la lengua"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El que se fía a la primera, es un espíritu ligero;",
+          "el que peca, se hace mal a sí mismo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El que goza haciendo el mal, será condenado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El que domina su lengua, vivirá en paz,",
+          "y el que odia la murmuración, sufrirá poco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No repitas los chismes",
+          "y te evitarás perjuicios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "No los cuentes ni de amigos ni de enemigos;",
+          "no los reveles, a menos que peques por callar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si uno de ellos te oye, desconfiará de ti",
+          "y más tarde te odiará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Si te cuentan algo, guárdalo hasta la tumba;",
+          "no te preocupes, que no vas a reventar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Un imprudente guardando un secreto",
+          "sufre más que una mujer de parto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Como flecha clavada en la pierna,",
+          "es un secreto en el pecho de un imprudente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Si te cuentan algo de un amigo, pregúntale,",
+          "quizá él no haya hecho lo que dicen;",
+          "y si lo hizo, para que no lo vuelva a hacer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Si te cuentan algo de tu prójimo, pregúntale,",
+          "quizá no haya dicho lo que le achacan;",
+          "pero si lo dijo, para que no vuelva a decirlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Pregunta al amigo;",
+          "con frecuencia es pura calumnia;",
+          "no creas todo lo que dicen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "A veces uno se equivoca, pero sin querer;",
+          "¿quién no ha pecado con la lengua?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Antes de amenazar al prójimo, pregúntale;",
+          "deja que la ley del Altísimo siga su curso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La verdadera sabiduría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Toda la sabiduría está en honrar al Señor",
+          "y en cumplir su ley."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Saber mucho de maldad, eso no es sabiduría;",
+          "seguir el consejo de los pecadores no es sensatez."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Hay una astucia detestable,",
+          "pero hay tontos que no tienen la culpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Más vale ser ignorante y honrar a Dios",
+          "que ser muy listo y faltar a la ley."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Hay habilidad consumada pero injusta,",
+          "y hay quien actúa torcidamente para que le hagan justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Hay quien anda agachado y triste,",
+          "pero por dentro está lleno de engaños;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "agacha la cabeza y se hace el sordo,",
+          "pero cuando no lo ven, te saca ventaja,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "y si no tiene fuerza para ahora hacerte mal,",
+          "en la primera ocasión te causará algún perjuicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Por la cara se conoce a una persona,",
+          "y por el aspecto se distingue al sabio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "La manera de vestirse, de reír y caminar,",
+          "muestra lo que uno es."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

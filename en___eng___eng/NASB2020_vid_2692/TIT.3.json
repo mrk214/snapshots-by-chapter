@@ -1,1 +1,215 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"TIT","name":"Titus"},"chapter":{"chapter_usfm":"TIT.3","is_chapter":true,"previous":{"usfm":"TIT.2","human":"Titus 2","canonical":true,"toc":true},"current":{"usfm":"TIT.3","human":"Titus 3"},"next":{"usfm":"PHM.1","human":"Philemon 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Godly Living"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Remind them to be subject to rulers, to authorities, to be obedient, to be ready for every good deed,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["to slander no one, not to be contentious, to be gentle, showing every consideration for all people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For we too were once foolish, disobedient, deceived, enslaved to various lusts and pleasures, spending our life in malice and envy, hateful, hating one another."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But when the kindness of God our Savior and His love for mankind appeared,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He saved us, not on the basis of deeds which we did in righteousness, but in accordance with His mercy, by the washing of regeneration and renewing by the Holy Spirit,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["whom He richly poured out upon us through Jesus Christ our Savior,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["so that being justified by His grace we would be made heirs according to the hope of eternal life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["This statement is trustworthy; and concerning these things I want you to speak confidently, so that those who have believed God will be careful to engage in good deeds. These things are good and beneficial for people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["But avoid foolish controversies and genealogies and strife and disputes about the Law, for they are useless and worthless."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Reject a divisive person after a first and second warning,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["knowing that such a person has deviated from what is right and is sinning, being self-condemned."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Personal Concerns"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["When I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, for I have decided to spend the winter there."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Diligently help Zenas the lawyer and Apollos on their way so that nothing is lacking for them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Our people must also learn to engage in good deeds to meet pressing needs, so that they will not be unproductive."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["All who are with me greet you. Greet those who love us in the faith.","Grace be with you all."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/TIT.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PHM.1.json"
+  },
+  "book": {
+    "book_usfm": "TIT",
+    "name": "Titus"
+  },
+  "chapter": {
+    "chapter_usfm": "TIT.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "TIT.2",
+      "human": "Titus 2"
+    },
+    "current": {
+      "usfm": "TIT.3",
+      "human": "Titus 3"
+    },
+    "next": {
+      "usfm": "PHM.1",
+      "human": "Philemon 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Godly Living"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Remind them to be subject to rulers, to authorities, to be obedient, to be ready for every good deed,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "to slander no one, not to be contentious, to be gentle, showing every consideration for all people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For we too were once foolish, disobedient, deceived, enslaved to various lusts and pleasures, spending our life in malice and envy, hateful, hating one another."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But when the kindness of God our Savior and His love for mankind appeared,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He saved us, not on the basis of deeds which we did in righteousness, but in accordance with His mercy, by the washing of regeneration and renewing by the Holy Spirit,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "whom He richly poured out upon us through Jesus Christ our Savior,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "so that being justified by His grace we would be made heirs according to the hope of eternal life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "This statement is trustworthy; and concerning these things I want you to speak confidently, so that those who have believed God will be careful to engage in good deeds. These things are good and beneficial for people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "But avoid foolish controversies and genealogies and strife and disputes about the Law, for they are useless and worthless."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Reject a divisive person after a first and second warning,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "knowing that such a person has deviated from what is right and is sinning, being self-condemned."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Personal Concerns"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "When I send Artemas or Tychicus to you, make every effort to come to me at Nicopolis, for I have decided to spend the winter there."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Diligently help Zenas the lawyer and Apollos on their way so that nothing is lacking for them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Our people must also learn to engage in good deeds to meet pressing needs, so that they will not be unproductive."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "All who are with me greet you. Greet those who love us in the faith.",
+          "Grace be with you all."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

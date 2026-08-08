@@ -1,1 +1,113 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.123","is_chapter":true,"previous":{"usfm":"PSA.122","human":"Salmos 122","canonical":true,"toc":true},"current":{"usfm":"PSA.123","human":"Salmos 123"},"next":{"usfm":"PSA.124","human":"Salmos 124","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Solicitude por auxílio divino"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de romagem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A ti, que habitas nos céus,","elevo os olhos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Como os olhos dos servos estão fitos","nas mãos dos seus senhores,","e os olhos da serva,","na mão de sua senhora,","assim os nossos olhos estão fitos no Senhor, nosso Deus,","até que se compadeça de nós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tem misericórdia de nós, Senhor, tem misericórdia;","pois estamos sobremodo fartos de desprezo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A nossa alma está saturada","do escárnio dos que estão à sua vontade","e do desprezo dos soberbos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.122.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.124.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.123",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.122",
+      "human": "Salmos 122"
+    },
+    "current": {
+      "usfm": "PSA.123",
+      "human": "Salmos 123"
+    },
+    "next": {
+      "usfm": "PSA.124",
+      "human": "Salmos 124"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Solicitude por auxílio divino"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de romagem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A ti, que habitas nos céus,",
+          "elevo os olhos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Como os olhos dos servos estão fitos",
+          "nas mãos dos seus senhores,",
+          "e os olhos da serva,",
+          "na mão de sua senhora,",
+          "assim os nossos olhos estão fitos no Senhor, nosso Deus,",
+          "até que se compadeça de nós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tem misericórdia de nós, Senhor, tem misericórdia;",
+          "pois estamos sobremodo fartos de desprezo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A nossa alma está saturada",
+          "do escárnio dos que estão à sua vontade",
+          "e do desprezo dos soberbos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

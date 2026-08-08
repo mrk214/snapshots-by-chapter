@@ -1,1 +1,127 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.23","is_chapter":true,"previous":{"usfm":"PSA.22","human":"Salmos 22","canonical":true,"toc":true},"current":{"usfm":"PSA.23","human":"Salmos 23"},"next":{"usfm":"PSA.24","human":"Salmos 24","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor é o meu pastor; de nada terei falta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Em verdes pastagens me faz repousar","e me conduz a águas tranquilas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["restaura-me o vigor.","Guia-me nas veredas da justiça","por amor do seu nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mesmo quando eu andar","por um vale de trevas e morte,","não temerei perigo algum, pois tu estás comigo;","a tua vara e o teu cajado me protegem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Preparas um banquete para mim","à vista dos meus inimigos.","Tu me honras, ungindo a minha cabeça com óleo","e fazendo transbordar o meu cálice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sei que a bondade e a fidelidade","me acompanharão todos os dias da minha vida,","e voltarei à casa do Senhor enquanto eu viver."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.24.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.22",
+      "human": "Salmos 22"
+    },
+    "current": {
+      "usfm": "PSA.23",
+      "human": "Salmos 23"
+    },
+    "next": {
+      "usfm": "PSA.24",
+      "human": "Salmos 24"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor é o meu pastor; de nada terei falta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Em verdes pastagens me faz repousar",
+          "e me conduz a águas tranquilas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "restaura-me o vigor.",
+          "Guia-me nas veredas da justiça",
+          "por amor do seu nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mesmo quando eu andar",
+          "por um vale de trevas e morte,",
+          "não temerei perigo algum, pois tu estás comigo;",
+          "a tua vara e o teu cajado me protegem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Preparas um banquete para mim",
+          "à vista dos meus inimigos.",
+          "Tu me honras, ungindo a minha cabeça com óleo",
+          "e fazendo transbordar o meu cálice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sei que a bondade e a fidelidade",
+          "me acompanharão todos os dias da minha vida,",
+          "e voltarei à casa do Senhor enquanto eu viver."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

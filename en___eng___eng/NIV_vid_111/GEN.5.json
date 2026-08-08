@@ -1,1 +1,377 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.5","is_chapter":true,"previous":{"usfm":"GEN.4","human":"Genesis 4","canonical":true,"toc":true},"current":{"usfm":"GEN.5","human":"Genesis 5"},"next":{"usfm":"GEN.6","human":"Genesis 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["From Adam to Noah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["This is the written account of Adam’s family line.","When God created mankind, he made them in the likeness of God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He created them male and female and blessed them. And he named them “Mankind” when they were created."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["After Seth was born, Adam lived 800 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Altogether, Adam lived a total of 930 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["When Seth had lived 105 years, he became the father of Enosh."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["After he became the father of Enosh, Seth lived 807 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Altogether, Seth lived a total of 912 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["When Enosh had lived 90 years, he became the father of Kenan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Altogether, Enosh lived a total of 905 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["When Kenan had lived 70 years, he became the father of Mahalalel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Altogether, Kenan lived a total of 910 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["When Mahalalel had lived 65 years, he became the father of Jared."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Altogether, Mahalalel lived a total of 895 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["When Jared had lived 162 years, he became the father of Enoch."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["After he became the father of Enoch, Jared lived 800 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Altogether, Jared lived a total of 962 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["When Enoch had lived 65 years, he became the father of Methuselah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["After he became the father of Methuselah, Enoch walked faithfully with God 300 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Altogether, Enoch lived a total of 365 years."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Enoch walked faithfully with God; then he was no more, because God took him away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["When Methuselah had lived 187 years, he became the father of Lamech."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Altogether, Methuselah lived a total of 969 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["When Lamech had lived 182 years, he had a son."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the Lord has cursed.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["After Noah was born, Lamech lived 595 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["Altogether, Lamech lived a total of 777 years, and then he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[32],"lines":["After Noah was 500 years old, he became the father of Shem, Ham and Japheth."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/GEN.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/GEN.6.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.4",
+      "human": "Genesis 4"
+    },
+    "current": {
+      "usfm": "GEN.5",
+      "human": "Genesis 5"
+    },
+    "next": {
+      "usfm": "GEN.6",
+      "human": "Genesis 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "From Adam to Noah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "This is the written account of Adam’s family line.",
+          "When God created mankind, he made them in the likeness of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He created them male and female and blessed them. And he named them “Mankind” when they were created."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When Adam had lived 130 years, he had a son in his own likeness, in his own image; and he named him Seth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "After Seth was born, Adam lived 800 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Altogether, Adam lived a total of 930 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "When Seth had lived 105 years, he became the father of Enosh."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "After he became the father of Enosh, Seth lived 807 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Altogether, Seth lived a total of 912 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "When Enosh had lived 90 years, he became the father of Kenan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "After he became the father of Kenan, Enosh lived 815 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Altogether, Enosh lived a total of 905 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "When Kenan had lived 70 years, he became the father of Mahalalel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "After he became the father of Mahalalel, Kenan lived 840 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Altogether, Kenan lived a total of 910 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "When Mahalalel had lived 65 years, he became the father of Jared."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "After he became the father of Jared, Mahalalel lived 830 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Altogether, Mahalalel lived a total of 895 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "When Jared had lived 162 years, he became the father of Enoch."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "After he became the father of Enoch, Jared lived 800 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Altogether, Jared lived a total of 962 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "When Enoch had lived 65 years, he became the father of Methuselah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "After he became the father of Methuselah, Enoch walked faithfully with God 300 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Altogether, Enoch lived a total of 365 years."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Enoch walked faithfully with God; then he was no more, because God took him away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "When Methuselah had lived 187 years, he became the father of Lamech."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "After he became the father of Lamech, Methuselah lived 782 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Altogether, Methuselah lived a total of 969 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "When Lamech had lived 182 years, he had a son."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "He named him Noah and said, “He will comfort us in the labor and painful toil of our hands caused by the ground the Lord has cursed.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "After Noah was born, Lamech lived 595 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "Altogether, Lamech lived a total of 777 years, and then he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          32
+        ],
+        "lines": [
+          "After Noah was 500 years old, he became the father of Shem, Ham and Japheth."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

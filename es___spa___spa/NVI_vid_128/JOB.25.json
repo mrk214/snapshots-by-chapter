@@ -1,1 +1,121 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.25","is_chapter":true,"previous":{"usfm":"JOB.24","human":"Job 24","canonical":true,"toc":true},"current":{"usfm":"JOB.25","human":"Job 25"},"next":{"usfm":"JOB.26","human":"Job 26","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Tercer discurso de Bildad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A esto respondió Bildad de Súah:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Dios es poderoso e infunde temor;","él pone orden en las alturas de los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Pueden contarse acaso sus ejércitos?","¿Sobre quién no alumbra su luz?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Cómo puede una persona declararse justo ante Dios?","¿Cómo puede alegar pureza quien ha nacido de mujer?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Si a sus ojos no tiene brillo la luna,","ni son puras las estrellas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["mucho menos el hombre, simple gusano;","¡mucho menos el hombre, miserable lombriz!»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.26.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.24",
+      "human": "Job 24"
+    },
+    "current": {
+      "usfm": "JOB.25",
+      "human": "Job 25"
+    },
+    "next": {
+      "usfm": "JOB.26",
+      "human": "Job 26"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Tercer discurso de Bildad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A esto respondió Bildad de Súah:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Dios es poderoso e infunde temor;",
+          "él pone orden en las alturas de los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Pueden contarse acaso sus ejércitos?",
+          "¿Sobre quién no alumbra su luz?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Cómo puede una persona declararse justo ante Dios?",
+          "¿Cómo puede alegar pureza quien ha nacido de mujer?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Si a sus ojos no tiene brillo la luna,",
+          "ni son puras las estrellas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "mucho menos el hombre, simple gusano;",
+          "¡mucho menos el hombre, miserable lombriz!»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

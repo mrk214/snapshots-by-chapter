@@ -1,1 +1,175 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.15","is_chapter":true,"previous":{"usfm":"ISA.14","human":"Isaiah 14","canonical":true,"toc":true},"current":{"usfm":"ISA.15","human":"Isaiah 15"},"next":{"usfm":"ISA.16","human":"Isaiah 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Proclamation Against Moab"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The burden against Moab.","Because in the night Ar of Moab is laid waste","And destroyed,","Because in the night Kir of Moab is laid waste","And destroyed,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He has gone up to the temple and Dibon,","To the high places to weep.","Moab will wail over Nebo and over Medeba;","On all their heads will be baldness,","And every beard cut off."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["In their streets they will clothe themselves with sackcloth;","On the tops of their houses","And in their streets","Everyone will wail, weeping bitterly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Heshbon and Elealeh will cry out,","Their voice shall be heard as far as Jahaz;","Therefore the armed soldiers of Moab will cry out;","His life will be burdensome to him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“My heart will cry out for Moab;","His fugitives shall flee to Zoar,","Like a three-year-old heifer.","For by the Ascent of Luhith","They will go up with weeping;","For in the way of Horonaim","They will raise up a cry of destruction,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["For the waters of Nimrim will be desolate,","For the green grass has withered away;","The grass fails, there is nothing green."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Therefore the abundance they have gained,","And what they have laid up,","They will carry away to the Brook of the Willows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["For the cry has gone all around the borders of Moab,","Its wailing to Eglaim","And its wailing to Beer Elim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["For the waters of Dimon will be full of blood;","Because I will bring more upon Dimon,","Lions upon him who escapes from Moab,","And on the remnant of the land.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.16.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.14",
+      "human": "Isaiah 14"
+    },
+    "current": {
+      "usfm": "ISA.15",
+      "human": "Isaiah 15"
+    },
+    "next": {
+      "usfm": "ISA.16",
+      "human": "Isaiah 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Proclamation Against Moab"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The burden against Moab.",
+          "Because in the night Ar of Moab is laid waste",
+          "And destroyed,",
+          "Because in the night Kir of Moab is laid waste",
+          "And destroyed,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He has gone up to the temple and Dibon,",
+          "To the high places to weep.",
+          "Moab will wail over Nebo and over Medeba;",
+          "On all their heads will be baldness,",
+          "And every beard cut off."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "In their streets they will clothe themselves with sackcloth;",
+          "On the tops of their houses",
+          "And in their streets",
+          "Everyone will wail, weeping bitterly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Heshbon and Elealeh will cry out,",
+          "Their voice shall be heard as far as Jahaz;",
+          "Therefore the armed soldiers of Moab will cry out;",
+          "His life will be burdensome to him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“My heart will cry out for Moab;",
+          "His fugitives shall flee to Zoar,",
+          "Like a three-year-old heifer.",
+          "For by the Ascent of Luhith",
+          "They will go up with weeping;",
+          "For in the way of Horonaim",
+          "They will raise up a cry of destruction,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "For the waters of Nimrim will be desolate,",
+          "For the green grass has withered away;",
+          "The grass fails, there is nothing green."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Therefore the abundance they have gained,",
+          "And what they have laid up,",
+          "They will carry away to the Brook of the Willows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "For the cry has gone all around the borders of Moab,",
+          "Its wailing to Eglaim",
+          "And its wailing to Beer Elim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "For the waters of Dimon will be full of blood;",
+          "Because I will bring more upon Dimon,",
+          "Lions upon him who escapes from Moab,",
+          "And on the remnant of the land.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

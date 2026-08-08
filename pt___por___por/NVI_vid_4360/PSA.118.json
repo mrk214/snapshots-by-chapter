@@ -1,1 +1,371 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.118","is_chapter":true,"previous":{"usfm":"PSA.117","human":"Salmos 117","canonical":true,"toc":true},"current":{"usfm":"PSA.118","human":"Salmos 118"},"next":{"usfm":"PSA.119","human":"Salmos 119","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Deem graças ao Senhor porque ele é bom;","o seu amor dura para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que Israel diga:","“O seu amor dura para sempre!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Os sacerdotes digam:","“O seu amor dura para sempre!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Os que temem o Senhor digam:","“O seu amor dura para sempre!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Na minha angústia clamei ao Senhor;","e o Senhor me respondeu, dando-me ampla liberdade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["O Senhor está comigo, não temerei.","O que me podem fazer os homens?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O Senhor está comigo; ele é o meu ajudador.","Verei a derrota dos meus inimigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["É melhor buscar refúgio no Senhor","do que confiar nos homens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["É melhor buscar refúgio no Senhor","do que confiar em príncipes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Todas as nações me cercaram,","mas em nome do Senhor eu as derrotei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Cercaram-me por todos os lados,","mas em nome do Senhor eu as derrotei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cercaram-me como um enxame de abelhas,","mas logo se extinguiram como espinheiros em chamas.","Em nome do Senhor eu as derrotei!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Empurraram-me para forçar a minha queda,","mas o Senhor me ajudou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["O Senhor é a minha força e o meu cântico;","ele é a minha salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Alegres brados de vitória","ressoam nas tendas dos justos:","“A mão direita do Senhor age com poder!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["A mão direita do Senhor é exaltada!","A mão direita do Senhor age com poder!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Não morrerei; mas vivo ficarei","para anunciar os feitos do Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["O Senhor me castigou com severidade,","mas não me entregou à morte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Abram as portas da justiça para mim,","pois quero entrar para dar graças ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Esta é a porta do Senhor,","pela qual entram os justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Dou-te graças, porque me respondeste","e foste a minha salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["A pedra que os construtores rejeitaram","tornou-se a pedra angular."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Isso vem do Senhor,","e é algo maravilhoso para nós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Este é o dia em que o Senhor agiu;","alegremo-nos e exultemos neste dia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Salva-nos, Senhor! Nós imploramos.","Faze-nos prosperar, Senhor! Nós suplicamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Bendito é o que vem em nome do Senhor.","Da casa do Senhor nós os abençoamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["O Senhor é Deus,","e ele fez resplandecer sobre nós a sua luz.","Juntem-se ao cortejo festivo,","levando ramos até as pontas do altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Tu és o meu Deus; graças te darei!","Ó meu Deus, eu te exaltarei!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Deem graças ao Senhor, porque ele é bom;","o seu amor dura para sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.117.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.119.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.118",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.117",
+      "human": "Salmos 117"
+    },
+    "current": {
+      "usfm": "PSA.118",
+      "human": "Salmos 118"
+    },
+    "next": {
+      "usfm": "PSA.119",
+      "human": "Salmos 119"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Deem graças ao Senhor porque ele é bom;",
+          "o seu amor dura para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que Israel diga:",
+          "“O seu amor dura para sempre!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Os sacerdotes digam:",
+          "“O seu amor dura para sempre!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Os que temem o Senhor digam:",
+          "“O seu amor dura para sempre!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Na minha angústia clamei ao Senhor;",
+          "e o Senhor me respondeu, dando-me ampla liberdade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "O Senhor está comigo, não temerei.",
+          "O que me podem fazer os homens?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O Senhor está comigo; ele é o meu ajudador.",
+          "Verei a derrota dos meus inimigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "É melhor buscar refúgio no Senhor",
+          "do que confiar nos homens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "É melhor buscar refúgio no Senhor",
+          "do que confiar em príncipes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Todas as nações me cercaram,",
+          "mas em nome do Senhor eu as derrotei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Cercaram-me por todos os lados,",
+          "mas em nome do Senhor eu as derrotei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cercaram-me como um enxame de abelhas,",
+          "mas logo se extinguiram como espinheiros em chamas.",
+          "Em nome do Senhor eu as derrotei!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Empurraram-me para forçar a minha queda,",
+          "mas o Senhor me ajudou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "O Senhor é a minha força e o meu cântico;",
+          "ele é a minha salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Alegres brados de vitória",
+          "ressoam nas tendas dos justos:",
+          "“A mão direita do Senhor age com poder!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "A mão direita do Senhor é exaltada!",
+          "A mão direita do Senhor age com poder!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Não morrerei; mas vivo ficarei",
+          "para anunciar os feitos do Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "O Senhor me castigou com severidade,",
+          "mas não me entregou à morte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Abram as portas da justiça para mim,",
+          "pois quero entrar para dar graças ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Esta é a porta do Senhor,",
+          "pela qual entram os justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Dou-te graças, porque me respondeste",
+          "e foste a minha salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "A pedra que os construtores rejeitaram",
+          "tornou-se a pedra angular."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Isso vem do Senhor,",
+          "e é algo maravilhoso para nós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Este é o dia em que o Senhor agiu;",
+          "alegremo-nos e exultemos neste dia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Salva-nos, Senhor! Nós imploramos.",
+          "Faze-nos prosperar, Senhor! Nós suplicamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Bendito é o que vem em nome do Senhor.",
+          "Da casa do Senhor nós os abençoamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "O Senhor é Deus,",
+          "e ele fez resplandecer sobre nós a sua luz.",
+          "Juntem-se ao cortejo festivo,",
+          "levando ramos até as pontas do altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Tu és o meu Deus; graças te darei!",
+          "Ó meu Deus, eu te exaltarei!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Deem graças ao Senhor, porque ele é bom;",
+          "o seu amor dura para sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

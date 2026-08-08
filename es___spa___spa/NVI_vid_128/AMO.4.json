@@ -1,1 +1,236 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.4","is_chapter":true,"previous":{"usfm":"AMO.3","human":"Amós 3","canonical":true,"toc":true},"current":{"usfm":"AMO.4","human":"Amós 4"},"next":{"usfm":"AMO.5","human":"Amós 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Escuchen esta palabra, vacas de Basán,","que viven en el monte de Samaria,","que oprimen a los desvalidos y maltratan a los necesitados,","que dicen a sus esposos:","«¡Tráigannos de beber!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor y Dios ha jurado por su santidad:","«Vendrán días en que hasta la última de ustedes","será arreada con ganchos y anzuelos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Una tras otra saldrán por las brechas del muro,","y hacia Harmón serán expulsadas»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["«Vayan a Betel y pequen;","vayan a Guilgal y pequen mucho más.","Ofrezcan sus sacrificios por la mañana,","y al tercer día sus diezmos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quemen pan leudado como ofrenda de gratitud","y proclamen ofrendas voluntarias.","Háganlo saber a todos, israelitas;","¡eso es lo que a ustedes les encanta!»,","afirma el Señor y Dios."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dureza de Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["«Yo les hice pasar hambre en todas sus ciudades","y los privé de pan en todos sus poblados.","Con todo, ustedes no se volvieron a mí»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["«Yo les retuve la lluvia","cuando aún faltaban tres meses para la cosecha.","En una ciudad hacía llover,","pero en otra no;","una parcela recibía lluvia,","mientras que otra no y se secó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Vagando de ciudad en ciudad,","iba la gente en busca de agua,","pero no calmaba su sed.","Con todo, ustedes no se volvieron a mí»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["«Castigué sus campos con plagas y pestes;","la langosta devoró sus huertos y viñedos,","sus higueras y olivares.","Con todo, ustedes no se volvieron a mí»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["«Les mandé plagas","como lo hice en Egipto.","Maté a sus mejores jóvenes por la espada,","junto con los caballos capturados.","Hice que llegara hasta sus propias narices","el hedor de los campamentos.","Con todo, ustedes no se volvieron a mí»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["«Envié una destrucción","como la de Sodoma y Gomorra;","eran como brazas,","tizones rescatados del fuego.","Con todo, ustedes no se volvieron a mí»,","afirma el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["«Por eso, Israel, voy a actuar contra ti;","y como voy a hacerlo,","¡prepárate, Israel, para encontrarte con tu Dios!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["He aquí el que forma las montañas,","el que crea el viento,","el que revela al ser humano sus pensamientos,","el que convierte la aurora en tinieblas,","el que marcha sobre las alturas de la tierra:","su nombre es el Señor Dios de los Ejércitos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/AMO.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/AMO.5.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.3",
+      "human": "Amós 3"
+    },
+    "current": {
+      "usfm": "AMO.4",
+      "human": "Amós 4"
+    },
+    "next": {
+      "usfm": "AMO.5",
+      "human": "Amós 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escuchen esta palabra, vacas de Basán,",
+          "que viven en el monte de Samaria,",
+          "que oprimen a los desvalidos y maltratan a los necesitados,",
+          "que dicen a sus esposos:",
+          "«¡Tráigannos de beber!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor y Dios ha jurado por su santidad:",
+          "«Vendrán días en que hasta la última de ustedes",
+          "será arreada con ganchos y anzuelos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Una tras otra saldrán por las brechas del muro,",
+          "y hacia Harmón serán expulsadas»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "«Vayan a Betel y pequen;",
+          "vayan a Guilgal y pequen mucho más.",
+          "Ofrezcan sus sacrificios por la mañana,",
+          "y al tercer día sus diezmos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quemen pan leudado como ofrenda de gratitud",
+          "y proclamen ofrendas voluntarias.",
+          "Háganlo saber a todos, israelitas;",
+          "¡eso es lo que a ustedes les encanta!»,",
+          "afirma el Señor y Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dureza de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "«Yo les hice pasar hambre en todas sus ciudades",
+          "y los privé de pan en todos sus poblados.",
+          "Con todo, ustedes no se volvieron a mí»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "«Yo les retuve la lluvia",
+          "cuando aún faltaban tres meses para la cosecha.",
+          "En una ciudad hacía llover,",
+          "pero en otra no;",
+          "una parcela recibía lluvia,",
+          "mientras que otra no y se secó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Vagando de ciudad en ciudad,",
+          "iba la gente en busca de agua,",
+          "pero no calmaba su sed.",
+          "Con todo, ustedes no se volvieron a mí»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "«Castigué sus campos con plagas y pestes;",
+          "la langosta devoró sus huertos y viñedos,",
+          "sus higueras y olivares.",
+          "Con todo, ustedes no se volvieron a mí»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "«Les mandé plagas",
+          "como lo hice en Egipto.",
+          "Maté a sus mejores jóvenes por la espada,",
+          "junto con los caballos capturados.",
+          "Hice que llegara hasta sus propias narices",
+          "el hedor de los campamentos.",
+          "Con todo, ustedes no se volvieron a mí»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "«Envié una destrucción",
+          "como la de Sodoma y Gomorra;",
+          "eran como brazas,",
+          "tizones rescatados del fuego.",
+          "Con todo, ustedes no se volvieron a mí»,",
+          "afirma el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "«Por eso, Israel, voy a actuar contra ti;",
+          "y como voy a hacerlo,",
+          "¡prepárate, Israel, para encontrarte con tu Dios!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "He aquí el que forma las montañas,",
+          "el que crea el viento,",
+          "el que revela al ser humano sus pensamientos,",
+          "el que convierte la aurora en tinieblas,",
+          "el que marcha sobre las alturas de la tierra:",
+          "su nombre es el Señor Dios de los Ejércitos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

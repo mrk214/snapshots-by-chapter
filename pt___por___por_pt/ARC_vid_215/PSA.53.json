@@ -1,1 +1,124 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.53","is_chapter":true,"previous":{"usfm":"PSA.52","human":"Salmos 52","canonical":true,"toc":true},"current":{"usfm":"PSA.53","human":"Salmos 53"},"next":{"usfm":"PSA.54","human":"Salmos 54","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O ímpio nega a existência de Deus e se corrompe"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Masquil de David para o cantor-mor sobre Macalath"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["DISSE o néscio no seu coração: Não há Deus. Têm-se corrompido e têm cometido abominável iniquidade: não há ninguém que faça o bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Deus olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Desviaram-se todos e juntamente se fizeram imundos; não há quem faça o bem, não há sequer um."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Acaso não têm conhecimento estes obreiros da iniquidade, os quais comem o meu povo como se comessem pão? eles não invocam a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eis que se acharam em grande temor, onde temor não havia, porque Deus espalhou os ossos daquele que te cercava; tu os confundiste, porque Deus os rejeitou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oh! se de Sião já viesse a salvação de Israel! Quando Deus fizer voltar os cativos do seu povo, então se regozijará Jacob e se alegrará Israel."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.52.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.54.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.53",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.52",
+      "human": "Salmos 52"
+    },
+    "current": {
+      "usfm": "PSA.53",
+      "human": "Salmos 53"
+    },
+    "next": {
+      "usfm": "PSA.54",
+      "human": "Salmos 54"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O ímpio nega a existência de Deus e se corrompe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Masquil de David para o cantor-mor sobre Macalath"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "DISSE o néscio no seu coração: Não há Deus. Têm-se corrompido e têm cometido abominável iniquidade: não há ninguém que faça o bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Deus olhou desde os céus para os filhos dos homens, para ver se havia algum que tivesse entendimento e buscasse a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Desviaram-se todos e juntamente se fizeram imundos; não há quem faça o bem, não há sequer um."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Acaso não têm conhecimento estes obreiros da iniquidade, os quais comem o meu povo como se comessem pão? eles não invocam a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eis que se acharam em grande temor, onde temor não havia, porque Deus espalhou os ossos daquele que te cercava; tu os confundiste, porque Deus os rejeitou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oh! se de Sião já viesse a salvação de Israel! Quando Deus fizer voltar os cativos do seu povo, então se regozijará Jacob e se alegrará Israel."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

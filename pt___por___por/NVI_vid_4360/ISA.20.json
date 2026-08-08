@@ -1,1 +1,116 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.20","is_chapter":true,"previous":{"usfm":"ISA.19","human":"Isaías 19","canonical":true,"toc":true},"current":{"usfm":"ISA.20","human":"Isaías 20"},"next":{"usfm":"ISA.21","human":"Isaías 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Profecia contra o Egito e a Etiópia"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["No ano em que o general enviado por Sargom, rei da Assíria, atacou Asdode e a conquistou,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["nessa mesma ocasião o Senhor falou por meio de Isaías, filho de Amoz, e disse: “Tire o pano de saco do corpo e as sandálias dos pés”. Ele obedeceu e passou a andar nu e descalço."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Disse então o Senhor: “Assim como o meu servo Isaías andou nu e descalço durante três anos, como sinal e advertência contra o Egito e contra a Etiópia,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["assim também o rei da Assíria, para vergonha do Egito, levará nus e descalços os prisioneiros egípcios e os exilados etíopes, jovens e velhos, com as nádegas descobertas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Os que confiavam na Etiópia e se vangloriavam no Egito terão medo e ficarão decepcionados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Naquele dia, o povo que vive deste lado do mar dirá: ‘Vejam o que aconteceu com aqueles em quem confiávamos, a quem recorremos para nos ajudar e nos livrar do rei da Assíria! E agora? Como escaparemos?’ ”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.21.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.19",
+      "human": "Isaías 19"
+    },
+    "current": {
+      "usfm": "ISA.20",
+      "human": "Isaías 20"
+    },
+    "next": {
+      "usfm": "ISA.21",
+      "human": "Isaías 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecia contra o Egito e a Etiópia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "No ano em que o general enviado por Sargom, rei da Assíria, atacou Asdode e a conquistou,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "nessa mesma ocasião o Senhor falou por meio de Isaías, filho de Amoz, e disse: “Tire o pano de saco do corpo e as sandálias dos pés”. Ele obedeceu e passou a andar nu e descalço."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Disse então o Senhor: “Assim como o meu servo Isaías andou nu e descalço durante três anos, como sinal e advertência contra o Egito e contra a Etiópia,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "assim também o rei da Assíria, para vergonha do Egito, levará nus e descalços os prisioneiros egípcios e os exilados etíopes, jovens e velhos, com as nádegas descobertas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Os que confiavam na Etiópia e se vangloriavam no Egito terão medo e ficarão decepcionados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Naquele dia, o povo que vive deste lado do mar dirá: ‘Vejam o que aconteceu com aqueles em quem confiávamos, a quem recorremos para nos ajudar e nos livrar do rei da Assíria! E agora? Como escaparemos?’ ”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

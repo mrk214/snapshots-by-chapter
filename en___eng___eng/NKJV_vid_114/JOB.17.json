@@ -1,1 +1,234 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.17","is_chapter":true,"previous":{"usfm":"JOB.16","human":"Job 16","canonical":true,"toc":true},"current":{"usfm":"JOB.17","human":"Job 17"},"next":{"usfm":"JOB.18","human":"Job 18","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job Prays for Relief"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["“My spirit is broken,","My days are extinguished,","The grave is ready for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Are not mockers with me?","And does not my eye dwell on their provocation?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“Now put down a pledge for me with Yourself.","Who is he who will shake hands with me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For You have hidden their heart from understanding;","Therefore You will not exalt them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He who speaks flattery to his friends,","Even the eyes of his children will fail."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“But He has made me a byword of the people,","And I have become one in whose face men spit."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["My eye has also grown dim because of sorrow,","And all my members are like shadows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Upright men are astonished at this,","And the innocent stirs himself up against the hypocrite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Yet the righteous will hold to his way,","And he who has clean hands will be stronger and stronger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["“But please, come back again, all of you,","For I shall not find one wise man among you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["My days are past,","My purposes are broken off,","Even the thoughts of my heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["They change the night into day;","‘The light is near,’ they say, in the face of darkness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["If I wait for the grave as my house,","If I make my bed in the darkness,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["If I say to corruption, ‘You are my father,’","And to the worm, ‘You are my mother and my sister,’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Where then is my hope?","As for my hope, who can see it?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Will they go down to the gates of Sheol?","Shall we have rest together in the dust?”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOB.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOB.18.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.16",
+      "human": "Job 16"
+    },
+    "current": {
+      "usfm": "JOB.17",
+      "human": "Job 17"
+    },
+    "next": {
+      "usfm": "JOB.18",
+      "human": "Job 18"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job Prays for Relief"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“My spirit is broken,",
+          "My days are extinguished,",
+          "The grave is ready for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Are not mockers with me?",
+          "And does not my eye dwell on their provocation?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“Now put down a pledge for me with Yourself.",
+          "Who is he who will shake hands with me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For You have hidden their heart from understanding;",
+          "Therefore You will not exalt them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He who speaks flattery to his friends,",
+          "Even the eyes of his children will fail."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“But He has made me a byword of the people,",
+          "And I have become one in whose face men spit."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "My eye has also grown dim because of sorrow,",
+          "And all my members are like shadows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Upright men are astonished at this,",
+          "And the innocent stirs himself up against the hypocrite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Yet the righteous will hold to his way,",
+          "And he who has clean hands will be stronger and stronger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "“But please, come back again, all of you,",
+          "For I shall not find one wise man among you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "My days are past,",
+          "My purposes are broken off,",
+          "Even the thoughts of my heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "They change the night into day;",
+          "‘The light is near,’ they say, in the face of darkness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "If I wait for the grave as my house,",
+          "If I make my bed in the darkness,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "If I say to corruption, ‘You are my father,’",
+          "And to the worm, ‘You are my mother and my sister,’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Where then is my hope?",
+          "As for my hope, who can see it?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Will they go down to the gates of Sheol?",
+          "Shall we have rest together in the dust?”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

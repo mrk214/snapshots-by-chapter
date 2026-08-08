@@ -1,1 +1,247 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.1","is_chapter":true,"previous":{"usfm":"JOL.3","human":"Joel 3","canonical":true,"toc":true},"current":{"usfm":"AMO.1","human":"Amós 1"},"next":{"usfm":"AMO.2","human":"Amós 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Juicio contra las naciones vecinas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Palabras de Amós, que fue uno de los pastores de Tecoa, de lo que vio en visión acerca de Israel en días de Uzías, rey de Judá, y en días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Amós dijo:","«El Señor ruge desde Sión,","Y desde Jerusalén da Su voz;","Los pastizales de los pastores están de duelo,","Y se seca la cumbre del monte Carmelo»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Damasco, y por cuatro,","No revocaré su castigo,","Porque trillaron a Galaad con trillos de hierro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["-»Por eso enviaré fuego sobre la casa de Hazael,","Que consumirá los palacios de Ben Adad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["-»También romperé el cerrojo de Damasco,","Exterminaré al morador del valle de Avén","Y al que empuña el cetro de Bet Edén.","El pueblo de Aram será desterrado a Kir»,","Dice el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Gaza, y por cuatro,","No revocaré su castigo,","Por haber deportado a todo un pueblo","Para entregarlo a Edom."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Enviaré, pues, fuego sobre la muralla de Gaza,","Que consumirá sus palacios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»También exterminaré al morador de Asdod,","Y al que empuña el cetro de Ascalón;","Desataré Mi poder contra Ecrón,","Y el remanente de los filisteos perecerá»,","Dice el Señor Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Tiro, y por cuatro,","No revocaré su castigo,","Por haber entregado todo un pueblo cautivo a Edom","Sin acordarse del pacto de hermanos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["-»Enviaré, pues, fuego sobre la muralla de Tiro,","Que consumirá sus palacios»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¶Así dice el Señor:","«Por tres transgresiones de Edom, y por cuatro,","No revocaré su castigo,","Porque con espada persiguió a su hermano,","Y suprimió su compasión;","Su ira continuó despedazando","Y mantuvo su furor para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["-»Enviaré, pues, fuego sobre Temán,","Que consumirá los palacios de Bosra»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶Así dice el Señor:","«Por tres transgresiones de los amonitas, y por cuatro,","No revocaré su castigo,","Porque abrieron los vientres de las mujeres encinta de Galaad","Para ensanchar sus fronteras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["-»Encenderé, pues, fuego en la muralla de Rabá,","Que consumirá sus palacios","En medio de gritos de guerra en el día de la batalla,","En medio de una tempestad en el día de la tormenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["-»Su rey irá al destierro,","Él y sus príncipes con él», dice el Señor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/AMO.2.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOL.3",
+      "human": "Joel 3"
+    },
+    "current": {
+      "usfm": "AMO.1",
+      "human": "Amós 1"
+    },
+    "next": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juicio contra las naciones vecinas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Palabras de Amós, que fue uno de los pastores de Tecoa, de lo que vio en visión acerca de Israel en días de Uzías, rey de Judá, y en días de Jeroboam, hijo de Joás, rey de Israel, dos años antes del terremoto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Amós dijo:",
+          "«El Señor ruge desde Sión,",
+          "Y desde Jerusalén da Su voz;",
+          "Los pastizales de los pastores están de duelo,",
+          "Y se seca la cumbre del monte Carmelo»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Damasco, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque trillaron a Galaad con trillos de hierro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "-»Por eso enviaré fuego sobre la casa de Hazael,",
+          "Que consumirá los palacios de Ben Adad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "-»También romperé el cerrojo de Damasco,",
+          "Exterminaré al morador del valle de Avén",
+          "Y al que empuña el cetro de Bet Edén.",
+          "El pueblo de Aram será desterrado a Kir»,",
+          "Dice el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Gaza, y por cuatro,",
+          "No revocaré su castigo,",
+          "Por haber deportado a todo un pueblo",
+          "Para entregarlo a Edom."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Enviaré, pues, fuego sobre la muralla de Gaza,",
+          "Que consumirá sus palacios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»También exterminaré al morador de Asdod,",
+          "Y al que empuña el cetro de Ascalón;",
+          "Desataré Mi poder contra Ecrón,",
+          "Y el remanente de los filisteos perecerá»,",
+          "Dice el Señor Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Tiro, y por cuatro,",
+          "No revocaré su castigo,",
+          "Por haber entregado todo un pueblo cautivo a Edom",
+          "Sin acordarse del pacto de hermanos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "-»Enviaré, pues, fuego sobre la muralla de Tiro,",
+          "Que consumirá sus palacios»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de Edom, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque con espada persiguió a su hermano,",
+          "Y suprimió su compasión;",
+          "Su ira continuó despedazando",
+          "Y mantuvo su furor para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "-»Enviaré, pues, fuego sobre Temán,",
+          "Que consumirá los palacios de Bosra»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶Así dice el Señor:",
+          "«Por tres transgresiones de los amonitas, y por cuatro,",
+          "No revocaré su castigo,",
+          "Porque abrieron los vientres de las mujeres encinta de Galaad",
+          "Para ensanchar sus fronteras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "-»Encenderé, pues, fuego en la muralla de Rabá,",
+          "Que consumirá sus palacios",
+          "En medio de gritos de guerra en el día de la batalla,",
+          "En medio de una tempestad en el día de la tormenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "-»Su rey irá al destierro,",
+          "Él y sus príncipes con él», dice el Señor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

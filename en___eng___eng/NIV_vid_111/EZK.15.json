@@ -1,1 +1,136 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"EZK","name":"Ezekiel"},"chapter":{"chapter_usfm":"EZK.15","is_chapter":true,"previous":{"usfm":"EZK.14","human":"Ezekiel 14","canonical":true,"toc":true},"current":{"usfm":"EZK.15","human":"Ezekiel 15"},"next":{"usfm":"EZK.16","human":"Ezekiel 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jerusalem as a Useless Vine"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The word of the Lord came to me:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Son of man, how is the wood of a vine different from that of a branch from any of the trees in the forest?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Is wood ever taken from it to make anything useful? Do they make pegs from it to hang things on?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And after it is thrown on the fire as fuel and the fire burns both ends and chars the middle, is it then useful for anything?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and it is charred?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Therefore this is what the Sovereign Lord says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I will make the land desolate because they have been unfaithful, declares the Sovereign Lord.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.16.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezekiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.14",
+      "human": "Ezekiel 14"
+    },
+    "current": {
+      "usfm": "EZK.15",
+      "human": "Ezekiel 15"
+    },
+    "next": {
+      "usfm": "EZK.16",
+      "human": "Ezekiel 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jerusalem as a Useless Vine"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The word of the Lord came to me:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Son of man, how is the wood of a vine different from that of a branch from any of the trees in the forest?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Is wood ever taken from it to make anything useful? Do they make pegs from it to hang things on?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And after it is thrown on the fire as fuel and the fire burns both ends and chars the middle, is it then useful for anything?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "If it was not useful for anything when it was whole, how much less can it be made into something useful when the fire has burned it and it is charred?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Therefore this is what the Sovereign Lord says: As I have given the wood of the vine among the trees of the forest as fuel for the fire, so will I treat the people living in Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I will set my face against them. Although they have come out of the fire, the fire will yet consume them. And when I set my face against them, you will know that I am the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I will make the land desolate because they have been unfaithful, declares the Sovereign Lord.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

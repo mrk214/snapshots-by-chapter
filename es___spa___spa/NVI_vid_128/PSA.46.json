@@ -1,1 +1,205 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.46","is_chapter":true,"previous":{"usfm":"PSA.45","human":"Salmo 45","canonical":true,"toc":true},"current":{"usfm":"PSA.46","human":"Salmo 46"},"next":{"usfm":"PSA.47","human":"Salmo 47","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. De los hijos de Coré. Canción según alamot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios es nuestro refugio y nuestra fortaleza,","nuestra segura ayuda en momentos de angustia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Por eso, no temeremos","aunque se desmorone la tierra","y las montañas se hundan en el fondo del mar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["aunque rujan y se encrespen sus aguas,","y ante su furia retiemblen los montes."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Hay un río cuyas corrientes alegran la ciudad de Dios,","la santa habitación del Altísimo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Dios está en ella, la ciudad no caerá;","al rayar el alba Dios le brindará su ayuda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Se agitan las naciones, los reinos caen;","Dios deja oír su voz, y la tierra se derrumba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El Señor de los Ejércitos está con nosotros;","nuestro refugio es el Dios de Jacob."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Vengan y vean los portentos del Señor;","él ha traído ruina sobre la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ha puesto fin a las guerras","en todos los confines de la tierra;","ha quebrado los arcos, ha destrozado las lanzas,","ha arrojado los carros al fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["«Quédense quietos, reconozcan que yo soy Dios.","¡Seré exaltado entre las naciones!","¡Seré enaltecido en la tierra!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El Señor de los Ejércitos está con nosotros;","nuestro refugio es el Dios de Jacob."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.45.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.47.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.46",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.45",
+      "human": "Salmo 45"
+    },
+    "current": {
+      "usfm": "PSA.46",
+      "human": "Salmo 46"
+    },
+    "next": {
+      "usfm": "PSA.47",
+      "human": "Salmo 47"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. De los hijos de Coré. Canción según alamot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios es nuestro refugio y nuestra fortaleza,",
+          "nuestra segura ayuda en momentos de angustia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Por eso, no temeremos",
+          "aunque se desmorone la tierra",
+          "y las montañas se hundan en el fondo del mar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "aunque rujan y se encrespen sus aguas,",
+          "y ante su furia retiemblen los montes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Hay un río cuyas corrientes alegran la ciudad de Dios,",
+          "la santa habitación del Altísimo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Dios está en ella, la ciudad no caerá;",
+          "al rayar el alba Dios le brindará su ayuda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Se agitan las naciones, los reinos caen;",
+          "Dios deja oír su voz, y la tierra se derrumba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El Señor de los Ejércitos está con nosotros;",
+          "nuestro refugio es el Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Vengan y vean los portentos del Señor;",
+          "él ha traído ruina sobre la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ha puesto fin a las guerras",
+          "en todos los confines de la tierra;",
+          "ha quebrado los arcos, ha destrozado las lanzas,",
+          "ha arrojado los carros al fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "«Quédense quietos, reconozcan que yo soy Dios.",
+          "¡Seré exaltado entre las naciones!",
+          "¡Seré enaltecido en la tierra!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El Señor de los Ejércitos está con nosotros;",
+          "nuestro refugio es el Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

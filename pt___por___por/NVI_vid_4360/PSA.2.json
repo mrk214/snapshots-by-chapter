@@ -1,1 +1,184 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.2","is_chapter":true,"previous":{"usfm":"PSA.1","human":"Salmos 1","canonical":true,"toc":true},"current":{"usfm":"PSA.2","human":"Salmos 2"},"next":{"usfm":"PSA.3","human":"Salmos 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Por que se amotinam as nações","e os povos tramam em vão?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Os reis da terra tomam posição","e os governantes conspiram unidos","contra o Senhor e contra o seu ungido, e dizem:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“Façamos em pedaços as suas correntes,","lancemos de nós as suas algemas!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Do seu trono nos céus","o Senhor põe-se a rir e caçoa deles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Em sua ira os repreende","e em seu furor os aterroriza, dizendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Eu mesmo estabeleci o meu rei","em Sião, no meu santo monte”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Proclamarei o decreto do Senhor:","Ele me disse: “Tu és meu filho;","eu hoje te gerei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pede-me, e te darei as nações como herança","e os confins da terra como tua propriedade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tu as quebrarás com vara de ferro","e as despedaçarás como a um vaso de barro”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por isso, ó reis, sejam prudentes;","aceitem a advertência, autoridades da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Adorem o Senhor com temor;","exultem com tremor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Beijem o filho, para que ele não se ire","e vocês não sejam destruídos de repente,","pois num instante acende-se a sua ira.","Como são felizes todos os que nele se refugiam!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.3.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "current": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "next": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Por que se amotinam as nações",
+          "e os povos tramam em vão?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Os reis da terra tomam posição",
+          "e os governantes conspiram unidos",
+          "contra o Senhor e contra o seu ungido, e dizem:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“Façamos em pedaços as suas correntes,",
+          "lancemos de nós as suas algemas!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Do seu trono nos céus",
+          "o Senhor põe-se a rir e caçoa deles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Em sua ira os repreende",
+          "e em seu furor os aterroriza, dizendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Eu mesmo estabeleci o meu rei",
+          "em Sião, no meu santo monte”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Proclamarei o decreto do Senhor:",
+          "Ele me disse: “Tu és meu filho;",
+          "eu hoje te gerei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pede-me, e te darei as nações como herança",
+          "e os confins da terra como tua propriedade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tu as quebrarás com vara de ferro",
+          "e as despedaçarás como a um vaso de barro”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por isso, ó reis, sejam prudentes;",
+          "aceitem a advertência, autoridades da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Adorem o Senhor com temor;",
+          "exultem com tremor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Beijem o filho, para que ele não se ire",
+          "e vocês não sejam destruídos de repente,",
+          "pois num instante acende-se a sua ira.",
+          "Como são felizes todos os que nele se refugiam!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

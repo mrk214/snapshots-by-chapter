@@ -1,1 +1,153 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.124","is_chapter":true,"previous":{"usfm":"PSA.123","human":"Salmos 123","canonical":true,"toc":true},"current":{"usfm":"PSA.124","human":"Salmos 124"},"next":{"usfm":"PSA.125","human":"Salmos 125","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios, Salvador de Israel"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["1a (1a) Cántico de las subidas, de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Si el Señor no hubiera estado de nuestra parte","—que lo diga ahora Israel—,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["si el Señor no hubiera estado de nuestra parte","cuando los hombres se levantaron para atacarnos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["nos habrían tragado vivos","al encenderse su furor contra nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entonces las aguas nos habrían arrastrado;","¡un río habría pasado sobre nosotros!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Entonces las aguas turbulentas","habrían pasado sobre nosotros!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Bendito sea el Señor,","que no dejó que nos despedazaran con sus dientes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nos hemos escapado de la trampa","como un ave que escapa del cazador;","la trampa se rompió, y nosotros escapamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["La ayuda nos viene del Señor,","creador del cielo y de la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.123.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.125.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.124",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.123",
+      "human": "Salmos 123"
+    },
+    "current": {
+      "usfm": "PSA.124",
+      "human": "Salmos 124"
+    },
+    "next": {
+      "usfm": "PSA.125",
+      "human": "Salmos 125"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios, Salvador de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "1a (1a) Cántico de las subidas, de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Si el Señor no hubiera estado de nuestra parte",
+          "—que lo diga ahora Israel—,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "si el Señor no hubiera estado de nuestra parte",
+          "cuando los hombres se levantaron para atacarnos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "nos habrían tragado vivos",
+          "al encenderse su furor contra nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entonces las aguas nos habrían arrastrado;",
+          "¡un río habría pasado sobre nosotros!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Entonces las aguas turbulentas",
+          "habrían pasado sobre nosotros!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Bendito sea el Señor,",
+          "que no dejó que nos despedazaran con sus dientes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nos hemos escapado de la trampa",
+          "como un ave que escapa del cazador;",
+          "la trampa se rompió, y nosotros escapamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "La ayuda nos viene del Señor,",
+          "creador del cielo y de la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

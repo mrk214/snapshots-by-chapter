@@ -1,1 +1,163 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.99","is_chapter":true,"previous":{"usfm":"PSA.98","human":"Salmos 98","canonical":true,"toc":true},"current":{"usfm":"PSA.99","human":"Salmos 99"},"next":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza a la santidad del Señor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡El Señor reina!","Los pueblos tiemblan.","¡El Señor está en su trono entre los querubines!","La tierra se conmueve."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Grande es el Señor en Sión,","y exaltado sobre todos los pueblos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Alabado es tu nombre grande y temible;","¡El Señor es santo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tú, poderoso Rey, amas el juicio;","tú confirmas la rectitud;","tú has ejercido en Jacob el derecho y la justicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Exaltemos al Señor, nuestro Dios!","¡Postrémonos ante el estrado de sus pies!","¡El Señor es santo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moisés y Aarón están entre sus sacerdotes;","Samuel se cuenta entre los que invocaron su nombre.","Invocaron al Señor, y él les respondió."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En una columna de nube habló con ellos,","y ellos pusieron en práctica sus testimonios;","¡cumplieron con los estatutos que les dio!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Señor y Dios nuestro, ¡tú les respondías!","¡Tú fuiste para ellos un Dios perdonador!","¡Tú los recompensaste por sus obras!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Exaltemos al Señor, nuestro Dios!","¡Postrémonos ante su santo monte!","¡El Señor, nuestro Dios, es santo!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.98.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.100.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.99",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "current": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "next": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza a la santidad del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡El Señor reina!",
+          "Los pueblos tiemblan.",
+          "¡El Señor está en su trono entre los querubines!",
+          "La tierra se conmueve."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Grande es el Señor en Sión,",
+          "y exaltado sobre todos los pueblos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Alabado es tu nombre grande y temible;",
+          "¡El Señor es santo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tú, poderoso Rey, amas el juicio;",
+          "tú confirmas la rectitud;",
+          "tú has ejercido en Jacob el derecho y la justicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Exaltemos al Señor, nuestro Dios!",
+          "¡Postrémonos ante el estrado de sus pies!",
+          "¡El Señor es santo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moisés y Aarón están entre sus sacerdotes;",
+          "Samuel se cuenta entre los que invocaron su nombre.",
+          "Invocaron al Señor, y él les respondió."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En una columna de nube habló con ellos,",
+          "y ellos pusieron en práctica sus testimonios;",
+          "¡cumplieron con los estatutos que les dio!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Señor y Dios nuestro, ¡tú les respondías!",
+          "¡Tú fuiste para ellos un Dios perdonador!",
+          "¡Tú los recompensaste por sus obras!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Exaltemos al Señor, nuestro Dios!",
+          "¡Postrémonos ante su santo monte!",
+          "¡El Señor, nuestro Dios, es santo!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

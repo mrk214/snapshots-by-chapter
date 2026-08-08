@@ -1,1 +1,256 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.23","is_chapter":true,"previous":{"usfm":"GEN.22","human":"Genesis 22","canonical":true,"toc":true},"current":{"usfm":"GEN.23","human":"Genesis 23"},"next":{"usfm":"GEN.24","human":"Genesis 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Sarah’s Death and Burial"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["So Sarah died in Kirjath Arba (that is, Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then Abraham stood up from before his dead, and spoke to the sons of Heth, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“I am a foreigner and a visitor among you. Give me property for a burial place among you, that I may bury my dead out of my sight.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And the sons of Heth answered Abraham, saying to him,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Hear us, my lord: You are a mighty prince among us; bury your dead in the choicest of our burial places. None of us will withhold from you his burial place, that you may bury your dead.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Then Abraham stood up and bowed himself to the people of the land, the sons of Heth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And he spoke with them, saying, “If it is your wish that I bury my dead out of my sight, hear me, and meet with Ephron the son of Zohar for me,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["that he may give me the cave of Machpelah which he has, which is at the end of his field. Let him give it to me at the full price, as property for a burial place among you.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Now Ephron dwelt among the sons of Heth; and Ephron the Hittite answered Abraham in the presence of the sons of Heth, all who entered at the gate of his city, saying,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“No, my lord, hear me: I give you the field and the cave that is in it; I give it to you in the presence of the sons of my people. I give it to you. Bury your dead!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Then Abraham bowed himself down before the people of the land;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["and he spoke to Ephron in the hearing of the people of the land, saying, “If you will give it, please hear me. I will give you money for the field; take it from me and I will bury my dead there.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And Ephron answered Abraham, saying to him,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["“My lord, listen to me; the land is worth four hundred shekels of silver. What is that between you and me? So bury your dead.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["And Abraham listened to Ephron; and Abraham weighed out the silver for Ephron which he had named in the hearing of the sons of Heth, four hundred shekels of silver, currency of the merchants."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["So the field of Ephron which was in Machpelah, which was before Mamre, the field and the cave which was in it, and all the trees that were in the field, which were within all the surrounding borders, were deeded"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["to Abraham as a possession in the presence of the sons of Heth, before all who went in at the gate of his city."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah, before Mamre (that is, Hebron) in the land of Canaan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["So the field and the cave that is in it were deeded to Abraham by the sons of Heth as property for a burial place."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/GEN.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/GEN.24.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.22",
+      "human": "Genesis 22"
+    },
+    "current": {
+      "usfm": "GEN.23",
+      "human": "Genesis 23"
+    },
+    "next": {
+      "usfm": "GEN.24",
+      "human": "Genesis 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Sarah’s Death and Burial"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Sarah lived one hundred and twenty-seven years; these were the years of the life of Sarah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "So Sarah died in Kirjath Arba (that is, Hebron) in the land of Canaan, and Abraham came to mourn for Sarah and to weep for her."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then Abraham stood up from before his dead, and spoke to the sons of Heth, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“I am a foreigner and a visitor among you. Give me property for a burial place among you, that I may bury my dead out of my sight.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And the sons of Heth answered Abraham, saying to him,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Hear us, my lord: You are a mighty prince among us; bury your dead in the choicest of our burial places. None of us will withhold from you his burial place, that you may bury your dead.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Then Abraham stood up and bowed himself to the people of the land, the sons of Heth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And he spoke with them, saying, “If it is your wish that I bury my dead out of my sight, hear me, and meet with Ephron the son of Zohar for me,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "that he may give me the cave of Machpelah which he has, which is at the end of his field. Let him give it to me at the full price, as property for a burial place among you.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Now Ephron dwelt among the sons of Heth; and Ephron the Hittite answered Abraham in the presence of the sons of Heth, all who entered at the gate of his city, saying,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“No, my lord, hear me: I give you the field and the cave that is in it; I give it to you in the presence of the sons of my people. I give it to you. Bury your dead!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Then Abraham bowed himself down before the people of the land;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "and he spoke to Ephron in the hearing of the people of the land, saying, “If you will give it, please hear me. I will give you money for the field; take it from me and I will bury my dead there.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And Ephron answered Abraham, saying to him,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "“My lord, listen to me; the land is worth four hundred shekels of silver. What is that between you and me? So bury your dead.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "And Abraham listened to Ephron; and Abraham weighed out the silver for Ephron which he had named in the hearing of the sons of Heth, four hundred shekels of silver, currency of the merchants."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "So the field of Ephron which was in Machpelah, which was before Mamre, the field and the cave which was in it, and all the trees that were in the field, which were within all the surrounding borders, were deeded"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "to Abraham as a possession in the presence of the sons of Heth, before all who went in at the gate of his city."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "And after this, Abraham buried Sarah his wife in the cave of the field of Machpelah, before Mamre (that is, Hebron) in the land of Canaan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "So the field and the cave that is in it were deeded to Abraham by the sons of Heth as property for a burial place."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,106 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"JER","name":"Jeremías"},"chapter":{"chapter_usfm":"JER.45","is_chapter":true,"previous":{"usfm":"JER.44","human":"Jeremías 44","canonical":true,"toc":true},"current":{"usfm":"JER.45","human":"Jeremías 45"},"next":{"usfm":"JER.46","human":"Jeremías 46","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Mensaje para Baruc"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El profeta Jeremías le dio un mensaje a Baruc, hijo de Nerías, en el cuarto año del reinado de Joacim, hijo de Josías, después que Baruc escribió todo lo que Jeremías le había dictado. Le dijo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Baruc, esto te dice el Señor, Dios de Israel:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“Tú has dicho: ‘¡Estoy repleto de dificultades! ¿No he sufrido ya lo suficiente? ¡Y ahora el Señor ha añadido más! Estoy agotado de tanto gemir y no encuentro descanso’”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Baruc, esto dice el Señor: “Destruiré esta nación que construí; arrancaré lo que planté."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Buscas grandes cosas para ti mismo? ¡No lo hagas! Yo traeré un gran desastre sobre todo este pueblo; pero a ti te daré tu vida como recompensa dondequiera que vayas. ¡Yo, el Señor, he hablado!”»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.44.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.46.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremías"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.45",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.44",
+      "human": "Jeremías 44"
+    },
+    "current": {
+      "usfm": "JER.45",
+      "human": "Jeremías 45"
+    },
+    "next": {
+      "usfm": "JER.46",
+      "human": "Jeremías 46"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje para Baruc"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El profeta Jeremías le dio un mensaje a Baruc, hijo de Nerías, en el cuarto año del reinado de Joacim, hijo de Josías, después que Baruc escribió todo lo que Jeremías le había dictado. Le dijo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Baruc, esto te dice el Señor, Dios de Israel:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“Tú has dicho: ‘¡Estoy repleto de dificultades! ¿No he sufrido ya lo suficiente? ¡Y ahora el Señor ha añadido más! Estoy agotado de tanto gemir y no encuentro descanso’”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Baruc, esto dice el Señor: “Destruiré esta nación que construí; arrancaré lo que planté."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Buscas grandes cosas para ti mismo? ¡No lo hagas! Yo traeré un gran desastre sobre todo este pueblo; pero a ti te daré tu vida como recompensa dondequiera que vayas. ¡Yo, el Señor, he hablado!”»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

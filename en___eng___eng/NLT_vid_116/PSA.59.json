@@ -1,1 +1,273 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.59","is_chapter":true,"previous":{"usfm":"PSA.58","human":"Psalms 58","canonical":true,"toc":true},"current":{"usfm":"PSA.59","human":"Psalms 59"},"next":{"usfm":"PSA.60","human":"Psalms 60","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the choir director: A psalm of David, regarding the time Saul sent soldiers to watch David’s house in order to kill him. To be sung to the tune “Do Not Destroy!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Rescue me from my enemies, O God.","Protect me from those who have come to destroy me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Rescue me from these criminals;","save me from these murderers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They have set an ambush for me.","Fierce enemies are out there waiting, Lord,","though I have not sinned or offended them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I have done nothing wrong,","yet they prepare to attack me.","Wake up! See what is happening and help me!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Lord God of Heaven’s Armies, the God of Israel,","wake up and punish those hostile nations.","Show no mercy to wicked traitors."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interlude"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["They come out at night,","snarling like vicious dogs","as they prowl the streets."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Listen to the filth that comes from their mouths;","their words cut like swords.","“After all, who can hear us?” they sneer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["But Lord, you laugh at them.","You scoff at all the hostile nations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["You are my strength; I wait for you to rescue me,","for you, O God, are my fortress."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["In his unfailing love, my God will stand with me.","He will let me look down in triumph on all my enemies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Don’t kill them, for my people soon forget such lessons;","stagger them with your power, and bring them to their knees,","O Lord our shield."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Because of the sinful things they say,","because of the evil that is on their lips,","let them be captured by their pride,","their curses, and their lies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Destroy them in your anger!","Wipe them out completely!","Then the whole world will know","that God reigns in Israel."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interlude"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["My enemies come out at night,","snarling like vicious dogs","as they prowl the streets."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["They scavenge for food","but go to sleep unsatisfied."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["But as for me, I will sing about your power.","Each morning I will sing with joy about your unfailing love.","For you have been my refuge,","a place of safety when I am in distress."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["O my Strength, to you I sing praises,","for you, O God, are my refuge,","the God who shows me unfailing love."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.58.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.60.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.59",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.58",
+      "human": "Psalms 58"
+    },
+    "current": {
+      "usfm": "PSA.59",
+      "human": "Psalms 59"
+    },
+    "next": {
+      "usfm": "PSA.60",
+      "human": "Psalms 60"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director: A psalm of David, regarding the time Saul sent soldiers to watch David’s house in order to kill him. To be sung to the tune “Do Not Destroy!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Rescue me from my enemies, O God.",
+          "Protect me from those who have come to destroy me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Rescue me from these criminals;",
+          "save me from these murderers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They have set an ambush for me.",
+          "Fierce enemies are out there waiting, Lord,",
+          "though I have not sinned or offended them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I have done nothing wrong,",
+          "yet they prepare to attack me.",
+          "Wake up! See what is happening and help me!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Lord God of Heaven’s Armies, the God of Israel,",
+          "wake up and punish those hostile nations.",
+          "Show no mercy to wicked traitors."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interlude"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "They come out at night,",
+          "snarling like vicious dogs",
+          "as they prowl the streets."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Listen to the filth that comes from their mouths;",
+          "their words cut like swords.",
+          "“After all, who can hear us?” they sneer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "But Lord, you laugh at them.",
+          "You scoff at all the hostile nations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "You are my strength; I wait for you to rescue me,",
+          "for you, O God, are my fortress."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "In his unfailing love, my God will stand with me.",
+          "He will let me look down in triumph on all my enemies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Don’t kill them, for my people soon forget such lessons;",
+          "stagger them with your power, and bring them to their knees,",
+          "O Lord our shield."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Because of the sinful things they say,",
+          "because of the evil that is on their lips,",
+          "let them be captured by their pride,",
+          "their curses, and their lies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Destroy them in your anger!",
+          "Wipe them out completely!",
+          "Then the whole world will know",
+          "that God reigns in Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interlude"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "My enemies come out at night,",
+          "snarling like vicious dogs",
+          "as they prowl the streets."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "They scavenge for food",
+          "but go to sleep unsatisfied."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "But as for me, I will sing about your power.",
+          "Each morning I will sing with joy about your unfailing love.",
+          "For you have been my refuge,",
+          "a place of safety when I am in distress."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "O my Strength, to you I sing praises,",
+          "for you, O God, are my refuge,",
+          "the God who shows me unfailing love."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

@@ -1,1 +1,116 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"MAL","name":"Malaquías"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malaquías 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malaquías 4"},"next":{"usfm":"MAT.1","human":"Mateo 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El día del Señor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["»Miren, ya viene el día, ardiente como un horno. Todos los soberbios y todos los malvados serán como paja; ese día les prenderá fuego hasta dejarlos sin raíz ni rama —dice el Señor de los Ejércitos—."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Pero para ustedes que temen mi nombre, se levantará el sol de justicia trayendo en sus rayos salud. Y ustedes saldrán saltando como becerros bien alimentados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El día que yo actúe ustedes pisotearán a los malvados y, bajo sus pies, quedarán hechos polvo —dice el Señor de los Ejércitos—."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Acuérdense de la Ley de mi siervo Moisés. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Estoy por enviarles al profeta Elías antes que llegue el día del Señor, día grande y terrible."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Él hará que los padres se reconcilien con sus hijos y los hijos con sus padres; así no vendré a herir la tierra con destrucción total»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malaquías"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malaquías 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malaquías 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Mateo 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El día del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Miren, ya viene el día, ardiente como un horno. Todos los soberbios y todos los malvados serán como paja; ese día les prenderá fuego hasta dejarlos sin raíz ni rama —dice el Señor de los Ejércitos—."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Pero para ustedes que temen mi nombre, se levantará el sol de justicia trayendo en sus rayos salud. Y ustedes saldrán saltando como becerros bien alimentados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El día que yo actúe ustedes pisotearán a los malvados y, bajo sus pies, quedarán hechos polvo —dice el Señor de los Ejércitos—."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Acuérdense de la Ley de mi siervo Moisés. Recuerden los estatutos y las ordenanzas que di en Horeb para todo Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Estoy por enviarles al profeta Elías antes que llegue el día del Señor, día grande y terrible."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Él hará que los padres se reconcilien con sus hijos y los hijos con sus padres; así no vendré a herir la tierra con destrucción total»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,227 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.140","is_chapter":true,"previous":{"usfm":"PSA.139","human":"Salmos 139","canonical":true,"toc":true},"current":{"usfm":"PSA.140","human":"Salmos 140"},"next":{"usfm":"PSA.141","human":"Salmos 141","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh Señor, rescátame de los malvados;","protégeme de los que son violentos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["de quienes traman el mal en el corazón","y causan problemas todo el día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Su lengua pica como una serpiente;","veneno de víbora gotea de sus labios."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Oh Señor, líbrame de la mano de los perversos;","protégeme de los violentos","porque traman un complot en mi contra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los orgullosos tendieron una trampa para atraparme;","extendieron una red;","colocaron trampas a lo largo del camino."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Le dije al Señor: «¡Tú eres mi Dios!».","¡Escucha, oh Señor, mis súplicas por misericordia!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Oh Señor Soberano, tú eres el poderoso que me rescató.","Tú me protegiste en el día de la batalla."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Señor, no permitas que los malvados se salgan con la suya;","no dejes que prosperen sus maquinaciones malignas","porque se volverán orgullosos."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Que mis enemigos sean destruidos","por el mismo mal que han planeado contra mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Que les caigan carbones encendidos sobre la cabeza;","que sean arrojados al fuego","o a pozos llenos de agua donde no haya escapatoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["No dejes que los mentirosos prosperen en nuestra tierra;","haz que les caigan grandes calamidades a los violentos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Pero a los que ellos persiguen, yo sé que el Señor los ayudará","y hará justicia a los pobres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Sin duda, los rectos alaban tu nombre;","los justos vivirán en tu presencia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.139.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.141.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.140",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.139",
+      "human": "Salmos 139"
+    },
+    "current": {
+      "usfm": "PSA.140",
+      "human": "Salmos 140"
+    },
+    "next": {
+      "usfm": "PSA.141",
+      "human": "Salmos 141"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh Señor, rescátame de los malvados;",
+          "protégeme de los que son violentos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "de quienes traman el mal en el corazón",
+          "y causan problemas todo el día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Su lengua pica como una serpiente;",
+          "veneno de víbora gotea de sus labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Oh Señor, líbrame de la mano de los perversos;",
+          "protégeme de los violentos",
+          "porque traman un complot en mi contra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los orgullosos tendieron una trampa para atraparme;",
+          "extendieron una red;",
+          "colocaron trampas a lo largo del camino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Le dije al Señor: «¡Tú eres mi Dios!».",
+          "¡Escucha, oh Señor, mis súplicas por misericordia!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Oh Señor Soberano, tú eres el poderoso que me rescató.",
+          "Tú me protegiste en el día de la batalla."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Señor, no permitas que los malvados se salgan con la suya;",
+          "no dejes que prosperen sus maquinaciones malignas",
+          "porque se volverán orgullosos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Que mis enemigos sean destruidos",
+          "por el mismo mal que han planeado contra mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Que les caigan carbones encendidos sobre la cabeza;",
+          "que sean arrojados al fuego",
+          "o a pozos llenos de agua donde no haya escapatoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "No dejes que los mentirosos prosperen en nuestra tierra;",
+          "haz que les caigan grandes calamidades a los violentos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Pero a los que ellos persiguen, yo sé que el Señor los ayudará",
+          "y hará justicia a los pobres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Sin duda, los rectos alaban tu nombre;",
+          "los justos vivirán en tu presencia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

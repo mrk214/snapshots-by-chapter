@@ -1,1 +1,441 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.9","is_chapter":true,"previous":{"usfm":"JOB.8","human":"Job 8","canonical":true,"toc":true},"current":{"usfm":"JOB.9","human":"Job 9"},"next":{"usfm":"JOB.10","human":"Job 10","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Job's Reply"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then Job answered and said,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I know it is so of a truth:","But how should man be just with God?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["If he will contend with him,","He cannot answer him one of a thousand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He is wise in heart, and mighty in strength:","Who hath hardened himself against him, and hath prospered?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Which removeth the mountains, and they know not:","Which overturneth them in his anger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Which shaketh the earth out of her place,","And the pillars thereof tremble."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Which commandeth the sun, and it riseth not;","And sealeth up the stars."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Which alone spreadeth out the heavens,","And treadeth upon the waves of the sea."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Which maketh Arcturus, Orion, and Pleiades,","And the chambers of the south."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Which doeth great things past finding out;","Yea, and wonders without number."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Lo, he goeth by me, and I see him not:","He passeth on also, but I perceive him not."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Behold, he taketh away, who can hinder him?","Who will say unto him, What doest thou?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["If God will not withdraw his anger,","The proud helpers do stoop under him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["How much less shall I answer him,","And choose out my words to reason with him?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Whom, though I were righteous, yet would I not answer,","But I would make supplication to my judge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["If I had called, and he had answered me;","Yet would I not believe that he had hearkened unto my voice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["For he breaketh me with a tempest,","And multiplieth my wounds without cause."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["He will not suffer me to take my breath,","But filleth me with bitterness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["If I speak of strength, lo, he is strong:","And if of judgment, who shall set me a time to plead?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["If I justify myself, mine own mouth shall condemn me:","If I say, I am perfect, it shall also prove me perverse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Though I were perfect, yet would I not know my soul:","I would despise my life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["This is one thing, therefore I said it,","He destroyeth the perfect and the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["If the scourge slay suddenly,","He will laugh at the trial of the innocent."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["The earth is given into the hand of the wicked:","He covereth the faces of the judges thereof;","If not, where, and who is he?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Now my days are swifter than a post:","They flee away, they see no good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["They are passed away as the swift ships:","As the eagle that hasteth to the prey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["If I say, I will forget my complaint,","I will leave off my heaviness, and comfort myself:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["I am afraid of all my sorrows,","I know that thou wilt not hold me innocent."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["If I be wicked,","Why then labour I in vain?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["If I wash myself with snow water,","And make my hands never so clean;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["Yet shalt thou plunge me in the ditch,","And mine own clothes shall abhor me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[32],"lines":["For he is not a man, as I am, that I should answer him,","And we should come together in judgment."],"rlw_lines":[]},{"type":"verse","verse_numbers":[33],"lines":["Neither is there any daysman betwixt us,","That might lay his hand upon us both."],"rlw_lines":[]},{"type":"verse","verse_numbers":[34],"lines":["Let him take his rod away from me,","And let not his fear terrify me:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[35],"lines":["Then would I speak, and not fear him;","But it is not so with me."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.8.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.10.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.9",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.8",
+      "human": "Job 8"
+    },
+    "current": {
+      "usfm": "JOB.9",
+      "human": "Job 9"
+    },
+    "next": {
+      "usfm": "JOB.10",
+      "human": "Job 10"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Job's Reply"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then Job answered and said,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I know it is so of a truth:",
+          "But how should man be just with God?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "If he will contend with him,",
+          "He cannot answer him one of a thousand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He is wise in heart, and mighty in strength:",
+          "Who hath hardened himself against him, and hath prospered?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Which removeth the mountains, and they know not:",
+          "Which overturneth them in his anger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Which shaketh the earth out of her place,",
+          "And the pillars thereof tremble."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Which commandeth the sun, and it riseth not;",
+          "And sealeth up the stars."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Which alone spreadeth out the heavens,",
+          "And treadeth upon the waves of the sea."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Which maketh Arcturus, Orion, and Pleiades,",
+          "And the chambers of the south."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Which doeth great things past finding out;",
+          "Yea, and wonders without number."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Lo, he goeth by me, and I see him not:",
+          "He passeth on also, but I perceive him not."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Behold, he taketh away, who can hinder him?",
+          "Who will say unto him, What doest thou?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "If God will not withdraw his anger,",
+          "The proud helpers do stoop under him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "How much less shall I answer him,",
+          "And choose out my words to reason with him?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Whom, though I were righteous, yet would I not answer,",
+          "But I would make supplication to my judge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "If I had called, and he had answered me;",
+          "Yet would I not believe that he had hearkened unto my voice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "For he breaketh me with a tempest,",
+          "And multiplieth my wounds without cause."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "He will not suffer me to take my breath,",
+          "But filleth me with bitterness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "If I speak of strength, lo, he is strong:",
+          "And if of judgment, who shall set me a time to plead?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "If I justify myself, mine own mouth shall condemn me:",
+          "If I say, I am perfect, it shall also prove me perverse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Though I were perfect, yet would I not know my soul:",
+          "I would despise my life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "This is one thing, therefore I said it,",
+          "He destroyeth the perfect and the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "If the scourge slay suddenly,",
+          "He will laugh at the trial of the innocent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "The earth is given into the hand of the wicked:",
+          "He covereth the faces of the judges thereof;",
+          "If not, where, and who is he?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Now my days are swifter than a post:",
+          "They flee away, they see no good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "They are passed away as the swift ships:",
+          "As the eagle that hasteth to the prey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "If I say, I will forget my complaint,",
+          "I will leave off my heaviness, and comfort myself:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "I am afraid of all my sorrows,",
+          "I know that thou wilt not hold me innocent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "If I be wicked,",
+          "Why then labour I in vain?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "If I wash myself with snow water,",
+          "And make my hands never so clean;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "Yet shalt thou plunge me in the ditch,",
+          "And mine own clothes shall abhor me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          32
+        ],
+        "lines": [
+          "For he is not a man, as I am, that I should answer him,",
+          "And we should come together in judgment."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          33
+        ],
+        "lines": [
+          "Neither is there any daysman betwixt us,",
+          "That might lay his hand upon us both."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          34
+        ],
+        "lines": [
+          "Let him take his rod away from me,",
+          "And let not his fear terrify me:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          35
+        ],
+        "lines": [
+          "Then would I speak, and not fear him;",
+          "But it is not so with me."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

@@ -1,1 +1,114 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.100","is_chapter":true,"previous":{"usfm":"PSA.99","human":"Salmos 99","canonical":true,"toc":true},"current":{"usfm":"PSA.100","human":"Salmos 100"},"next":{"usfm":"PSA.101","human":"Salmos 101","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Convite à celebração ao Senhor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de louvor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Celebrai com júbilo ao Senhor, todos os habitantes da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cultuai o Senhor com alegria e apresentai-vos a ele com cântico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sabei que o Senhor é Deus! Foi ele quem nos fez, e dele somos; somos seu povo e rebanho que ele pastoreia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entrai pelas suas portas com ação de graças, e em seus átrios, com louvor! Rendei-lhe graças e bendizei seu nome!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque o Senhor é bom! Seu amor dura para sempre, e sua fidelidade, de geração em geração."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.99.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.101.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.100",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.99",
+      "human": "Salmos 99"
+    },
+    "current": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "next": {
+      "usfm": "PSA.101",
+      "human": "Salmos 101"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Convite à celebração ao Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de louvor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Celebrai com júbilo ao Senhor, todos os habitantes da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cultuai o Senhor com alegria e apresentai-vos a ele com cântico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sabei que o Senhor é Deus! Foi ele quem nos fez, e dele somos; somos seu povo e rebanho que ele pastoreia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entrai pelas suas portas com ação de graças, e em seus átrios, com louvor! Rendei-lhe graças e bendizei seu nome!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque o Senhor é bom! Seu amor dura para sempre, e sua fidelidade, de geração em geração."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

@@ -1,1 +1,161 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.137","is_chapter":true,"previous":{"usfm":"PSA.136","human":"Psalms 136","canonical":true,"toc":true},"current":{"usfm":"PSA.137","human":"Psalms 137"},"next":{"usfm":"PSA.138","human":"Psalms 138","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Lament of the Exiles"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["By the rivers of Babylon —","there we sat down and wept","when we remembered Zion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["There we hung up our lyres","on the poplar trees,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["for our captors there asked us for songs,","and our tormentors, for rejoicing:","“Sing us one of the songs of Zion.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["How can we sing the Lord’s song","on foreign soil?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["If I forget you, Jerusalem,","may my right hand forget its skill."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["May my tongue stick to the roof of my mouth","if I do not remember you,","if I do not exalt Jerusalem as my greatest joy!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Remember, Lord, what the Edomites said","that day at Jerusalem:","“Destroy it! Destroy it","down to its foundations! ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Daughter Babylon, doomed to destruction,","happy is the one who pays you back","what you have done to us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Happy is he who takes your little ones","and dashes them against the rocks."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.136.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.138.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.137",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.136",
+      "human": "Psalms 136"
+    },
+    "current": {
+      "usfm": "PSA.137",
+      "human": "Psalms 137"
+    },
+    "next": {
+      "usfm": "PSA.138",
+      "human": "Psalms 138"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Lament of the Exiles"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "By the rivers of Babylon —",
+          "there we sat down and wept",
+          "when we remembered Zion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "There we hung up our lyres",
+          "on the poplar trees,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "for our captors there asked us for songs,",
+          "and our tormentors, for rejoicing:",
+          "“Sing us one of the songs of Zion.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "How can we sing the Lord’s song",
+          "on foreign soil?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "If I forget you, Jerusalem,",
+          "may my right hand forget its skill."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "May my tongue stick to the roof of my mouth",
+          "if I do not remember you,",
+          "if I do not exalt Jerusalem as my greatest joy!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Remember, Lord, what the Edomites said",
+          "that day at Jerusalem:",
+          "“Destroy it! Destroy it",
+          "down to its foundations! ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Daughter Babylon, doomed to destruction,",
+          "happy is the one who pays you back",
+          "what you have done to us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Happy is he who takes your little ones",
+          "and dashes them against the rocks."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

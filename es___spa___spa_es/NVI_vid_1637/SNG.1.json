@@ -1,1 +1,349 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"SNG","name":"Cantares"},"chapter":{"chapter_usfm":"SNG.1","is_chapter":true,"previous":{"usfm":"ECC.12","human":"Eclesiastés 12","canonical":true,"toc":true},"current":{"usfm":"SNG.1","human":"Cantares 1"},"next":{"usfm":"SNG.2","human":"Cantares 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Cantar de los cantares de Salomón."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Primer Canto"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ah, si me besaras con los besos de tu boca…","¡grato en verdad es tu amor, más que el vino!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Grata es también de tus perfumes la fragancia;","tú mismo eres bálsamo fragante.","¡Con razón te aman las doncellas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Hazme del todo tuya! ¡Date prisa!","¡Llévame, oh rey, a tu alcoba!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los amigos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Regocijémonos y deleitémonos juntos,","celebraremos tus caricias más que el vino.","¡Sobran las razones para amarte!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Morena soy, pero hermosa,","hijas de Jerusalén;","morena como las tiendas de Cedar,","hermosa como los tapices de Salmá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No os fijéis en mi tez morena,","ni en que el sol me bronceó la piel.","Mis hermanos se enfadaron contra mí,","y me obligaron a cuidar las viñas;","¡y mi propia viña descuidé!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Cuéntame, amor de mi vida,","¿dónde apacientas tus rebaños?,","¿dónde a la hora de la siesta los haces reposar?","¿Por qué he de andar vagando","entre los rebaños de tus amigos?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los amigos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Si no lo sabes, bella entre las bellas,","ve tras la huella del rebaño","y apacienta a tus cabritos","junto a las moradas de los pastores."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El amado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tú y tus adornos, amada mía,","me recordáis a las yeguas enjaezadas","de los carros del faraón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¡Qué hermosas lucen tus mejillas entre los pendientes!","¡Qué hermoso luce tu cuello entre los collares!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¡Haremos para ti pendientes de oro","con incrustaciones de plata!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Mientras el rey se halla sentado a la mesa,","mi perfume esparce su fragancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Mi amado es para mí como el saquito de mirra","que duerme entre mis pechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mi amado es para mí como un ramito de azahar","de las viñas de Engadi."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El amado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Cuán bella eres, amada mía!","¡Cuán bella eres!","¡Tus ojos son dos palomas!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Cuán hermoso eres, amado mío!","¡Eres un encanto!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El amado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Una alfombra de verdor es nuestro lecho,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["los cedros son las vigas de la casa","y nos cubre un techo de cipreses."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ECC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/SNG.2.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
+    },
+    "current": {
+      "usfm": "SNG.1",
+      "human": "Cantares 1"
+    },
+    "next": {
+      "usfm": "SNG.2",
+      "human": "Cantares 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantar de los cantares de Salomón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Primer Canto"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ah, si me besaras con los besos de tu boca…",
+          "¡grato en verdad es tu amor, más que el vino!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Grata es también de tus perfumes la fragancia;",
+          "tú mismo eres bálsamo fragante.",
+          "¡Con razón te aman las doncellas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Hazme del todo tuya! ¡Date prisa!",
+          "¡Llévame, oh rey, a tu alcoba!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los amigos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Regocijémonos y deleitémonos juntos,",
+          "celebraremos tus caricias más que el vino.",
+          "¡Sobran las razones para amarte!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Morena soy, pero hermosa,",
+          "hijas de Jerusalén;",
+          "morena como las tiendas de Cedar,",
+          "hermosa como los tapices de Salmá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No os fijéis en mi tez morena,",
+          "ni en que el sol me bronceó la piel.",
+          "Mis hermanos se enfadaron contra mí,",
+          "y me obligaron a cuidar las viñas;",
+          "¡y mi propia viña descuidé!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Cuéntame, amor de mi vida,",
+          "¿dónde apacientas tus rebaños?,",
+          "¿dónde a la hora de la siesta los haces reposar?",
+          "¿Por qué he de andar vagando",
+          "entre los rebaños de tus amigos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los amigos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Si no lo sabes, bella entre las bellas,",
+          "ve tras la huella del rebaño",
+          "y apacienta a tus cabritos",
+          "junto a las moradas de los pastores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El amado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tú y tus adornos, amada mía,",
+          "me recordáis a las yeguas enjaezadas",
+          "de los carros del faraón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¡Qué hermosas lucen tus mejillas entre los pendientes!",
+          "¡Qué hermoso luce tu cuello entre los collares!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¡Haremos para ti pendientes de oro",
+          "con incrustaciones de plata!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Mientras el rey se halla sentado a la mesa,",
+          "mi perfume esparce su fragancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Mi amado es para mí como el saquito de mirra",
+          "que duerme entre mis pechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mi amado es para mí como un ramito de azahar",
+          "de las viñas de Engadi."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El amado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Cuán bella eres, amada mía!",
+          "¡Cuán bella eres!",
+          "¡Tus ojos son dos palomas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Cuán hermoso eres, amado mío!",
+          "¡Eres un encanto!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El amado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Una alfombra de verdor es nuestro lecho,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "los cedros son las vigas de la casa",
+          "y nos cubre un techo de cipreses."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

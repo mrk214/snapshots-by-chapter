@@ -1,1 +1,313 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.49","is_chapter":true,"previous":{"usfm":"PSA.48","human":"Salmo 48","canonical":true,"toc":true},"current":{"usfm":"PSA.49","human":"Salmo 49"},"next":{"usfm":"PSA.50","human":"Salmo 50","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 49"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La insensatez de confiar en las riquezas"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro. Salmo de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oíd esto, pueblos todos;","escuchad, habitantes todos del mundo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["tanto humildes como encumbrados,","ricos y pobres juntamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mi boca hablará sabiduría,","y la meditación de mi corazón será entendimiento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Inclinaré al proverbio mi oído,","con el arpa declararé mi enigma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶¿Por qué he de temer en los días de adversidad","cuando la iniquidad de mis enemigos me rodee,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["de los que confían en sus bienes","y se jactan de la abundancia de sus riquezas?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nadie puede en manera alguna redimir a su hermano,","ni dar a Dios rescate por él,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["porque la redención de su alma es muy costosa,","y debe abandonar el intento para siempre,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["para que viva eternamente,","para que no vea corrupción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¶Porque él ve que aun los sabios mueren;","el torpe y el necio perecen de igual manera,","y dejan sus riquezas a otros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Su íntimo pensamiento es que sus casas serán eternas,","y sus moradas por todas las generaciones;","y a sus tierras han dado sus nombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Mas el hombre, en su vanagloria, no permanecerá;","es como las bestias que perecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶Este es el camino de los insensatos,","y de los que después de ellos aprueban sus palabras."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como ovejas son destinados para el Seol,","la muerte los pastoreará,","los rectos los regirán por la mañana;","su forma será para que el Seol la consuma,","de modo que no tienen morada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Pero Dios redimirá mi alma del poder del Seol,","pues Él me recibirá."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¶No temas cuando alguno se enriquece,","cuando la gloria de su casa aumenta;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["porque nada se llevará cuando muera,","ni su gloria descenderá con él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Aunque mientras viva, a sí mismo se felicite","(y aunque los hombres te alaben cuando prosperes),"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["irá a reunirse con la generación de sus padres,","quienes nunca verán la luz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El hombre en su vanagloria, pero sin entendimiento,","es como las bestias que perecen."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.48.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.50.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.49",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.48",
+      "human": "Salmo 48"
+    },
+    "current": {
+      "usfm": "PSA.49",
+      "human": "Salmo 49"
+    },
+    "next": {
+      "usfm": "PSA.50",
+      "human": "Salmo 50"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 49"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La insensatez de confiar en las riquezas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro. Salmo de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oíd esto, pueblos todos;",
+          "escuchad, habitantes todos del mundo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "tanto humildes como encumbrados,",
+          "ricos y pobres juntamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mi boca hablará sabiduría,",
+          "y la meditación de mi corazón será entendimiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Inclinaré al proverbio mi oído,",
+          "con el arpa declararé mi enigma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶¿Por qué he de temer en los días de adversidad",
+          "cuando la iniquidad de mis enemigos me rodee,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "de los que confían en sus bienes",
+          "y se jactan de la abundancia de sus riquezas?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nadie puede en manera alguna redimir a su hermano,",
+          "ni dar a Dios rescate por él,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "porque la redención de su alma es muy costosa,",
+          "y debe abandonar el intento para siempre,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "para que viva eternamente,",
+          "para que no vea corrupción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¶Porque él ve que aun los sabios mueren;",
+          "el torpe y el necio perecen de igual manera,",
+          "y dejan sus riquezas a otros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Su íntimo pensamiento es que sus casas serán eternas,",
+          "y sus moradas por todas las generaciones;",
+          "y a sus tierras han dado sus nombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Mas el hombre, en su vanagloria, no permanecerá;",
+          "es como las bestias que perecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶Este es el camino de los insensatos,",
+          "y de los que después de ellos aprueban sus palabras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como ovejas son destinados para el Seol,",
+          "la muerte los pastoreará,",
+          "los rectos los regirán por la mañana;",
+          "su forma será para que el Seol la consuma,",
+          "de modo que no tienen morada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Pero Dios redimirá mi alma del poder del Seol,",
+          "pues Él me recibirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¶No temas cuando alguno se enriquece,",
+          "cuando la gloria de su casa aumenta;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "porque nada se llevará cuando muera,",
+          "ni su gloria descenderá con él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Aunque mientras viva, a sí mismo se felicite",
+          "(y aunque los hombres te alaben cuando prosperes),"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "irá a reunirse con la generación de sus padres,",
+          "quienes nunca verán la luz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El hombre en su vanagloria, pero sin entendimiento,",
+          "es como las bestias que perecen."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

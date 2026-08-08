@@ -1,1 +1,167 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.8","is_chapter":true,"previous":{"usfm":"PSA.7","human":"Psalms 7","canonical":true,"toc":true},"current":{"usfm":"PSA.8","human":"Psalms 8"},"next":{"usfm":"PSA.9","human":"Psalms 9","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Glory of the Lord in Creation"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the Chief Musician. On the instrument of Gath. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Lord, our Lord,","How excellent is Your name in all the earth,","Who have set Your glory above the heavens!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Out of the mouth of babes and nursing infants","You have ordained strength,","Because of Your enemies,","That You may silence the enemy and the avenger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When I consider Your heavens, the work of Your fingers,","The moon and the stars, which You have ordained,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["What is man that You are mindful of him,","And the son of man that You visit him?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For You have made him a little lower than the angels,","And You have crowned him with glory and honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You have made him to have dominion over the works of Your hands;","You have put all things under his feet,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["All sheep and oxen—","Even the beasts of the field,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The birds of the air,","And the fish of the sea","That pass through the paths of the seas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["O Lord, our Lord,","How excellent is Your name in all the earth!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.9.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.7",
+      "human": "Psalms 7"
+    },
+    "current": {
+      "usfm": "PSA.8",
+      "human": "Psalms 8"
+    },
+    "next": {
+      "usfm": "PSA.9",
+      "human": "Psalms 9"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Glory of the Lord in Creation"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the Chief Musician. On the instrument of Gath. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Lord, our Lord,",
+          "How excellent is Your name in all the earth,",
+          "Who have set Your glory above the heavens!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Out of the mouth of babes and nursing infants",
+          "You have ordained strength,",
+          "Because of Your enemies,",
+          "That You may silence the enemy and the avenger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When I consider Your heavens, the work of Your fingers,",
+          "The moon and the stars, which You have ordained,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "What is man that You are mindful of him,",
+          "And the son of man that You visit him?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For You have made him a little lower than the angels,",
+          "And You have crowned him with glory and honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You have made him to have dominion over the works of Your hands;",
+          "You have put all things under his feet,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "All sheep and oxen—",
+          "Even the beasts of the field,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The birds of the air,",
+          "And the fish of the sea",
+          "That pass through the paths of the seas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "O Lord, our Lord,",
+          "How excellent is Your name in all the earth!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

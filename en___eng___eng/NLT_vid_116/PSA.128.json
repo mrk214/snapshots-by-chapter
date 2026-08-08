@@ -1,1 +1,124 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Psalms 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Psalms 128"},"next":{"usfm":"PSA.129","human":"Psalms 129","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A song for pilgrims ascending to Jerusalem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How joyful are those who fear the Lord—","all who follow his ways!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["You will enjoy the fruit of your labor.","How joyful and prosperous you will be!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Your wife will be like a fruitful grapevine,","flourishing within your home.","Your children will be like vigorous young olive trees","as they sit around your table."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["That is the Lord’s blessing","for those who fear him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["May the Lord continually bless you from Zion.","May you see Jerusalem prosper as long as you live."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["May you live to enjoy your grandchildren.","May Israel have peace!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Psalms 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Psalms 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Psalms 129"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song for pilgrims ascending to Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How joyful are those who fear the Lord—",
+          "all who follow his ways!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "You will enjoy the fruit of your labor.",
+          "How joyful and prosperous you will be!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Your wife will be like a fruitful grapevine,",
+          "flourishing within your home.",
+          "Your children will be like vigorous young olive trees",
+          "as they sit around your table."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "That is the Lord’s blessing",
+          "for those who fear him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "May the Lord continually bless you from Zion.",
+          "May you see Jerusalem prosper as long as you live."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "May you live to enjoy your grandchildren.",
+          "May Israel have peace!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

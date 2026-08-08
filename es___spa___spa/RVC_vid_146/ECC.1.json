@@ -1,1 +1,247 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.1","is_chapter":true,"previous":{"usfm":"PRO.31","human":"Proverbios 31","canonical":true,"toc":true},"current":{"usfm":"ECC.1","human":"Eclesiastés 1"},"next":{"usfm":"ECC.2","human":"Eclesiastés 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Todo es vanidad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Palabras del Predicador, hijo de David, rey en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Vanidad de vanidades!","¡Vanidad de vanidades!","¡Todo es vanidad!","—Palabras del Predicador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Qué provecho saca el hombre de todos sus trabajos y de todos sus afanes bajo el sol?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Una generación se va, y otra generación viene, pero la tierra permanece para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El sol sale, el sol se pone, y vuelve presuroso al lugar de donde se levanta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El viento gira hacia el sur, y da vueltas por el norte; va girando sin cesar, y vuelve a girar el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos los ríos van al mar, y el mar jamás se llena. Y los ríos vuelven al lugar de donde salieron, para volver a recorrer su camino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Todas las cosas fatigan más de lo que es posible expresar. ¡Los ojos nunca se cansan de ver, ni se fatigan los oídos de oír!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¿Qué es lo que antes fue? ¡Lo mismo que habrá de ser! ¿Qué es lo que ha sido hecho? ¡Lo mismo que habrá de hacerse! ¡Y no hay nada nuevo bajo el sol!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No hay nada de lo que pueda decirse: «¡Miren, aquí hay algo nuevo!», porque eso ya existía mucho antes que nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Nadie recuerda lo que antes fue, ni nadie que nazca después recordará lo que está por suceder."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La experiencia del Predicador"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Yo soy el Predicador, y reiné sobre Israel en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Me entregué de corazón a investigar y a estudiar minuciosamente todo lo que se hace bajo el cielo. Este penoso trabajo nos lo ha dado Dios, para que nos ocupemos de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Por lo tanto, escudriñé todo lo que se hace bajo el sol, y pude darme cuenta de que todo es vanidad y aflicción de espíritu;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡lo que está torcido no se puede enderezar, y lo que está incompleto no se puede contar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pensé entonces en lo íntimo de mi ser: «¡Miren cuánto me he engrandecido! ¡He llegado a ser más sabio que todos los que me antecedieron en Jerusalén! ¡Mi corazón ha percibido mucha sabiduría y mucha ciencia!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Entonces me entregué de corazón a adquirir más sabiduría, y a entender también las locuras y los desvaríos, pero me di cuenta de que también esto es aflicción de espíritu."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque «abundar en sabiduría es abundar en molestias», y también «quien aumenta sus conocimientos, aumenta sus sufrimientos»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.31.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ECC.2.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.31",
+      "human": "Proverbios 31"
+    },
+    "current": {
+      "usfm": "ECC.1",
+      "human": "Eclesiastés 1"
+    },
+    "next": {
+      "usfm": "ECC.2",
+      "human": "Eclesiastés 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Todo es vanidad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Palabras del Predicador, hijo de David, rey en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Vanidad de vanidades!",
+          "¡Vanidad de vanidades!",
+          "¡Todo es vanidad!",
+          "—Palabras del Predicador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Qué provecho saca el hombre de todos sus trabajos y de todos sus afanes bajo el sol?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Una generación se va, y otra generación viene, pero la tierra permanece para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El sol sale, el sol se pone, y vuelve presuroso al lugar de donde se levanta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El viento gira hacia el sur, y da vueltas por el norte; va girando sin cesar, y vuelve a girar el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos los ríos van al mar, y el mar jamás se llena. Y los ríos vuelven al lugar de donde salieron, para volver a recorrer su camino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Todas las cosas fatigan más de lo que es posible expresar. ¡Los ojos nunca se cansan de ver, ni se fatigan los oídos de oír!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¿Qué es lo que antes fue? ¡Lo mismo que habrá de ser! ¿Qué es lo que ha sido hecho? ¡Lo mismo que habrá de hacerse! ¡Y no hay nada nuevo bajo el sol!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No hay nada de lo que pueda decirse: «¡Miren, aquí hay algo nuevo!», porque eso ya existía mucho antes que nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Nadie recuerda lo que antes fue, ni nadie que nazca después recordará lo que está por suceder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La experiencia del Predicador"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Yo soy el Predicador, y reiné sobre Israel en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Me entregué de corazón a investigar y a estudiar minuciosamente todo lo que se hace bajo el cielo. Este penoso trabajo nos lo ha dado Dios, para que nos ocupemos de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Por lo tanto, escudriñé todo lo que se hace bajo el sol, y pude darme cuenta de que todo es vanidad y aflicción de espíritu;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡lo que está torcido no se puede enderezar, y lo que está incompleto no se puede contar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pensé entonces en lo íntimo de mi ser: «¡Miren cuánto me he engrandecido! ¡He llegado a ser más sabio que todos los que me antecedieron en Jerusalén! ¡Mi corazón ha percibido mucha sabiduría y mucha ciencia!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Entonces me entregué de corazón a adquirir más sabiduría, y a entender también las locuras y los desvaríos, pero me di cuenta de que también esto es aflicción de espíritu."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque «abundar en sabiduría es abundar en molestias», y también «quien aumenta sus conocimientos, aumenta sus sufrimientos»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

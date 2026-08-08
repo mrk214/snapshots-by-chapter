@@ -1,1 +1,159 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.124","is_chapter":true,"previous":{"usfm":"PSA.123","human":"Salmo 123","canonical":true,"toc":true},"current":{"usfm":"PSA.124","human":"Salmo 124"},"next":{"usfm":"PSA.125","human":"Salmo 125","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 124"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Canto de liberación"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico de ascenso gradual; de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["«Si el Señor no hubiera estado a nuestro favor»,","Que lo diga ahora Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Si el Señor no hubiera estado a nuestro favor","Cuando los hombres se levantaron contra nosotros,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Vivos nos hubieran tragado entonces","Cuando su ira se encendió contra nosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["-»Entonces las aguas nos hubieran cubierto,","Un torrente hubiera pasado sobre nuestra alma,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Hubieran pasado entonces sobre nuestra alma las aguas impetuosas»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Bendito sea el Señor,","Que no nos ha entregado como presa de los dientes de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nuestra alma ha escapado cual ave del lazo de los cazadores;","El lazo se rompió y nosotros escapamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Nuestra ayuda está en el nombre del Señor,","Que hizo los cielos y la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.123.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.125.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.124",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.123",
+      "human": "Salmo 123"
+    },
+    "current": {
+      "usfm": "PSA.124",
+      "human": "Salmo 124"
+    },
+    "next": {
+      "usfm": "PSA.125",
+      "human": "Salmo 125"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 124"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Canto de liberación"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de ascenso gradual; de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "«Si el Señor no hubiera estado a nuestro favor»,",
+          "Que lo diga ahora Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Si el Señor no hubiera estado a nuestro favor",
+          "Cuando los hombres se levantaron contra nosotros,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Vivos nos hubieran tragado entonces",
+          "Cuando su ira se encendió contra nosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "-»Entonces las aguas nos hubieran cubierto,",
+          "Un torrente hubiera pasado sobre nuestra alma,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Hubieran pasado entonces sobre nuestra alma las aguas impetuosas»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Bendito sea el Señor,",
+          "Que no nos ha entregado como presa de los dientes de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nuestra alma ha escapado cual ave del lazo de los cazadores;",
+          "El lazo se rompió y nosotros escapamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Nuestra ayuda está en el nombre del Señor,",
+          "Que hizo los cielos y la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

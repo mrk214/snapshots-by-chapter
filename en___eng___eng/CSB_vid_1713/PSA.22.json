@@ -1,1 +1,424 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.22","is_chapter":true,"previous":{"usfm":"PSA.21","human":"Psalms 21","canonical":true,"toc":true},"current":{"usfm":"PSA.22","human":"Psalms 22"},"next":{"usfm":"PSA.23","human":"Psalms 23","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["From Suffering to Praise"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director: according to “The Deer of the Dawn.” A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["My God, my God, why have you abandoned me?","Why are you so far from my deliverance","and from my words of groaning?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["My God, I cry by day, but you do not answer,","by night, yet I have no rest."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But you are holy,","enthroned on the praises of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Our ancestors trusted in you;","they trusted, and you rescued them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They cried to you and were set free;","they trusted in you and were not disgraced."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["But I am a worm and not a man,","scorned by mankind and despised by people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Everyone who sees me mocks me;","they sneer and shake their heads:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“He relies on the Lord;","let him save him;","let the Lord rescue him,","since he takes pleasure in him.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["It was you who brought me out of the womb,","making me secure at my mother’s breast."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I was given over to you at birth;","you have been my God from my mother’s womb."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Don’t be far from me, because distress is near","and there’s no one to help."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Many bulls surround me;","strong ones of Bashan encircle me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["They open their mouths against me —","lions, mauling and roaring."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I am poured out like water,","and all my bones are disjointed;","my heart is like wax,","melting within me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["My strength is dried up like baked clay;","my tongue sticks to the roof of my mouth.","You put me into the dust of death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["For dogs have surrounded me;","a gang of evildoers has closed in on me;","they pierced my hands and my feet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I can count all my bones;","people look and stare at me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["They divided my garments among themselves,","and they cast lots for my clothing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["But you, Lord, don’t be far away.","My strength, come quickly to help me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Rescue my life from the sword,","my only life from the power of these dogs."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Save me from the lion’s mouth,","from the horns of wild oxen.","You answered me!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["I will proclaim your name to my brothers and sisters;","I will praise you in the assembly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["You who fear the Lord, praise him!","All you descendants of Jacob, honor him!","All you descendants of Israel, revere him!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["For he has not despised or abhorred","the torment of the oppressed.","He did not hide his face from him","but listened when he cried to him for help."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["I will give praise in the great assembly","because of you;","I will fulfill my vows","before those who fear you. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["The humble will eat and be satisfied;","those who seek the Lord will praise him.","May your hearts live forever!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["All the ends of the earth will remember","and turn to the Lord.","All the families of the nations","will bow down before you,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["for kingship belongs to the Lord;","he rules the nations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["All who prosper on earth will eat and bow down;","all those who go down to the dust","will kneel before him —","even the one who cannot preserve his life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Their descendants will serve him;","the next generation will be told about the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["They will come and declare his righteousness;","to a people yet to be born","they will declare what he has done."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.21.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.23.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.22",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.21",
+      "human": "Psalms 21"
+    },
+    "current": {
+      "usfm": "PSA.22",
+      "human": "Psalms 22"
+    },
+    "next": {
+      "usfm": "PSA.23",
+      "human": "Psalms 23"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "From Suffering to Praise"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director: according to “The Deer of the Dawn.” A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "My God, my God, why have you abandoned me?",
+          "Why are you so far from my deliverance",
+          "and from my words of groaning?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "My God, I cry by day, but you do not answer,",
+          "by night, yet I have no rest."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But you are holy,",
+          "enthroned on the praises of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Our ancestors trusted in you;",
+          "they trusted, and you rescued them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They cried to you and were set free;",
+          "they trusted in you and were not disgraced."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "But I am a worm and not a man,",
+          "scorned by mankind and despised by people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Everyone who sees me mocks me;",
+          "they sneer and shake their heads:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“He relies on the Lord;",
+          "let him save him;",
+          "let the Lord rescue him,",
+          "since he takes pleasure in him.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "It was you who brought me out of the womb,",
+          "making me secure at my mother’s breast."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I was given over to you at birth;",
+          "you have been my God from my mother’s womb."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Don’t be far from me, because distress is near",
+          "and there’s no one to help."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Many bulls surround me;",
+          "strong ones of Bashan encircle me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "They open their mouths against me —",
+          "lions, mauling and roaring."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I am poured out like water,",
+          "and all my bones are disjointed;",
+          "my heart is like wax,",
+          "melting within me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "My strength is dried up like baked clay;",
+          "my tongue sticks to the roof of my mouth.",
+          "You put me into the dust of death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "For dogs have surrounded me;",
+          "a gang of evildoers has closed in on me;",
+          "they pierced my hands and my feet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I can count all my bones;",
+          "people look and stare at me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "They divided my garments among themselves,",
+          "and they cast lots for my clothing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "But you, Lord, don’t be far away.",
+          "My strength, come quickly to help me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Rescue my life from the sword,",
+          "my only life from the power of these dogs."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Save me from the lion’s mouth,",
+          "from the horns of wild oxen.",
+          "You answered me!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "I will proclaim your name to my brothers and sisters;",
+          "I will praise you in the assembly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "You who fear the Lord, praise him!",
+          "All you descendants of Jacob, honor him!",
+          "All you descendants of Israel, revere him!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "For he has not despised or abhorred",
+          "the torment of the oppressed.",
+          "He did not hide his face from him",
+          "but listened when he cried to him for help."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "I will give praise in the great assembly",
+          "because of you;",
+          "I will fulfill my vows",
+          "before those who fear you. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "The humble will eat and be satisfied;",
+          "those who seek the Lord will praise him.",
+          "May your hearts live forever!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "All the ends of the earth will remember",
+          "and turn to the Lord.",
+          "All the families of the nations",
+          "will bow down before you,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "for kingship belongs to the Lord;",
+          "he rules the nations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "All who prosper on earth will eat and bow down;",
+          "all those who go down to the dust",
+          "will kneel before him —",
+          "even the one who cannot preserve his life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Their descendants will serve him;",
+          "the next generation will be told about the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "They will come and declare his righteousness;",
+          "to a people yet to be born",
+          "they will declare what he has done."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

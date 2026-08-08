@@ -1,1 +1,154 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Psalm 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Psalm 130"},"next":{"usfm":"PSA.131","human":"Psalm 131","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["My Soul Waits for the Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Out of the depths I cry to you, O Lord!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Lord, hear my voice!","Let your ears be attentive","to the voice of my pleas for mercy!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["If you, O Lord, should mark iniquities,","O Lord, who could stand?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But with you there is forgiveness,","that you may be feared."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I wait for the Lord, my soul waits,","and in his word I hope;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["my soul waits for the Lord","more than watchmen for the morning,","more than watchmen for the morning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O Israel, hope in the Lord!","For with the Lord there is steadfast love,","and with him is plentiful redemption."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And he will redeem Israel","from all his iniquities."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Psalm 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Psalm 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Psalm 131"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "My Soul Waits for the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Out of the depths I cry to you, O Lord!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Lord, hear my voice!",
+          "Let your ears be attentive",
+          "to the voice of my pleas for mercy!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "If you, O Lord, should mark iniquities,",
+          "O Lord, who could stand?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But with you there is forgiveness,",
+          "that you may be feared."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I wait for the Lord, my soul waits,",
+          "and in his word I hope;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "my soul waits for the Lord",
+          "more than watchmen for the morning,",
+          "more than watchmen for the morning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O Israel, hope in the Lord!",
+          "For with the Lord there is steadfast love,",
+          "and with him is plentiful redemption."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And he will redeem Israel",
+          "from all his iniquities."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

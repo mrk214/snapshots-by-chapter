@@ -1,1 +1,236 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.17","is_chapter":true,"previous":{"usfm":"PSA.16","human":"Salmos 16","canonical":true,"toc":true},"current":{"usfm":"PSA.17","human":"Salmos 17"},"next":{"usfm":"PSA.18","human":"Salmos 18","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Oração davídica."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ouve, Senhor, a minha justa queixa;","atenta para o meu clamor.","Dá ouvidos à minha oração,","que não vem de lábios falsos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Venha de ti a sentença em meu favor;","vejam os teus olhos onde está a justiça!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Provas o meu coração e de noite me examinas;","tu me sondas e nada encontras;","decidi que a minha boca não pecará"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["como fazem os homens.","Pela palavra dos teus lábios","eu evitei os caminhos do violento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Meus passos seguem firmes nas tuas veredas;","os meus pés não escorregaram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Eu clamo a ti, ó Deus, pois tu me respondes;","inclina para mim os teus ouvidos","e ouve a minha oração."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mostra a maravilha do teu amor,","tu, que com a tua mão direita salvas","os que em ti buscam proteção","contra aqueles que os ameaçam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Protege-me como à menina dos teus olhos;","esconde-me à sombra das tuas asas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["dos ímpios que me atacam com violência,","dos inimigos mortais que me cercam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Eles fecham o coração insensível","e com a boca falam com arrogância."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Eles me seguem os passos e já me cercam;","seus olhos estão atentos,","prontos para derrubar-me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["São como um leão ávido pela presa,","como um leão forte agachado na emboscada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Levanta-te, Senhor!","Confronta-os! Derruba-os!","Com a tua espada livra-me dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Com a tua mão, Senhor,","livra-me de homens assim,","de homens deste mundo,","cuja recompensa está nesta vida.","Enche-lhes o ventre de tudo","o que lhes reservaste;","sejam os seus filhos saciados,","e o que sobrar fique para os seus pequeninos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Quanto a mim, feita a justiça, verei a tua face;","quando despertar, ficarei satisfeito ao ver a tua semelhança."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.18.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "current": {
+      "usfm": "PSA.17",
+      "human": "Salmos 17"
+    },
+    "next": {
+      "usfm": "PSA.18",
+      "human": "Salmos 18"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Oração davídica."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ouve, Senhor, a minha justa queixa;",
+          "atenta para o meu clamor.",
+          "Dá ouvidos à minha oração,",
+          "que não vem de lábios falsos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Venha de ti a sentença em meu favor;",
+          "vejam os teus olhos onde está a justiça!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Provas o meu coração e de noite me examinas;",
+          "tu me sondas e nada encontras;",
+          "decidi que a minha boca não pecará"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "como fazem os homens.",
+          "Pela palavra dos teus lábios",
+          "eu evitei os caminhos do violento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Meus passos seguem firmes nas tuas veredas;",
+          "os meus pés não escorregaram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Eu clamo a ti, ó Deus, pois tu me respondes;",
+          "inclina para mim os teus ouvidos",
+          "e ouve a minha oração."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mostra a maravilha do teu amor,",
+          "tu, que com a tua mão direita salvas",
+          "os que em ti buscam proteção",
+          "contra aqueles que os ameaçam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Protege-me como à menina dos teus olhos;",
+          "esconde-me à sombra das tuas asas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "dos ímpios que me atacam com violência,",
+          "dos inimigos mortais que me cercam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Eles fecham o coração insensível",
+          "e com a boca falam com arrogância."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Eles me seguem os passos e já me cercam;",
+          "seus olhos estão atentos,",
+          "prontos para derrubar-me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "São como um leão ávido pela presa,",
+          "como um leão forte agachado na emboscada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Levanta-te, Senhor!",
+          "Confronta-os! Derruba-os!",
+          "Com a tua espada livra-me dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Com a tua mão, Senhor,",
+          "livra-me de homens assim,",
+          "de homens deste mundo,",
+          "cuja recompensa está nesta vida.",
+          "Enche-lhes o ventre de tudo",
+          "o que lhes reservaste;",
+          "sejam os seus filhos saciados,",
+          "e o que sobrar fique para os seus pequeninos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Quanto a mim, feita a justiça, verei a tua face;",
+          "quando despertar, ficarei satisfeito ao ver a tua semelhança."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

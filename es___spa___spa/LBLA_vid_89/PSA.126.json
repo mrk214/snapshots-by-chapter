@@ -1,1 +1,139 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Salmo 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Salmo 126"},"next":{"usfm":"PSA.127","human":"Salmo 127","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 126"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Gratitud por el regreso de la cautividad"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico de ascenso gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando el Señor hizo volver a los cautivos de Sión,","éramos como los que sueñan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entonces nuestra boca se llenó de risa,","y nuestra lengua de gritos de alegría;","entonces dijeron entre las naciones:","Grandes cosas ha hecho el Señor con ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Grandes cosas ha hecho el Señor con nosotros;","estamos alegres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Haz volver, Señor, a nuestros cautivos,","como las corrientes en el sur."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los que siembran con lágrimas, segarán con gritos de júbilo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Él que con lágrimas anda, llevando la semilla de la siembra,","en verdad volverá con gritos de alegría, trayendo sus gavillas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Salmo 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Salmo 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Salmo 127"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 126"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Gratitud por el regreso de la cautividad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de ascenso gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando el Señor hizo volver a los cautivos de Sión,",
+          "éramos como los que sueñan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entonces nuestra boca se llenó de risa,",
+          "y nuestra lengua de gritos de alegría;",
+          "entonces dijeron entre las naciones:",
+          "Grandes cosas ha hecho el Señor con ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Grandes cosas ha hecho el Señor con nosotros;",
+          "estamos alegres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Haz volver, Señor, a nuestros cautivos,",
+          "como las corrientes en el sur."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los que siembran con lágrimas, segarán con gritos de júbilo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Él que con lágrimas anda, llevando la semilla de la siembra,",
+          "en verdad volverá con gritos de alegría, trayendo sus gavillas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

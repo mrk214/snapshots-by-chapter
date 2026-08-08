@@ -1,1 +1,190 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.97","is_chapter":true,"previous":{"usfm":"PSA.96","human":"Salmos 96","canonical":true,"toc":true},"current":{"usfm":"PSA.97","human":"Salmos 97"},"next":{"usfm":"PSA.98","human":"Salmos 98","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios es un rey justo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Dios es nuestro rey!","¡Que lo celebre la tierra!","¡Que lo festejen las islas lejanas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3],"lines":["Dios es un rey justo,","que hace valer el derecho.","Su trono está rodeado","de oscuros nubarrones.","De su presencia sale fuego","que consume a sus enemigos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Sus relámpagos iluminan el mundo.","Al verlos, la tierra se estremece."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En presencia de nuestro Dios,","que domina el mundo entero,","las montañas se derriten como cera;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["los cielos reconocen su justicia,","los pueblos contemplan su poder,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["y los dioses se inclinan ante él.","Así quedan en vergüenza","todos los que adoran dioses falsos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cuando lo sepan en Jerusalén","y en las ciudades de Judá,","todos se llenarán de alegría","porque tú eres un Dios justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Tú eres el Dios altísimo!","¡Eres más grande que toda la tierra!","¡Eres más grande que todos los dioses!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tú amas y proteges","a quienes odian el mal y te obedecen;","tú los libras de los malvados;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["tú derramas luz y alegría","sobre la gente honrada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ustedes los justos,","¡alégrense en Dios!","¡Alábenlo porque es nuestro Dios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.96.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.98.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.97",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.96",
+      "human": "Salmos 96"
+    },
+    "current": {
+      "usfm": "PSA.97",
+      "human": "Salmos 97"
+    },
+    "next": {
+      "usfm": "PSA.98",
+      "human": "Salmos 98"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios es un rey justo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Dios es nuestro rey!",
+          "¡Que lo celebre la tierra!",
+          "¡Que lo festejen las islas lejanas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3
+        ],
+        "lines": [
+          "Dios es un rey justo,",
+          "que hace valer el derecho.",
+          "Su trono está rodeado",
+          "de oscuros nubarrones.",
+          "De su presencia sale fuego",
+          "que consume a sus enemigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Sus relámpagos iluminan el mundo.",
+          "Al verlos, la tierra se estremece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En presencia de nuestro Dios,",
+          "que domina el mundo entero,",
+          "las montañas se derriten como cera;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "los cielos reconocen su justicia,",
+          "los pueblos contemplan su poder,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "y los dioses se inclinan ante él.",
+          "Así quedan en vergüenza",
+          "todos los que adoran dioses falsos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cuando lo sepan en Jerusalén",
+          "y en las ciudades de Judá,",
+          "todos se llenarán de alegría",
+          "porque tú eres un Dios justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Tú eres el Dios altísimo!",
+          "¡Eres más grande que toda la tierra!",
+          "¡Eres más grande que todos los dioses!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tú amas y proteges",
+          "a quienes odian el mal y te obedecen;",
+          "tú los libras de los malvados;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "tú derramas luz y alegría",
+          "sobre la gente honrada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ustedes los justos,",
+          "¡alégrense en Dios!",
+          "¡Alábenlo porque es nuestro Dios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

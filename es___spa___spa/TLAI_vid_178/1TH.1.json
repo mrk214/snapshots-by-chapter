@@ -1,1 +1,157 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"1TH","name":"1 Tesalonicenses"},"chapter":{"chapter_usfm":"1TH.1","is_chapter":true,"previous":{"usfm":"COL.4","human":"Colosenses 4","canonical":true,"toc":true},"current":{"usfm":"1TH.1","human":"1 Tesalonicenses 1"},"next":{"usfm":"1TH.2","human":"1 Tesalonicenses 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Saludo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Queridos hermanos y hermanas de la iglesia de Tesalónica:","Nosotros, Pablo, Silvano y Timoteo, los saludamos a ustedes, que pertenecen a Dios Padre y al Señor Jesucristo.","Deseamos de todo corazón que Dios los llene de su amor y les dé su paz."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los tesalonicenses son un ejemplo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3],"lines":["Siempre damos gracias a Dios nuestro Padre, y en nuestras oraciones le pedimos que los ayude. Sabemos bien que, en todo lo que hacen, ustedes demuestran su confianza en Dios y su amor por él. Y aun cuando sufren, se mantienen firmes, esperando la salvación que nuestro Señor Jesucristo les dará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Hermanos, Dios los ama, y nosotros sabemos que él los ha elegido para que sean parte de su pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cuando les anunciamos la buena noticia, no lo hicimos solo con palabras. Al contrario, cuando estuvimos entre ustedes dejamos bien claro que tenemos el poder de Dios, y que el Espíritu Santo actúa por medio de nosotros, para el bien de ustedes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ustedes siguieron nuestro ejemplo y el de nuestro Señor, y aunque sufrieron mucho, recibieron ese mensaje con la profunda alegría que da el Espíritu Santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por eso llegaron a ser un ejemplo para todos los seguidores de Jesucristo que viven en las regiones de Macedonia y Acaya."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ustedes han anunciado el mensaje de Jesucristo, no solo en esas regiones sino en muchas otras partes. La gente de esos lugares ya sabe que ustedes confían mucho en Dios, y no hace falta que nosotros les digamos nada más."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Porque todos hablan de lo bien que ustedes nos recibieron, y cuentan cómo ustedes dejaron de adorar ídolos para adorar y servir al Dios vivo y verdadero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ellos saben que ustedes esperan que Jesucristo regrese del cielo. Dios hizo que él resucitara para salvarnos del castigo que él dará a los pecadores en el día del juicio."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/COL.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1TH.2.json"
+  },
+  "book": {
+    "book_usfm": "1TH",
+    "name": "1 Tesalonicenses"
+  },
+  "chapter": {
+    "chapter_usfm": "1TH.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "COL.4",
+      "human": "Colosenses 4"
+    },
+    "current": {
+      "usfm": "1TH.1",
+      "human": "1 Tesalonicenses 1"
+    },
+    "next": {
+      "usfm": "1TH.2",
+      "human": "1 Tesalonicenses 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Saludo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Queridos hermanos y hermanas de la iglesia de Tesalónica:",
+          "Nosotros, Pablo, Silvano y Timoteo, los saludamos a ustedes, que pertenecen a Dios Padre y al Señor Jesucristo.",
+          "Deseamos de todo corazón que Dios los llene de su amor y les dé su paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los tesalonicenses son un ejemplo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3
+        ],
+        "lines": [
+          "Siempre damos gracias a Dios nuestro Padre, y en nuestras oraciones le pedimos que los ayude. Sabemos bien que, en todo lo que hacen, ustedes demuestran su confianza en Dios y su amor por él. Y aun cuando sufren, se mantienen firmes, esperando la salvación que nuestro Señor Jesucristo les dará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Hermanos, Dios los ama, y nosotros sabemos que él los ha elegido para que sean parte de su pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cuando les anunciamos la buena noticia, no lo hicimos solo con palabras. Al contrario, cuando estuvimos entre ustedes dejamos bien claro que tenemos el poder de Dios, y que el Espíritu Santo actúa por medio de nosotros, para el bien de ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ustedes siguieron nuestro ejemplo y el de nuestro Señor, y aunque sufrieron mucho, recibieron ese mensaje con la profunda alegría que da el Espíritu Santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por eso llegaron a ser un ejemplo para todos los seguidores de Jesucristo que viven en las regiones de Macedonia y Acaya."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ustedes han anunciado el mensaje de Jesucristo, no solo en esas regiones sino en muchas otras partes. La gente de esos lugares ya sabe que ustedes confían mucho en Dios, y no hace falta que nosotros les digamos nada más."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Porque todos hablan de lo bien que ustedes nos recibieron, y cuentan cómo ustedes dejaron de adorar ídolos para adorar y servir al Dios vivo y verdadero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ellos saben que ustedes esperan que Jesucristo regrese del cielo. Dios hizo que él resucitara para salvarnos del castigo que él dará a los pecadores en el día del juicio."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

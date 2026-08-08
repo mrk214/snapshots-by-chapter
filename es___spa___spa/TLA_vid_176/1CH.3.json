@@ -1,1 +1,197 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"1CH","name":"1 Crónicas"},"chapter":{"chapter_usfm":"1CH.3","is_chapter":true,"previous":{"usfm":"1CH.2","human":"1 Crónicas 2","canonical":true,"toc":true},"current":{"usfm":"1CH.3","human":"1 Crónicas 3"},"next":{"usfm":"1CH.4","human":"1 Crónicas 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los hijos de David"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1,2,3,4,5,6,7,8,9],"lines":["David reinó en Hebrón siete años y seis meses. Allí nacieron sus primeros seis hijos, en este orden:","Con Ahinóam, su esposa de Jezreel, tuvo a Amnón.","Con Abigail, la viuda de Nabal, tuvo a Quilab.","Con Maacá, la hija de Talmai, rey de Guesur, tuvo a Absalón.","Con Haguit tuvo a Adonías.","Con Abital tuvo a Sefatías.","Con Egla tuvo a Itream.","Después de esto, David reinó en Jerusalén treinta y tres años, y allí tuvo trece hijos más, sin contar los hijos que tuvo con otras mujeres. Con Betsabé, hija de Amiel, tuvo cuatro hijos:","Simá,","Sobab,","Natán,","Salomón.","Los otros nueve hijos que tuvo David fueron:","Ibhar,","Elisúa,","Elifélet,","Nógah,","Néfeg,","Jafía,","Elisamá,","Eliadá,","Elifélet.","David también tuvo una hija llamada Tamar."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los reyes descendientes de Salomón"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10,11,12,13,14,15,16,17,18,19,20,21,22,23,24],"lines":["Estos son los reyes que fueron descendientes de Salomón:","Roboam,","Abías,","Asá,","Josafat,","Joram,","Ocozías,","Joás,","Amasías,","Azarías,","Jotam,","Ahaz,","Ezequías,","Manasés,","Amón,","Josías.","Josías tuvo cuatro hijos:","Johanán,","Joacín,","Sedequías,","Salum.","Joacín tuvo dos hijos:","Joaquín,","Sedequías.","Joaquín tuvo siete hijos en el destierro:","Salatiel,","Malquiram,","Pedaías,","Senazar,","Jecamías,","Hosamá,","Nedabías.","Pedaías tuvo dos hijos:","Zorobabel,","Simí.","Zorobabel tuvo una hija y siete hijos:","Selomit,","Mesulam,","Hananías,","Hasubá,","Óhel,","Berequías,","Hasadías,","Jusab-hésed.","Los descendientes de Hananías fueron:","Pelatías,","Isaías,","Refaías,","Arnán,","Abdías,","Secanías.","Secanías tuvo seis hijos:","Semaías,","Hatús,","Igal,","Baríah,","Nearías,","Safat.","Nearías tuvo tres hijos:","Elioenai,","Ezequías,","Azricam.","Elioenai tuvo siete hijos:","Hodavías,","Eliasib,","Pelaías,","Acub,","Johanán,","Delaías,","Ananí."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/1CH.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/1CH.4.json"
+  },
+  "book": {
+    "book_usfm": "1CH",
+    "name": "1 Crónicas"
+  },
+  "chapter": {
+    "chapter_usfm": "1CH.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1CH.2",
+      "human": "1 Crónicas 2"
+    },
+    "current": {
+      "usfm": "1CH.3",
+      "human": "1 Crónicas 3"
+    },
+    "next": {
+      "usfm": "1CH.4",
+      "human": "1 Crónicas 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los hijos de David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "lines": [
+          "David reinó en Hebrón siete años y seis meses. Allí nacieron sus primeros seis hijos, en este orden:",
+          "Con Ahinóam, su esposa de Jezreel, tuvo a Amnón.",
+          "Con Abigail, la viuda de Nabal, tuvo a Quilab.",
+          "Con Maacá, la hija de Talmai, rey de Guesur, tuvo a Absalón.",
+          "Con Haguit tuvo a Adonías.",
+          "Con Abital tuvo a Sefatías.",
+          "Con Egla tuvo a Itream.",
+          "Después de esto, David reinó en Jerusalén treinta y tres años, y allí tuvo trece hijos más, sin contar los hijos que tuvo con otras mujeres. Con Betsabé, hija de Amiel, tuvo cuatro hijos:",
+          "Simá,",
+          "Sobab,",
+          "Natán,",
+          "Salomón.",
+          "Los otros nueve hijos que tuvo David fueron:",
+          "Ibhar,",
+          "Elisúa,",
+          "Elifélet,",
+          "Nógah,",
+          "Néfeg,",
+          "Jafía,",
+          "Elisamá,",
+          "Eliadá,",
+          "Elifélet.",
+          "David también tuvo una hija llamada Tamar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los reyes descendientes de Salomón"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19,
+          20,
+          21,
+          22,
+          23,
+          24
+        ],
+        "lines": [
+          "Estos son los reyes que fueron descendientes de Salomón:",
+          "Roboam,",
+          "Abías,",
+          "Asá,",
+          "Josafat,",
+          "Joram,",
+          "Ocozías,",
+          "Joás,",
+          "Amasías,",
+          "Azarías,",
+          "Jotam,",
+          "Ahaz,",
+          "Ezequías,",
+          "Manasés,",
+          "Amón,",
+          "Josías.",
+          "Josías tuvo cuatro hijos:",
+          "Johanán,",
+          "Joacín,",
+          "Sedequías,",
+          "Salum.",
+          "Joacín tuvo dos hijos:",
+          "Joaquín,",
+          "Sedequías.",
+          "Joaquín tuvo siete hijos en el destierro:",
+          "Salatiel,",
+          "Malquiram,",
+          "Pedaías,",
+          "Senazar,",
+          "Jecamías,",
+          "Hosamá,",
+          "Nedabías.",
+          "Pedaías tuvo dos hijos:",
+          "Zorobabel,",
+          "Simí.",
+          "Zorobabel tuvo una hija y siete hijos:",
+          "Selomit,",
+          "Mesulam,",
+          "Hananías,",
+          "Hasubá,",
+          "Óhel,",
+          "Berequías,",
+          "Hasadías,",
+          "Jusab-hésed.",
+          "Los descendientes de Hananías fueron:",
+          "Pelatías,",
+          "Isaías,",
+          "Refaías,",
+          "Arnán,",
+          "Abdías,",
+          "Secanías.",
+          "Secanías tuvo seis hijos:",
+          "Semaías,",
+          "Hatús,",
+          "Igal,",
+          "Baríah,",
+          "Nearías,",
+          "Safat.",
+          "Nearías tuvo tres hijos:",
+          "Elioenai,",
+          "Ezequías,",
+          "Azricam.",
+          "Elioenai tuvo siete hijos:",
+          "Hodavías,",
+          "Eliasib,",
+          "Pelaías,",
+          "Acub,",
+          "Johanán,",
+          "Delaías,",
+          "Ananí."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

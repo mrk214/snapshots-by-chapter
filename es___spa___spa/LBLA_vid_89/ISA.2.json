@@ -1,1 +1,323 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.2","is_chapter":true,"previous":{"usfm":"ISA.1","human":"Isaías 1","canonical":true,"toc":true},"current":{"usfm":"ISA.2","human":"Isaías 2"},"next":{"usfm":"ISA.3","human":"Isaías 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Reinado universal de Dios y su juicio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Lo que vio Isaías, hijo de Amoz, concerniente a Judá y Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¶Y acontecerá en los postreros días,","que el monte de la casa del Señor","será establecido como cabeza de los montes;","se alzará sobre los collados,","y confluirán a él todas las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Vendrán muchos pueblos, y dirán:","Venid, subamos al monte del Señor,","a la casa del Dios de Jacob;","para que nos enseñe acerca de sus caminos,","y andemos en sus sendas.","Porque de Sión saldrá la ley,","y de Jerusalén la palabra del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Juzgará entre las naciones,","y hará decisiones por muchos pueblos.","Forjarán sus espadas en rejas de arado,","y sus lanzas en podaderas.","No alzará espada nación contra nación,","ni se adiestrarán más para la guerra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶Casa de Jacob, venid y caminemos a la luz del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ciertamente has abandonado a tu pueblo, la casa de Jacob,","porque están llenos de costumbres del oriente,","son adivinos como los filisteos,","y hacen tratos con hijos de extranjeros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Se ha llenado su tierra de plata y de oro,","y no tienen fin sus tesoros;","su tierra se ha llenado de caballos,","y no tienen fin sus carros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["También su tierra se ha llenado de ídolos;","adoran la obra de sus manos,","lo que han hecho sus dedos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ha sido humillado el hombre común,","y ha sido abatido el hombre de importancia;","pero no los perdones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Métete en la roca, y escóndete en el polvo","del terror del Señor y del esplendor de su majestad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La mirada altiva del hombre será abatida,","y humillada la soberbia de los hombres;","el Señor solo será exaltado en aquel día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶Porque el día del Señor de los ejércitos vendrá","contra todo el que es soberbio y altivo,","contra todo el que se ha ensalzado,","y será abatido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Y esto será contra todos los cedros del Líbano","altos y erguidos,","contra todas las encinas de Basán,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["contra todos los montes encumbrados,","contra todos los collados elevados,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["contra toda torre alta,","contra toda muralla fortificada,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["contra todas las naves de Tarsis","y contra toda obra de arte preciada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Será humillado el orgullo del hombre","y abatida la altivez de los hombres;","el Señor solo será exaltado en aquel día,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["y los ídolos desaparecerán por completo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Se meterán los hombres en las cuevas de las rocas","y en las hendiduras de la tierra,","ante el terror del Señor","y ante el esplendor de su majestad,","cuando Él se levante para hacer temblar la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Aquel día el hombre arrojará a los topos y a los murciélagos,","sus ídolos de plata y sus ídolos de oro","que se había hecho para adorarlos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["y se meterá en las cavernas de las rocas y en las hendiduras de las peñas,","ante el terror del Señor y ante el esplendor de su majestad,","cuando Él se levante para hacer temblar la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Dejad de considerar al hombre, cuyo soplo de vida está en su nariz;","pues ¿en qué ha de ser él estimado?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.3.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.1",
+      "human": "Isaías 1"
+    },
+    "current": {
+      "usfm": "ISA.2",
+      "human": "Isaías 2"
+    },
+    "next": {
+      "usfm": "ISA.3",
+      "human": "Isaías 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Reinado universal de Dios y su juicio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Lo que vio Isaías, hijo de Amoz, concerniente a Judá y Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¶Y acontecerá en los postreros días,",
+          "que el monte de la casa del Señor",
+          "será establecido como cabeza de los montes;",
+          "se alzará sobre los collados,",
+          "y confluirán a él todas las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Vendrán muchos pueblos, y dirán:",
+          "Venid, subamos al monte del Señor,",
+          "a la casa del Dios de Jacob;",
+          "para que nos enseñe acerca de sus caminos,",
+          "y andemos en sus sendas.",
+          "Porque de Sión saldrá la ley,",
+          "y de Jerusalén la palabra del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Juzgará entre las naciones,",
+          "y hará decisiones por muchos pueblos.",
+          "Forjarán sus espadas en rejas de arado,",
+          "y sus lanzas en podaderas.",
+          "No alzará espada nación contra nación,",
+          "ni se adiestrarán más para la guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶Casa de Jacob, venid y caminemos a la luz del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ciertamente has abandonado a tu pueblo, la casa de Jacob,",
+          "porque están llenos de costumbres del oriente,",
+          "son adivinos como los filisteos,",
+          "y hacen tratos con hijos de extranjeros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Se ha llenado su tierra de plata y de oro,",
+          "y no tienen fin sus tesoros;",
+          "su tierra se ha llenado de caballos,",
+          "y no tienen fin sus carros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "También su tierra se ha llenado de ídolos;",
+          "adoran la obra de sus manos,",
+          "lo que han hecho sus dedos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ha sido humillado el hombre común,",
+          "y ha sido abatido el hombre de importancia;",
+          "pero no los perdones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Métete en la roca, y escóndete en el polvo",
+          "del terror del Señor y del esplendor de su majestad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La mirada altiva del hombre será abatida,",
+          "y humillada la soberbia de los hombres;",
+          "el Señor solo será exaltado en aquel día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶Porque el día del Señor de los ejércitos vendrá",
+          "contra todo el que es soberbio y altivo,",
+          "contra todo el que se ha ensalzado,",
+          "y será abatido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Y esto será contra todos los cedros del Líbano",
+          "altos y erguidos,",
+          "contra todas las encinas de Basán,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "contra todos los montes encumbrados,",
+          "contra todos los collados elevados,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "contra toda torre alta,",
+          "contra toda muralla fortificada,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "contra todas las naves de Tarsis",
+          "y contra toda obra de arte preciada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Será humillado el orgullo del hombre",
+          "y abatida la altivez de los hombres;",
+          "el Señor solo será exaltado en aquel día,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "y los ídolos desaparecerán por completo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Se meterán los hombres en las cuevas de las rocas",
+          "y en las hendiduras de la tierra,",
+          "ante el terror del Señor",
+          "y ante el esplendor de su majestad,",
+          "cuando Él se levante para hacer temblar la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Aquel día el hombre arrojará a los topos y a los murciélagos,",
+          "sus ídolos de plata y sus ídolos de oro",
+          "que se había hecho para adorarlos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "y se meterá en las cavernas de las rocas y en las hendiduras de las peñas,",
+          "ante el terror del Señor y ante el esplendor de su majestad,",
+          "cuando Él se levante para hacer temblar la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Dejad de considerar al hombre, cuyo soplo de vida está en su nariz;",
+          "pues ¿en qué ha de ser él estimado?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

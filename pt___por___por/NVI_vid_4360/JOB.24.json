@@ -1,1 +1,333 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"JOB","name":"Jó"},"chapter":{"chapter_usfm":"JOB.24","is_chapter":true,"previous":{"usfm":"JOB.23","human":"Jó 23","canonical":true,"toc":true},"current":{"usfm":"JOB.24","human":"Jó 24"},"next":{"usfm":"JOB.25","human":"Jó 25","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["“Por que o Todo-poderoso não marca as datas de julgamento?","Por que aqueles que o conhecem não chegam a vê-las?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Há os que mudam os marcos dos limites","e apascentam rebanhos que eles roubaram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Levam o jumento que pertence ao órfão","e tomam o boi da viúva como penhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Forçam os necessitados a sair do caminho","e os pobres da terra a esconder-se."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Como jumentos selvagens no deserto,","os pobres vão em busca de comida;","da terra deserta a obtêm para os seus filhos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Juntam forragem nos campos","e respigam nas vinhas dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pela falta de roupas, passam a noite nus;","não têm com que cobrir-se no frio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Encharcados pelas chuvas das montanhas,","abraçam-se às rochas por falta de abrigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A criança órfã é arrancada do seio de sua mãe;","o recém-nascido do pobre é tomado para pagar uma dívida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por falta de roupas, andam nus;","carregam os feixes, mas continuam famintos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Espremem azeitonas dentro dos seus muros;","pisam uvas nos lagares, mas assim mesmo sofrem sede."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Sobem da cidade os gemidos dos que estão para morrer,","e as almas dos feridos clamam por socorro.","Mas Deus não vê mal nisso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Há os que se revoltam contra a luz,","não conhecem os caminhos dela","e não permanecem em suas veredas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["De manhã o assassino se levanta","e mata os pobres e os necessitados;","de noite age como ladrão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Os olhos do adúltero ficam à espera do crepúsculo;","‘Nenhum olho me verá’, pensa ele;","e mantém oculto o rosto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["No escuro os homens invadem casas,","mas de dia se enclausuram;","não querem saber da luz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Para eles a manhã é tremenda escuridão;","eles são amigos dos pavores das trevas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["“São, porém, como espuma sobre as águas;","sua parte da terra foi amaldiçoada,","e por isso ninguém vai às vinhas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Assim como o calor e a seca depressa consomem a neve derretida,","assim a sepultura consome os que pecaram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Sua mãe os esquece, os vermes se banqueteiam neles.","Ninguém se lembra dos maus;","quebram-se como árvores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Devoram a estéril e sem filhos","e não mostram bondade para com a viúva."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Mas Deus, por seu poder, os arranca;","embora firmemente estabelecidos,","a vida deles não tem segurança."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Ele poderá deixá-los descansar, sentindo-se seguros,","mas atento os vigia nos caminhos que seguem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Por um breve instante são exaltados e depois se vão,","colhidos como todos os demais,","ceifados como espigas de cereal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["“Se não é assim, quem poderá provar que minto","e reduzir a nada as minhas palavras?”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.23.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.25.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Jó"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.24",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.23",
+      "human": "Jó 23"
+    },
+    "current": {
+      "usfm": "JOB.24",
+      "human": "Jó 24"
+    },
+    "next": {
+      "usfm": "JOB.25",
+      "human": "Jó 25"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“Por que o Todo-poderoso não marca as datas de julgamento?",
+          "Por que aqueles que o conhecem não chegam a vê-las?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Há os que mudam os marcos dos limites",
+          "e apascentam rebanhos que eles roubaram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Levam o jumento que pertence ao órfão",
+          "e tomam o boi da viúva como penhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Forçam os necessitados a sair do caminho",
+          "e os pobres da terra a esconder-se."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Como jumentos selvagens no deserto,",
+          "os pobres vão em busca de comida;",
+          "da terra deserta a obtêm para os seus filhos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Juntam forragem nos campos",
+          "e respigam nas vinhas dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pela falta de roupas, passam a noite nus;",
+          "não têm com que cobrir-se no frio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Encharcados pelas chuvas das montanhas,",
+          "abraçam-se às rochas por falta de abrigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A criança órfã é arrancada do seio de sua mãe;",
+          "o recém-nascido do pobre é tomado para pagar uma dívida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por falta de roupas, andam nus;",
+          "carregam os feixes, mas continuam famintos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Espremem azeitonas dentro dos seus muros;",
+          "pisam uvas nos lagares, mas assim mesmo sofrem sede."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Sobem da cidade os gemidos dos que estão para morrer,",
+          "e as almas dos feridos clamam por socorro.",
+          "Mas Deus não vê mal nisso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Há os que se revoltam contra a luz,",
+          "não conhecem os caminhos dela",
+          "e não permanecem em suas veredas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "De manhã o assassino se levanta",
+          "e mata os pobres e os necessitados;",
+          "de noite age como ladrão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Os olhos do adúltero ficam à espera do crepúsculo;",
+          "‘Nenhum olho me verá’, pensa ele;",
+          "e mantém oculto o rosto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "No escuro os homens invadem casas,",
+          "mas de dia se enclausuram;",
+          "não querem saber da luz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Para eles a manhã é tremenda escuridão;",
+          "eles são amigos dos pavores das trevas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "“São, porém, como espuma sobre as águas;",
+          "sua parte da terra foi amaldiçoada,",
+          "e por isso ninguém vai às vinhas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Assim como o calor e a seca depressa consomem a neve derretida,",
+          "assim a sepultura consome os que pecaram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Sua mãe os esquece, os vermes se banqueteiam neles.",
+          "Ninguém se lembra dos maus;",
+          "quebram-se como árvores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Devoram a estéril e sem filhos",
+          "e não mostram bondade para com a viúva."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Mas Deus, por seu poder, os arranca;",
+          "embora firmemente estabelecidos,",
+          "a vida deles não tem segurança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Ele poderá deixá-los descansar, sentindo-se seguros,",
+          "mas atento os vigia nos caminhos que seguem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Por um breve instante são exaltados e depois se vão,",
+          "colhidos como todos os demais,",
+          "ceifados como espigas de cereal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "“Se não é assim, quem poderá provar que minto",
+          "e reduzir a nada as minhas palavras?”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,158 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.67","is_chapter":true,"previous":{"usfm":"PSA.66","human":"Psalm 66","canonical":true,"toc":true},"current":{"usfm":"PSA.67","human":"Psalm 67"},"next":{"usfm":"PSA.68","human":"Psalm 68","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Make Your Face Shine upon Us"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: with stringed instruments. A Psalm. A Song."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["May God be gracious to us and bless us","and make his face to shine upon us,"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["that your way may be known on earth,","your saving power among all nations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let the peoples praise you, O God;","let all the peoples praise you!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Let the nations be glad and sing for joy,","for you judge the peoples with equity","and guide the nations upon earth."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Let the peoples praise you, O God;","let all the peoples praise you!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The earth has yielded its increase;","God, our God, shall bless us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["God shall bless us;","let all the ends of the earth fear him!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.66.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.68.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.67",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.66",
+      "human": "Psalm 66"
+    },
+    "current": {
+      "usfm": "PSA.67",
+      "human": "Psalm 67"
+    },
+    "next": {
+      "usfm": "PSA.68",
+      "human": "Psalm 68"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Make Your Face Shine upon Us"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: with stringed instruments. A Psalm. A Song."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "May God be gracious to us and bless us",
+          "and make his face to shine upon us,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "that your way may be known on earth,",
+          "your saving power among all nations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let the peoples praise you, O God;",
+          "let all the peoples praise you!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Let the nations be glad and sing for joy,",
+          "for you judge the peoples with equity",
+          "and guide the nations upon earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Let the peoples praise you, O God;",
+          "let all the peoples praise you!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The earth has yielded its increase;",
+          "God, our God, shall bless us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "God shall bless us;",
+          "let all the ends of the earth fear him!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

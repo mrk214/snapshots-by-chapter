@@ -1,1 +1,164 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Psalm 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Psalm 101"},"next":{"usfm":"PSA.102","human":"Psalm 102","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["I Will Walk with Integrity"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I will sing of steadfast love and justice;","to you, O Lord, I will make music."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I will ponder the way that is blameless.","Oh when will you come to me?","I will walk with integrity of heart","within my house;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["I will not set before my eyes","anything that is worthless.","I hate the work of those who fall away;","it shall not cling to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A perverse heart shall be far from me;","I will know nothing of evil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Whoever slanders his neighbor secretly","I will destroy.","Whoever has a haughty look and an arrogant heart","I will not endure."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will look with favor on the faithful in the land,","that they may dwell with me;","he who walks in the way that is blameless","shall minister to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No one who practices deceit","shall dwell in my house;","no one who utters lies","shall continue before my eyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Morning by morning I will destroy","all the wicked in the land,","cutting off all the evildoers","from the city of the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Psalm 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Psalm 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Psalm 102"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "I Will Walk with Integrity"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I will sing of steadfast love and justice;",
+          "to you, O Lord, I will make music."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I will ponder the way that is blameless.",
+          "Oh when will you come to me?",
+          "I will walk with integrity of heart",
+          "within my house;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "I will not set before my eyes",
+          "anything that is worthless.",
+          "I hate the work of those who fall away;",
+          "it shall not cling to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A perverse heart shall be far from me;",
+          "I will know nothing of evil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Whoever slanders his neighbor secretly",
+          "I will destroy.",
+          "Whoever has a haughty look and an arrogant heart",
+          "I will not endure."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will look with favor on the faithful in the land,",
+          "that they may dwell with me;",
+          "he who walks in the way that is blameless",
+          "shall minister to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No one who practices deceit",
+          "shall dwell in my house;",
+          "no one who utters lies",
+          "shall continue before my eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Morning by morning I will destroy",
+          "all the wicked in the land,",
+          "cutting off all the evildoers",
+          "from the city of the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

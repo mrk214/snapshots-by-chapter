@@ -1,1 +1,160 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Salmos 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Salmos 82"},"next":{"usfm":"PSA.83","human":"Salmos 83","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios es el gran juez"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1a) Himno de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Dios preside el tribunal del cielo,","y dicta su sentencia","contra los dioses allí reunidos:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¿Hasta cuándo seguirán ustedes","siendo injustos en sus juicios,","y defendiendo a los malvados?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Defiendan a los huérfanos","y a los indefensos!","¡Háganles justicia a los pobres","y a los necesitados!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Libren del poder de los malvados","a los pobres e indefensos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los malvados no saben nada","ni entienden nada;","¡vagan perdidos en la oscuridad!","Eso hace que se estremezcan","todas las bases de este mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Ya les he dicho que ustedes son dioses,","que son hijos del Dios Altísimo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["pero acabarán como todos los hombres:","¡morirán como todos los gobernantes!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Dios nuestro,","¡ven a gobernar el mundo!","¡Tuyas son todas las naciones!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Salmos 83"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios es el gran juez"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1a) Himno de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Dios preside el tribunal del cielo,",
+          "y dicta su sentencia",
+          "contra los dioses allí reunidos:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¿Hasta cuándo seguirán ustedes",
+          "siendo injustos en sus juicios,",
+          "y defendiendo a los malvados?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Defiendan a los huérfanos",
+          "y a los indefensos!",
+          "¡Háganles justicia a los pobres",
+          "y a los necesitados!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Libren del poder de los malvados",
+          "a los pobres e indefensos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los malvados no saben nada",
+          "ni entienden nada;",
+          "¡vagan perdidos en la oscuridad!",
+          "Eso hace que se estremezcan",
+          "todas las bases de este mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Ya les he dicho que ustedes son dioses,",
+          "que son hijos del Dios Altísimo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "pero acabarán como todos los hombres:",
+          "¡morirán como todos los gobernantes!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Dios nuestro,",
+          "¡ven a gobernar el mundo!",
+          "¡Tuyas son todas las naciones!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

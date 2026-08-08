@@ -1,1 +1,242 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"MIC","name":"Miqueias"},"chapter":{"chapter_usfm":"MIC.2","is_chapter":true,"previous":{"usfm":"MIC.1","human":"Miqueias 1","canonical":true,"toc":true},"current":{"usfm":"MIC.2","human":"Miqueias 2"},"next":{"usfm":"MIC.3","human":"Miqueias 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O Castigo dos Opressores"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ai daqueles que planejam maldade,","dos que tramam o mal em suas camas!","Quando alvorece, eles o executam,","porque isso eles podem fazer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cobiçam terrenos e se apoderam deles;","cobiçam casas e as tomam.","Fazem violência ao homem e à sua família;","a ele e aos seus herdeiros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Portanto, assim diz o Senhor:","“Estou planejando contra essa gente uma desgraça,","da qual vocês não poderão livrar-se.","Vocês não vão mais andar com arrogância,","pois será tempo de desgraça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Naquele dia, vocês serão ridicularizados;","zombarão de vocês com esta triste canção:","‘Estamos totalmente arruinados;","dividida foi a propriedade do meu povo.","Ele tirou-a de mim!","Entregou a invasores as nossas terras’ ”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Portanto, vocês não estarão na assembleia do Senhor","para a divisão da terra por sorteio."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Advertência contra os Falsos Profetas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Não preguem”, dizem os seus profetas.","“Não preguem acerca dessas coisas;","a desgraça não nos alcançará.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ó descendência de Jacó, é isto que está sendo falado:","“O Espírito do Senhor perdeu a paciência?","É assim que ele age?”","“As minhas palavras fazem bem","àquele cujos caminhos são retos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mas ultimamente como inimigos,","vocês atacam o meu povo.","Além da túnica, arrancam a capa","daqueles que passam confiantes,","como quem volta da guerra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Vocês tiram as mulheres do meu povo","de seus lares agradáveis.","De seus filhos vocês removem","a minha dignidade para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Levantem-se, vão embora!","Pois este não é o lugar de descanso,","porque ele está contaminado e arruinado,","sem que haja remédio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Se um mentiroso e enganador vier e disser:","‘Eu pregarei para vocês fartura de vinho e de bebida fermentada’,","ele será o profeta deste povo!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Promessa de Livramento"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["“Vou de fato ajuntar todos vocês, ó Jacó;","sim, vou reunir o remanescente de Israel.","Eu os ajuntarei como ovelhas num aprisco,","como um rebanho numa pastagem;","haverá ruído de grande multidão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Aquele que abre o caminho irá adiante deles;","passarão pela porta e sairão.","O rei deles, o Senhor, os guiará.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/MIC.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/MIC.3.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Miqueias"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.1",
+      "human": "Miqueias 1"
+    },
+    "current": {
+      "usfm": "MIC.2",
+      "human": "Miqueias 2"
+    },
+    "next": {
+      "usfm": "MIC.3",
+      "human": "Miqueias 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Castigo dos Opressores"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ai daqueles que planejam maldade,",
+          "dos que tramam o mal em suas camas!",
+          "Quando alvorece, eles o executam,",
+          "porque isso eles podem fazer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cobiçam terrenos e se apoderam deles;",
+          "cobiçam casas e as tomam.",
+          "Fazem violência ao homem e à sua família;",
+          "a ele e aos seus herdeiros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Portanto, assim diz o Senhor:",
+          "“Estou planejando contra essa gente uma desgraça,",
+          "da qual vocês não poderão livrar-se.",
+          "Vocês não vão mais andar com arrogância,",
+          "pois será tempo de desgraça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Naquele dia, vocês serão ridicularizados;",
+          "zombarão de vocês com esta triste canção:",
+          "‘Estamos totalmente arruinados;",
+          "dividida foi a propriedade do meu povo.",
+          "Ele tirou-a de mim!",
+          "Entregou a invasores as nossas terras’ ”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Portanto, vocês não estarão na assembleia do Senhor",
+          "para a divisão da terra por sorteio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Advertência contra os Falsos Profetas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Não preguem”, dizem os seus profetas.",
+          "“Não preguem acerca dessas coisas;",
+          "a desgraça não nos alcançará.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ó descendência de Jacó, é isto que está sendo falado:",
+          "“O Espírito do Senhor perdeu a paciência?",
+          "É assim que ele age?”",
+          "“As minhas palavras fazem bem",
+          "àquele cujos caminhos são retos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mas ultimamente como inimigos,",
+          "vocês atacam o meu povo.",
+          "Além da túnica, arrancam a capa",
+          "daqueles que passam confiantes,",
+          "como quem volta da guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Vocês tiram as mulheres do meu povo",
+          "de seus lares agradáveis.",
+          "De seus filhos vocês removem",
+          "a minha dignidade para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Levantem-se, vão embora!",
+          "Pois este não é o lugar de descanso,",
+          "porque ele está contaminado e arruinado,",
+          "sem que haja remédio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Se um mentiroso e enganador vier e disser:",
+          "‘Eu pregarei para vocês fartura de vinho e de bebida fermentada’,",
+          "ele será o profeta deste povo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Promessa de Livramento"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "“Vou de fato ajuntar todos vocês, ó Jacó;",
+          "sim, vou reunir o remanescente de Israel.",
+          "Eu os ajuntarei como ovelhas num aprisco,",
+          "como um rebanho numa pastagem;",
+          "haverá ruído de grande multidão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Aquele que abre o caminho irá adiante deles;",
+          "passarão pela porta e sairão.",
+          "O rei deles, o Senhor, os guiará.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

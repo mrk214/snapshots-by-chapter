@@ -1,1 +1,215 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.62","is_chapter":true,"previous":{"usfm":"PSA.61","human":"Salmos 61","canonical":true,"toc":true},"current":{"usfm":"PSA.62","human":"Salmos 62"},"next":{"usfm":"PSA.63","human":"Salmos 63","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para Jedutún, director del coro: salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Espero en silencio delante de Dios,","porque de él proviene mi victoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Solo él es mi roca y mi salvación,","mi fortaleza donde jamás seré sacudido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Cuántos enemigos contra un solo hombre!","Todos tratan de matarme.","Para ellos no soy más que una pared derribada","o una valla inestable."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Piensan derrocarme de mi alta posición.","Se deleitan en decir mentiras sobre mí.","Cuando están frente a mí, me elogian,","pero en su corazón me maldicen."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que todo mi ser espere en silencio delante de Dios,","porque en él está mi esperanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Solo él es mi roca y mi salvación,","mi fortaleza donde no seré sacudido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mi victoria y mi honor provienen solamente de Dios;","él es mi refugio, una roca donde ningún enemigo puede alcanzarme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Oh pueblo mío, confía en Dios en todo momento;","dile lo que hay en tu corazón,","porque él es nuestro refugio."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La gente común no vale más que una bocanada de viento,","y los poderosos no son lo que parecen ser;","si se les pesa juntos en una balanza,","ambos son más livianos que un soplo de aire."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No te ganes la vida mediante la extorsión","ni pongas tu esperanza en el robo.","Y si tus riquezas aumentan,","no las hagas el centro de tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Dios ha hablado con claridad,","y yo lo he oído muchas veces:","el poder, oh Dios, te pertenece a ti;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["el amor inagotable, oh Señor, es tuyo.","Ciertamente tú pagas a todos","de acuerdo a lo que hayan hecho."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.61.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.63.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.62",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.61",
+      "human": "Salmos 61"
+    },
+    "current": {
+      "usfm": "PSA.62",
+      "human": "Salmos 62"
+    },
+    "next": {
+      "usfm": "PSA.63",
+      "human": "Salmos 63"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para Jedutún, director del coro: salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Espero en silencio delante de Dios,",
+          "porque de él proviene mi victoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Solo él es mi roca y mi salvación,",
+          "mi fortaleza donde jamás seré sacudido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Cuántos enemigos contra un solo hombre!",
+          "Todos tratan de matarme.",
+          "Para ellos no soy más que una pared derribada",
+          "o una valla inestable."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Piensan derrocarme de mi alta posición.",
+          "Se deleitan en decir mentiras sobre mí.",
+          "Cuando están frente a mí, me elogian,",
+          "pero en su corazón me maldicen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que todo mi ser espere en silencio delante de Dios,",
+          "porque en él está mi esperanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Solo él es mi roca y mi salvación,",
+          "mi fortaleza donde no seré sacudido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mi victoria y mi honor provienen solamente de Dios;",
+          "él es mi refugio, una roca donde ningún enemigo puede alcanzarme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Oh pueblo mío, confía en Dios en todo momento;",
+          "dile lo que hay en tu corazón,",
+          "porque él es nuestro refugio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La gente común no vale más que una bocanada de viento,",
+          "y los poderosos no son lo que parecen ser;",
+          "si se les pesa juntos en una balanza,",
+          "ambos son más livianos que un soplo de aire."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No te ganes la vida mediante la extorsión",
+          "ni pongas tu esperanza en el robo.",
+          "Y si tus riquezas aumentan,",
+          "no las hagas el centro de tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Dios ha hablado con claridad,",
+          "y yo lo he oído muchas veces:",
+          "el poder, oh Dios, te pertenece a ti;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "el amor inagotable, oh Señor, es tuyo.",
+          "Ciertamente tú pagas a todos",
+          "de acuerdo a lo que hayan hecho."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

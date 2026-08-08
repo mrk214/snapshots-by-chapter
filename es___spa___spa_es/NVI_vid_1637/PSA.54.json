@@ -1,1 +1,142 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Salmo 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Salmo 54"},"next":{"usfm":"PSA.55","human":"Salmo 55","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David, cuando gente de Zif fue a decirle a Saúl: «¿No estará David escondido entre nosotros?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Sálvame, oh Dios, por tu nombre;","defiéndeme con tu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escucha, oh Dios, mi oración;","presta oído a las palabras de mi boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pues gente extraña me ataca;","tratan de matarme los violentos,","gente que no tiene en cuenta a Dios."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero Dios es mi socorro;","el Señor es quien me sostiene,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["y hará recaer el mal sobre mis adversarios.","Por tu fidelidad, Señor, ¡destrúyelos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Te presentaré una ofrenda voluntaria","y alabaré, Señor, tu buen nombre;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["pues me has librado de todas mis angustias,","y mis ojos han visto la derrota de mis enemigos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Salmo 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Salmo 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Salmo 55"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Masquil de David, cuando gente de Zif fue a decirle a Saúl: «¿No estará David escondido entre nosotros?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Sálvame, oh Dios, por tu nombre;",
+          "defiéndeme con tu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escucha, oh Dios, mi oración;",
+          "presta oído a las palabras de mi boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pues gente extraña me ataca;",
+          "tratan de matarme los violentos,",
+          "gente que no tiene en cuenta a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero Dios es mi socorro;",
+          "el Señor es quien me sostiene,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "y hará recaer el mal sobre mis adversarios.",
+          "Por tu fidelidad, Señor, ¡destrúyelos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Te presentaré una ofrenda voluntaria",
+          "y alabaré, Señor, tu buen nombre;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "pues me has librado de todas mis angustias,",
+          "y mis ojos han visto la derrota de mis enemigos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,165 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.113","is_chapter":true,"previous":{"usfm":"PSA.112","human":"Salmo 112","canonical":true,"toc":true},"current":{"usfm":"PSA.113","human":"Salmo 113"},"next":{"usfm":"PSA.114","human":"Salmo 114","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 113"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El Señor exalta al humilde"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Aleluya!","Alaben, siervos del Señor,","Alaben el nombre del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Bendito sea el nombre del Señor","Desde ahora y para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Desde el nacimiento del sol hasta su ocaso,","Alabado sea el nombre del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Excelso sobre todas las naciones es el Señor;","Su gloria está sobre los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶¿Quién es como el Señor nuestro Dios,","Que está sentado en las alturas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Que se humilla para mirar","Lo que hay en el cielo y en la tierra?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Él levanta al pobre del polvo,","Y al necesitado saca del muladar,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Para sentarlos con príncipes,","Con los príncipes de Su pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Hace habitar en casa a la mujer estéril,","Gozosa de ser madre de hijos.","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.112.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.114.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.113",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.112",
+      "human": "Salmo 112"
+    },
+    "current": {
+      "usfm": "PSA.113",
+      "human": "Salmo 113"
+    },
+    "next": {
+      "usfm": "PSA.114",
+      "human": "Salmo 114"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 113"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El Señor exalta al humilde"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Aleluya!",
+          "Alaben, siervos del Señor,",
+          "Alaben el nombre del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Bendito sea el nombre del Señor",
+          "Desde ahora y para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Desde el nacimiento del sol hasta su ocaso,",
+          "Alabado sea el nombre del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Excelso sobre todas las naciones es el Señor;",
+          "Su gloria está sobre los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶¿Quién es como el Señor nuestro Dios,",
+          "Que está sentado en las alturas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Que se humilla para mirar",
+          "Lo que hay en el cielo y en la tierra?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Él levanta al pobre del polvo,",
+          "Y al necesitado saca del muladar,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Para sentarlos con príncipes,",
+          "Con los príncipes de Su pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Hace habitar en casa a la mujer estéril,",
+          "Gozosa de ser madre de hijos.",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

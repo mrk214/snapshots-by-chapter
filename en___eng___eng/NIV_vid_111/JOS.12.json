@@ -1,1 +1,344 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JOS","name":"Joshua"},"chapter":{"chapter_usfm":"JOS.12","is_chapter":true,"previous":{"usfm":"JOS.11","human":"Joshua 11","canonical":true,"toc":true},"current":{"usfm":"JOS.12","human":"Joshua 12"},"next":{"usfm":"JOS.13","human":"Joshua 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["List of Defeated Kings"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sihon king of the Amorites, who reigned in Heshbon.","He ruled from Aroer on the rim of the Arnon Gorge—from the middle of the gorge—to the Jabbok River, which is the border of the Ammonites. This included half of Gilead."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He also ruled over the eastern Arabah from the Sea of Galilee to the Sea of the Arabah (that is, the Dead Sea), to Beth Jeshimoth, and then southward below the slopes of Pisgah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["And the territory of Og king of Bashan, one of the last of the Rephaites, who reigned in Ashtaroth and Edrei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He ruled over Mount Hermon, Salekah, all of Bashan to the border of the people of Geshur and Maakah, and half of Gilead to the border of Sihon king of Heshbon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moses, the servant of the Lord, and the Israelites conquered them. And Moses the servant of the Lord gave their land to the Reubenites, the Gadites and the half-tribe of Manasseh to be their possession."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Here is a list of the kings of the land that Joshua and the Israelites conquered on the west side of the Jordan, from Baal Gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their lands as an inheritance to the tribes of Israel according to their tribal divisions."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The lands included the hill country, the western foothills, the Arabah, the mountain slopes, the wilderness and the Negev. These were the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites. These were the kings:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["the king of Jericho","one","the king of Ai (near Bethel)","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["the king of Jerusalem","one","the king of Hebron","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["the king of Jarmuth","one","the king of Lachish","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["the king of Eglon","one","the king of Gezer","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["the king of Debir","one","the king of Geder","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["the king of Hormah","one","the king of Arad","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["the king of Libnah","one","the king of Adullam","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["the king of Makkedah","one","the king of Bethel","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["the king of Tappuah","one","the king of Hepher","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["the king of Aphek","one","the king of Lasharon","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["the king of Madon","one","the king of Hazor","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["the king of Shimron Meron","one","the king of Akshaph","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["the king of Taanach","one","the king of Megiddo","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["the king of Kedesh","one","the king of Jokneam in Carmel","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["the king of Dor (in Naphoth Dor)","one","the king of Goyim in Gilgal","one"],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["the king of Tirzah","one","thirty-one kings in all."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.13.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Joshua"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.11",
+      "human": "Joshua 11"
+    },
+    "current": {
+      "usfm": "JOS.12",
+      "human": "Joshua 12"
+    },
+    "next": {
+      "usfm": "JOS.13",
+      "human": "Joshua 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "List of Defeated Kings"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "These are the kings of the land whom the Israelites had defeated and whose territory they took over east of the Jordan, from the Arnon Gorge to Mount Hermon, including all the eastern side of the Arabah:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sihon king of the Amorites, who reigned in Heshbon.",
+          "He ruled from Aroer on the rim of the Arnon Gorge—from the middle of the gorge—to the Jabbok River, which is the border of the Ammonites. This included half of Gilead."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He also ruled over the eastern Arabah from the Sea of Galilee to the Sea of the Arabah (that is, the Dead Sea), to Beth Jeshimoth, and then southward below the slopes of Pisgah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "And the territory of Og king of Bashan, one of the last of the Rephaites, who reigned in Ashtaroth and Edrei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He ruled over Mount Hermon, Salekah, all of Bashan to the border of the people of Geshur and Maakah, and half of Gilead to the border of Sihon king of Heshbon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moses, the servant of the Lord, and the Israelites conquered them. And Moses the servant of the Lord gave their land to the Reubenites, the Gadites and the half-tribe of Manasseh to be their possession."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Here is a list of the kings of the land that Joshua and the Israelites conquered on the west side of the Jordan, from Baal Gad in the Valley of Lebanon to Mount Halak, which rises toward Seir. Joshua gave their lands as an inheritance to the tribes of Israel according to their tribal divisions."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The lands included the hill country, the western foothills, the Arabah, the mountain slopes, the wilderness and the Negev. These were the lands of the Hittites, Amorites, Canaanites, Perizzites, Hivites and Jebusites. These were the kings:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "the king of Jericho",
+          "one",
+          "the king of Ai (near Bethel)",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "the king of Jerusalem",
+          "one",
+          "the king of Hebron",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "the king of Jarmuth",
+          "one",
+          "the king of Lachish",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "the king of Eglon",
+          "one",
+          "the king of Gezer",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "the king of Debir",
+          "one",
+          "the king of Geder",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "the king of Hormah",
+          "one",
+          "the king of Arad",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "the king of Libnah",
+          "one",
+          "the king of Adullam",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "the king of Makkedah",
+          "one",
+          "the king of Bethel",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "the king of Tappuah",
+          "one",
+          "the king of Hepher",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "the king of Aphek",
+          "one",
+          "the king of Lasharon",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "the king of Madon",
+          "one",
+          "the king of Hazor",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "the king of Shimron Meron",
+          "one",
+          "the king of Akshaph",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "the king of Taanach",
+          "one",
+          "the king of Megiddo",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "the king of Kedesh",
+          "one",
+          "the king of Jokneam in Carmel",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "the king of Dor (in Naphoth Dor)",
+          "one",
+          "the king of Goyim in Gilgal",
+          "one"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "the king of Tirzah",
+          "one",
+          "thirty-one kings in all."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,134 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.12","is_chapter":true,"previous":{"usfm":"ISA.11","human":"Isaías 11","canonical":true,"toc":true},"current":{"usfm":"ISA.12","human":"Isaías 12"},"next":{"usfm":"ISA.13","human":"Isaías 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Canciones de alabanza"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En aquel día dirás:","«Señor, yo te alabaré","aunque te hayas enojado conmigo.","Tu ira se ha calmado,","y me has dado consuelo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Dios es mi salvación!","Confiaré en él y no temeré.","El Señor es mi fuerza,","el Señor es mi canción;","¡él es mi salvación!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Con alegría sacaréis agua","de las fuentes de la salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En aquel día se dirá:","«Alabad al Señor, invocad su nombre;","dad a conocer entre los pueblos sus obras;","proclamad la grandeza de su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cantad salmos al Señor,","porque ha hecho maravillas;","que esto se dé a conocer","en toda la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Canta y grita de alegría,","habitante de Sión;","realmente es grande, en medio de ti,","el Santo de Israel!»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ISA.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ISA.13.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.11",
+      "human": "Isaías 11"
+    },
+    "current": {
+      "usfm": "ISA.12",
+      "human": "Isaías 12"
+    },
+    "next": {
+      "usfm": "ISA.13",
+      "human": "Isaías 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Canciones de alabanza"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En aquel día dirás:",
+          "«Señor, yo te alabaré",
+          "aunque te hayas enojado conmigo.",
+          "Tu ira se ha calmado,",
+          "y me has dado consuelo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Dios es mi salvación!",
+          "Confiaré en él y no temeré.",
+          "El Señor es mi fuerza,",
+          "el Señor es mi canción;",
+          "¡él es mi salvación!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Con alegría sacaréis agua",
+          "de las fuentes de la salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En aquel día se dirá:",
+          "«Alabad al Señor, invocad su nombre;",
+          "dad a conocer entre los pueblos sus obras;",
+          "proclamad la grandeza de su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cantad salmos al Señor,",
+          "porque ha hecho maravillas;",
+          "que esto se dé a conocer",
+          "en toda la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Canta y grita de alegría,",
+          "habitante de Sión;",
+          "realmente es grande, en medio de ti,",
+          "el Santo de Israel!»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

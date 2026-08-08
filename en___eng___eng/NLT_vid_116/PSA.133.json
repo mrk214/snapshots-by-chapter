@@ -1,1 +1,93 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.133","is_chapter":true,"previous":{"usfm":"PSA.132","human":"Psalms 132","canonical":true,"toc":true},"current":{"usfm":"PSA.133","human":"Psalms 133"},"next":{"usfm":"PSA.134","human":"Psalms 134","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A song for pilgrims ascending to Jerusalem. A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How wonderful and pleasant it is","when brothers live together in harmony!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For harmony is as precious as the anointing oil","that was poured over Aaron’s head,","that ran down his beard","and onto the border of his robe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Harmony is as refreshing as the dew from Mount Hermon","that falls on the mountains of Zion.","And there the Lord has pronounced his blessing,","even life everlasting."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.132.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.134.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.133",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.132",
+      "human": "Psalms 132"
+    },
+    "current": {
+      "usfm": "PSA.133",
+      "human": "Psalms 133"
+    },
+    "next": {
+      "usfm": "PSA.134",
+      "human": "Psalms 134"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song for pilgrims ascending to Jerusalem. A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How wonderful and pleasant it is",
+          "when brothers live together in harmony!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For harmony is as precious as the anointing oil",
+          "that was poured over Aaron’s head,",
+          "that ran down his beard",
+          "and onto the border of his robe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Harmony is as refreshing as the dew from Mount Hermon",
+          "that falls on the mountains of Zion.",
+          "And there the Lord has pronounced his blessing,",
+          "even life everlasting."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

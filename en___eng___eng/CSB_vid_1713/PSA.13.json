@@ -1,1 +1,132 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.13","is_chapter":true,"previous":{"usfm":"PSA.12","human":"Psalms 12","canonical":true,"toc":true},"current":{"usfm":"PSA.13","human":"Psalms 13"},"next":{"usfm":"PSA.14","human":"Psalms 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Plea for Deliverance"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director. A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How long, Lord? Will you forget me forever?","How long will you hide your face from me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["How long will I store up anxious concerns within me,","agony in my mind every day?","How long will my enemy dominate me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Consider me and answer, Lord my God.","Restore brightness to my eyes;","otherwise, I will sleep in death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["My enemy will say, “I have triumphed over him,”","and my foes will rejoice because I am shaken."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But I have trusted in your faithful love;","my heart will rejoice in your deliverance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will sing to the Lord","because he has treated me generously."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.14.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.12",
+      "human": "Psalms 12"
+    },
+    "current": {
+      "usfm": "PSA.13",
+      "human": "Psalms 13"
+    },
+    "next": {
+      "usfm": "PSA.14",
+      "human": "Psalms 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Plea for Deliverance"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director. A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How long, Lord? Will you forget me forever?",
+          "How long will you hide your face from me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "How long will I store up anxious concerns within me,",
+          "agony in my mind every day?",
+          "How long will my enemy dominate me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Consider me and answer, Lord my God.",
+          "Restore brightness to my eyes;",
+          "otherwise, I will sleep in death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "My enemy will say, “I have triumphed over him,”",
+          "and my foes will rejoice because I am shaken."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But I have trusted in your faithful love;",
+          "my heart will rejoice in your deliverance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will sing to the Lord",
+          "because he has treated me generously."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

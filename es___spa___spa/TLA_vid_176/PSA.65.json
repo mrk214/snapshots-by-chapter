@@ -1,1 +1,218 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.65","is_chapter":true,"previous":{"usfm":"PSA.64","human":"Salmos 64","canonical":true,"toc":true},"current":{"usfm":"PSA.65","human":"Salmos 65"},"next":{"usfm":"PSA.66","human":"Salmos 66","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios nos llena de bendiciones"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1) Himno de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (2) Dios mío,","que vives en el monte Sión,","tú mereces nuestras alabanzas;","mereces que te cumplamos","las promesas que te hacemos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3],"lines":["2-3 (3-4) Tú escuchas nuestra oración.","Estamos cansados de pecar,","por eso acudimos a ti.","Nuestros pecados nos dominan,","pero tú nos perdonas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["4 (5) ¡Qué bendición reciben","los que viven cerca de ti,","los que viven en tu mismo templo!","Quedamos satisfechos","con el alimento","que de ti recibimos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["5 (6) Nuestro Dios y salvador,","tú nos respondes","dándonos la victoria.","Gente de pueblos lejanos","pone en ti su confianza.","Así hacen los que viven","más allá del mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["6 (7) Tú, con tu poder y tu fuerza,","formaste las montañas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["7 (8) Calmaste el rugido de los mares,","calmaste el estruendo de sus olas,","calmaste el alboroto de los pueblos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["8 (9) Los que viven en países lejanos","tiemblan de miedo","al ver tus grandes maravillas;","del oriente al occidente,","haces que la gente grite de alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9,10],"lines":["9-10 (10-11) Tú tienes cuidado de la tierra:","la empapas con abundante lluvia","y riegas los sembrados","para que den muchos frutos.","Con la lluvia aflojas la tierra","y la preparas para la siembra.","Llenas de agua los grandes arroyos,","y haces brotar nuevas ramas.","Así dejas listo el campo","para que todos tengamos trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["11 (12) Llega el año a su fin","y está lleno de bendiciones;","por dondequiera que pasas","dejas gran abundancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["12 (13) En el desierto, el pasto es fresco;","las colinas se revisten de alegría,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["13 (14) las praderas se llenan de ovejas,","y los valles se cubren de trigales.","¡Todo el mundo canta","y lanza gritos de alegría!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.64.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.66.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.65",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.64",
+      "human": "Salmos 64"
+    },
+    "current": {
+      "usfm": "PSA.65",
+      "human": "Salmos 65"
+    },
+    "next": {
+      "usfm": "PSA.66",
+      "human": "Salmos 66"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios nos llena de bendiciones"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1) Himno de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (2) Dios mío,",
+          "que vives en el monte Sión,",
+          "tú mereces nuestras alabanzas;",
+          "mereces que te cumplamos",
+          "las promesas que te hacemos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3
+        ],
+        "lines": [
+          "2-3 (3-4) Tú escuchas nuestra oración.",
+          "Estamos cansados de pecar,",
+          "por eso acudimos a ti.",
+          "Nuestros pecados nos dominan,",
+          "pero tú nos perdonas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "4 (5) ¡Qué bendición reciben",
+          "los que viven cerca de ti,",
+          "los que viven en tu mismo templo!",
+          "Quedamos satisfechos",
+          "con el alimento",
+          "que de ti recibimos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "5 (6) Nuestro Dios y salvador,",
+          "tú nos respondes",
+          "dándonos la victoria.",
+          "Gente de pueblos lejanos",
+          "pone en ti su confianza.",
+          "Así hacen los que viven",
+          "más allá del mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "6 (7) Tú, con tu poder y tu fuerza,",
+          "formaste las montañas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "7 (8) Calmaste el rugido de los mares,",
+          "calmaste el estruendo de sus olas,",
+          "calmaste el alboroto de los pueblos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "8 (9) Los que viven en países lejanos",
+          "tiemblan de miedo",
+          "al ver tus grandes maravillas;",
+          "del oriente al occidente,",
+          "haces que la gente grite de alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9,
+          10
+        ],
+        "lines": [
+          "9-10 (10-11) Tú tienes cuidado de la tierra:",
+          "la empapas con abundante lluvia",
+          "y riegas los sembrados",
+          "para que den muchos frutos.",
+          "Con la lluvia aflojas la tierra",
+          "y la preparas para la siembra.",
+          "Llenas de agua los grandes arroyos,",
+          "y haces brotar nuevas ramas.",
+          "Así dejas listo el campo",
+          "para que todos tengamos trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "11 (12) Llega el año a su fin",
+          "y está lleno de bendiciones;",
+          "por dondequiera que pasas",
+          "dejas gran abundancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "12 (13) En el desierto, el pasto es fresco;",
+          "las colinas se revisten de alegría,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "13 (14) las praderas se llenan de ovejas,",
+          "y los valles se cubren de trigales.",
+          "¡Todo el mundo canta",
+          "y lanza gritos de alegría!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

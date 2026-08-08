@@ -1,1 +1,161 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.98","is_chapter":true,"previous":{"usfm":"PSA.97","human":"Salmo 97","canonical":true,"toc":true},"current":{"usfm":"PSA.98","human":"Salmo 98"},"next":{"usfm":"PSA.99","human":"Salmo 99","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantad al Señor un cántico nuevo,","porque ha hecho maravillas.","Su diestra, su santo brazo,","ha alcanzado la victoria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El Señor ha hecho gala de su triunfo;","ha mostrado su justicia a las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Se ha acordado de su amor y de su fidelidad","por el pueblo de Israel;","¡todos los confines de la tierra son testigos","de la salvación de nuestro Dios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Aclamad alegres al Señor, habitantes de toda la tierra!","¡Prorrumpid en alegres cánticos y salmos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Cantad salmos al Señor al son del arpa,","al son del arpa y de coros melodiosos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Aclamad alegres al Señor, el Rey,","al son de clarines y trompetas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¡Brame el mar y todo lo que él contiene;","el mundo y todos sus habitantes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¡Batan palmas los ríos,","y canten jubilosos todos los montes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Canten delante del Señor,","que ya viene a juzgar la tierra.","Y juzgará al mundo con justicia,","a los pueblos con equidad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.97.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.99.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.98",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.97",
+      "human": "Salmo 97"
+    },
+    "current": {
+      "usfm": "PSA.98",
+      "human": "Salmo 98"
+    },
+    "next": {
+      "usfm": "PSA.99",
+      "human": "Salmo 99"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantad al Señor un cántico nuevo,",
+          "porque ha hecho maravillas.",
+          "Su diestra, su santo brazo,",
+          "ha alcanzado la victoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El Señor ha hecho gala de su triunfo;",
+          "ha mostrado su justicia a las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Se ha acordado de su amor y de su fidelidad",
+          "por el pueblo de Israel;",
+          "¡todos los confines de la tierra son testigos",
+          "de la salvación de nuestro Dios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Aclamad alegres al Señor, habitantes de toda la tierra!",
+          "¡Prorrumpid en alegres cánticos y salmos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Cantad salmos al Señor al son del arpa,",
+          "al son del arpa y de coros melodiosos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Aclamad alegres al Señor, el Rey,",
+          "al son de clarines y trompetas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¡Brame el mar y todo lo que él contiene;",
+          "el mundo y todos sus habitantes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¡Batan palmas los ríos,",
+          "y canten jubilosos todos los montes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Canten delante del Señor,",
+          "que ya viene a juzgar la tierra.",
+          "Y juzgará al mundo con justicia,",
+          "a los pueblos con equidad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

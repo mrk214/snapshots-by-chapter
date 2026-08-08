@@ -1,1 +1,295 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.47","is_chapter":true,"previous":{"usfm":"SIR.46","human":"Eclesiástico 46","canonical":true,"toc":true},"current":{"usfm":"SIR.47","human":"Eclesiástico 47"},"next":{"usfm":"SIR.48","human":"Eclesiástico 48","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["David"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Después de Samuel vino Natán,","que fue profeta en los días de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entre los israelitas Dios eligió a David,","porque era el mejor de todos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["David se divertía con leones y osos","como si jugara con corderitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4,5],"lines":["Todavía era muy joven","cuando mató al gigante Goliat","con una piedra de su honda.","Pidió la ayuda de Dios","y humilló a ese orgulloso guerrero;","así dio la victoria a su pueblo","y restauró su fama."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6,7],"lines":["Cuando David llegó a ser rey,","derrotó a sus enemigos filisteos","y a todos los pueblos vecinos.","Por eso las mujeres lo alababan","y el pueblo lo nombró rey de Israel,","pues David mató a decenas de miles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["David siempre rindió culto a Dios,","y por el gran amor que le tenía","le compuso bellas canciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9,10],"lines":["Ordenó que en el templo","siempre se cantara de sol a sol","y se entonaran ante el altar","dulces melodías para alabar a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Por eso, aunque David pecó,","Dios le perdonó sus pecados","y lo llenó de gran poder;","además, hizo con él una alianza","para que siempre reinara en Israel."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Salomón"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12,13],"lines":["Después de David reinó Salomón,","un hijo suyo muy inteligente.","Dios le permitió gobernar en paz,","para que construyera en su honor","un templo en Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡Qué sabio era Salomón","a pesar de ser tan joven!","¡Era más abundante su sabiduría","que las aguas del río Nilo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15,16,17],"lines":["Era tanta su sabiduría,","y tantos sus proverbios y canciones,","que fue admirado por muchos;","¡su fama llenó el mundo entero!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Lo llamaban «amado de Dios»,","y llegó a amontonar oro y plata","como si amontonara plomo o estaño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Pero tuvo una debilidad:","se dejó dominar por las mujeres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20,21],"lines":["Tan grande fue su pecado","que Dios se enojó con él;","dividió en dos su reinado,","y así castigó a sus descendientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Pero Dios nunca deja de amarnos","y siempre cumple sus promesas.","Por eso no destruyó del todo","a la familia de David,","ni hizo que desaparecieran","sus descendientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Salomón vivió muchos años,","y cuando llegó el día de su muerte","reinó en su lugar su hijo Roboam.","Pero él no tenía inteligencia,","y por su falta de sabiduría","el pueblo se volvió muy rebelde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24,25],"lines":["Después vino su hermano Jeroboam","que no es digno de ser recordado.","Por culpa de él los israelitas","cometieron toda clase de maldad.","Por eso fueron expulsados de su país."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.46.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.48.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.47",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.46",
+      "human": "Eclesiástico 46"
+    },
+    "current": {
+      "usfm": "SIR.47",
+      "human": "Eclesiástico 47"
+    },
+    "next": {
+      "usfm": "SIR.48",
+      "human": "Eclesiástico 48"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Después de Samuel vino Natán,",
+          "que fue profeta en los días de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entre los israelitas Dios eligió a David,",
+          "porque era el mejor de todos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "David se divertía con leones y osos",
+          "como si jugara con corderitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4,
+          5
+        ],
+        "lines": [
+          "Todavía era muy joven",
+          "cuando mató al gigante Goliat",
+          "con una piedra de su honda.",
+          "Pidió la ayuda de Dios",
+          "y humilló a ese orgulloso guerrero;",
+          "así dio la victoria a su pueblo",
+          "y restauró su fama."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6,
+          7
+        ],
+        "lines": [
+          "Cuando David llegó a ser rey,",
+          "derrotó a sus enemigos filisteos",
+          "y a todos los pueblos vecinos.",
+          "Por eso las mujeres lo alababan",
+          "y el pueblo lo nombró rey de Israel,",
+          "pues David mató a decenas de miles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "David siempre rindió culto a Dios,",
+          "y por el gran amor que le tenía",
+          "le compuso bellas canciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9,
+          10
+        ],
+        "lines": [
+          "Ordenó que en el templo",
+          "siempre se cantara de sol a sol",
+          "y se entonaran ante el altar",
+          "dulces melodías para alabar a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Por eso, aunque David pecó,",
+          "Dios le perdonó sus pecados",
+          "y lo llenó de gran poder;",
+          "además, hizo con él una alianza",
+          "para que siempre reinara en Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Salomón"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12,
+          13
+        ],
+        "lines": [
+          "Después de David reinó Salomón,",
+          "un hijo suyo muy inteligente.",
+          "Dios le permitió gobernar en paz,",
+          "para que construyera en su honor",
+          "un templo en Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡Qué sabio era Salomón",
+          "a pesar de ser tan joven!",
+          "¡Era más abundante su sabiduría",
+          "que las aguas del río Nilo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15,
+          16,
+          17
+        ],
+        "lines": [
+          "Era tanta su sabiduría,",
+          "y tantos sus proverbios y canciones,",
+          "que fue admirado por muchos;",
+          "¡su fama llenó el mundo entero!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Lo llamaban «amado de Dios»,",
+          "y llegó a amontonar oro y plata",
+          "como si amontonara plomo o estaño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Pero tuvo una debilidad:",
+          "se dejó dominar por las mujeres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20,
+          21
+        ],
+        "lines": [
+          "Tan grande fue su pecado",
+          "que Dios se enojó con él;",
+          "dividió en dos su reinado,",
+          "y así castigó a sus descendientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Pero Dios nunca deja de amarnos",
+          "y siempre cumple sus promesas.",
+          "Por eso no destruyó del todo",
+          "a la familia de David,",
+          "ni hizo que desaparecieran",
+          "sus descendientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Salomón vivió muchos años,",
+          "y cuando llegó el día de su muerte",
+          "reinó en su lugar su hijo Roboam.",
+          "Pero él no tenía inteligencia,",
+          "y por su falta de sabiduría",
+          "el pueblo se volvió muy rebelde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24,
+          25
+        ],
+        "lines": [
+          "Después vino su hermano Jeroboam",
+          "que no es digno de ser recordado.",
+          "Por culpa de él los israelitas",
+          "cometieron toda clase de maldad.",
+          "Por eso fueron expulsados de su país."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

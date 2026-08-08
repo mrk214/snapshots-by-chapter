@@ -1,1 +1,150 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.54","is_chapter":true,"previous":{"usfm":"PSA.53","human":"Psalms 53","canonical":true,"toc":true},"current":{"usfm":"PSA.54","human":"Psalms 54"},"next":{"usfm":"PSA.55","human":"Psalms 55","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Answered Prayer for Deliverance from Adversaries"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the Chief Musician. With stringed instruments. A Contemplation of David when the Ziphites went and said to Saul, “Is David not hiding with us?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Save me, O God, by Your name,","And vindicate me by Your strength."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Hear my prayer, O God;","Give ear to the words of my mouth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For strangers have risen up against me,","And oppressors have sought after my life;","They have not set God before them."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Behold, God is my helper;","The Lord is with those who uphold my life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He will repay my enemies for their evil.","Cut them off in Your truth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will freely sacrifice to You;","I will praise Your name, O Lord, for it is good."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For He has delivered me out of all trouble;","And my eye has seen its desire upon my enemies."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.53.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.55.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.54",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.53",
+      "human": "Psalms 53"
+    },
+    "current": {
+      "usfm": "PSA.54",
+      "human": "Psalms 54"
+    },
+    "next": {
+      "usfm": "PSA.55",
+      "human": "Psalms 55"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Answered Prayer for Deliverance from Adversaries"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the Chief Musician. With stringed instruments. A Contemplation of David when the Ziphites went and said to Saul, “Is David not hiding with us?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Save me, O God, by Your name,",
+          "And vindicate me by Your strength."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Hear my prayer, O God;",
+          "Give ear to the words of my mouth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For strangers have risen up against me,",
+          "And oppressors have sought after my life;",
+          "They have not set God before them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Behold, God is my helper;",
+          "The Lord is with those who uphold my life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He will repay my enemies for their evil.",
+          "Cut them off in Your truth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will freely sacrifice to You;",
+          "I will praise Your name, O Lord, for it is good."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For He has delivered me out of all trouble;",
+          "And my eye has seen its desire upon my enemies."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

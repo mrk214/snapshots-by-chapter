@@ -1,1 +1,261 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.2","is_chapter":true,"previous":{"usfm":"AMO.1","human":"Amós 1","canonical":true,"toc":true},"current":{"usfm":"AMO.2","human":"Amós 2"},"next":{"usfm":"AMO.3","human":"Amós 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Assim diz o Senhor:","“Por três transgressões de Moabe,","e ainda mais por quatro, não anularei o castigo.","Porque ele queimou até reduzir a cinzas","os ossos do rei de Edom,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["porei fogo em Moabe,","e as chamas consumirão as fortalezas de Queriote.","Moabe perecerá em grande tumulto,","em meio a gritos de guerra e ao toque da trombeta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Destruirei o seu governante","e com ele matarei todas as autoridades”,","diz o Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Assim diz o Senhor:","“Por três transgressões de Judá,","e ainda mais por quatro, não anularei o castigo.","Porque rejeitou a lei do Senhor","e não obedeceu aos seus decretos,","porque se deixou enganar por deuses falsos,","deuses que os seus antepassados seguiram,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["porei fogo em Judá,","e as chamas consumirão as fortalezas de Jerusalém”."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O Julgamento de Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Assim diz o Senhor:","“Por três transgressões de Israel,","e ainda mais por quatro, não anularei o castigo.","Vendem por prata o justo,","e por um par de sandálias o pobre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pisam a cabeça dos necessitados","como pisam o pó da terra,","e negam justiça ao oprimido.","Pai e filho possuem a mesma mulher","e assim profanam o meu santo nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Inclinam-se diante de qualquer altar","com roupas tomadas como penhor.","No templo do seu deus","bebem vinho recebido como multa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["“Fui eu que destruí os amorreus diante deles,","embora fossem altos como o cedro","e fortes como o carvalho.","Eu destruí os seus frutos em cima","e as suas raízes embaixo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["“Eu mesmo tirei vocês do Egito,","e os conduzi por quarenta anos no deserto","para dar a vocês a terra dos amorreus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Também escolhi alguns de seus filhos para serem profetas","e alguns de seus jovens para serem nazireus.","Não é verdade, povo de Israel?”,","declara o Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["“Mas vocês fizeram os nazireus beber vinho","e ordenaram aos profetas que não profetizassem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Agora, então, eu os amassarei","como uma carroça amassa a terra","quando carregada de trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["O ágil não escapará,","o forte não reunirá as suas forças,","e o guerreiro não salvará a sua vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["O arqueiro não manterá a sua posição,","o que corre não se livrará,","e o cavaleiro não salvará a própria vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Até mesmo os guerreiros mais corajosos","fugirão nus naquele dia”,","declara o Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/AMO.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/AMO.3.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.1",
+      "human": "Amós 1"
+    },
+    "current": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
+    },
+    "next": {
+      "usfm": "AMO.3",
+      "human": "Amós 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Assim diz o Senhor:",
+          "“Por três transgressões de Moabe,",
+          "e ainda mais por quatro, não anularei o castigo.",
+          "Porque ele queimou até reduzir a cinzas",
+          "os ossos do rei de Edom,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "porei fogo em Moabe,",
+          "e as chamas consumirão as fortalezas de Queriote.",
+          "Moabe perecerá em grande tumulto,",
+          "em meio a gritos de guerra e ao toque da trombeta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Destruirei o seu governante",
+          "e com ele matarei todas as autoridades”,",
+          "diz o Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Assim diz o Senhor:",
+          "“Por três transgressões de Judá,",
+          "e ainda mais por quatro, não anularei o castigo.",
+          "Porque rejeitou a lei do Senhor",
+          "e não obedeceu aos seus decretos,",
+          "porque se deixou enganar por deuses falsos,",
+          "deuses que os seus antepassados seguiram,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "porei fogo em Judá,",
+          "e as chamas consumirão as fortalezas de Jerusalém”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Julgamento de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Assim diz o Senhor:",
+          "“Por três transgressões de Israel,",
+          "e ainda mais por quatro, não anularei o castigo.",
+          "Vendem por prata o justo,",
+          "e por um par de sandálias o pobre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pisam a cabeça dos necessitados",
+          "como pisam o pó da terra,",
+          "e negam justiça ao oprimido.",
+          "Pai e filho possuem a mesma mulher",
+          "e assim profanam o meu santo nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Inclinam-se diante de qualquer altar",
+          "com roupas tomadas como penhor.",
+          "No templo do seu deus",
+          "bebem vinho recebido como multa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "“Fui eu que destruí os amorreus diante deles,",
+          "embora fossem altos como o cedro",
+          "e fortes como o carvalho.",
+          "Eu destruí os seus frutos em cima",
+          "e as suas raízes embaixo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "“Eu mesmo tirei vocês do Egito,",
+          "e os conduzi por quarenta anos no deserto",
+          "para dar a vocês a terra dos amorreus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Também escolhi alguns de seus filhos para serem profetas",
+          "e alguns de seus jovens para serem nazireus.",
+          "Não é verdade, povo de Israel?”,",
+          "declara o Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "“Mas vocês fizeram os nazireus beber vinho",
+          "e ordenaram aos profetas que não profetizassem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Agora, então, eu os amassarei",
+          "como uma carroça amassa a terra",
+          "quando carregada de trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "O ágil não escapará,",
+          "o forte não reunirá as suas forças,",
+          "e o guerreiro não salvará a sua vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "O arqueiro não manterá a sua posição,",
+          "o que corre não se livrará,",
+          "e o cavaleiro não salvará a própria vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Até mesmo os guerreiros mais corajosos",
+          "fugirão nus naquele dia”,",
+          "declara o Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

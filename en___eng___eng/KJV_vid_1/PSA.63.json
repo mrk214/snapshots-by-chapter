@@ -1,1 +1,179 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.63","is_chapter":true,"previous":{"usfm":"PSA.62","human":"Psalm 62","canonical":true,"toc":true},"current":{"usfm":"PSA.63","human":"Psalm 63"},"next":{"usfm":"PSA.64","human":"Psalm 64","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm of David, when he was in the wilderness of Judah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O God, thou art","My God; early will I seek thee:","My soul thirsteth for thee, my flesh longeth for thee","In a dry and thirsty land, where no water is;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["To see thy power and thy glory,","So as I have seen thee in the sanctuary."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Because thy lovingkindness","Is better than life,","My lips shall praise thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Thus will I bless thee while I live: I will lift up my hands in thy name."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["My soul shall be satisfied as with marrow and fatness;","And my mouth shall praise thee with joyful lips:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["When I remember thee upon my bed,","And meditate on thee in the night watches."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Because thou hast been my help,","Therefore in the shadow of thy wings will I rejoice."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["My soul followeth hard after thee:","Thy right hand upholdeth me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["But those that seek my soul, to destroy it,","Shall go into the lower parts of the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They shall fall by the sword:","They shall be a portion for foxes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["But the king shall rejoice in God; Every one that sweareth by him shall glory:","But the mouth of them that speak lies shall be stopped."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.62.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.64.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.63",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.62",
+      "human": "Psalm 62"
+    },
+    "current": {
+      "usfm": "PSA.63",
+      "human": "Psalm 63"
+    },
+    "next": {
+      "usfm": "PSA.64",
+      "human": "Psalm 64"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David, when he was in the wilderness of Judah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O God, thou art",
+          "My God; early will I seek thee:",
+          "My soul thirsteth for thee, my flesh longeth for thee",
+          "In a dry and thirsty land, where no water is;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "To see thy power and thy glory,",
+          "So as I have seen thee in the sanctuary."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Because thy lovingkindness",
+          "Is better than life,",
+          "My lips shall praise thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Thus will I bless thee while I live: I will lift up my hands in thy name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "My soul shall be satisfied as with marrow and fatness;",
+          "And my mouth shall praise thee with joyful lips:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "When I remember thee upon my bed,",
+          "And meditate on thee in the night watches."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Because thou hast been my help,",
+          "Therefore in the shadow of thy wings will I rejoice."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "My soul followeth hard after thee:",
+          "Thy right hand upholdeth me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "But those that seek my soul, to destroy it,",
+          "Shall go into the lower parts of the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They shall fall by the sword:",
+          "They shall be a portion for foxes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "But the king shall rejoice in God; Every one that sweareth by him shall glory:",
+          "But the mouth of them that speak lies shall be stopped."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

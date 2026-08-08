@@ -1,1 +1,156 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"EZK","name":"Ezequiel"},"chapter":{"chapter_usfm":"EZK.2","is_chapter":true,"previous":{"usfm":"EZK.1","human":"Ezequiel 1","canonical":true,"toc":true},"current":{"usfm":"EZK.2","human":"Ezequiel 2"},"next":{"usfm":"EZK.3","human":"Ezequiel 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Llamamiento de Ezequiel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces Él me dijo: «Hijo de hombre, ponte en pie para que Yo te hable»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mientras Él me hablaba, el Espíritu entró en mí y me puso en pie; y oí al que me hablaba."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Entonces me dijo: «Hijo de hombre, Yo te envío a los israelitas, a una nación de rebeldes que se ha rebelado contra Mí; ellos y sus padres se han levantado contra Mí hasta este mismo día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A los hijos de duro semblante y corazón empedernido, a quienes te envío, les dirás: “Así dice el Señor Dios”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tal vez ellos escuchen o dejen de escuchar, porque son una casa rebelde, sabrán que un profeta ha estado entre ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y tú, hijo de hombre, no temas; no les temas a ellos ni a sus palabras aunque haya contigo cardos y espinas y te sientes en escorpiones. No temas sus palabras ni te atemorices ante ellos, porque son una casa rebelde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Les hablarás Mis palabras, escuchen o dejen de escuchar, porque son rebeldes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Y tú, hijo de hombre, escucha lo que te hablo; no seas rebelde como esa casa rebelde. Abre tu boca y come lo que te voy a dar»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces miré que una mano estaba extendida hacia mí, y en ella había un libro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Él lo desenrolló delante de mí, y estaba escrito por delante y por detrás; y en él estaban escritas lamentaciones, gemidos y ayes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/EZK.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/EZK.3.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezequiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.1",
+      "human": "Ezequiel 1"
+    },
+    "current": {
+      "usfm": "EZK.2",
+      "human": "Ezequiel 2"
+    },
+    "next": {
+      "usfm": "EZK.3",
+      "human": "Ezequiel 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Llamamiento de Ezequiel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces Él me dijo: «Hijo de hombre, ponte en pie para que Yo te hable»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mientras Él me hablaba, el Espíritu entró en mí y me puso en pie; y oí al que me hablaba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Entonces me dijo: «Hijo de hombre, Yo te envío a los israelitas, a una nación de rebeldes que se ha rebelado contra Mí; ellos y sus padres se han levantado contra Mí hasta este mismo día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A los hijos de duro semblante y corazón empedernido, a quienes te envío, les dirás: “Así dice el Señor Dios”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tal vez ellos escuchen o dejen de escuchar, porque son una casa rebelde, sabrán que un profeta ha estado entre ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y tú, hijo de hombre, no temas; no les temas a ellos ni a sus palabras aunque haya contigo cardos y espinas y te sientes en escorpiones. No temas sus palabras ni te atemorices ante ellos, porque son una casa rebelde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Les hablarás Mis palabras, escuchen o dejen de escuchar, porque son rebeldes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Y tú, hijo de hombre, escucha lo que te hablo; no seas rebelde como esa casa rebelde. Abre tu boca y come lo que te voy a dar»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces miré que una mano estaba extendida hacia mí, y en ella había un libro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Él lo desenrolló delante de mí, y estaba escrito por delante y por detrás; y en él estaban escritas lamentaciones, gemidos y ayes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

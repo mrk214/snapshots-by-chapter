@@ -1,1 +1,124 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.23","is_chapter":true,"previous":{"usfm":"PSA.22","human":"Salmos 22","canonical":true,"toc":true},"current":{"usfm":"PSA.23","human":"Salmos 23"},"next":{"usfm":"PSA.24","human":"Salmos 24","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A felicidade de termos o Senhor como nosso pastor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Senhor é o meu pastor: nada me faltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Preparas uma mesa perante mim na presença dos meus inimigos, unges a minha cabeça com óleo, o meu cálix transborda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida: e habitarei na casa do Senhor por longos dias."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.22.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.24.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.23",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.22",
+      "human": "Salmos 22"
+    },
+    "current": {
+      "usfm": "PSA.23",
+      "human": "Salmos 23"
+    },
+    "next": {
+      "usfm": "PSA.24",
+      "human": "Salmos 24"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A felicidade de termos o Senhor como nosso pastor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Senhor é o meu pastor: nada me faltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Deitar-me faz em verdes pastos, guia-me mansamente a águas tranquilas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Refrigera a minha alma; guia-me pelas veredas da justiça, por amor do seu nome."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Ainda que eu andasse pelo vale da sombra da morte, não temeria mal algum, porque tu estás comigo; a tua vara e o teu cajado me consolam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Preparas uma mesa perante mim na presença dos meus inimigos, unges a minha cabeça com óleo, o meu cálix transborda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Certamente que a bondade e a misericórdia me seguirão todos os dias da minha vida: e habitarei na casa do Senhor por longos dias."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

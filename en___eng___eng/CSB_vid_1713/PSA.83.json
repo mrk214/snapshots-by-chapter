@@ -1,1 +1,271 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.83","is_chapter":true,"previous":{"usfm":"PSA.82","human":"Psalms 82","canonical":true,"toc":true},"current":{"usfm":"PSA.83","human":"Psalms 83"},"next":{"usfm":"PSA.84","human":"Psalms 84","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prayer against Enemies"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song. A psalm of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["God, do not keep silent.","Do not be deaf, God; do not be quiet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["See how your enemies make an uproar;","those who hate you have acted arrogantly. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["They devise clever schemes against your people;","they conspire against your treasured ones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["They say, “Come, let’s wipe them out as a nation","so that Israel’s name will no longer be remembered.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For they have conspired with one mind;","they form an alliance against you —"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["the tents of Edom and the Ishmaelites,","Moab and the Hagrites,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Gebal, Ammon, and Amalek,","Philistia with the inhabitants of Tyre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Even Assyria has joined them;","they lend support to the sons of Lot. ,"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Deal with them as you did with Midian,","as you did with Sisera","and Jabin at the Kishon River."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They were destroyed at En-dor;","they became manure for the ground."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Make their nobles like Oreb and Zeeb,","and all their tribal leaders like Zebah and Zalmunna,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["who said, “Let’s seize God’s pastures for ourselves.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Make them like tumbleweed, my God,","like straw before the wind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["As fire burns a forest,","as a flame blazes through mountains,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["so pursue them with your tempest","and terrify them with your storm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Cover their faces with shame","so that they will seek your name, Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Let them be put to shame and terrified forever;","let them perish in disgrace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["May they know that you alone —","whose name is the Lord —","are the Most High over the whole earth."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.82.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.84.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.83",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.82",
+      "human": "Psalms 82"
+    },
+    "current": {
+      "usfm": "PSA.83",
+      "human": "Psalms 83"
+    },
+    "next": {
+      "usfm": "PSA.84",
+      "human": "Psalms 84"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prayer against Enemies"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song. A psalm of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "God, do not keep silent.",
+          "Do not be deaf, God; do not be quiet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "See how your enemies make an uproar;",
+          "those who hate you have acted arrogantly. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "They devise clever schemes against your people;",
+          "they conspire against your treasured ones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "They say, “Come, let’s wipe them out as a nation",
+          "so that Israel’s name will no longer be remembered.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For they have conspired with one mind;",
+          "they form an alliance against you —"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "the tents of Edom and the Ishmaelites,",
+          "Moab and the Hagrites,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Gebal, Ammon, and Amalek,",
+          "Philistia with the inhabitants of Tyre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Even Assyria has joined them;",
+          "they lend support to the sons of Lot. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Deal with them as you did with Midian,",
+          "as you did with Sisera",
+          "and Jabin at the Kishon River."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They were destroyed at En-dor;",
+          "they became manure for the ground."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Make their nobles like Oreb and Zeeb,",
+          "and all their tribal leaders like Zebah and Zalmunna,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "who said, “Let’s seize God’s pastures for ourselves.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Make them like tumbleweed, my God,",
+          "like straw before the wind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "As fire burns a forest,",
+          "as a flame blazes through mountains,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "so pursue them with your tempest",
+          "and terrify them with your storm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Cover their faces with shame",
+          "so that they will seek your name, Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Let them be put to shame and terrified forever;",
+          "let them perish in disgrace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "May they know that you alone —",
+          "whose name is the Lord —",
+          "are the Most High over the whole earth."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

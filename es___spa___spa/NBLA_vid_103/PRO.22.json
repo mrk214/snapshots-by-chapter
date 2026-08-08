@@ -1,1 +1,376 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.22","is_chapter":true,"previous":{"usfm":"PRO.21","human":"Proverbios 21","canonical":true,"toc":true},"current":{"usfm":"PRO.22","human":"Proverbios 22"},"next":{"usfm":"PRO.23","human":"Proverbios 23","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Más vale el buen nombre que las muchas riquezas,","Y el favor que la plata y el oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El rico y el pobre tienen un lazo común:","A ambos los hizo el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El prudente ve el mal y se esconde,","Pero los simples siguen adelante y son castigados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["La recompensa de la humildad y el temor del Señor","Son la riqueza, el honor y la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Espinos y lazos hay en el camino del perverso;","El que cuida su alma se alejará de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Instruye al niño en el camino que debe andar,","Y aun cuando sea viejo no se apartará de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El rico domina a los pobres,","Y el deudor es esclavo del acreedor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El que siembra iniquidad segará vanidad,","Y la vara de su furor perecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El generoso será bendito,","Porque da de su pan al pobre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Echa fuera al insolente y saldrá la discordia,","Y cesarán también los pleitos y la ignominia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El que ama la pureza de corazón","Tiene gracia en sus labios, y el rey es su amigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Los ojos del Señor guardan el conocimiento,","Pero Él confunde las palabras del engañador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El perezoso dice: «Hay un león afuera;","Seré muerto en las calles»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Fosa profunda es la boca de las mujeres extrañas;","El que es maldito del Señor caerá en ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["La necedad está ligada al corazón del niño,","Pero la vara de la disciplina lo alejará de ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El que oprime al pobre para engrandecerse,","O da al rico, solo llegará a la pobreza."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Preceptos y amonestaciones"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["¶Inclina tu oído y oye las palabras de los sabios,","Y aplica tu corazón a mi conocimiento;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque te será agradable si las guardas dentro de ti,","Para que estén listas en tus labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Para que tu confianza esté en el Señor,","Te he instruido hoy a ti también."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¿No te he escrito cosas excelentes","De consejo y conocimiento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Para hacerte saber la certeza de las palabras de verdad","A fin de que respondas correctamente al que te ha enviado?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["¶No robes al pobre, porque es pobre,","Ni aplastes al afligido en la puerta;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Porque el Señor defenderá su causa","Y quitará la vida de los que los despojan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["¶No te asocies con el hombre iracundo,","Ni andes con el hombre violento,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["No sea que aprendas sus maneras","Y tiendas lazo para ti mismo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["¶No estés entre los que dan fianzas,","Entre los que salen de fiadores de préstamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Si no tienes con qué pagar,","¿Por qué han de quitarte la cama de debajo de ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["¶No muevas el lindero antiguo","Que pusieron tus padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["¶¿Has visto un hombre diestro en su trabajo?","Estará delante de los reyes;","No estará delante de hombres sin importancia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.21.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PRO.23.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.22",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.21",
+      "human": "Proverbios 21"
+    },
+    "current": {
+      "usfm": "PRO.22",
+      "human": "Proverbios 22"
+    },
+    "next": {
+      "usfm": "PRO.23",
+      "human": "Proverbios 23"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Más vale el buen nombre que las muchas riquezas,",
+          "Y el favor que la plata y el oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El rico y el pobre tienen un lazo común:",
+          "A ambos los hizo el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El prudente ve el mal y se esconde,",
+          "Pero los simples siguen adelante y son castigados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "La recompensa de la humildad y el temor del Señor",
+          "Son la riqueza, el honor y la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Espinos y lazos hay en el camino del perverso;",
+          "El que cuida su alma se alejará de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Instruye al niño en el camino que debe andar,",
+          "Y aun cuando sea viejo no se apartará de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El rico domina a los pobres,",
+          "Y el deudor es esclavo del acreedor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El que siembra iniquidad segará vanidad,",
+          "Y la vara de su furor perecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El generoso será bendito,",
+          "Porque da de su pan al pobre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Echa fuera al insolente y saldrá la discordia,",
+          "Y cesarán también los pleitos y la ignominia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El que ama la pureza de corazón",
+          "Tiene gracia en sus labios, y el rey es su amigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Los ojos del Señor guardan el conocimiento,",
+          "Pero Él confunde las palabras del engañador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El perezoso dice: «Hay un león afuera;",
+          "Seré muerto en las calles»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Fosa profunda es la boca de las mujeres extrañas;",
+          "El que es maldito del Señor caerá en ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "La necedad está ligada al corazón del niño,",
+          "Pero la vara de la disciplina lo alejará de ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El que oprime al pobre para engrandecerse,",
+          "O da al rico, solo llegará a la pobreza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Preceptos y amonestaciones"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "¶Inclina tu oído y oye las palabras de los sabios,",
+          "Y aplica tu corazón a mi conocimiento;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque te será agradable si las guardas dentro de ti,",
+          "Para que estén listas en tus labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Para que tu confianza esté en el Señor,",
+          "Te he instruido hoy a ti también."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¿No te he escrito cosas excelentes",
+          "De consejo y conocimiento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Para hacerte saber la certeza de las palabras de verdad",
+          "A fin de que respondas correctamente al que te ha enviado?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "¶No robes al pobre, porque es pobre,",
+          "Ni aplastes al afligido en la puerta;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Porque el Señor defenderá su causa",
+          "Y quitará la vida de los que los despojan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "¶No te asocies con el hombre iracundo,",
+          "Ni andes con el hombre violento,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "No sea que aprendas sus maneras",
+          "Y tiendas lazo para ti mismo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "¶No estés entre los que dan fianzas,",
+          "Entre los que salen de fiadores de préstamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Si no tienes con qué pagar,",
+          "¿Por qué han de quitarte la cama de debajo de ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "¶No muevas el lindero antiguo",
+          "Que pusieron tus padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "¶¿Has visto un hombre diestro en su trabajo?",
+          "Estará delante de los reyes;",
+          "No estará delante de hombres sin importancia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

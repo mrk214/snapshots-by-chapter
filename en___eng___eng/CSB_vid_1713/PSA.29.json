@@ -1,1 +1,187 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.29","is_chapter":true,"previous":{"usfm":"PSA.28","human":"Psalms 28","canonical":true,"toc":true},"current":{"usfm":"PSA.29","human":"Psalms 29"},"next":{"usfm":"PSA.30","human":"Psalms 30","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Voice of the Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ascribe to the Lord, you heavenly beings,","ascribe to the Lord glory and strength."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ascribe to the Lord the glory due his name;","worship the Lord","in the splendor of his holiness. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The voice of the Lord is above the waters.","The God of glory thunders —","the Lord, above the vast water,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["the voice of the Lord in power,","the voice of the Lord in splendor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The voice of the Lord breaks the cedars;","the Lord shatters the cedars of Lebanon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He makes Lebanon skip like a calf,","and Sirion, like a young wild ox."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The voice of the Lord flashes flames of fire."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The voice of the Lord shakes the wilderness;","the Lord shakes the wilderness of Kadesh."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The voice of the Lord makes the deer give birth ,","and strips the woodlands bare.","In his temple all cry, “Glory! ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The Lord sits enthroned over the flood;","the Lord sits enthroned, King forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["The Lord gives his people strength;","the Lord blesses his people with peace."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.28.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.30.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.29",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.28",
+      "human": "Psalms 28"
+    },
+    "current": {
+      "usfm": "PSA.29",
+      "human": "Psalms 29"
+    },
+    "next": {
+      "usfm": "PSA.30",
+      "human": "Psalms 30"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Voice of the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ascribe to the Lord, you heavenly beings,",
+          "ascribe to the Lord glory and strength."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ascribe to the Lord the glory due his name;",
+          "worship the Lord",
+          "in the splendor of his holiness. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The voice of the Lord is above the waters.",
+          "The God of glory thunders —",
+          "the Lord, above the vast water,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "the voice of the Lord in power,",
+          "the voice of the Lord in splendor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The voice of the Lord breaks the cedars;",
+          "the Lord shatters the cedars of Lebanon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He makes Lebanon skip like a calf,",
+          "and Sirion, like a young wild ox."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The voice of the Lord flashes flames of fire."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The voice of the Lord shakes the wilderness;",
+          "the Lord shakes the wilderness of Kadesh."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The voice of the Lord makes the deer give birth ,",
+          "and strips the woodlands bare.",
+          "In his temple all cry, “Glory! ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The Lord sits enthroned over the flood;",
+          "the Lord sits enthroned, King forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "The Lord gives his people strength;",
+          "the Lord blesses his people with peace."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

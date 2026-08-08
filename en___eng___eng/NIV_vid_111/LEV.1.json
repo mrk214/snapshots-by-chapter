@@ -1,1 +1,226 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"LEV","name":"Leviticus"},"chapter":{"chapter_usfm":"LEV.1","is_chapter":true,"previous":{"usfm":"LEV.INTRO1","human":"Leviticus Intro","canonical":false,"toc":true},"current":{"usfm":"LEV.1","human":"Leviticus 1"},"next":{"usfm":"LEV.2","human":"Leviticus 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Burnt Offering"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord called to Moses and spoke to him from the tent of meeting. He said,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Speak to the Israelites and say to them: ‘When anyone among you brings an offering to the Lord, bring as your offering an animal from either the herd or the flock."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“ ‘If the offering is a burnt offering from the herd, you are to offer a male without defect. You must present it at the entrance to the tent of meeting so that it will be acceptable to the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["You are to lay your hand on the head of the burnt offering, and it will be accepted on your behalf to make atonement for you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["You are to slaughter the young bull before the Lord, and then Aaron’s sons the priests shall bring the blood and splash it against the sides of the altar at the entrance to the tent of meeting."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You are to skin the burnt offering and cut it into pieces."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The sons of Aaron the priest are to put fire on the altar and arrange wood on the fire."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Then Aaron’s sons the priests shall arrange the pieces, including the head and the fat, on the wood that is burning on the altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["You are to wash the internal organs and the legs with water, and the priest is to burn all of it on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["“ ‘If the offering is a burnt offering from the flock, from either the sheep or the goats, you are to offer a male without defect."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["You are to slaughter it at the north side of the altar before the Lord, and Aaron’s sons the priests shall splash its blood against the sides of the altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["You are to cut it into pieces, and the priest shall arrange them, including the head and the fat, on the wood that is burning on the altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["You are to wash the internal organs and the legs with water, and the priest is to bring all of them and burn them on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["“ ‘If the offering to the Lord is a burnt offering of birds, you are to offer a dove or a young pigeon."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The priest shall bring it to the altar, wring off the head and burn it on the altar; its blood shall be drained out on the side of the altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He is to remove the crop and the feathers and throw them down east of the altar where the ashes are."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LEV.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LEV.2.json"
+  },
+  "book": {
+    "book_usfm": "LEV",
+    "name": "Leviticus"
+  },
+  "chapter": {
+    "chapter_usfm": "LEV.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "LEV.INTRO1",
+      "human": "Leviticus Intro"
+    },
+    "current": {
+      "usfm": "LEV.1",
+      "human": "Leviticus 1"
+    },
+    "next": {
+      "usfm": "LEV.2",
+      "human": "Leviticus 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Burnt Offering"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord called to Moses and spoke to him from the tent of meeting. He said,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Speak to the Israelites and say to them: ‘When anyone among you brings an offering to the Lord, bring as your offering an animal from either the herd or the flock."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“ ‘If the offering is a burnt offering from the herd, you are to offer a male without defect. You must present it at the entrance to the tent of meeting so that it will be acceptable to the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "You are to lay your hand on the head of the burnt offering, and it will be accepted on your behalf to make atonement for you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "You are to slaughter the young bull before the Lord, and then Aaron’s sons the priests shall bring the blood and splash it against the sides of the altar at the entrance to the tent of meeting."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You are to skin the burnt offering and cut it into pieces."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The sons of Aaron the priest are to put fire on the altar and arrange wood on the fire."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Then Aaron’s sons the priests shall arrange the pieces, including the head and the fat, on the wood that is burning on the altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "You are to wash the internal organs and the legs with water, and the priest is to burn all of it on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "“ ‘If the offering is a burnt offering from the flock, from either the sheep or the goats, you are to offer a male without defect."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "You are to slaughter it at the north side of the altar before the Lord, and Aaron’s sons the priests shall splash its blood against the sides of the altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "You are to cut it into pieces, and the priest shall arrange them, including the head and the fat, on the wood that is burning on the altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "You are to wash the internal organs and the legs with water, and the priest is to bring all of them and burn them on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "“ ‘If the offering to the Lord is a burnt offering of birds, you are to offer a dove or a young pigeon."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The priest shall bring it to the altar, wring off the head and burn it on the altar; its blood shall be drained out on the side of the altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He is to remove the crop and the feathers and throw them down east of the altar where the ashes are."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He shall tear it open by the wings, not dividing it completely, and then the priest shall burn it on the wood that is burning on the altar. It is a burnt offering, a food offering, an aroma pleasing to the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

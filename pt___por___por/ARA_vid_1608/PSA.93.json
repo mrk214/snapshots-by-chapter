@@ -1,1 +1,115 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.93","is_chapter":true,"previous":{"usfm":"PSA.92","human":"Salmos 92","canonical":true,"toc":true},"current":{"usfm":"PSA.93","human":"Salmos 93"},"next":{"usfm":"PSA.94","human":"Salmos 94","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O poder e a majestade de Deus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Reina o Senhor. Revestiu-se de majestade;","de poder se revestiu o Senhor e se cingiu.","Firmou o mundo, que não vacila."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Desde a antiguidade, está firme o teu trono;","tu és desde a eternidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Levantam os rios, ó Senhor,","levantam os rios o seu bramido;","levantam os rios o seu fragor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mas o Senhor nas alturas é mais poderoso","do que o bramido das grandes águas,","do que os poderosos vagalhões do mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Fidelíssimos são os teus testemunhos;","à tua casa convém a santidade,","Senhor, para todo o sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.92.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.94.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.93",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.92",
+      "human": "Salmos 92"
+    },
+    "current": {
+      "usfm": "PSA.93",
+      "human": "Salmos 93"
+    },
+    "next": {
+      "usfm": "PSA.94",
+      "human": "Salmos 94"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O poder e a majestade de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Reina o Senhor. Revestiu-se de majestade;",
+          "de poder se revestiu o Senhor e se cingiu.",
+          "Firmou o mundo, que não vacila."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Desde a antiguidade, está firme o teu trono;",
+          "tu és desde a eternidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Levantam os rios, ó Senhor,",
+          "levantam os rios o seu bramido;",
+          "levantam os rios o seu fragor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mas o Senhor nas alturas é mais poderoso",
+          "do que o bramido das grandes águas,",
+          "do que os poderosos vagalhões do mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Fidelíssimos são os teus testemunhos;",
+          "à tua casa convém a santidade,",
+          "Senhor, para todo o sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

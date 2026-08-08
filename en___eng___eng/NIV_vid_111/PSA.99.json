@@ -1,1 +1,157 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.99","is_chapter":true,"previous":{"usfm":"PSA.98","human":"Psalms 98","canonical":true,"toc":true},"current":{"usfm":"PSA.99","human":"Psalms 99"},"next":{"usfm":"PSA.100","human":"Psalms 100","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["The Lord reigns,","let the nations tremble;","he sits enthroned between the cherubim,","let the earth shake."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Great is the Lord in Zion;","he is exalted over all the nations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let them praise your great and awesome name—","he is holy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The King is mighty, he loves justice—","you have established equity;","in Jacob you have done","what is just and right."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Exalt the Lord our God","and worship at his footstool;","he is holy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Moses and Aaron were among his priests,","Samuel was among those who called on his name;","they called on the Lord","and he answered them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He spoke to them from the pillar of cloud;","they kept his statutes and the decrees he gave them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Lord our God,","you answered them;","you were to Israel a forgiving God,","though you punished their misdeeds."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Exalt the Lord our God","and worship at his holy mountain,","for the Lord our God is holy."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.98.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.100.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.99",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.98",
+      "human": "Psalms 98"
+    },
+    "current": {
+      "usfm": "PSA.99",
+      "human": "Psalms 99"
+    },
+    "next": {
+      "usfm": "PSA.100",
+      "human": "Psalms 100"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord reigns,",
+          "let the nations tremble;",
+          "he sits enthroned between the cherubim,",
+          "let the earth shake."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Great is the Lord in Zion;",
+          "he is exalted over all the nations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let them praise your great and awesome name—",
+          "he is holy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The King is mighty, he loves justice—",
+          "you have established equity;",
+          "in Jacob you have done",
+          "what is just and right."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Exalt the Lord our God",
+          "and worship at his footstool;",
+          "he is holy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Moses and Aaron were among his priests,",
+          "Samuel was among those who called on his name;",
+          "they called on the Lord",
+          "and he answered them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He spoke to them from the pillar of cloud;",
+          "they kept his statutes and the decrees he gave them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Lord our God,",
+          "you answered them;",
+          "you were to Israel a forgiving God,",
+          "though you punished their misdeeds."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Exalt the Lord our God",
+          "and worship at his holy mountain,",
+          "for the Lord our God is holy."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

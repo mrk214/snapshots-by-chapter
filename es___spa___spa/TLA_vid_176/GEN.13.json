@@ -1,1 +1,238 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.13","is_chapter":true,"previous":{"usfm":"GEN.12","human":"Génesis 12","canonical":true,"toc":true},"current":{"usfm":"GEN.13","human":"Génesis 13"},"next":{"usfm":"GEN.14","human":"Génesis 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Abram y Lot se separan"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando Abram salió de Egipto, se fue al desierto del sur. Se llevó a su esposa, a su sobrino Lot y todo lo que tenía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Para entonces Abram ya era muy rico, pues tenía oro, plata y ganado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Del desierto del sur se fue avanzando poco a poco en dirección a Betel. Allí había plantado antes su tienda de campaña, entre las ciudades de Betel y Ai."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Allí también había construido un altar para adorar a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Lot también tenía ovejas y vacas, y tiendas de campaña."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Era tanto lo que Lot y Abram tenían, que ya no podían vivir juntos en la misma región."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Además, los cananeos y los ferezeos también vivían allí. Un día, hubo un pleito entre los pastores de Abram y los pastores de Lot,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["por lo que Abram le dijo a Lot:","«Tú y yo no debemos pelearnos, ni tampoco mis pastores y tus pastores, pues somos parientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Hay tierra para todos, te ruego que te vayas a otra región. Si te vas a la izquierda, yo me iré a la derecha; si te vas a la derecha, yo me iré a la izquierda. ¡Pero debemos separarnos!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Lot miró a su alrededor y vio que en el valle del río Jordán nunca faltaba agua. Y es que antes de que Dios destruyera las ciudades de Sodoma y Gomorra, todo ese valle hasta Sóar era tan hermoso como el jardín de Edén y tan fértil como la tierra de Egipto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Entonces, Lot eligió todo ese valle y se fue hacia el este. Así Abram y Lot se separaron."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Abram se quedó a vivir en la tierra de Canaán, mientras que Lot se fue a vivir en las ciudades del valle del Jordán, cerca de Sodoma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La gente de ese lugar era muy mala y cometía muchos pecados contra Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Después de que Abram se separó de Lot, Dios le dijo:","«Abram, allí donde estás, levanta la vista y mira hacia el norte y hacia el sur, hacia el este y el oeste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Voy a darte toda la tierra que alcances a ver. Para siempre será tuya y de tus descendientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["También voy a hacer que tengas muchos descendientes. Y así como nadie puede contar el polvo de la tierra, tampoco nadie podrá contarlos a ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Anda, recorre la tierra a lo largo y a lo ancho, porque yo te la estoy entregando»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Entonces Abram levantó su campamento y se fue a vivir a Hebrón, junto al bosque de Mamré. Allí construyó un altar para adorar a Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.14.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.12",
+      "human": "Génesis 12"
+    },
+    "current": {
+      "usfm": "GEN.13",
+      "human": "Génesis 13"
+    },
+    "next": {
+      "usfm": "GEN.14",
+      "human": "Génesis 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Abram y Lot se separan"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando Abram salió de Egipto, se fue al desierto del sur. Se llevó a su esposa, a su sobrino Lot y todo lo que tenía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Para entonces Abram ya era muy rico, pues tenía oro, plata y ganado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Del desierto del sur se fue avanzando poco a poco en dirección a Betel. Allí había plantado antes su tienda de campaña, entre las ciudades de Betel y Ai."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Allí también había construido un altar para adorar a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Lot también tenía ovejas y vacas, y tiendas de campaña."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Era tanto lo que Lot y Abram tenían, que ya no podían vivir juntos en la misma región."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Además, los cananeos y los ferezeos también vivían allí. Un día, hubo un pleito entre los pastores de Abram y los pastores de Lot,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "por lo que Abram le dijo a Lot:",
+          "«Tú y yo no debemos pelearnos, ni tampoco mis pastores y tus pastores, pues somos parientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Hay tierra para todos, te ruego que te vayas a otra región. Si te vas a la izquierda, yo me iré a la derecha; si te vas a la derecha, yo me iré a la izquierda. ¡Pero debemos separarnos!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Lot miró a su alrededor y vio que en el valle del río Jordán nunca faltaba agua. Y es que antes de que Dios destruyera las ciudades de Sodoma y Gomorra, todo ese valle hasta Sóar era tan hermoso como el jardín de Edén y tan fértil como la tierra de Egipto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Entonces, Lot eligió todo ese valle y se fue hacia el este. Así Abram y Lot se separaron."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Abram se quedó a vivir en la tierra de Canaán, mientras que Lot se fue a vivir en las ciudades del valle del Jordán, cerca de Sodoma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La gente de ese lugar era muy mala y cometía muchos pecados contra Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Después de que Abram se separó de Lot, Dios le dijo:",
+          "«Abram, allí donde estás, levanta la vista y mira hacia el norte y hacia el sur, hacia el este y el oeste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Voy a darte toda la tierra que alcances a ver. Para siempre será tuya y de tus descendientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "También voy a hacer que tengas muchos descendientes. Y así como nadie puede contar el polvo de la tierra, tampoco nadie podrá contarlos a ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Anda, recorre la tierra a lo largo y a lo ancho, porque yo te la estoy entregando»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Entonces Abram levantó su campamento y se fue a vivir a Hebrón, junto al bosque de Mamré. Allí construyó un altar para adorar a Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

@@ -1,1 +1,243 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Salmos 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Salmos 81"},"next":{"usfm":"PSA.82","human":"Salmos 82","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de Asaf; acompáñese con instrumento de cuerda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonen alabanzas a Dios, nuestra fuerza;","canten al Dios de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Canten! Toquen la pandereta.","Hagan sonar la dulce lira y el arpa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Toquen el cuerno de carnero en la luna nueva","y otra vez en la luna llena, para convocar a un festival!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pues los decretos de Israel así lo exigen;","es una ordenanza del Dios de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Él lo hizo ley para Israel","cuando atacó a Egipto para ponernos en libertad.","Oí una voz desconocida que decía:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["«Ahora quitaré la carga de tus hombros;","liberaré tus manos de las tareas pesadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Clamaste a mí cuando estabas en apuros, y yo te salvé;","respondí desde el nubarrón","y puse a prueba tu fe cuando no había agua en Meriba."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Escúchame, pueblo mío, en tanto te doy severas advertencias.","¡Oh Israel, si tan solo me escucharas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Jamás debes tener un dios extranjero;","nunca debes inclinarte frente a un dios falso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pues fui yo, el Señor tu Dios,","quien te rescató de la tierra de Egipto.","Abre bien tu boca, y la llenaré de cosas buenas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Pero no, mi pueblo no quiso escuchar;","Israel no quiso que estuviera cerca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Así que dejé que siguiera sus tercos deseos","y que viviera según sus propias ideas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡Oh, si mi pueblo me escuchara!","¡Oh, si Israel me siguiera y caminara por mis senderos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡Qué rápido sometería a sus adversarios!","¡Qué pronto pondría mis manos sobre sus enemigos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los que odian al Señor se arrastrarían delante de él;","quedarían condenados para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pero a ustedes los alimentaría con el mejor trigo;","los saciaría con miel silvestre de la roca»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Salmos 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de Asaf; acompáñese con instrumento de cuerda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonen alabanzas a Dios, nuestra fuerza;",
+          "canten al Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Canten! Toquen la pandereta.",
+          "Hagan sonar la dulce lira y el arpa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Toquen el cuerno de carnero en la luna nueva",
+          "y otra vez en la luna llena, para convocar a un festival!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pues los decretos de Israel así lo exigen;",
+          "es una ordenanza del Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Él lo hizo ley para Israel",
+          "cuando atacó a Egipto para ponernos en libertad.",
+          "Oí una voz desconocida que decía:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "«Ahora quitaré la carga de tus hombros;",
+          "liberaré tus manos de las tareas pesadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Clamaste a mí cuando estabas en apuros, y yo te salvé;",
+          "respondí desde el nubarrón",
+          "y puse a prueba tu fe cuando no había agua en Meriba."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Escúchame, pueblo mío, en tanto te doy severas advertencias.",
+          "¡Oh Israel, si tan solo me escucharas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Jamás debes tener un dios extranjero;",
+          "nunca debes inclinarte frente a un dios falso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pues fui yo, el Señor tu Dios,",
+          "quien te rescató de la tierra de Egipto.",
+          "Abre bien tu boca, y la llenaré de cosas buenas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Pero no, mi pueblo no quiso escuchar;",
+          "Israel no quiso que estuviera cerca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Así que dejé que siguiera sus tercos deseos",
+          "y que viviera según sus propias ideas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡Oh, si mi pueblo me escuchara!",
+          "¡Oh, si Israel me siguiera y caminara por mis senderos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡Qué rápido sometería a sus adversarios!",
+          "¡Qué pronto pondría mis manos sobre sus enemigos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los que odian al Señor se arrastrarían delante de él;",
+          "quedarían condenados para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pero a ustedes los alimentaría con el mejor trigo;",
+          "los saciaría con miel silvestre de la roca»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

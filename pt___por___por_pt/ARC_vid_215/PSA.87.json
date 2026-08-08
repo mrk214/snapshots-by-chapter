@@ -1,1 +1,134 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Salmos 87"},"next":{"usfm":"PSA.88","human":"Salmos 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Deus tem o maior prazer em Sião"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo e canto para os filhos de Corah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O SEU fundamento está nos montes santos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Senhor ama as portas de Sião, mais do que todas as habitações de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Coisas gloriosas se dizem de ti, ó cidade de Deus (Selah)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["De entre os que me conhecem, farei menção de Raab e de Babilónia; eis que da Filisteia, e de Tiro, e da Etiópia, se dirá: Este é nascido ali."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["E de Sião se dirá: Este e aquele nasceram ali; e o mesmo Altíssimo a estabelecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["O Senhor, ao fazer descrição dos povos, dirá: este é nascido ali (Selah)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["E os cantores e tocadores de instrumentos entoarão: todas as minhas fontes estão em ti."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Salmos 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Salmos 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Deus tem o maior prazer em Sião"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo e canto para os filhos de Corah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O SEU fundamento está nos montes santos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Senhor ama as portas de Sião, mais do que todas as habitações de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Coisas gloriosas se dizem de ti, ó cidade de Deus (Selah)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "De entre os que me conhecem, farei menção de Raab e de Babilónia; eis que da Filisteia, e de Tiro, e da Etiópia, se dirá: Este é nascido ali."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "E de Sião se dirá: Este e aquele nasceram ali; e o mesmo Altíssimo a estabelecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "O Senhor, ao fazer descrição dos povos, dirá: este é nascido ali (Selah)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "E os cantores e tocadores de instrumentos entoarão: todas as minhas fontes estão em ti."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

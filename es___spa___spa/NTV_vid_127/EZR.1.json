@@ -1,1 +1,178 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"EZR","name":"Esdras"},"chapter":{"chapter_usfm":"EZR.1","is_chapter":true,"previous":{"usfm":"2CH.36","human":"2 Crónicas 36","canonical":true,"toc":true},"current":{"usfm":"EZR.1","human":"Esdras 1"},"next":{"usfm":"EZR.2","human":"Esdras 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ciro permite el regreso de los desterrados"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En el primer año de Ciro, rey de Persia, el Señor cumplió la profecía que había dado por medio de Jeremías. Movió el corazón de Ciro a poner por escrito el siguiente edicto y enviarlo a todo el reino:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Esto dice Ciro, rey de Persia:","»“El Señor, Dios del cielo, me ha dado todos los reinos de la tierra. Me encargó construirle un templo en Jerusalén, que está en Judá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cualquiera que pertenezca a su pueblo puede ir a Jerusalén de Judá para reconstruir el templo del Señor, Dios de Israel, quien vive en Jerusalén, ¡y que su Dios esté con ustedes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En el lugar que se encuentre este remanente judío, que sus vecinos los ayuden con los gastos, dándoles plata y oro, provisiones para el viaje y animales, como también una ofrenda voluntaria para el templo de Dios en Jerusalén”»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Luego Dios movió el corazón de los sacerdotes, de los levitas y de los jefes de las tribus de Judá y de Benjamín, para que fueran a Jerusalén a reconstruir el templo del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Todos los vecinos colaboraron, dándoles objetos de plata y de oro, provisiones para el viaje y animales. Les dieron muchos regalos valiosos además de todas las ofrendas voluntarias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El propio rey Ciro sacó los objetos que el rey Nabucodonosor se había llevado del templo del Señor en Jerusalén y había colocado en el templo de sus dioses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ciro le ordenó a Mitrídates, el tesorero de Persia, que contara esos artículos y se los entregara a Sesbasar, el líder de los desterrados que regresaban a Judá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La siguiente es una lista de los artículos que se devolvieron:","tazones de oro","30","tazones de plata","1000","recipientes de plata para quemar incienso","29"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["copas de oro","30","copas de plata","410","otros artículos","1000"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["En total eran 5400 artículos de oro y de plata. Sesbasar los llevó todos consigo cuando los desterrados se fueron de Babilonia hacia Jerusalén."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/2CH.36.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EZR.2.json"
+  },
+  "book": {
+    "book_usfm": "EZR",
+    "name": "Esdras"
+  },
+  "chapter": {
+    "chapter_usfm": "EZR.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "2CH.36",
+      "human": "2 Crónicas 36"
+    },
+    "current": {
+      "usfm": "EZR.1",
+      "human": "Esdras 1"
+    },
+    "next": {
+      "usfm": "EZR.2",
+      "human": "Esdras 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ciro permite el regreso de los desterrados"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En el primer año de Ciro, rey de Persia, el Señor cumplió la profecía que había dado por medio de Jeremías. Movió el corazón de Ciro a poner por escrito el siguiente edicto y enviarlo a todo el reino:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Esto dice Ciro, rey de Persia:",
+          "»“El Señor, Dios del cielo, me ha dado todos los reinos de la tierra. Me encargó construirle un templo en Jerusalén, que está en Judá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cualquiera que pertenezca a su pueblo puede ir a Jerusalén de Judá para reconstruir el templo del Señor, Dios de Israel, quien vive en Jerusalén, ¡y que su Dios esté con ustedes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En el lugar que se encuentre este remanente judío, que sus vecinos los ayuden con los gastos, dándoles plata y oro, provisiones para el viaje y animales, como también una ofrenda voluntaria para el templo de Dios en Jerusalén”»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Luego Dios movió el corazón de los sacerdotes, de los levitas y de los jefes de las tribus de Judá y de Benjamín, para que fueran a Jerusalén a reconstruir el templo del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Todos los vecinos colaboraron, dándoles objetos de plata y de oro, provisiones para el viaje y animales. Les dieron muchos regalos valiosos además de todas las ofrendas voluntarias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El propio rey Ciro sacó los objetos que el rey Nabucodonosor se había llevado del templo del Señor en Jerusalén y había colocado en el templo de sus dioses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ciro le ordenó a Mitrídates, el tesorero de Persia, que contara esos artículos y se los entregara a Sesbasar, el líder de los desterrados que regresaban a Judá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La siguiente es una lista de los artículos que se devolvieron:",
+          "tazones de oro",
+          "30",
+          "tazones de plata",
+          "1000",
+          "recipientes de plata para quemar incienso",
+          "29"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "copas de oro",
+          "30",
+          "copas de plata",
+          "410",
+          "otros artículos",
+          "1000"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "En total eran 5400 artículos de oro y de plata. Sesbasar los llevó todos consigo cuando los desterrados se fueron de Babilonia hacia Jerusalén."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

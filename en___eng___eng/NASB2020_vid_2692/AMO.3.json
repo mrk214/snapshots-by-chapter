@@ -1,1 +1,226 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"AMO","name":"Amos"},"chapter":{"chapter_usfm":"AMO.3","is_chapter":true,"previous":{"usfm":"AMO.2","human":"Amos 2","canonical":true,"toc":true},"current":{"usfm":"AMO.3","human":"Amos 3"},"next":{"usfm":"AMO.4","human":"Amos 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["All the Tribes Are Guilty"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hear this word which the Lord has spoken against you, sons of Israel, against the entire family which He brought up from the land of Egypt:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“You only have I known among all the families of the earth;","Therefore I will punish you for all your wrongdoing.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Do two people walk together unless they have agreed to meet?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Does a lion roar in the forest when he has no prey?","Does a young lion growl from his den unless he has captured something?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Does a bird fall into a trap on the ground when there is no device in it?","Does a trap spring up from the earth when it captures nothing at all?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["If a trumpet is blown in a city, will the people not tremble?","If a disaster occurs in a city, has the Lord not brought it about?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Certainly the Lord God does nothing","Unless He reveals His secret plan","To His servants the prophets."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A lion has roared! Who will not fear?","The Lord God has spoken! Who can do anything but prophesy?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Proclaim on the citadels in Ashdod and on the citadels in the land of Egypt and say, “Assemble yourselves on the mountains of Samaria and see the great panic within her and the oppressions in her midst."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["But they do not know how to do what is right,” declares the Lord, “these who store up violence and devastation in their citadels.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Therefore, this is what the Lord God says:","“An enemy, one surrounding the land,","Will take down your fortifications from you,","And your citadels will be looted.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["This is what the Lord says:","“Just as the shepherd snatches from the lion’s mouth a couple of legs or a piece of an ear,","So will the sons of Israel living in Samaria be snatched away—","With the corner of a bed and the cover of a couch!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Hear and testify against the house of Jacob,”","Declares the Lord God, the God of armies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["“For on the day that I punish Israel’s offenses,","I will also punish the altars of Bethel;","The horns of the altar will be cut off,","And will fall to the ground."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["“I will also strike the winter house together with the summer house;","The houses of ivory will also perish,","And the great houses will come to an end,”","Declares the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/AMO.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/AMO.4.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amos"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.2",
+      "human": "Amos 2"
+    },
+    "current": {
+      "usfm": "AMO.3",
+      "human": "Amos 3"
+    },
+    "next": {
+      "usfm": "AMO.4",
+      "human": "Amos 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "All the Tribes Are Guilty"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hear this word which the Lord has spoken against you, sons of Israel, against the entire family which He brought up from the land of Egypt:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“You only have I known among all the families of the earth;",
+          "Therefore I will punish you for all your wrongdoing.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Do two people walk together unless they have agreed to meet?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Does a lion roar in the forest when he has no prey?",
+          "Does a young lion growl from his den unless he has captured something?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Does a bird fall into a trap on the ground when there is no device in it?",
+          "Does a trap spring up from the earth when it captures nothing at all?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "If a trumpet is blown in a city, will the people not tremble?",
+          "If a disaster occurs in a city, has the Lord not brought it about?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Certainly the Lord God does nothing",
+          "Unless He reveals His secret plan",
+          "To His servants the prophets."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A lion has roared! Who will not fear?",
+          "The Lord God has spoken! Who can do anything but prophesy?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Proclaim on the citadels in Ashdod and on the citadels in the land of Egypt and say, “Assemble yourselves on the mountains of Samaria and see the great panic within her and the oppressions in her midst."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "But they do not know how to do what is right,” declares the Lord, “these who store up violence and devastation in their citadels.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Therefore, this is what the Lord God says:",
+          "“An enemy, one surrounding the land,",
+          "Will take down your fortifications from you,",
+          "And your citadels will be looted.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“Just as the shepherd snatches from the lion’s mouth a couple of legs or a piece of an ear,",
+          "So will the sons of Israel living in Samaria be snatched away—",
+          "With the corner of a bed and the cover of a couch!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Hear and testify against the house of Jacob,”",
+          "Declares the Lord God, the God of armies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "“For on the day that I punish Israel’s offenses,",
+          "I will also punish the altars of Bethel;",
+          "The horns of the altar will be cut off,",
+          "And will fall to the ground."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "“I will also strike the winter house together with the summer house;",
+          "The houses of ivory will also perish,",
+          "And the great houses will come to an end,”",
+          "Declares the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

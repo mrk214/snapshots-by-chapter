@@ -1,1 +1,146 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"ZEC","name":"Zacarias"},"chapter":{"chapter_usfm":"ZEC.13","is_chapter":true,"previous":{"usfm":"ZEC.12","human":"Zacarias 12","canonical":true,"toc":true},"current":{"usfm":"ZEC.13","human":"Zacarias 13"},"next":{"usfm":"ZEC.14","human":"Zacarias 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["NAQUELE dia haverá uma fonte aberta para a casa de David, e para os habitantes de Jerusalém, contra o pecado e contra a impureza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["E acontecerá, naquele dia, diz o Senhor dos Exércitos, que tirarei da terra os nomes dos ídolos, e deles não haverá mais memória; e também farei sair da terra os profetas e o espírito da impureza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["E será que, quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque mentirosamente falaste em nome do Senhor; e seu pai e sua mãe, que o geraram, o traspassarão quando profetizar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["E acontecerá, naquele dia, que os profetas se envergonharão, cada um da sua visão, quando profetizarem; nem mais se vestirão de manto de pelos, para mentirem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Mas dirão: Não sou profeta, sou lavrador da terra; porque tenho sido servo, desde a minha mocidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["E se alguém lhe disser: Que feridas são essas nas tuas mãos? Dirá ele: São as feridas com que fui ferido em casa dos meus amigos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O Pastor ferido; o juízo final; a exaltação da Igreja"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ó espada, ergue-te contra o meu Pastor e contra o varão que é o meu companheiro, diz o Senhor dos Exércitos: fere o Pastor, e espalhar-se-ão as ovelhas; mas volverei a minha mão para os pequenos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["E acontecerá em toda a terra, diz o Senhor, que as duas partes dela serão extirpadas e expirarão; mas a terceira parte restará nela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["E farei passar esta terceira parte pelo fogo, e a purificarei, como se purifica a prata, e a provarei, como se prova o ouro: ela invocará o meu nome, e eu a ouvirei; direi: É meu povo; e ela dirá: O Senhor é meu Deus."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ZEC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ZEC.14.json"
+  },
+  "book": {
+    "book_usfm": "ZEC",
+    "name": "Zacarias"
+  },
+  "chapter": {
+    "chapter_usfm": "ZEC.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ZEC.12",
+      "human": "Zacarias 12"
+    },
+    "current": {
+      "usfm": "ZEC.13",
+      "human": "Zacarias 13"
+    },
+    "next": {
+      "usfm": "ZEC.14",
+      "human": "Zacarias 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "NAQUELE dia haverá uma fonte aberta para a casa de David, e para os habitantes de Jerusalém, contra o pecado e contra a impureza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "E acontecerá, naquele dia, diz o Senhor dos Exércitos, que tirarei da terra os nomes dos ídolos, e deles não haverá mais memória; e também farei sair da terra os profetas e o espírito da impureza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "E será que, quando alguém ainda profetizar, seu pai e sua mãe, que o geraram, lhe dirão: Não viverás, porque mentirosamente falaste em nome do Senhor; e seu pai e sua mãe, que o geraram, o traspassarão quando profetizar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "E acontecerá, naquele dia, que os profetas se envergonharão, cada um da sua visão, quando profetizarem; nem mais se vestirão de manto de pelos, para mentirem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Mas dirão: Não sou profeta, sou lavrador da terra; porque tenho sido servo, desde a minha mocidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "E se alguém lhe disser: Que feridas são essas nas tuas mãos? Dirá ele: São as feridas com que fui ferido em casa dos meus amigos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Pastor ferido; o juízo final; a exaltação da Igreja"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ó espada, ergue-te contra o meu Pastor e contra o varão que é o meu companheiro, diz o Senhor dos Exércitos: fere o Pastor, e espalhar-se-ão as ovelhas; mas volverei a minha mão para os pequenos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "E acontecerá em toda a terra, diz o Senhor, que as duas partes dela serão extirpadas e expirarão; mas a terceira parte restará nela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "E farei passar esta terceira parte pelo fogo, e a purificarei, como se purifica a prata, e a provarei, como se prova o ouro: ela invocará o meu nome, e eu a ouvirei; direi: É meu povo; e ela dirá: O Senhor é meu Deus."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

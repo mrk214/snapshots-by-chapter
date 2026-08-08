@@ -1,1 +1,255 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"GEN","name":"Génesis"},"chapter":{"chapter_usfm":"GEN.36","is_chapter":true,"previous":{"usfm":"GEN.35","human":"Génesis 35","canonical":true,"toc":true},"current":{"usfm":"GEN.36","human":"Génesis 36"},"next":{"usfm":"GEN.37","human":"Génesis 37","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los descendientes de Esaú"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1,2,3,4,5],"lines":["Esta es la historia de Esaú, que se casó con tres mujeres: Adá, Oholibamá y Basemat. Adá era hija de un hitita llamado Elón, y Oholibamá era hija de Aná y nieta de un heveo llamado Sibón; las dos eran cananeas. Basemat era hija de Ismael y hermana de Nebaiot. Esta es la lista de los hijos de Esaú; todos ellos nacieron en Canaán: Elifaz hijo de Adá; Reuel hijo de Basemat; y Jeús, Jaalam y Coré, hijos de Oholibamá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Esaú se fue a vivir a otro lugar, no muy lejos de su hermano Jacob. Se llevó a sus esposas, hijos e hijas, y todos los que vivían con él. También se llevó todos sus animales y todo lo que había llegado a tener en Canaán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Era tanto lo que Esaú y Jacob tenían, y tanta la cantidad de ganado, que ya no podían seguir viviendo juntos. La tierra donde vivían ya no era lo bastante grande para los dos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así fue como Esaú se quedó a vivir en la parte montañosa de Edom."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9,10,11,12,13,14,15,16,17,18,19],"lines":["La historia de Esaú en esas montañas, y la lista de sus descendientes que llegaron a ser jefes de tribus edomitas, es la siguiente:","De los hijos de Esaú:","Elifaz,","Reuel,","Jeús,","Jaalam,","Coré.","De los hijos de Elifaz y nietos de Adá:","Temán,","Omar,","Sefó,","Gatam,","Quenaz,","Coré,","Amalec, hijo de Elifaz y Timná.","De los hijos de Reuel y nietos de Basemat:","Náhat,","Zérah,","Samá,","Mizá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20,21,22,23,24,25,26,27,28,29,30],"lines":["Los jefes de las tribus de los horeos, que son descendientes de Esaú, y que vivían en la región de Edom, fueron:","Lotán,","Sobal,","Sibón,","Aná,","Disón,","Éser,","Disán.","De los hijos de Lotán:","Horí,","Hemam.","Timná, la hermana de Lotán.","De los hijos de Sobal:","Alván,","Manáhat,","Ebal,","Sefó,","Onam.","De los hijos de Sibón:","Aiá,","Aná.","De los hijos de Aná:","Disón,","Oholibamá.","De los hijos de Disón:","Hemdán,","Esbán,","Itrán,","Querán.","De los hijos de Éser:","Bilhán,","Zaaván,","Acán.","De los hijos de Disán:","Uz,","Arán.","Aná fue el que descubrió unos manantiales en el desierto mientras cuidaba los burros de su padre Sibón."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Los reyes de Edom"],"rlw_lines":[]},{"type":"verse","verse_numbers":[31,32,33,34,35,36,37,38,39],"lines":["Antes que hubiera reyes en Israel, los descendientes de Esaú, que vivían en Edom, tuvieron varios reyes. Cada rey gobernaba hasta el día de su muerte, y entonces otro ocupaba su lugar.","Esta es la lista de los reyes de Edom:","Bela hijo de Beor, de la ciudad de Dinhaba.","Jobab hijo de Zérah, del pueblo de Bosrá.","Husam, de la región de Temán.","Hadad hijo de Bedad, de la ciudad de Avit.","Samlá, del pueblo de Masrecá.","Saúl, del pueblo de Rehobot, junto al Éufrates.","Baal-hanán hijo de Acbor.","Hadad, de la ciudad de Pau.","La esposa de Hadad de Pau se llamaba Mehetabel y era hija de Matred y nieta de Mezaab."],"rlw_lines":[]},{"type":"verse","verse_numbers":[40,41,42,43],"lines":["Los jefes edomitas descendientes de Esaú, ordenados por nombre, familia, territorio y lugar de residencia, fueron:","Timná,","Alvá,","Jetet,","Oholibamá,","Elá,","Pinón,","Quenaz,","Temán,","Mibsar,","Magdiel,","Iram."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.35.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.37.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Génesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.36",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.35",
+      "human": "Génesis 35"
+    },
+    "current": {
+      "usfm": "GEN.36",
+      "human": "Génesis 36"
+    },
+    "next": {
+      "usfm": "GEN.37",
+      "human": "Génesis 37"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los descendientes de Esaú"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2,
+          3,
+          4,
+          5
+        ],
+        "lines": [
+          "Esta es la historia de Esaú, que se casó con tres mujeres: Adá, Oholibamá y Basemat. Adá era hija de un hitita llamado Elón, y Oholibamá era hija de Aná y nieta de un heveo llamado Sibón; las dos eran cananeas. Basemat era hija de Ismael y hermana de Nebaiot. Esta es la lista de los hijos de Esaú; todos ellos nacieron en Canaán: Elifaz hijo de Adá; Reuel hijo de Basemat; y Jeús, Jaalam y Coré, hijos de Oholibamá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Esaú se fue a vivir a otro lugar, no muy lejos de su hermano Jacob. Se llevó a sus esposas, hijos e hijas, y todos los que vivían con él. También se llevó todos sus animales y todo lo que había llegado a tener en Canaán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Era tanto lo que Esaú y Jacob tenían, y tanta la cantidad de ganado, que ya no podían seguir viviendo juntos. La tierra donde vivían ya no era lo bastante grande para los dos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así fue como Esaú se quedó a vivir en la parte montañosa de Edom."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9,
+          10,
+          11,
+          12,
+          13,
+          14,
+          15,
+          16,
+          17,
+          18,
+          19
+        ],
+        "lines": [
+          "La historia de Esaú en esas montañas, y la lista de sus descendientes que llegaron a ser jefes de tribus edomitas, es la siguiente:",
+          "De los hijos de Esaú:",
+          "Elifaz,",
+          "Reuel,",
+          "Jeús,",
+          "Jaalam,",
+          "Coré.",
+          "De los hijos de Elifaz y nietos de Adá:",
+          "Temán,",
+          "Omar,",
+          "Sefó,",
+          "Gatam,",
+          "Quenaz,",
+          "Coré,",
+          "Amalec, hijo de Elifaz y Timná.",
+          "De los hijos de Reuel y nietos de Basemat:",
+          "Náhat,",
+          "Zérah,",
+          "Samá,",
+          "Mizá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20,
+          21,
+          22,
+          23,
+          24,
+          25,
+          26,
+          27,
+          28,
+          29,
+          30
+        ],
+        "lines": [
+          "Los jefes de las tribus de los horeos, que son descendientes de Esaú, y que vivían en la región de Edom, fueron:",
+          "Lotán,",
+          "Sobal,",
+          "Sibón,",
+          "Aná,",
+          "Disón,",
+          "Éser,",
+          "Disán.",
+          "De los hijos de Lotán:",
+          "Horí,",
+          "Hemam.",
+          "Timná, la hermana de Lotán.",
+          "De los hijos de Sobal:",
+          "Alván,",
+          "Manáhat,",
+          "Ebal,",
+          "Sefó,",
+          "Onam.",
+          "De los hijos de Sibón:",
+          "Aiá,",
+          "Aná.",
+          "De los hijos de Aná:",
+          "Disón,",
+          "Oholibamá.",
+          "De los hijos de Disón:",
+          "Hemdán,",
+          "Esbán,",
+          "Itrán,",
+          "Querán.",
+          "De los hijos de Éser:",
+          "Bilhán,",
+          "Zaaván,",
+          "Acán.",
+          "De los hijos de Disán:",
+          "Uz,",
+          "Arán.",
+          "Aná fue el que descubrió unos manantiales en el desierto mientras cuidaba los burros de su padre Sibón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los reyes de Edom"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31,
+          32,
+          33,
+          34,
+          35,
+          36,
+          37,
+          38,
+          39
+        ],
+        "lines": [
+          "Antes que hubiera reyes en Israel, los descendientes de Esaú, que vivían en Edom, tuvieron varios reyes. Cada rey gobernaba hasta el día de su muerte, y entonces otro ocupaba su lugar.",
+          "Esta es la lista de los reyes de Edom:",
+          "Bela hijo de Beor, de la ciudad de Dinhaba.",
+          "Jobab hijo de Zérah, del pueblo de Bosrá.",
+          "Husam, de la región de Temán.",
+          "Hadad hijo de Bedad, de la ciudad de Avit.",
+          "Samlá, del pueblo de Masrecá.",
+          "Saúl, del pueblo de Rehobot, junto al Éufrates.",
+          "Baal-hanán hijo de Acbor.",
+          "Hadad, de la ciudad de Pau.",
+          "La esposa de Hadad de Pau se llamaba Mehetabel y era hija de Matred y nieta de Mezaab."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          40,
+          41,
+          42,
+          43
+        ],
+        "lines": [
+          "Los jefes edomitas descendientes de Esaú, ordenados por nombre, familia, territorio y lugar de residencia, fueron:",
+          "Timná,",
+          "Alvá,",
+          "Jetet,",
+          "Oholibamá,",
+          "Elá,",
+          "Pinón,",
+          "Quenaz,",
+          "Temán,",
+          "Mibsar,",
+          "Magdiel,",
+          "Iram."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

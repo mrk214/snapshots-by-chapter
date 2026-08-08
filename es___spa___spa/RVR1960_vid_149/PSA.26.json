@@ -1,1 +1,196 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.26","is_chapter":true,"previous":{"usfm":"PSA.25","human":"Salmos 25","canonical":true,"toc":true},"current":{"usfm":"PSA.26","human":"Salmos 26"},"next":{"usfm":"PSA.27","human":"Salmos 27","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Declaración de integridad"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Júzgame, oh Jehová, porque yo en mi integridad he andado;","He confiado asimismo en Jehová sin titubear."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escudríñame, oh Jehová, y pruébame;","Examina mis íntimos pensamientos y mi corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque tu misericordia está delante de mis ojos,","Y ando en tu verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No me he sentado con hombres hipócritas,","Ni entré con los que andan simuladamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Aborrecí la reunión de los malignos,","Y con los impíos nunca me senté."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Lavaré en inocencia mis manos,","Y así andaré alrededor de tu altar, oh Jehová,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Para exclamar con voz de acción de gracias,","Y para contar todas tus maravillas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Jehová, la habitación de tu casa he amado,","Y el lugar de la morada de tu gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No arrebates con los pecadores mi alma,","Ni mi vida con hombres sanguinarios,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["En cuyas manos está el mal,","Y su diestra está llena de sobornos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Mas yo andaré en mi integridad;","Redímeme, y ten misericordia de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Mi pie ha estado en rectitud;","En las congregaciones bendeciré a Jehová."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.27.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.25",
+      "human": "Salmos 25"
+    },
+    "current": {
+      "usfm": "PSA.26",
+      "human": "Salmos 26"
+    },
+    "next": {
+      "usfm": "PSA.27",
+      "human": "Salmos 27"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Declaración de integridad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Júzgame, oh Jehová, porque yo en mi integridad he andado;",
+          "He confiado asimismo en Jehová sin titubear."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escudríñame, oh Jehová, y pruébame;",
+          "Examina mis íntimos pensamientos y mi corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque tu misericordia está delante de mis ojos,",
+          "Y ando en tu verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No me he sentado con hombres hipócritas,",
+          "Ni entré con los que andan simuladamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Aborrecí la reunión de los malignos,",
+          "Y con los impíos nunca me senté."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Lavaré en inocencia mis manos,",
+          "Y así andaré alrededor de tu altar, oh Jehová,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Para exclamar con voz de acción de gracias,",
+          "Y para contar todas tus maravillas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Jehová, la habitación de tu casa he amado,",
+          "Y el lugar de la morada de tu gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No arrebates con los pecadores mi alma,",
+          "Ni mi vida con hombres sanguinarios,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "En cuyas manos está el mal,",
+          "Y su diestra está llena de sobornos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Mas yo andaré en mi integridad;",
+          "Redímeme, y ten misericordia de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Mi pie ha estado en rectitud;",
+          "En las congregaciones bendeciré a Jehová."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

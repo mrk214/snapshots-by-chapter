@@ -1,1 +1,444 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.111","is_chapter":true,"previous":{"usfm":"PSA.110","human":"Psalm 110","canonical":true,"toc":true},"current":{"usfm":"PSA.111","human":"Psalm 111"},"next":{"usfm":"PSA.112","human":"Psalm 112","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["א Aleph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise ye the LORD. I will praise the LORD with my whole heart,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ב Bet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In the assembly of the upright, and in the congregation."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ג Gimel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The works of the LORD are great,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ד Dalet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sought out of all them that have pleasure therein."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ה He"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["His work is honourable and glorious:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ו Waw"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And his righteousness endureth for ever."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ז Zain"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He hath made his wonderful works to be remembered:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ח Het"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The LORD is gracious and full of compassion."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ט Tet"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He hath given meat unto them that fear him:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["י Yod"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He will ever be mindful of his covenant."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["כ Kaph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He hath shewed his people the power of his works,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ל Lamed"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["That he may give them the heritage of the heathen."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["מ Mem"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The works of his hands are verity and judgment;"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["נ Nun"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["All his commandments are sure."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ס Samek"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["They stand fast for ever and ever,"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ע Ain"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And are done in truth and uprightness."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["פ Pe"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He sent redemption unto his people:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["צ Zade"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He hath commanded his covenant for ever:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ק Qoph"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Holy and reverend is his name."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ר Resh"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["The fear of the LORD is the beginning of wisdom:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ש Shin"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["A good understanding have all they that do his commandments:"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["ת Taw"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["His praise endureth for ever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.110.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.112.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.111",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.110",
+      "human": "Psalm 110"
+    },
+    "current": {
+      "usfm": "PSA.111",
+      "human": "Psalm 111"
+    },
+    "next": {
+      "usfm": "PSA.112",
+      "human": "Psalm 112"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "א Aleph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise ye the LORD. I will praise the LORD with my whole heart,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ב Bet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In the assembly of the upright, and in the congregation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ג Gimel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The works of the LORD are great,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ד Dalet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sought out of all them that have pleasure therein."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ה He"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "His work is honourable and glorious:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ו Waw"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And his righteousness endureth for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ז Zain"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He hath made his wonderful works to be remembered:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ח Het"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The LORD is gracious and full of compassion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ט Tet"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He hath given meat unto them that fear him:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "י Yod"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He will ever be mindful of his covenant."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "כ Kaph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He hath shewed his people the power of his works,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ל Lamed"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "That he may give them the heritage of the heathen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "מ Mem"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The works of his hands are verity and judgment;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "נ Nun"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "All his commandments are sure."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ס Samek"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "They stand fast for ever and ever,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ע Ain"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And are done in truth and uprightness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "פ Pe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He sent redemption unto his people:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "צ Zade"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He hath commanded his covenant for ever:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ק Qoph"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Holy and reverend is his name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ר Resh"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "The fear of the LORD is the beginning of wisdom:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ש Shin"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "A good understanding have all they that do his commandments:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "ת Taw"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "His praise endureth for ever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

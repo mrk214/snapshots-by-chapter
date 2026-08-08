@@ -1,1 +1,148 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Salmos 101"},"next":{"usfm":"PSA.102","human":"Salmos 102","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantarei a lealdade e a justiça.","A ti, Senhor, cantarei louvores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Seguirei o caminho da integridade;","quando virás ao meu encontro?","Em minha casa viverei de coração íntegro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Repudiarei todo mal.","Odeio a conduta dos infiéis;","jamais me dominará!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Longe estou dos perversos de coração;","não quero envolver-me com o mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Farei calar ao que difama o próximo às ocultas.","Não vou tolerar o homem de olhos arrogantes","e de coração orgulhoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Meus olhos aprovam os fiéis da terra,","e eles habitarão comigo.","Somente quem tem vida íntegra me servirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Quem pratica a fraude não habitará no meu santuário;","o mentiroso não permanecerá na minha presença."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cada manhã fiz calar todos os ímpios desta terra;","eliminei todos os malfeitores da cidade do Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Salmos 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Salmos 102"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantarei a lealdade e a justiça.",
+          "A ti, Senhor, cantarei louvores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Seguirei o caminho da integridade;",
+          "quando virás ao meu encontro?",
+          "Em minha casa viverei de coração íntegro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Repudiarei todo mal.",
+          "Odeio a conduta dos infiéis;",
+          "jamais me dominará!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Longe estou dos perversos de coração;",
+          "não quero envolver-me com o mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Farei calar ao que difama o próximo às ocultas.",
+          "Não vou tolerar o homem de olhos arrogantes",
+          "e de coração orgulhoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Meus olhos aprovam os fiéis da terra,",
+          "e eles habitarão comigo.",
+          "Somente quem tem vida íntegra me servirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Quem pratica a fraude não habitará no meu santuário;",
+          "o mentiroso não permanecerá na minha presença."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cada manhã fiz calar todos os ímpios desta terra;",
+          "eliminei todos os malfeitores da cidade do Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

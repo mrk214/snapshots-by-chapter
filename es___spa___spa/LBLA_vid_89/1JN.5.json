@@ -1,1 +1,290 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"1JN","name":"1 Juan"},"chapter":{"chapter_usfm":"1JN.5","is_chapter":true,"previous":{"usfm":"1JN.4","human":"1 Juan 4","canonical":true,"toc":true},"current":{"usfm":"1JN.5","human":"1 Juan 5"},"next":{"usfm":"2JN.1","human":"2 Juan 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La fe que vence al mundo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Todo aquel que cree que Jesús es el Cristo, es nacido de Dios; y todo aquel que ama al Padre, ama al que ha nacido de Él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En esto sabemos que amamos a los hijos de Dios: cuando amamos a Dios y guardamos sus mandamientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque este es el amor de Dios: que guardemos sus mandamientos, y sus mandamientos no son gravosos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo: nuestra fe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El testimonio acerca del Hijo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Este es el que vino mediante agua y sangre, Jesucristo; no solo con agua, sino con agua y con sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["el Espíritu, el agua y la sangre, y los tres concuerdan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios; porque este es el testimonio de Dios: que Él ha dado testimonio acerca de su Hijo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El que cree en el Hijo de Dios tiene el testimonio en sí mismo; el que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha dado respecto a su Hijo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Y el testimonio es este: que Dios nos ha dado vida eterna, y esta vida está en su Hijo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El que tiene al Hijo tiene la vida, y el que no tiene al Hijo de Dios, no tiene la vida."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El conocimiento de la vida eterna"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Y esta es la confianza que tenemos delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Si alguno ve a su hermano cometiendo un pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte; yo no digo que deba pedir por ese."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Toda injusticia es pecado, y hay pecado que no lleva a la muerte."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Declaraciones finales"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Sabemos que todo el que ha nacido de Dios, no peca; sino que aquel que nació de Dios lo guarda y el maligno no lo toca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Sabemos que somos de Dios, y que todo el mundo yace bajo el poder del maligno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos al que es verdadero; y nosotros estamos en aquel que es verdadero, en su Hijo Jesucristo. Este es el verdadero Dios y la vida eterna."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Hijos, guardaos de los ídolos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1JN.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/2JN.1.json"
+  },
+  "book": {
+    "book_usfm": "1JN",
+    "name": "1 Juan"
+  },
+  "chapter": {
+    "chapter_usfm": "1JN.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1JN.4",
+      "human": "1 Juan 4"
+    },
+    "current": {
+      "usfm": "1JN.5",
+      "human": "1 Juan 5"
+    },
+    "next": {
+      "usfm": "2JN.1",
+      "human": "2 Juan 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La fe que vence al mundo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Todo aquel que cree que Jesús es el Cristo, es nacido de Dios; y todo aquel que ama al Padre, ama al que ha nacido de Él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En esto sabemos que amamos a los hijos de Dios: cuando amamos a Dios y guardamos sus mandamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque este es el amor de Dios: que guardemos sus mandamientos, y sus mandamientos no son gravosos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque todo lo que es nacido de Dios vence al mundo; y esta es la victoria que ha vencido al mundo: nuestra fe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Y quién es el que vence al mundo, sino el que cree que Jesús es el Hijo de Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El testimonio acerca del Hijo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Este es el que vino mediante agua y sangre, Jesucristo; no solo con agua, sino con agua y con sangre. Y el Espíritu es el que da testimonio, porque el Espíritu es la verdad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque tres son los que dan testimonio en el cielo: el Padre, el Verbo y el Espíritu Santo, y estos tres son uno. Y tres son los que dan testimonio en la tierra:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "el Espíritu, el agua y la sangre, y los tres concuerdan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si recibimos el testimonio de los hombres, mayor es el testimonio de Dios; porque este es el testimonio de Dios: que Él ha dado testimonio acerca de su Hijo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El que cree en el Hijo de Dios tiene el testimonio en sí mismo; el que no cree a Dios, ha hecho a Dios mentiroso, porque no ha creído en el testimonio que Dios ha dado respecto a su Hijo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Y el testimonio es este: que Dios nos ha dado vida eterna, y esta vida está en su Hijo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El que tiene al Hijo tiene la vida, y el que no tiene al Hijo de Dios, no tiene la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El conocimiento de la vida eterna"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Estas cosas os he escrito a vosotros que creéis en el nombre del Hijo de Dios, para que sepáis que tenéis vida eterna."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Y esta es la confianza que tenemos delante de Él, que si pedimos cualquier cosa conforme a su voluntad, Él nos oye."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y si sabemos que Él nos oye en cualquier cosa que pidamos, sabemos que tenemos las peticiones que le hemos hecho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Si alguno ve a su hermano cometiendo un pecado que no lleva a la muerte, pedirá, y por él Dios dará vida a los que cometen pecado que no lleva a la muerte. Hay un pecado que lleva a la muerte; yo no digo que deba pedir por ese."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Toda injusticia es pecado, y hay pecado que no lleva a la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Declaraciones finales"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Sabemos que todo el que ha nacido de Dios, no peca; sino que aquel que nació de Dios lo guarda y el maligno no lo toca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Sabemos que somos de Dios, y que todo el mundo yace bajo el poder del maligno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Y sabemos que el Hijo de Dios ha venido y nos ha dado entendimiento a fin de que conozcamos al que es verdadero; y nosotros estamos en aquel que es verdadero, en su Hijo Jesucristo. Este es el verdadero Dios y la vida eterna."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Hijos, guardaos de los ídolos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

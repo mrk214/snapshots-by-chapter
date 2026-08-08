@@ -1,1 +1,158 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.98","is_chapter":true,"previous":{"usfm":"PSA.97","human":"Psalm 97","canonical":true,"toc":true},"current":{"usfm":"PSA.98","human":"Psalm 98"},"next":{"usfm":"PSA.99","human":"Psalm 99","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O sing unto the LORD a new song;","For he hath done marvellous things:","His right hand, and his holy arm,","Hath gotten him the victory."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The LORD hath made known his salvation:","His righteousness hath he openly shewed in the sight of the heathen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He hath remembered his mercy and his truth toward the house of Israel:","All the ends of the earth have seen the salvation of our God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Make a joyful noise unto the LORD, all the earth:","Make a loud noise, and rejoice, and sing praise."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sing unto the LORD with the harp;","With the harp, and the voice of a psalm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["With trumpets and sound of cornet","Make a joyful noise before the LORD, the King."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Let the sea roar, and the fulness thereof;","The world, and they that dwell therein."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Let the floods clap their hands: Let the hills be joyful together"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Before the LORD;","For he cometh to judge the earth:","With righteousness shall he judge the world,","And the people with equity."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.97.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.99.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.98",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.97",
+      "human": "Psalm 97"
+    },
+    "current": {
+      "usfm": "PSA.98",
+      "human": "Psalm 98"
+    },
+    "next": {
+      "usfm": "PSA.99",
+      "human": "Psalm 99"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O sing unto the LORD a new song;",
+          "For he hath done marvellous things:",
+          "His right hand, and his holy arm,",
+          "Hath gotten him the victory."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The LORD hath made known his salvation:",
+          "His righteousness hath he openly shewed in the sight of the heathen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He hath remembered his mercy and his truth toward the house of Israel:",
+          "All the ends of the earth have seen the salvation of our God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Make a joyful noise unto the LORD, all the earth:",
+          "Make a loud noise, and rejoice, and sing praise."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sing unto the LORD with the harp;",
+          "With the harp, and the voice of a psalm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "With trumpets and sound of cornet",
+          "Make a joyful noise before the LORD, the King."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Let the sea roar, and the fulness thereof;",
+          "The world, and they that dwell therein."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Let the floods clap their hands: Let the hills be joyful together"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Before the LORD;",
+          "For he cometh to judge the earth:",
+          "With righteousness shall he judge the world,",
+          "And the people with equity."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

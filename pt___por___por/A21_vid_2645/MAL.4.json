@@ -1,1 +1,116 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"MAL","name":"Malaquias"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malaquias 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malaquias 4"},"next":{"usfm":"MAT.1","human":"Mateus 1","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Diz o Senhor dos Exércitos: Aquele dia virá, abrasador como fornalha; todos os presunçosos e todos os que cometem maldade serão como palha; e o dia que virá os queimará, não sobrará raiz nem ramo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mas para vós, os que temeis o meu nome, nascerá o sol da justiça, trazendo cura nas suas asas; e vós saireis e saltareis como bezerros soltos no curral."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pisareis os maus, porque serão como pó debaixo da planta de vossos pés naquele dia que prepararei, diz o Senhor dos Exércitos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Advertência final"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lembrai-vos da lei de Moisés, meu servo, dos estatutos e das normas que lhe mandei em Horebe para todo o Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eu vos enviarei o profeta Elias, antes que venha o grande e temível dia do Senhor;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais; para que eu não venha e fira a terra com maldição."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malaquias"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malaquias 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malaquias 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Mateus 1"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Diz o Senhor dos Exércitos: Aquele dia virá, abrasador como fornalha; todos os presunçosos e todos os que cometem maldade serão como palha; e o dia que virá os queimará, não sobrará raiz nem ramo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mas para vós, os que temeis o meu nome, nascerá o sol da justiça, trazendo cura nas suas asas; e vós saireis e saltareis como bezerros soltos no curral."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pisareis os maus, porque serão como pó debaixo da planta de vossos pés naquele dia que prepararei, diz o Senhor dos Exércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Advertência final"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lembrai-vos da lei de Moisés, meu servo, dos estatutos e das normas que lhe mandei em Horebe para todo o Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eu vos enviarei o profeta Elias, antes que venha o grande e temível dia do Senhor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e ele converterá o coração dos pais aos filhos, e o coração dos filhos aos pais; para que eu não venha e fira a terra com maldição."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

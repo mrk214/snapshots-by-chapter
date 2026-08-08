@@ -1,1 +1,210 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.26","is_chapter":true,"previous":{"usfm":"JOB.25","human":"Job 25","canonical":true,"toc":true},"current":{"usfm":"JOB.26","human":"Job 26"},"next":{"usfm":"JOB.27","human":"Job 27","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job afirma la soberanía de Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces respondió Job:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¡Qué ayuda eres para el débil!","¡Cómo has salvado al brazo sin fuerza!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["-»¡Qué consejos has dado al que no tiene sabiduría,","Y qué útil conocimiento has dado en abundancia!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["-»¿A quién has proferido tus palabras,","Y de quién es el espíritu que habló en ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶»Las sombras tiemblan","Bajo las aguas y sus habitantes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["-»Desnudo está el Seol ante Él,","Y el Abadón no tiene cobertura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Él extiende el norte sobre el vacío,","Y cuelga la tierra sobre la nada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»Envuelve las aguas en Sus nubes,","Y la nube no se rompe bajo ellas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["-»Oscurece la superficie de la luna llena,","Y extiende sobre ella Su nube."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["-»Ha trazado un círculo sobre la superficie de las aguas","En el límite de la luz y las tinieblas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["-»Las columnas del cielo tiemblan","Y se espantan ante Su reprensión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["-»Al mar agitó con Su poder,","Y al monstruo Rahab quebrantó con Su entendimiento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["-»Con Su soplo se limpian los cielos;","Su mano ha traspasado la serpiente huidiza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["-»Estos son los bordes de Sus caminos;","¡Y cuán leve es la palabra que de Él oímos!","Pero Su potente trueno, ¿quién lo puede comprender?»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOB.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOB.27.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.25",
+      "human": "Job 25"
+    },
+    "current": {
+      "usfm": "JOB.26",
+      "human": "Job 26"
+    },
+    "next": {
+      "usfm": "JOB.27",
+      "human": "Job 27"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job afirma la soberanía de Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces respondió Job:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¡Qué ayuda eres para el débil!",
+          "¡Cómo has salvado al brazo sin fuerza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "-»¡Qué consejos has dado al que no tiene sabiduría,",
+          "Y qué útil conocimiento has dado en abundancia!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "-»¿A quién has proferido tus palabras,",
+          "Y de quién es el espíritu que habló en ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶»Las sombras tiemblan",
+          "Bajo las aguas y sus habitantes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "-»Desnudo está el Seol ante Él,",
+          "Y el Abadón no tiene cobertura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Él extiende el norte sobre el vacío,",
+          "Y cuelga la tierra sobre la nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»Envuelve las aguas en Sus nubes,",
+          "Y la nube no se rompe bajo ellas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "-»Oscurece la superficie de la luna llena,",
+          "Y extiende sobre ella Su nube."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "-»Ha trazado un círculo sobre la superficie de las aguas",
+          "En el límite de la luz y las tinieblas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "-»Las columnas del cielo tiemblan",
+          "Y se espantan ante Su reprensión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "-»Al mar agitó con Su poder,",
+          "Y al monstruo Rahab quebrantó con Su entendimiento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "-»Con Su soplo se limpian los cielos;",
+          "Su mano ha traspasado la serpiente huidiza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "-»Estos son los bordes de Sus caminos;",
+          "¡Y cuán leve es la palabra que de Él oímos!",
+          "Pero Su potente trueno, ¿quién lo puede comprender?»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

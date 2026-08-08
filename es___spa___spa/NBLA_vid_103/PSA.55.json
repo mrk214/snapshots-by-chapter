@@ -1,1 +1,360 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.55","is_chapter":true,"previous":{"usfm":"PSA.54","human":"Salmo 54","canonical":true,"toc":true},"current":{"usfm":"PSA.55","human":"Salmo 55"},"next":{"usfm":"PSA.56","human":"Salmo 56","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 55"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Oración del perseguido"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro; con instrumentos de cuerda. Masquil de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escucha, oh Dios, mi oración,","Y no te escondas de mi súplica."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Atiéndeme y respóndeme;","Conmovido estoy en mi queja y muy conturbado,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A causa de la voz del enemigo,","Por la opresión del impío;","Porque echan iniquidad sobre mí,","Y con furia me persiguen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Angustiado está mi corazón dentro de mí,","Y sobre mí han caído los terrores de la muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Terror y temblor me invaden,","Y horror me ha cubierto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y dije: «¡Quién me diera alas como de paloma!","Volaría y hallaría reposo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»Ciertamente huiría muy lejos;","Moraría en el desierto."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Me apresuraría a buscar mi lugar de refugio","Contra el viento borrascoso y la tempestad»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶Confunde, Señor, divide sus lenguas,","Porque he visto violencia y rencilla en la ciudad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Día y noche la rondan sobre sus muros,","Y en medio de ella hay iniquidad y malicia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Hay destrucción en medio de ella,","Y la opresión y el engaño no se alejan de sus calles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶Porque no es un enemigo el que me reprocha,","Si así fuera, podría soportarlo;","Ni es uno que me odia el que se ha alzado contra mí,","Si así fuera, podría ocultarme de él;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Sino tú, que eres mi igual,","Mi compañero, mi íntimo amigo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Nosotros que juntos teníamos dulce comunión,","Que con la multitud andábamos en la casa de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Que la muerte sorprenda a mis enemigos,","Que desciendan vivos al Seol,","Porque la maldad está en su morada, en medio de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¶En cuanto a mí, a Dios invocaré,","Y el Señor me salvará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Tarde, mañana y mediodía me lamentaré y gemiré,","Y Él oirá mi voz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["En paz redimirá mi alma de la guerra que hay contra mí,","Pues son muchos los que están contra mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Dios oirá y les responderá,","Él, que reina desde la antigüedad,"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Porque no hay cambio en ellos","Ni temen a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Aquel ha extendido sus manos contra los que estaban en paz con él,","Ha violado su pacto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Las palabras de su boca eran más blandas que la mantequilla,","Pero en su corazón había guerra;","Más suaves que el aceite eran sus palabras,","Sin embargo, eran espadas desnudas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["¶Echa sobre el Señor tu carga, y Él te sustentará;","Él nunca permitirá que el justo sea sacudido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Pero Tú, oh Dios, harás caer a los malvados en el pozo de la destrucción;","Los hombres sanguinarios y engañadores no vivirán la mitad de sus días;","Pero yo en Ti confiaré."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.54.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.56.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.55",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.54",
+      "human": "Salmo 54"
+    },
+    "current": {
+      "usfm": "PSA.55",
+      "human": "Salmo 55"
+    },
+    "next": {
+      "usfm": "PSA.56",
+      "human": "Salmo 56"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 55"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración del perseguido"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro; con instrumentos de cuerda. Masquil de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escucha, oh Dios, mi oración,",
+          "Y no te escondas de mi súplica."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Atiéndeme y respóndeme;",
+          "Conmovido estoy en mi queja y muy conturbado,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A causa de la voz del enemigo,",
+          "Por la opresión del impío;",
+          "Porque echan iniquidad sobre mí,",
+          "Y con furia me persiguen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Angustiado está mi corazón dentro de mí,",
+          "Y sobre mí han caído los terrores de la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Terror y temblor me invaden,",
+          "Y horror me ha cubierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y dije: «¡Quién me diera alas como de paloma!",
+          "Volaría y hallaría reposo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»Ciertamente huiría muy lejos;",
+          "Moraría en el desierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Me apresuraría a buscar mi lugar de refugio",
+          "Contra el viento borrascoso y la tempestad»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶Confunde, Señor, divide sus lenguas,",
+          "Porque he visto violencia y rencilla en la ciudad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Día y noche la rondan sobre sus muros,",
+          "Y en medio de ella hay iniquidad y malicia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Hay destrucción en medio de ella,",
+          "Y la opresión y el engaño no se alejan de sus calles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶Porque no es un enemigo el que me reprocha,",
+          "Si así fuera, podría soportarlo;",
+          "Ni es uno que me odia el que se ha alzado contra mí,",
+          "Si así fuera, podría ocultarme de él;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Sino tú, que eres mi igual,",
+          "Mi compañero, mi íntimo amigo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Nosotros que juntos teníamos dulce comunión,",
+          "Que con la multitud andábamos en la casa de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Que la muerte sorprenda a mis enemigos,",
+          "Que desciendan vivos al Seol,",
+          "Porque la maldad está en su morada, en medio de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¶En cuanto a mí, a Dios invocaré,",
+          "Y el Señor me salvará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Tarde, mañana y mediodía me lamentaré y gemiré,",
+          "Y Él oirá mi voz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "En paz redimirá mi alma de la guerra que hay contra mí,",
+          "Pues son muchos los que están contra mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Dios oirá y les responderá,",
+          "Él, que reina desde la antigüedad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Porque no hay cambio en ellos",
+          "Ni temen a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Aquel ha extendido sus manos contra los que estaban en paz con él,",
+          "Ha violado su pacto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Las palabras de su boca eran más blandas que la mantequilla,",
+          "Pero en su corazón había guerra;",
+          "Más suaves que el aceite eran sus palabras,",
+          "Sin embargo, eran espadas desnudas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "¶Echa sobre el Señor tu carga, y Él te sustentará;",
+          "Él nunca permitirá que el justo sea sacudido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Pero Tú, oh Dios, harás caer a los malvados en el pozo de la destrucción;",
+          "Los hombres sanguinarios y engañadores no vivirán la mitad de sus días;",
+          "Pero yo en Ti confiaré."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

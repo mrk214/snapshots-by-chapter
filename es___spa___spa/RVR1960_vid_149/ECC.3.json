@@ -1,1 +1,284 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.3","is_chapter":true,"previous":{"usfm":"ECC.2","human":"Eclesiastés 2","canonical":true,"toc":true},"current":{"usfm":"ECC.3","human":"Eclesiastés 3"},"next":{"usfm":"ECC.4","human":"Eclesiastés 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Todo tiene su tiempo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tiempo de nacer, y tiempo de morir; tiempo de plantar, y tiempo de arrancar lo plantado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["tiempo de matar, y tiempo de curar; tiempo de destruir, y tiempo de edificar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["tiempo de llorar, y tiempo de reír; tiempo de endechar, y tiempo de bailar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["tiempo de esparcir piedras, y tiempo de juntar piedras; tiempo de abrazar, y tiempo de abstenerse de abrazar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["tiempo de buscar, y tiempo de perder; tiempo de guardar, y tiempo de desechar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["tiempo de romper, y tiempo de coser; tiempo de callar, y tiempo de hablar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["tiempo de amar, y tiempo de aborrecer; tiempo de guerra, y tiempo de paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¿Qué provecho tiene el que trabaja, de aquello en que se afana?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo he visto el trabajo que Dios ha dado a los hijos de los hombres para que se ocupen en él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Todo lo hizo hermoso en su tiempo; y ha puesto eternidad en el corazón de ellos, sin que alcance el hombre a entender la obra que ha hecho Dios desde el principio hasta el fin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Yo he conocido que no hay para ellos cosa mejor que alegrarse, y hacer bien en su vida;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["y también que es don de Dios que todo hombre coma y beba, y goce el bien de toda su labor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["He entendido que todo lo que Dios hace será perpetuo; sobre aquello no se añadirá, ni de ello se disminuirá; y lo hace Dios, para que delante de él teman los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Aquello que fue, ya es; y lo que ha de ser, fue ya; y Dios restaura lo que pasó."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Injusticias de la vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Vi más debajo del sol: en lugar del juicio, allí impiedad; y en lugar de la justicia, allí iniquidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Y dije yo en mi corazón: Al justo y al impío juzgará Dios; porque allí hay un tiempo para todo lo que se quiere y para todo lo que se hace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Dije en mi corazón: Es así, por causa de los hijos de los hombres, para que Dios los pruebe, y para que vean que ellos mismos son semejantes a las bestias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Porque lo que sucede a los hijos de los hombres, y lo que sucede a las bestias, un mismo suceso es: como mueren los unos, así mueren los otros, y una misma respiración tienen todos; ni tiene más el hombre que la bestia; porque todo es vanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Todo va a un mismo lugar; todo es hecho del polvo, y todo volverá al mismo polvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["¿Quién sabe que el espíritu de los hijos de los hombres sube arriba, y que el espíritu del animal desciende abajo a la tierra?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Así, pues, he visto que no hay cosa mejor para el hombre que alegrarse en su trabajo, porque esta es su parte; porque ¿quién lo llevará para que vea lo que ha de ser después de él?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ECC.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ECC.4.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.2",
+      "human": "Eclesiastés 2"
+    },
+    "current": {
+      "usfm": "ECC.3",
+      "human": "Eclesiastés 3"
+    },
+    "next": {
+      "usfm": "ECC.4",
+      "human": "Eclesiastés 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Todo tiene su tiempo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Todo tiene su tiempo, y todo lo que se quiere debajo del cielo tiene su hora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tiempo de nacer, y tiempo de morir; tiempo de plantar, y tiempo de arrancar lo plantado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "tiempo de matar, y tiempo de curar; tiempo de destruir, y tiempo de edificar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "tiempo de llorar, y tiempo de reír; tiempo de endechar, y tiempo de bailar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "tiempo de esparcir piedras, y tiempo de juntar piedras; tiempo de abrazar, y tiempo de abstenerse de abrazar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "tiempo de buscar, y tiempo de perder; tiempo de guardar, y tiempo de desechar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "tiempo de romper, y tiempo de coser; tiempo de callar, y tiempo de hablar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "tiempo de amar, y tiempo de aborrecer; tiempo de guerra, y tiempo de paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¿Qué provecho tiene el que trabaja, de aquello en que se afana?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo he visto el trabajo que Dios ha dado a los hijos de los hombres para que se ocupen en él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Todo lo hizo hermoso en su tiempo; y ha puesto eternidad en el corazón de ellos, sin que alcance el hombre a entender la obra que ha hecho Dios desde el principio hasta el fin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Yo he conocido que no hay para ellos cosa mejor que alegrarse, y hacer bien en su vida;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "y también que es don de Dios que todo hombre coma y beba, y goce el bien de toda su labor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "He entendido que todo lo que Dios hace será perpetuo; sobre aquello no se añadirá, ni de ello se disminuirá; y lo hace Dios, para que delante de él teman los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Aquello que fue, ya es; y lo que ha de ser, fue ya; y Dios restaura lo que pasó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Injusticias de la vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Vi más debajo del sol: en lugar del juicio, allí impiedad; y en lugar de la justicia, allí iniquidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Y dije yo en mi corazón: Al justo y al impío juzgará Dios; porque allí hay un tiempo para todo lo que se quiere y para todo lo que se hace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Dije en mi corazón: Es así, por causa de los hijos de los hombres, para que Dios los pruebe, y para que vean que ellos mismos son semejantes a las bestias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Porque lo que sucede a los hijos de los hombres, y lo que sucede a las bestias, un mismo suceso es: como mueren los unos, así mueren los otros, y una misma respiración tienen todos; ni tiene más el hombre que la bestia; porque todo es vanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Todo va a un mismo lugar; todo es hecho del polvo, y todo volverá al mismo polvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "¿Quién sabe que el espíritu de los hijos de los hombres sube arriba, y que el espíritu del animal desciende abajo a la tierra?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Así, pues, he visto que no hay cosa mejor para el hombre que alegrarse en su trabajo, porque esta es su parte; porque ¿quién lo llevará para que vea lo que ha de ser después de él?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

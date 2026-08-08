@@ -1,1 +1,189 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.64","is_chapter":true,"previous":{"usfm":"PSA.63","human":"Salmos 63","canonical":true,"toc":true},"current":{"usfm":"PSA.64","human":"Salmos 64"},"next":{"usfm":"PSA.65","human":"Salmos 65","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El destino del malvado"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["(1) Himno de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (2) Dios mío,","¡escucha mi queja!","¡No dejes que mis enemigos","acaben con mi vida!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["2 (3) Son una banda de malvados;","son una pandilla de malhechores;","¡escóndeme de sus planes secretos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["3 (4) Sus palabras hieren","como espada afilada;","sus palabras matan","como flechas envenenadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["4 (5) Se esconden, y desde allí","disparan contra la gente inocente;","no tienen miedo de nada ni de nadie;","¡disparan sin que nadie se lo espere!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["5 (6) Cuando hacen sus planes malvados,","se animan los unos a los otros;","piensan dónde esconder sus trampas,","y creen que nadie las verá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["6 (7) Planean muy bien sus maldades","y creen tener el plan perfecto;","piensan que nadie los descubrirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["7 (8) Por eso, sin que lo esperen,","Dios les disparará sus flechas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["8 (9) y caerán heridos de muerte.","Su propia lengua será su ruina,","y quienes los vean","acabarán burlándose de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["9 (10) El mundo entero alabará a Dios,","hablará de sus acciones,","y llegará a entenderlas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["10 (11) ¡Que se alegre la gente buena","por todo lo que Dios ha hecho!","¡Que todos los justos lo alaben","y pongan en él su confianza!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.63.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.65.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.64",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.63",
+      "human": "Salmos 63"
+    },
+    "current": {
+      "usfm": "PSA.64",
+      "human": "Salmos 64"
+    },
+    "next": {
+      "usfm": "PSA.65",
+      "human": "Salmos 65"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El destino del malvado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "(1) Himno de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (2) Dios mío,",
+          "¡escucha mi queja!",
+          "¡No dejes que mis enemigos",
+          "acaben con mi vida!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "2 (3) Son una banda de malvados;",
+          "son una pandilla de malhechores;",
+          "¡escóndeme de sus planes secretos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "3 (4) Sus palabras hieren",
+          "como espada afilada;",
+          "sus palabras matan",
+          "como flechas envenenadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "4 (5) Se esconden, y desde allí",
+          "disparan contra la gente inocente;",
+          "no tienen miedo de nada ni de nadie;",
+          "¡disparan sin que nadie se lo espere!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "5 (6) Cuando hacen sus planes malvados,",
+          "se animan los unos a los otros;",
+          "piensan dónde esconder sus trampas,",
+          "y creen que nadie las verá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "6 (7) Planean muy bien sus maldades",
+          "y creen tener el plan perfecto;",
+          "piensan que nadie los descubrirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "7 (8) Por eso, sin que lo esperen,",
+          "Dios les disparará sus flechas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "8 (9) y caerán heridos de muerte.",
+          "Su propia lengua será su ruina,",
+          "y quienes los vean",
+          "acabarán burlándose de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "9 (10) El mundo entero alabará a Dios,",
+          "hablará de sus acciones,",
+          "y llegará a entenderlas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "10 (11) ¡Que se alegre la gente buena",
+          "por todo lo que Dios ha hecho!",
+          "¡Que todos los justos lo alaben",
+          "y pongan en él su confianza!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

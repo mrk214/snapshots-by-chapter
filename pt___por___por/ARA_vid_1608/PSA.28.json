@@ -1,1 +1,173 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.28","is_chapter":true,"previous":{"usfm":"PSA.27","human":"Salmos 27","canonical":true,"toc":true},"current":{"usfm":"PSA.28","human":"Salmos 28"},"next":{"usfm":"PSA.29","human":"Salmos 29","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Súplica e ações de graças"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A ti clamo, ó Senhor;","rocha minha, não sejas surdo para comigo;","para que não suceda, se te calares acerca de mim,","seja eu semelhante aos que descem à cova."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ouve-me as vozes súplices,","quando a ti clamar por socorro,","quando erguer as mãos para o teu santuário."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Não me arrastes com os ímpios,","com os que praticam a iniquidade;","os quais falam de paz ao seu próximo,","porém no coração têm perversidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Paga-lhes segundo as suas obras,","segundo a malícia dos seus atos;","dá-lhes conforme a obra de suas mãos,","retribui-lhes o que merecem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["E, visto que não atentam para os feitos do Senhor,","nem para o que as suas mãos fazem,","ele os derribará e não os reedificará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Bendito seja o Senhor,","porque me ouviu as vozes súplices!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O Senhor é a minha força e o meu escudo;","nele o meu coração confia,","nele fui socorrido; por isso, o meu coração exulta,","e com o meu cântico o louvarei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O Senhor é a força do seu povo,","o refúgio salvador do seu ungido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Salva o teu povo e abençoa a tua herança;","apascenta-o e exalta-o para sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.27.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.29.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.28",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.27",
+      "human": "Salmos 27"
+    },
+    "current": {
+      "usfm": "PSA.28",
+      "human": "Salmos 28"
+    },
+    "next": {
+      "usfm": "PSA.29",
+      "human": "Salmos 29"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Súplica e ações de graças"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A ti clamo, ó Senhor;",
+          "rocha minha, não sejas surdo para comigo;",
+          "para que não suceda, se te calares acerca de mim,",
+          "seja eu semelhante aos que descem à cova."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ouve-me as vozes súplices,",
+          "quando a ti clamar por socorro,",
+          "quando erguer as mãos para o teu santuário."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Não me arrastes com os ímpios,",
+          "com os que praticam a iniquidade;",
+          "os quais falam de paz ao seu próximo,",
+          "porém no coração têm perversidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Paga-lhes segundo as suas obras,",
+          "segundo a malícia dos seus atos;",
+          "dá-lhes conforme a obra de suas mãos,",
+          "retribui-lhes o que merecem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "E, visto que não atentam para os feitos do Senhor,",
+          "nem para o que as suas mãos fazem,",
+          "ele os derribará e não os reedificará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Bendito seja o Senhor,",
+          "porque me ouviu as vozes súplices!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O Senhor é a minha força e o meu escudo;",
+          "nele o meu coração confia,",
+          "nele fui socorrido; por isso, o meu coração exulta,",
+          "e com o meu cântico o louvarei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O Senhor é a força do seu povo,",
+          "o refúgio salvador do seu ungido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Salva o teu povo e abençoa a tua herança;",
+          "apascenta-o e exalta-o para sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

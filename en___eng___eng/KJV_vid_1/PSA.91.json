@@ -1,1 +1,224 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.91","is_chapter":true,"previous":{"usfm":"PSA.90","human":"Psalm 90","canonical":true,"toc":true},"current":{"usfm":"PSA.91","human":"Psalm 91"},"next":{"usfm":"PSA.92","human":"Psalm 92","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["He that dwelleth in the secret place of the Most High","Shall abide under the shadow of the Almighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I will say of the LORD, He is my refuge and my fortress:","My God; in him will I trust."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Surely he shall deliver thee from the snare of the fowler,","And from the noisome pestilence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He shall cover thee with his feathers, and under his wings shalt thou trust:","His truth shall be thy shield and buckler."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Thou shalt not be afraid for the terror by night;","Nor for the arrow that flieth by day;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Nor for the pestilence that walketh in darkness;","Nor for the destruction that wasteth at noonday."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["A thousand shall fall at thy side, and ten thousand at thy right hand;","But it shall not come nigh thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Only with thine eyes shalt thou behold","And see the reward of the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Because thou hast made the LORD, which is my refuge,","Even the most High, thy habitation;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["There shall no evil befall thee,","Neither shall any plague come nigh thy dwelling."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["For he shall give his angels charge over thee,","To keep thee in all thy ways."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["They shall bear thee up in their hands,","Lest thou dash thy foot against a stone."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Thou shalt tread upon the lion and adder:","The young lion and the dragon shalt thou trample under feet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Because he hath set his love upon me, therefore will I deliver him:","I will set him on high, because he hath known my name."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["He shall call upon me, and I will answer him:","I will be with him in trouble; I will deliver him, and honour him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["With long life will I satisfy him,","And shew him my salvation."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.90.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.92.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.91",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.90",
+      "human": "Psalm 90"
+    },
+    "current": {
+      "usfm": "PSA.91",
+      "human": "Psalm 91"
+    },
+    "next": {
+      "usfm": "PSA.92",
+      "human": "Psalm 92"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "He that dwelleth in the secret place of the Most High",
+          "Shall abide under the shadow of the Almighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I will say of the LORD, He is my refuge and my fortress:",
+          "My God; in him will I trust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Surely he shall deliver thee from the snare of the fowler,",
+          "And from the noisome pestilence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He shall cover thee with his feathers, and under his wings shalt thou trust:",
+          "His truth shall be thy shield and buckler."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Thou shalt not be afraid for the terror by night;",
+          "Nor for the arrow that flieth by day;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Nor for the pestilence that walketh in darkness;",
+          "Nor for the destruction that wasteth at noonday."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "A thousand shall fall at thy side, and ten thousand at thy right hand;",
+          "But it shall not come nigh thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Only with thine eyes shalt thou behold",
+          "And see the reward of the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Because thou hast made the LORD, which is my refuge,",
+          "Even the most High, thy habitation;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "There shall no evil befall thee,",
+          "Neither shall any plague come nigh thy dwelling."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "For he shall give his angels charge over thee,",
+          "To keep thee in all thy ways."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "They shall bear thee up in their hands,",
+          "Lest thou dash thy foot against a stone."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Thou shalt tread upon the lion and adder:",
+          "The young lion and the dragon shalt thou trample under feet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Because he hath set his love upon me, therefore will I deliver him:",
+          "I will set him on high, because he hath known my name."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "He shall call upon me, and I will answer him:",
+          "I will be with him in trouble; I will deliver him, and honour him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "With long life will I satisfy him,",
+          "And shew him my salvation."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

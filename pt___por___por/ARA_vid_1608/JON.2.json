@@ -1,1 +1,180 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"JON","name":"Jonas"},"chapter":{"chapter_usfm":"JON.2","is_chapter":true,"previous":{"usfm":"JON.1","human":"Jonas 1","canonical":true,"toc":true},"current":{"usfm":"JON.2","human":"Jonas 2"},"next":{"usfm":"JON.3","human":"Jonas 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A oração de Jonas no ventre do peixe"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Então, Jonas, do ventre do peixe, orou ao Senhor, seu Deus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["e disse:","Na minha angústia, clamei ao Senhor,","e ele me respondeu;","do ventre do abismo, gritei,","e tu me ouviste a voz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pois me lançaste no profundo,","no coração dos mares,","e a corrente das águas me cercou;","todas as tuas ondas e as tuas vagas","passaram por cima de mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Então, eu disse: lançado estou","de diante dos teus olhos;","tornarei, porventura, a ver","o teu santo templo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["As águas me cercaram até à alma,","o abismo me rodeou;","e as algas se enrolaram na minha cabeça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Desci até aos fundamentos dos montes,","desci até à terra,","cujos ferrolhos se correram sobre mim, para sempre;","contudo, fizeste subir da sepultura a minha vida,","ó Senhor, meu Deus!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Quando, dentro de mim, desfalecia a minha alma,","eu me lembrei do Senhor;","e subiu a ti a minha oração,","no teu santo templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Os que se entregam à idolatria vã","abandonam aquele que lhes é misericordioso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mas, com a voz do agradecimento,","eu te oferecerei sacrifício;","o que votei pagarei.","Ao Senhor pertence a salvação!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Falou, pois, o Senhor ao peixe, e este vomitou a Jonas na terra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JON.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JON.3.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonas"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.1",
+      "human": "Jonas 1"
+    },
+    "current": {
+      "usfm": "JON.2",
+      "human": "Jonas 2"
+    },
+    "next": {
+      "usfm": "JON.3",
+      "human": "Jonas 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A oração de Jonas no ventre do peixe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Então, Jonas, do ventre do peixe, orou ao Senhor, seu Deus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "e disse:",
+          "Na minha angústia, clamei ao Senhor,",
+          "e ele me respondeu;",
+          "do ventre do abismo, gritei,",
+          "e tu me ouviste a voz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pois me lançaste no profundo,",
+          "no coração dos mares,",
+          "e a corrente das águas me cercou;",
+          "todas as tuas ondas e as tuas vagas",
+          "passaram por cima de mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Então, eu disse: lançado estou",
+          "de diante dos teus olhos;",
+          "tornarei, porventura, a ver",
+          "o teu santo templo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "As águas me cercaram até à alma,",
+          "o abismo me rodeou;",
+          "e as algas se enrolaram na minha cabeça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Desci até aos fundamentos dos montes,",
+          "desci até à terra,",
+          "cujos ferrolhos se correram sobre mim, para sempre;",
+          "contudo, fizeste subir da sepultura a minha vida,",
+          "ó Senhor, meu Deus!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Quando, dentro de mim, desfalecia a minha alma,",
+          "eu me lembrei do Senhor;",
+          "e subiu a ti a minha oração,",
+          "no teu santo templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Os que se entregam à idolatria vã",
+          "abandonam aquele que lhes é misericordioso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mas, com a voz do agradecimento,",
+          "eu te oferecerei sacrifício;",
+          "o que votei pagarei.",
+          "Ao Senhor pertence a salvação!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Falou, pois, o Senhor ao peixe, e este vomitou a Jonas na terra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

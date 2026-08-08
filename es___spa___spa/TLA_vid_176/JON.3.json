@@ -1,1 +1,158 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"JON","name":"Jonás"},"chapter":{"chapter_usfm":"JON.3","is_chapter":true,"previous":{"usfm":"JON.2","human":"Jonás 2","canonical":true,"toc":true},"current":{"usfm":"JON.3","human":"Jonás 3"},"next":{"usfm":"JON.4","human":"Jonás 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jonás obedece a Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios volvió a hablarle a Jonás, y le dio esta orden:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¡Levántate, ve a la gran ciudad de Nínive! Anúnciales el mensaje que voy a darte»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Esta vez Jonás sí obedeció a Dios: se levantó y se fue a Nínive. Aquella ciudad era tan grande que para recorrerla toda se necesitaban tres días completos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Jonás entró en la ciudad, y durante todo un día estuvo anunciando: «¡Dentro de cuarenta días Dios va a destruir esta ciudad!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces toda la gente de Nínive dejó de hacer lo malo y decidió obedecer solo a Dios. Y como querían demostrar que deseaban cambiar su manera de vivir, se pusieron ropa de tela áspera y ayunaron. Todos ellos, desde el más rico hasta el más pobre, no comieron nada ese día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuando el rey de Nínive supo esto, se levantó de su trono. Luego se quitó sus ropas finas, se puso ropas ásperas, y se sentó en el suelo. Todo esto lo hizo en señal de humildad ante Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["De inmediato el rey envió un anuncio a toda la gente de Nínive:","«Esta es una orden del rey y de sus ministros: Que nadie coma nada. Se prohíbe que la gente, las vacas y las ovejas coman o beban."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Todo el mundo está obligado a ponerse ropas ásperas, y deberán cubrir los animales con mantas ásperas.","»Además, les pedimos a todos ustedes que oren a Dios con todas sus fuerzas, que dejen de hacer lo malo, y que ya no se peleen ni maltraten a nadie."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si dejamos de hacer lo malo, tal vez a Dios se le pase el enojo, y no nos destruirá»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y al ver que toda la gente de Nínive dejó de hacer lo malo, Dios decidió no destruirlos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JON.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JON.4.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonás"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.2",
+      "human": "Jonás 2"
+    },
+    "current": {
+      "usfm": "JON.3",
+      "human": "Jonás 3"
+    },
+    "next": {
+      "usfm": "JON.4",
+      "human": "Jonás 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jonás obedece a Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios volvió a hablarle a Jonás, y le dio esta orden:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¡Levántate, ve a la gran ciudad de Nínive! Anúnciales el mensaje que voy a darte»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Esta vez Jonás sí obedeció a Dios: se levantó y se fue a Nínive. Aquella ciudad era tan grande que para recorrerla toda se necesitaban tres días completos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Jonás entró en la ciudad, y durante todo un día estuvo anunciando: «¡Dentro de cuarenta días Dios va a destruir esta ciudad!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces toda la gente de Nínive dejó de hacer lo malo y decidió obedecer solo a Dios. Y como querían demostrar que deseaban cambiar su manera de vivir, se pusieron ropa de tela áspera y ayunaron. Todos ellos, desde el más rico hasta el más pobre, no comieron nada ese día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuando el rey de Nínive supo esto, se levantó de su trono. Luego se quitó sus ropas finas, se puso ropas ásperas, y se sentó en el suelo. Todo esto lo hizo en señal de humildad ante Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "De inmediato el rey envió un anuncio a toda la gente de Nínive:",
+          "«Esta es una orden del rey y de sus ministros: Que nadie coma nada. Se prohíbe que la gente, las vacas y las ovejas coman o beban."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Todo el mundo está obligado a ponerse ropas ásperas, y deberán cubrir los animales con mantas ásperas.",
+          "»Además, les pedimos a todos ustedes que oren a Dios con todas sus fuerzas, que dejen de hacer lo malo, y que ya no se peleen ni maltraten a nadie."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si dejamos de hacer lo malo, tal vez a Dios se le pase el enojo, y no nos destruirá»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y al ver que toda la gente de Nínive dejó de hacer lo malo, Dios decidió no destruirlos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

@@ -1,1 +1,101 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.133","is_chapter":true,"previous":{"usfm":"PSA.132","human":"Psalm 132","canonical":true,"toc":true},"current":{"usfm":"PSA.133","human":"Psalm 133"},"next":{"usfm":"PSA.134","human":"Psalm 134","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["When Brothers Dwell in Unity"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents. Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Behold, how good and pleasant it is","when brothers dwell in unity!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["It is like the precious oil on the head,","running down on the beard,","on the beard of Aaron,","running down on the collar of his robes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["It is like the dew of Hermon,","which falls on the mountains of Zion!","For there the Lord has commanded the blessing,","life forevermore."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.132.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.134.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.133",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.132",
+      "human": "Psalm 132"
+    },
+    "current": {
+      "usfm": "PSA.133",
+      "human": "Psalm 133"
+    },
+    "next": {
+      "usfm": "PSA.134",
+      "human": "Psalm 134"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "When Brothers Dwell in Unity"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents. Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Behold, how good and pleasant it is",
+          "when brothers dwell in unity!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "It is like the precious oil on the head,",
+          "running down on the beard,",
+          "on the beard of Aaron,",
+          "running down on the collar of his robes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "It is like the dew of Hermon,",
+          "which falls on the mountains of Zion!",
+          "For there the Lord has commanded the blessing,",
+          "life forevermore."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

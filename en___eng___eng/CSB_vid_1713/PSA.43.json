@@ -1,1 +1,111 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Psalms 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Psalms 43"},"next":{"usfm":"PSA.44","human":"Psalms 44","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Vindicate me, God, and champion my cause","against an unfaithful nation;","rescue me from the deceitful and unjust person."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For you are the God of my refuge.","Why have you rejected me?","Why must I go about in sorrow","because of the enemy’s oppression?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Send your light and your truth; let them lead me.","Let them bring me to your holy mountain,","to your dwelling place."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Then I will come to the altar of God,","to God, my greatest joy.","I will praise you with the lyre,","God, my God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Why, my soul, are you so dejected?","Why are you in such turmoil?","Put your hope in God, for I will still praise him,","my Savior and my God."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Psalms 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Psalms 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Psalms 44"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vindicate me, God, and champion my cause",
+          "against an unfaithful nation;",
+          "rescue me from the deceitful and unjust person."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For you are the God of my refuge.",
+          "Why have you rejected me?",
+          "Why must I go about in sorrow",
+          "because of the enemy’s oppression?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Send your light and your truth; let them lead me.",
+          "Let them bring me to your holy mountain,",
+          "to your dwelling place."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Then I will come to the altar of God,",
+          "to God, my greatest joy.",
+          "I will praise you with the lyre,",
+          "God, my God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Why, my soul, are you so dejected?",
+          "Why are you in such turmoil?",
+          "Put your hope in God, for I will still praise him,",
+          "my Savior and my God."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

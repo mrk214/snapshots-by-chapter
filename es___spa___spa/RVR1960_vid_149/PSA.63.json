@@ -1,1 +1,188 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.63","is_chapter":true,"previous":{"usfm":"PSA.62","human":"Salmos 62","canonical":true,"toc":true},"current":{"usfm":"PSA.63","human":"Salmos 63"},"next":{"usfm":"PSA.64","human":"Salmos 64","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios, satisfacción del alma"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David, cuando estaba en el desierto de Judá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios, Dios mío eres tú;","De madrugada te buscaré;","Mi alma tiene sed de ti, mi carne te anhela,","En tierra seca y árida donde no hay aguas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Para ver tu poder y tu gloria,","Así como te he mirado en el santuario."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque mejor es tu misericordia que la vida;","Mis labios te alabarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Así te bendeciré en mi vida;","En tu nombre alzaré mis manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Como de meollo y de grosura será saciada mi alma,","Y con labios de júbilo te alabará mi boca,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuando me acuerde de ti en mi lecho,","Cuando medite en ti en las vigilias de la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque has sido mi socorro,","Y así en la sombra de tus alas me regocijaré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Está mi alma apegada a ti;","Tu diestra me ha sostenido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pero los que para destrucción buscaron mi alma","Caerán en los sitios bajos de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los destruirán a filo de espada;","Serán porción de los chacales."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero el rey se alegrará en Dios;","Será alabado cualquiera que jura por él;","Porque la boca de los que hablan mentira será cerrada."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.62.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.64.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.63",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.62",
+      "human": "Salmos 62"
+    },
+    "current": {
+      "usfm": "PSA.63",
+      "human": "Salmos 63"
+    },
+    "next": {
+      "usfm": "PSA.64",
+      "human": "Salmos 64"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios, satisfacción del alma"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David, cuando estaba en el desierto de Judá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios, Dios mío eres tú;",
+          "De madrugada te buscaré;",
+          "Mi alma tiene sed de ti, mi carne te anhela,",
+          "En tierra seca y árida donde no hay aguas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Para ver tu poder y tu gloria,",
+          "Así como te he mirado en el santuario."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque mejor es tu misericordia que la vida;",
+          "Mis labios te alabarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Así te bendeciré en mi vida;",
+          "En tu nombre alzaré mis manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Como de meollo y de grosura será saciada mi alma,",
+          "Y con labios de júbilo te alabará mi boca,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuando me acuerde de ti en mi lecho,",
+          "Cuando medite en ti en las vigilias de la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque has sido mi socorro,",
+          "Y así en la sombra de tus alas me regocijaré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Está mi alma apegada a ti;",
+          "Tu diestra me ha sostenido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pero los que para destrucción buscaron mi alma",
+          "Caerán en los sitios bajos de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los destruirán a filo de espada;",
+          "Serán porción de los chacales."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero el rey se alegrará en Dios;",
+          "Será alabado cualquiera que jura por él;",
+          "Porque la boca de los que hablan mentira será cerrada."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

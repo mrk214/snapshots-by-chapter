@@ -1,1 +1,47 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"HAG","name":"Hageo"},"chapter":{"chapter_usfm":"HAG.INTRO1","is_chapter":false,"previous":{"usfm":"ZEP.3","human":"Sofonías 3","canonical":true,"toc":true},"current":{"usfm":"HAG.INTRO1","human":"Hageo HAGEO"},"next":{"usfm":"HAG.1","human":"Hageo 1","canonical":true,"toc":true},"items":[]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ZEP.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/HAG.1.json"
+  },
+  "book": {
+    "book_usfm": "HAG",
+    "name": "Hageo"
+  },
+  "chapter": {
+    "chapter_usfm": "HAG.INTRO1",
+    "is_chapter": false,
+    "previous": {
+      "usfm": "ZEP.3",
+      "human": "Sofonías 3"
+    },
+    "current": {
+      "usfm": "HAG.INTRO1",
+      "human": "Hageo HAGEO"
+    },
+    "next": {
+      "usfm": "HAG.1",
+      "human": "Hageo 1"
+    },
+    "items": []
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

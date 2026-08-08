@@ -1,1 +1,226 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.17","is_chapter":true,"previous":{"usfm":"JOB.16","human":"Job 16","canonical":true,"toc":true},"current":{"usfm":"JOB.17","human":"Job 17"},"next":{"usfm":"JOB.18","human":"Job 18","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»Mi ánimo se agota,","mis días se acortan,","la tumba me espera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Estoy rodeado de burlones;","¡sufren mis ojos su hostilidad!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["»Dame, oh Dios, la fianza que demandas.","¿Quién más podría responder por mí?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tú has ofuscado su pensamiento,","por eso no dejarás que triunfen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Quien por una recompensa denuncia a sus amigos","verá a sus hijos desfallecer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Dios me ha puesto en boca de todos;","no falta quien me escupa en la cara."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Los ojos se me apagan a causa del dolor;","todo mi esqueleto no es más que una sombra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Los justos ven esto, y se quedan asombrados;","los inocentes se indignan contra el impío,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["la gente recta se aferra a su camino","y los de manos limpias aumentan su fuerza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["»Venid, pues, todos vosotros; ¡arremeted contra mí!","No hallaré entre vosotros a un solo sabio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Mis días van pasando, mis planes se frustran","junto con los anhelos de mi corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Esta gente convierte la noche en día;","todo está oscuro, pero insisten:","“La luz se acerca”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Si el único hogar que espero es el sepulcro,","he de tenderme a dormir en las tinieblas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["he de llamar “Padre mío” a la corrupción,","y “Madre” y “Hermana” a los gusanos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¿Dónde queda entonces mi esperanza?","¿Quién ve alguna esperanza para mí?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¿Bajaréis conmigo hasta las puertas de la muerte?","¿Descenderemos juntos hasta el polvo?»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOB.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOB.18.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.16",
+      "human": "Job 16"
+    },
+    "current": {
+      "usfm": "JOB.17",
+      "human": "Job 17"
+    },
+    "next": {
+      "usfm": "JOB.18",
+      "human": "Job 18"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Mi ánimo se agota,",
+          "mis días se acortan,",
+          "la tumba me espera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Estoy rodeado de burlones;",
+          "¡sufren mis ojos su hostilidad!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "»Dame, oh Dios, la fianza que demandas.",
+          "¿Quién más podría responder por mí?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tú has ofuscado su pensamiento,",
+          "por eso no dejarás que triunfen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Quien por una recompensa denuncia a sus amigos",
+          "verá a sus hijos desfallecer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Dios me ha puesto en boca de todos;",
+          "no falta quien me escupa en la cara."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Los ojos se me apagan a causa del dolor;",
+          "todo mi esqueleto no es más que una sombra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Los justos ven esto, y se quedan asombrados;",
+          "los inocentes se indignan contra el impío,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "la gente recta se aferra a su camino",
+          "y los de manos limpias aumentan su fuerza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "»Venid, pues, todos vosotros; ¡arremeted contra mí!",
+          "No hallaré entre vosotros a un solo sabio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Mis días van pasando, mis planes se frustran",
+          "junto con los anhelos de mi corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Esta gente convierte la noche en día;",
+          "todo está oscuro, pero insisten:",
+          "“La luz se acerca”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Si el único hogar que espero es el sepulcro,",
+          "he de tenderme a dormir en las tinieblas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "he de llamar “Padre mío” a la corrupción,",
+          "y “Madre” y “Hermana” a los gusanos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¿Dónde queda entonces mi esperanza?",
+          "¿Quién ve alguna esperanza para mí?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¿Bajaréis conmigo hasta las puertas de la muerte?",
+          "¿Descenderemos juntos hasta el polvo?»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,146 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.20","is_chapter":true,"previous":{"usfm":"JOS.19","human":"Josué 19","canonical":true,"toc":true},"current":{"usfm":"JOS.20","human":"Josué 20"},"next":{"usfm":"JOS.21","human":"Josué 21","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["As cidades de refúgio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["E o Senhor disse mais a Josué:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Dize aos israelitas: Designai as cidades de refúgio, de que vos falei por meio de Moisés,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["a fim de que fuja para ali aquele que tiver matado alguém involuntariamente, sem premeditar; essas cidades vos servirão de refúgio contra o vingador do sangue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Quando o fugitivo for para uma dessas cidades, se apresentará à porta dela e exporá a sua causa aos anciãos da cidade; então eles o acolherão ali e lhe darão lugar para viver entre eles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Se o vingador do sangue o perseguir, eles não o entregarão, pois ele feriu o seu próximo sem premeditar e sem tê-lo odiado antes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["E viverá nessa cidade até que compareça a julgamento perante a comunidade e até que morra o sumo sacerdote daqueles dias; então voltará para a sua cidade e para a sua casa, para a cidade de onde tiver fugido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Então designaram Quedes na Galileia, na região montanhosa de Naftali, Siquém na região montanhosa de Efraim, e Quiriate-Arba, que é Hebrom, na região montanhosa de Judá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["E, além do Jordão na altura de Jericó, ao oriente, designaram Bezer, no deserto, no planalto da tribo de Rúben; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["E essas foram as cidades designadas para todo o israelita e para o estrangeiro que morasse entre eles. Elas acolheriam todo aquele que matasse alguém involuntariamente, para que não morresse às mãos do vingador do sangue até apresentar defesa perante a comunidade."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.21.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.19",
+      "human": "Josué 19"
+    },
+    "current": {
+      "usfm": "JOS.20",
+      "human": "Josué 20"
+    },
+    "next": {
+      "usfm": "JOS.21",
+      "human": "Josué 21"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "As cidades de refúgio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "E o Senhor disse mais a Josué:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Dize aos israelitas: Designai as cidades de refúgio, de que vos falei por meio de Moisés,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "a fim de que fuja para ali aquele que tiver matado alguém involuntariamente, sem premeditar; essas cidades vos servirão de refúgio contra o vingador do sangue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Quando o fugitivo for para uma dessas cidades, se apresentará à porta dela e exporá a sua causa aos anciãos da cidade; então eles o acolherão ali e lhe darão lugar para viver entre eles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Se o vingador do sangue o perseguir, eles não o entregarão, pois ele feriu o seu próximo sem premeditar e sem tê-lo odiado antes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "E viverá nessa cidade até que compareça a julgamento perante a comunidade e até que morra o sumo sacerdote daqueles dias; então voltará para a sua cidade e para a sua casa, para a cidade de onde tiver fugido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Então designaram Quedes na Galileia, na região montanhosa de Naftali, Siquém na região montanhosa de Efraim, e Quiriate-Arba, que é Hebrom, na região montanhosa de Judá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "E, além do Jordão na altura de Jericó, ao oriente, designaram Bezer, no deserto, no planalto da tribo de Rúben; Ramote, em Gileade, da tribo de Gade; e Golã, em Basã, da tribo de Manassés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "E essas foram as cidades designadas para todo o israelita e para o estrangeiro que morasse entre eles. Elas acolheriam todo aquele que matasse alguém involuntariamente, para que não morresse às mãos do vingador do sangue até apresentar defesa perante a comunidade."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

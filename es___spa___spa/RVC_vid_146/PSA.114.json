@@ -1,1 +1,145 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.114","is_chapter":true,"previous":{"usfm":"PSA.113","human":"Salmos 113","canonical":true,"toc":true},"current":{"usfm":"PSA.114","human":"Salmos 114"},"next":{"usfm":"PSA.115","human":"Salmos 115","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Recordando el éxodo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando los israelitas salieron de Egipto,","y la familia de Jacob abandonó ese pueblo extraño,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Judá se convirtió en el santuario del Señor","y el pueblo de Israel llegó a ser su dominio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando el mar vio al Señor, se retiró;","también el río Jordán dejó de fluir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Los montes saltaban como carneros,","¡las colinas brincaban como corderitos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Dime, mar, ¿por qué te retiraste?","Y tú, Jordán, ¿por qué dejaste de fluir?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y ustedes, montes y colinas,","¿por qué saltaban como carneros?","¿Por qué brincaban como corderitos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En presencia del Señor, la tierra tiembla;","¡tiembla en presencia del Dios de Jacob!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor convirtió la peña en un manantial;","¡convirtió la roca en fuentes cristalinas!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.113.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.115.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.114",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.113",
+      "human": "Salmos 113"
+    },
+    "current": {
+      "usfm": "PSA.114",
+      "human": "Salmos 114"
+    },
+    "next": {
+      "usfm": "PSA.115",
+      "human": "Salmos 115"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Recordando el éxodo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando los israelitas salieron de Egipto,",
+          "y la familia de Jacob abandonó ese pueblo extraño,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Judá se convirtió en el santuario del Señor",
+          "y el pueblo de Israel llegó a ser su dominio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando el mar vio al Señor, se retiró;",
+          "también el río Jordán dejó de fluir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Los montes saltaban como carneros,",
+          "¡las colinas brincaban como corderitos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Dime, mar, ¿por qué te retiraste?",
+          "Y tú, Jordán, ¿por qué dejaste de fluir?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y ustedes, montes y colinas,",
+          "¿por qué saltaban como carneros?",
+          "¿Por qué brincaban como corderitos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En presencia del Señor, la tierra tiembla;",
+          "¡tiembla en presencia del Dios de Jacob!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor convirtió la peña en un manantial;",
+          "¡convirtió la roca en fuentes cristalinas!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

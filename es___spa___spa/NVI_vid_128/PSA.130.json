@@ -1,1 +1,146 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Salmo 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Salmo 130"},"next":{"usfm":"PSA.131","human":"Salmo 131","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico de los peregrinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A ti, Señor, elevo mi clamor desde lo más profundo de mi ser."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escucha, Señor, mi voz.","Estén atentos tus oídos","a mi voz suplicante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Si tú, Señor, tomaras en cuenta los pecados,","¿quién, Señor, se mantendría en pie?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero en ti se halla perdón","y por eso debes ser temido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Espero al Señor, lo espero con toda el alma;","en su palabra he puesto mi esperanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Espero al Señor con toda el alma,","más que los centinelas la mañana.","Como esperan los centinelas la mañana,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["así tú, Israel, espera al Señor,","porque en él hay amor inagotable;","en él hay plena redención."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Él mismo redimirá a Israel","de todos sus pecados."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Salmo 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Salmo 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Salmo 131"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de los peregrinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A ti, Señor, elevo mi clamor desde lo más profundo de mi ser."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escucha, Señor, mi voz.",
+          "Estén atentos tus oídos",
+          "a mi voz suplicante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Si tú, Señor, tomaras en cuenta los pecados,",
+          "¿quién, Señor, se mantendría en pie?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero en ti se halla perdón",
+          "y por eso debes ser temido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Espero al Señor, lo espero con toda el alma;",
+          "en su palabra he puesto mi esperanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Espero al Señor con toda el alma,",
+          "más que los centinelas la mañana.",
+          "Como esperan los centinelas la mañana,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "así tú, Israel, espera al Señor,",
+          "porque en él hay amor inagotable;",
+          "en él hay plena redención."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Él mismo redimirá a Israel",
+          "de todos sus pecados."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

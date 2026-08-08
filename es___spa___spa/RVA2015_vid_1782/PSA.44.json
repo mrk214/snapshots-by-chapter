@@ -1,1 +1,354 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.44","is_chapter":true,"previous":{"usfm":"PSA.43","human":"Salmos 43","canonical":true,"toc":true},"current":{"usfm":"PSA.44","human":"Salmos 44"},"next":{"usfm":"PSA.45","human":"Salmos 45","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plegaria por la liberación nacional"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. De los hijos de Coré. Masquil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh Dios, con nuestros oídos hemos oído;","nuestros padres nos han contado de la obra que hiciste en sus días, en tiempos antiguos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Con tu mano echaste a las naciones para plantarlos a ellos;","abatiste a los pueblos y los arrojaste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No se apoderaron de la tierra por su espada ni su brazo los libró;","sino tu diestra, tu brazo,","y la luz de tu rostro;","porque tú los favorecías."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tú, oh Dios, eres mi Rey;","manda liberación a Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por medio de ti embestiremos a nuestros enemigos;","en tu nombre pisotearemos a los que se nos oponen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No confiaré en mi arco,","ni mi espada me librará;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["pues tú nos libras de nuestros enemigos","y avergüenzas a los que nos aborrecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["En Dios nos gloriaremos todo el tiempo","y alabaremos su nombre para siempre. Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Sin embargo, nos has desechado","y nos has confundido;","ya no sales con nuestros ejércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Nos has hecho retroceder ante el enemigo,","y los que nos aborrecen nos han saqueado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Nos has puesto como ovejas para el consumo,","y nos has esparcido entre las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Has vendido de balde a tu pueblo,","y ningún provecho has ganado con su precio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Nos has puesto como afrenta ante nuestros vecinos;","por burla y ridículo ante los que están a nuestro alrededor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Nos has puesto como refrán en medio de las naciones","y como objeto de burla en medio de los pueblos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Cada día mi confusión está delante de mí,","y mi cara se cubre de vergüenza"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["por la voz del que injuria y deshonra,","por causa del enemigo y del vengativo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Todo esto nos ha venido,","pero no nos hemos olvidado de ti","ni hemos faltado a tu pacto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["No se ha vuelto atrás nuestro corazón","ni tampoco nuestros pasos se han apartado de tu camino,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["para que nos abatas en el lugar de los chacales","y nos cubras con densa oscuridad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Si nos hubiésemos olvidado del nombre de nuestro Dios","o alzado nuestras manos a un dios extraño,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["¿no averiguaría esto Dios,","quien conoce los secretos del corazón?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Más bien, por tu causa nos matan cada día;","somos tratados como ovejas para el matadero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Despierta; ¿por qué duermes, oh Señor?","Despierta; no nos abandones para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["¿Por qué escondes tu rostro","y te olvidas de nuestra aflicción y opresión?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Nuestra alma está postrada hasta el polvo;","nuestro vientre está pegado a la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Levántate, socórrenos","y redímenos por tu misericordia."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.43.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/PSA.45.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.44",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.43",
+      "human": "Salmos 43"
+    },
+    "current": {
+      "usfm": "PSA.44",
+      "human": "Salmos 44"
+    },
+    "next": {
+      "usfm": "PSA.45",
+      "human": "Salmos 45"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plegaria por la liberación nacional"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. De los hijos de Coré. Masquil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh Dios, con nuestros oídos hemos oído;",
+          "nuestros padres nos han contado de la obra que hiciste en sus días, en tiempos antiguos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Con tu mano echaste a las naciones para plantarlos a ellos;",
+          "abatiste a los pueblos y los arrojaste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No se apoderaron de la tierra por su espada ni su brazo los libró;",
+          "sino tu diestra, tu brazo,",
+          "y la luz de tu rostro;",
+          "porque tú los favorecías."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tú, oh Dios, eres mi Rey;",
+          "manda liberación a Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por medio de ti embestiremos a nuestros enemigos;",
+          "en tu nombre pisotearemos a los que se nos oponen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No confiaré en mi arco,",
+          "ni mi espada me librará;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "pues tú nos libras de nuestros enemigos",
+          "y avergüenzas a los que nos aborrecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "En Dios nos gloriaremos todo el tiempo",
+          "y alabaremos su nombre para siempre. Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Sin embargo, nos has desechado",
+          "y nos has confundido;",
+          "ya no sales con nuestros ejércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Nos has hecho retroceder ante el enemigo,",
+          "y los que nos aborrecen nos han saqueado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Nos has puesto como ovejas para el consumo,",
+          "y nos has esparcido entre las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Has vendido de balde a tu pueblo,",
+          "y ningún provecho has ganado con su precio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Nos has puesto como afrenta ante nuestros vecinos;",
+          "por burla y ridículo ante los que están a nuestro alrededor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Nos has puesto como refrán en medio de las naciones",
+          "y como objeto de burla en medio de los pueblos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Cada día mi confusión está delante de mí,",
+          "y mi cara se cubre de vergüenza"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "por la voz del que injuria y deshonra,",
+          "por causa del enemigo y del vengativo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Todo esto nos ha venido,",
+          "pero no nos hemos olvidado de ti",
+          "ni hemos faltado a tu pacto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "No se ha vuelto atrás nuestro corazón",
+          "ni tampoco nuestros pasos se han apartado de tu camino,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "para que nos abatas en el lugar de los chacales",
+          "y nos cubras con densa oscuridad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Si nos hubiésemos olvidado del nombre de nuestro Dios",
+          "o alzado nuestras manos a un dios extraño,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "¿no averiguaría esto Dios,",
+          "quien conoce los secretos del corazón?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Más bien, por tu causa nos matan cada día;",
+          "somos tratados como ovejas para el matadero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Despierta; ¿por qué duermes, oh Señor?",
+          "Despierta; no nos abandones para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "¿Por qué escondes tu rostro",
+          "y te olvidas de nuestra aflicción y opresión?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Nuestra alma está postrada hasta el polvo;",
+          "nuestro vientre está pegado a la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Levántate, socórrenos",
+          "y redímenos por tu misericordia."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

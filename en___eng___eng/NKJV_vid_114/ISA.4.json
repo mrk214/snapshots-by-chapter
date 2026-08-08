@@ -1,1 +1,121 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.4","is_chapter":true,"previous":{"usfm":"ISA.3","human":"Isaiah 3","canonical":true,"toc":true},"current":{"usfm":"ISA.4","human":"Isaiah 4"},"next":{"usfm":"ISA.5","human":"Isaiah 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["And in that day seven women shall take hold of one man, saying,","“We will eat our own food and wear our own apparel;","Only let us be called by your name,","To take away our reproach.”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Renewal of Zion"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["In that day the Branch of the Lord shall be beautiful and glorious;","And the fruit of the earth shall be excellent and appealing","For those of Israel who have escaped."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And it shall come to pass that he who is left in Zion and remains in Jerusalem will be called holy—everyone who is recorded among the living in Jerusalem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["When the Lord has washed away the filth of the daughters of Zion, and purged the blood of Jerusalem from her midst, by the spirit of judgment and by the spirit of burning,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["then the Lord will create above every dwelling place of Mount Zion, and above her assemblies, a cloud and smoke by day and the shining of a flaming fire by night. For over all the glory there will be a covering."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And there will be a tabernacle for shade in the daytime from the heat, for a place of refuge, and for a shelter from storm and rain."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.5.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.3",
+      "human": "Isaiah 3"
+    },
+    "current": {
+      "usfm": "ISA.4",
+      "human": "Isaiah 4"
+    },
+    "next": {
+      "usfm": "ISA.5",
+      "human": "Isaiah 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And in that day seven women shall take hold of one man, saying,",
+          "“We will eat our own food and wear our own apparel;",
+          "Only let us be called by your name,",
+          "To take away our reproach.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Renewal of Zion"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "In that day the Branch of the Lord shall be beautiful and glorious;",
+          "And the fruit of the earth shall be excellent and appealing",
+          "For those of Israel who have escaped."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And it shall come to pass that he who is left in Zion and remains in Jerusalem will be called holy—everyone who is recorded among the living in Jerusalem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "When the Lord has washed away the filth of the daughters of Zion, and purged the blood of Jerusalem from her midst, by the spirit of judgment and by the spirit of burning,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "then the Lord will create above every dwelling place of Mount Zion, and above her assemblies, a cloud and smoke by day and the shining of a flaming fire by night. For over all the glory there will be a covering."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And there will be a tabernacle for shade in the daytime from the heat, for a place of refuge, and for a shelter from storm and rain."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

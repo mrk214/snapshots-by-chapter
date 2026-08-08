@@ -1,1 +1,284 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.7","is_chapter":true,"previous":{"usfm":"JOB.6","human":"Job 6","canonical":true,"toc":true},"current":{"usfm":"JOB.7","human":"Job 7"},"next":{"usfm":"JOB.8","human":"Job 8","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["“Do not mortals have hard service on earth?","Are not their days like those of hired laborers?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Like a slave longing for the evening shadows,","or a hired laborer waiting to be paid,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["so I have been allotted months of futility,","and nights of misery have been assigned to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["When I lie down I think, ‘How long before I get up?’","The night drags on, and I toss and turn until dawn."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["My body is clothed with worms and scabs,","my skin is broken and festering."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“My days are swifter than a weaver’s shuttle,","and they come to an end without hope."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Remember, O God, that my life is but a breath;","my eyes will never see happiness again."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The eye that now sees me will see me no longer;","you will look for me, but I will be no more."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["As a cloud vanishes and is gone,","so one who goes down to the grave does not return."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["He will never come to his house again;","his place will know him no more."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“Therefore I will not keep silent;","I will speak out in the anguish of my spirit,","I will complain in the bitterness of my soul."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Am I the sea, or the monster of the deep,","that you put me under guard?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["When I think my bed will comfort me","and my couch will ease my complaint,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["even then you frighten me with dreams","and terrify me with visions,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["so that I prefer strangling and death,","rather than this body of mine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["I despise my life; I would not live forever.","Let me alone; my days have no meaning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["“What is mankind that you make so much of them,","that you give them so much attention,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["that you examine them every morning","and test them every moment?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Will you never look away from me,","or let me alone even for an instant?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["If I have sinned, what have I done to you,","you who see everything we do?","Why have you made me your target?","Have I become a burden to you?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Why do you not pardon my offenses","and forgive my sins?","For I will soon lie down in the dust;","you will search for me, but I will be no more.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.8.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.6",
+      "human": "Job 6"
+    },
+    "current": {
+      "usfm": "JOB.7",
+      "human": "Job 7"
+    },
+    "next": {
+      "usfm": "JOB.8",
+      "human": "Job 8"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“Do not mortals have hard service on earth?",
+          "Are not their days like those of hired laborers?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Like a slave longing for the evening shadows,",
+          "or a hired laborer waiting to be paid,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "so I have been allotted months of futility,",
+          "and nights of misery have been assigned to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "When I lie down I think, ‘How long before I get up?’",
+          "The night drags on, and I toss and turn until dawn."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "My body is clothed with worms and scabs,",
+          "my skin is broken and festering."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“My days are swifter than a weaver’s shuttle,",
+          "and they come to an end without hope."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Remember, O God, that my life is but a breath;",
+          "my eyes will never see happiness again."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The eye that now sees me will see me no longer;",
+          "you will look for me, but I will be no more."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "As a cloud vanishes and is gone,",
+          "so one who goes down to the grave does not return."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "He will never come to his house again;",
+          "his place will know him no more."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“Therefore I will not keep silent;",
+          "I will speak out in the anguish of my spirit,",
+          "I will complain in the bitterness of my soul."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Am I the sea, or the monster of the deep,",
+          "that you put me under guard?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "When I think my bed will comfort me",
+          "and my couch will ease my complaint,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "even then you frighten me with dreams",
+          "and terrify me with visions,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "so that I prefer strangling and death,",
+          "rather than this body of mine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "I despise my life; I would not live forever.",
+          "Let me alone; my days have no meaning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "“What is mankind that you make so much of them,",
+          "that you give them so much attention,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "that you examine them every morning",
+          "and test them every moment?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Will you never look away from me,",
+          "or let me alone even for an instant?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "If I have sinned, what have I done to you,",
+          "you who see everything we do?",
+          "Why have you made me your target?",
+          "Have I become a burden to you?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Why do you not pardon my offenses",
+          "and forgive my sins?",
+          "For I will soon lie down in the dust;",
+          "you will search for me, but I will be no more.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

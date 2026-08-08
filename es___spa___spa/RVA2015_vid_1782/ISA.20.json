@@ -1,1 +1,108 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.20","is_chapter":true,"previous":{"usfm":"ISA.19","human":"Isaías 19","canonical":true,"toc":true},"current":{"usfm":"ISA.20","human":"Isaías 20"},"next":{"usfm":"ISA.21","human":"Isaías 21","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["En el año en que vino el Tartána a Asdod, cuando Sargón rey de Asiria lo envió para combatir contra Asdod y la tomó,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["en aquel tiempo el SEÑOR habló por medio de Isaías hijo de Amoz, diciendo: “Ve, despójate del cilicio de sobre tus lomos y quita el calzado de tus pies”. Así lo hizo, y andaba desnudo y descalzo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Entonces dijo el SEÑOR: “Así como mi siervo Isaías anduvo desnudo y descalzo tres años como señal y prodigio contra Egipto y Etiopía,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["así conducirá el rey de Asiria a los cautivos de Egipto y a los desterrados de Etiopía: jóvenes y viejos, desnudos y descalzos, con los glúteos descubiertos, para vergüenza de Egipto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tendrán terror y se avergonzarán de Etiopía, objeto de su esperanza, y de Egipto, su gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["En aquel día dirá el habitante de esta costa: ‘¡Miren lo que ha pasado con el objeto de nuestra esperanza, al cual huimos para obtener auxilio y para ser librados de la presencia del rey de Asiria! ¿Y cómo escaparemos nosotros?’”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/ISA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/ISA.21.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.19",
+      "human": "Isaías 19"
+    },
+    "current": {
+      "usfm": "ISA.20",
+      "human": "Isaías 20"
+    },
+    "next": {
+      "usfm": "ISA.21",
+      "human": "Isaías 21"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En el año en que vino el Tartána a Asdod, cuando Sargón rey de Asiria lo envió para combatir contra Asdod y la tomó,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "en aquel tiempo el SEÑOR habló por medio de Isaías hijo de Amoz, diciendo: “Ve, despójate del cilicio de sobre tus lomos y quita el calzado de tus pies”. Así lo hizo, y andaba desnudo y descalzo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Entonces dijo el SEÑOR: “Así como mi siervo Isaías anduvo desnudo y descalzo tres años como señal y prodigio contra Egipto y Etiopía,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "así conducirá el rey de Asiria a los cautivos de Egipto y a los desterrados de Etiopía: jóvenes y viejos, desnudos y descalzos, con los glúteos descubiertos, para vergüenza de Egipto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tendrán terror y se avergonzarán de Etiopía, objeto de su esperanza, y de Egipto, su gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "En aquel día dirá el habitante de esta costa: ‘¡Miren lo que ha pasado con el objeto de nuestra esperanza, al cual huimos para obtener auxilio y para ser librados de la presencia del rey de Asiria! ¿Y cómo escaparemos nosotros?’”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

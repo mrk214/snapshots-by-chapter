@@ -1,1 +1,201 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.5","is_chapter":true,"previous":{"usfm":"PSA.4","human":"Salmos 4","canonical":true,"toc":true},"current":{"usfm":"PSA.5","human":"Salmos 5"},"next":{"usfm":"PSA.6","human":"Salmos 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Plegaria pidiendo protección"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal; sobre Nehilot. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escucha, oh Jehová, mis palabras;","Considera mi gemir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Está atento a la voz de mi clamor, Rey mío y Dios mío,","Porque a ti oraré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Oh Jehová, de mañana oirás mi voz;","De mañana me presentaré delante de ti, y esperaré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque tú no eres un Dios que se complace en la maldad;","El malo no habitará junto a ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los insensatos no estarán delante de tus ojos;","Aborreces a todos los que hacen iniquidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Destruirás a los que hablan mentira;","Al hombre sanguinario y engañador abominará Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas yo por la abundancia de tu misericordia entraré en tu casa;","Adoraré hacia tu santo templo en tu temor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Guíame, Jehová, en tu justicia, a causa de mis enemigos;","Endereza delante de mí tu camino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Porque en la boca de ellos no hay sinceridad;","Sus entrañas son maldad,","Sepulcro abierto es su garganta,","Con su lengua hablan lisonjas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Castígalos, oh Dios;","Caigan por sus mismos consejos;","Por la multitud de sus transgresiones échalos fuera,","Porque se rebelaron contra ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero alégrense todos los que en ti confían;","Den voces de júbilo para siempre, porque tú los defiendes;","En ti se regocijen los que aman tu nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Porque tú, oh Jehová, bendecirás al justo;","Como con un escudo lo rodearás de tu favor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.6.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.4",
+      "human": "Salmos 4"
+    },
+    "current": {
+      "usfm": "PSA.5",
+      "human": "Salmos 5"
+    },
+    "next": {
+      "usfm": "PSA.6",
+      "human": "Salmos 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Plegaria pidiendo protección"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal; sobre Nehilot. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escucha, oh Jehová, mis palabras;",
+          "Considera mi gemir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Está atento a la voz de mi clamor, Rey mío y Dios mío,",
+          "Porque a ti oraré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Oh Jehová, de mañana oirás mi voz;",
+          "De mañana me presentaré delante de ti, y esperaré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque tú no eres un Dios que se complace en la maldad;",
+          "El malo no habitará junto a ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los insensatos no estarán delante de tus ojos;",
+          "Aborreces a todos los que hacen iniquidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Destruirás a los que hablan mentira;",
+          "Al hombre sanguinario y engañador abominará Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas yo por la abundancia de tu misericordia entraré en tu casa;",
+          "Adoraré hacia tu santo templo en tu temor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Guíame, Jehová, en tu justicia, a causa de mis enemigos;",
+          "Endereza delante de mí tu camino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Porque en la boca de ellos no hay sinceridad;",
+          "Sus entrañas son maldad,",
+          "Sepulcro abierto es su garganta,",
+          "Con su lengua hablan lisonjas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Castígalos, oh Dios;",
+          "Caigan por sus mismos consejos;",
+          "Por la multitud de sus transgresiones échalos fuera,",
+          "Porque se rebelaron contra ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero alégrense todos los que en ti confían;",
+          "Den voces de júbilo para siempre, porque tú los defiendes;",
+          "En ti se regocijen los que aman tu nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Porque tú, oh Jehová, bendecirás al justo;",
+          "Como con un escudo lo rodearás de tu favor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

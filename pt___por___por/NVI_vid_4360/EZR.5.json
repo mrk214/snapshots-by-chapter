@@ -1,1 +1,230 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"EZR","name":"Esdras"},"chapter":{"chapter_usfm":"EZR.5","is_chapter":true,"previous":{"usfm":"EZR.4","human":"Esdras 4","canonical":true,"toc":true},"current":{"usfm":"EZR.5","human":"Esdras 5"},"next":{"usfm":"EZR.6","human":"Esdras 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Carta de Tatenai a Dario"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ora, o profeta Ageu e o profeta Zacarias, descendente de Ido, profetizaram aos judeus de Judá e de Jerusalém, em nome do Deus de Israel, que estava sobre eles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Então Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, começaram a reconstruir o templo de Deus em Jerusalém. E os profetas de Deus estavam com eles e os ajudavam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tatenai, governador do território a oeste do Eufrates, Setar-Bozenai e seus companheiros foram logo perguntar a eles: “Quem os autorizou a reconstruir este templo e estes muros?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["E como se chamam os homens que estão construindo este edifício?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Mas os olhos do seu Deus estavam sobre os líderes dos judeus, e eles não foram impedidos de trabalhar até que um relatório fosse enviado a Dario e dele se recebesse uma ordem oficial a respeito do assunto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Esta é uma cópia da carta que Tatenai, governador do território situado a oeste do Eufrates, Setar-Bozenai e seus companheiros, os oficiais do oeste do Eufrates, enviaram ao rei Dario."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O relatório que lhe enviaram dizia o seguinte:","“Ao rei Dario:","“Paz e prosperidade!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Informamos ao rei que fomos à província de Judá, ao templo do grande Deus. O povo o está reconstruindo com grandes pedras e já estão fixando as vigas de madeira nas paredes. A obra está sendo executada com diligência e apresentando rápido progresso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["“Então perguntamos aos líderes: Quem os autorizou a reconstruir este templo e estes muros?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Também perguntamos os nomes dos líderes deles, para que os registrássemos para a tua informação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“Esta é a resposta que nos deram:","“ ‘Somos servos do Deus dos céus e da terra e estamos reconstruindo o templo edificado há muitos anos, templo que foi construído e terminado por um grande rei de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Mas, visto que os nossos antepassados irritaram o Deus dos céus, ele os entregou nas mãos do babilônio Nabucodonosor, rei da Babilônia, que destruiu este templo e deportou o povo para a Babilônia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“ ‘Contudo, no seu primeiro ano como rei da Babilônia, o rei Ciro emitiu um decreto ordenando a reconstrução desta casa de Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Ele até mesmo tirou do templo da Babilônia os utensílios de ouro e de prata da casa de Deus, os quais Nabucodonosor havia tirado do templo de Jerusalém e levado para o templo da Babilônia.","“ ‘O rei Ciro os confiou a um homem chamado Sesbazar, que ele tinha nomeado governador,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["e lhe disse: “Leve estes utensílios, coloque-os no templo de Jerusalém e reconstrua a casa de Deus em seu antigo local”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Então Sesbazar veio e lançou os alicerces do templo de Deus em Jerusalém. Desde aquele dia o templo tem estado em construção, mas ainda não foi concluído’."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["“Agora, se for do agrado do rei, que se faça uma pesquisa nos arquivos reais da Babilônia para verificar se o rei Ciro de fato emitiu um decreto ordenando a reconstrução da casa de Deus em Jerusalém. Aguardamos do rei a decisão sobre o assunto”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EZR.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EZR.6.json"
+  },
+  "book": {
+    "book_usfm": "EZR",
+    "name": "Esdras"
+  },
+  "chapter": {
+    "chapter_usfm": "EZR.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZR.4",
+      "human": "Esdras 4"
+    },
+    "current": {
+      "usfm": "EZR.5",
+      "human": "Esdras 5"
+    },
+    "next": {
+      "usfm": "EZR.6",
+      "human": "Esdras 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Carta de Tatenai a Dario"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ora, o profeta Ageu e o profeta Zacarias, descendente de Ido, profetizaram aos judeus de Judá e de Jerusalém, em nome do Deus de Israel, que estava sobre eles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Então Zorobabel, filho de Sealtiel, e Jesua, filho de Jozadaque, começaram a reconstruir o templo de Deus em Jerusalém. E os profetas de Deus estavam com eles e os ajudavam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tatenai, governador do território a oeste do Eufrates, Setar-Bozenai e seus companheiros foram logo perguntar a eles: “Quem os autorizou a reconstruir este templo e estes muros?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "E como se chamam os homens que estão construindo este edifício?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Mas os olhos do seu Deus estavam sobre os líderes dos judeus, e eles não foram impedidos de trabalhar até que um relatório fosse enviado a Dario e dele se recebesse uma ordem oficial a respeito do assunto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Esta é uma cópia da carta que Tatenai, governador do território situado a oeste do Eufrates, Setar-Bozenai e seus companheiros, os oficiais do oeste do Eufrates, enviaram ao rei Dario."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O relatório que lhe enviaram dizia o seguinte:",
+          "“Ao rei Dario:",
+          "“Paz e prosperidade!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Informamos ao rei que fomos à província de Judá, ao templo do grande Deus. O povo o está reconstruindo com grandes pedras e já estão fixando as vigas de madeira nas paredes. A obra está sendo executada com diligência e apresentando rápido progresso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "“Então perguntamos aos líderes: Quem os autorizou a reconstruir este templo e estes muros?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Também perguntamos os nomes dos líderes deles, para que os registrássemos para a tua informação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“Esta é a resposta que nos deram:",
+          "“ ‘Somos servos do Deus dos céus e da terra e estamos reconstruindo o templo edificado há muitos anos, templo que foi construído e terminado por um grande rei de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Mas, visto que os nossos antepassados irritaram o Deus dos céus, ele os entregou nas mãos do babilônio Nabucodonosor, rei da Babilônia, que destruiu este templo e deportou o povo para a Babilônia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“ ‘Contudo, no seu primeiro ano como rei da Babilônia, o rei Ciro emitiu um decreto ordenando a reconstrução desta casa de Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Ele até mesmo tirou do templo da Babilônia os utensílios de ouro e de prata da casa de Deus, os quais Nabucodonosor havia tirado do templo de Jerusalém e levado para o templo da Babilônia.",
+          "“ ‘O rei Ciro os confiou a um homem chamado Sesbazar, que ele tinha nomeado governador,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "e lhe disse: “Leve estes utensílios, coloque-os no templo de Jerusalém e reconstrua a casa de Deus em seu antigo local”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Então Sesbazar veio e lançou os alicerces do templo de Deus em Jerusalém. Desde aquele dia o templo tem estado em construção, mas ainda não foi concluído’."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "“Agora, se for do agrado do rei, que se faça uma pesquisa nos arquivos reais da Babilônia para verificar se o rei Ciro de fato emitiu um decreto ordenando a reconstrução da casa de Deus em Jerusalém. Aguardamos do rei a decisão sobre o assunto”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

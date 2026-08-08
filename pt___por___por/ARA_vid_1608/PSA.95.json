@@ -1,1 +1,179 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.95","is_chapter":true,"previous":{"usfm":"PSA.94","human":"Salmos 94","canonical":true,"toc":true},"current":{"usfm":"PSA.95","human":"Salmos 95"},"next":{"usfm":"PSA.96","human":"Salmos 96","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Convite a louvar o Senhor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vinde, cantemos ao Senhor, com júbilo,","celebremos o Rochedo da nossa salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Saiamos ao seu encontro, com ações de graças,","vitoriemo-lo com salmos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque o Senhor é o Deus supremo","e o grande Rei acima de todos os deuses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Nas suas mãos estão as profundezas da terra,","e as alturas dos montes lhe pertencem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Dele é o mar, pois ele o fez;","obra de suas mãos, os continentes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Vinde, adoremos e prostremo-nos;","ajoelhemos diante do Senhor, que nos criou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ele é o nosso Deus, e nós, povo do seu pasto","e ovelhas de sua mão.","Hoje, se ouvirdes a sua voz,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["não endureçais o coração, como em Meribá,","como no dia de Massá, no deserto,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["quando vossos pais me tentaram, pondo-me à prova,","não obstante terem visto as minhas obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Durante quarenta anos, estive desgostado com essa geração","e disse: é povo de coração transviado,","não conhece os meus caminhos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Por isso, jurei na minha ira:","não entrarão no meu descanso."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.94.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.96.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.95",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.94",
+      "human": "Salmos 94"
+    },
+    "current": {
+      "usfm": "PSA.95",
+      "human": "Salmos 95"
+    },
+    "next": {
+      "usfm": "PSA.96",
+      "human": "Salmos 96"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Convite a louvar o Senhor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vinde, cantemos ao Senhor, com júbilo,",
+          "celebremos o Rochedo da nossa salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Saiamos ao seu encontro, com ações de graças,",
+          "vitoriemo-lo com salmos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque o Senhor é o Deus supremo",
+          "e o grande Rei acima de todos os deuses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Nas suas mãos estão as profundezas da terra,",
+          "e as alturas dos montes lhe pertencem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Dele é o mar, pois ele o fez;",
+          "obra de suas mãos, os continentes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Vinde, adoremos e prostremo-nos;",
+          "ajoelhemos diante do Senhor, que nos criou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ele é o nosso Deus, e nós, povo do seu pasto",
+          "e ovelhas de sua mão.",
+          "Hoje, se ouvirdes a sua voz,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "não endureçais o coração, como em Meribá,",
+          "como no dia de Massá, no deserto,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "quando vossos pais me tentaram, pondo-me à prova,",
+          "não obstante terem visto as minhas obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Durante quarenta anos, estive desgostado com essa geração",
+          "e disse: é povo de coração transviado,",
+          "não conhece os meus caminhos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Por isso, jurei na minha ira:",
+          "não entrarão no meu descanso."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

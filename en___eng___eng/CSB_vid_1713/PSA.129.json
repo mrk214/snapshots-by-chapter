@@ -1,1 +1,153 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.129","is_chapter":true,"previous":{"usfm":"PSA.128","human":"Psalms 128","canonical":true,"toc":true},"current":{"usfm":"PSA.129","human":"Psalms 129"},"next":{"usfm":"PSA.130","human":"Psalms 130","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Protection of the Oppressed"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Since my youth they have often attacked me —","let Israel say —"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["since my youth they have often attacked me,","but they have not prevailed against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Plowmen plowed over my back;","they made their furrows long."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord is righteous;","he has cut the ropes of the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Let all who hate Zion","be driven back in disgrace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let them be like grass on the rooftops,","which withers before it grows up ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["and can’t even fill the hands of the reaper","or the arms of the one who binds sheaves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Then none who pass by will say,","“May the Lord’s blessing be on you.","We bless you in the name of the Lord.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.128.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.130.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.129",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.128",
+      "human": "Psalms 128"
+    },
+    "current": {
+      "usfm": "PSA.129",
+      "human": "Psalms 129"
+    },
+    "next": {
+      "usfm": "PSA.130",
+      "human": "Psalms 130"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Protection of the Oppressed"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Since my youth they have often attacked me —",
+          "let Israel say —"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "since my youth they have often attacked me,",
+          "but they have not prevailed against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Plowmen plowed over my back;",
+          "they made their furrows long."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord is righteous;",
+          "he has cut the ropes of the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Let all who hate Zion",
+          "be driven back in disgrace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let them be like grass on the rooftops,",
+          "which withers before it grows up ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "and can’t even fill the hands of the reaper",
+          "or the arms of the one who binds sheaves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Then none who pass by will say,",
+          "“May the Lord’s blessing be on you.",
+          "We bless you in the name of the Lord.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

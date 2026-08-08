@@ -1,1 +1,178 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.3","is_chapter":true,"previous":{"usfm":"PSA.2","human":"Psalms 2","canonical":true,"toc":true},"current":{"usfm":"PSA.3","human":"Psalms 3"},"next":{"usfm":"PSA.4","human":"Psalms 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord Helps His Troubled People"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David when he fled from Absalom his son."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Lord, how they have increased who trouble me!","Many are they who rise up against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Many are they who say of me,","“There is no help for him in God.”"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But You, O Lord, are a shield for me,","My glory and the One who lifts up my head."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I cried to the Lord with my voice,","And He heard me from His holy hill."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I lay down and slept;","I awoke, for the Lord sustained me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will not be afraid of ten thousands of people","Who have set themselves against me all around."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Arise, O Lord;","Save me, O my God!","For You have struck all my enemies on the cheekbone;","You have broken the teeth of the ungodly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Salvation belongs to the Lord.","Your blessing is upon Your people."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.4.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.2",
+      "human": "Psalms 2"
+    },
+    "current": {
+      "usfm": "PSA.3",
+      "human": "Psalms 3"
+    },
+    "next": {
+      "usfm": "PSA.4",
+      "human": "Psalms 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord Helps His Troubled People"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David when he fled from Absalom his son."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Lord, how they have increased who trouble me!",
+          "Many are they who rise up against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Many are they who say of me,",
+          "“There is no help for him in God.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But You, O Lord, are a shield for me,",
+          "My glory and the One who lifts up my head."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I cried to the Lord with my voice,",
+          "And He heard me from His holy hill."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I lay down and slept;",
+          "I awoke, for the Lord sustained me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will not be afraid of ten thousands of people",
+          "Who have set themselves against me all around."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Arise, O Lord;",
+          "Save me, O my God!",
+          "For You have struck all my enemies on the cheekbone;",
+          "You have broken the teeth of the ungodly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Salvation belongs to the Lord.",
+          "Your blessing is upon Your people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

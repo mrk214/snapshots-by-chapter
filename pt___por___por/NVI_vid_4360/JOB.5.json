@@ -1,1 +1,346 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"JOB","name":"Jó"},"chapter":{"chapter_usfm":"JOB.5","is_chapter":true,"previous":{"usfm":"JOB.4","human":"Jó 4","canonical":true,"toc":true},"current":{"usfm":"JOB.5","human":"Jó 5"},"next":{"usfm":"JOB.6","human":"Jó 6","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["“Clame, se quiser, mas quem o ouvirá?","Para qual dos seres celestes você se voltará?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O ressentimento mata o insensato,","e a inveja destrói o tolo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Eu mesmo já vi um insensato lançar raízes,","mas de repente a sua casa foi amaldiçoada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Seus filhos longe estão de desfrutar segurança,","maltratados nos tribunais, não há quem os defenda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Os famintos devoram a sua colheita,","tirando-a até do meio dos espinhos,","e os sedentos sugam a sua riqueza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Pois o sofrimento não brota do pó,","e as dificuldades não nascem do chão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No entanto, o homem nasce para as dificuldades","tão certamente como as fagulhas voam para cima."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Mas, se fosse comigo, eu apelaria para Deus;","apresentaria a ele a minha causa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ele realiza maravilhas insondáveis,","milagres que não se pode contar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Derrama chuva sobre a terra","e envia água sobre os campos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Os humildes, ele exalta","e traz os que pranteiam a um lugar de segurança."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ele frustra os planos dos astutos,","para que fracassem as mãos deles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Apanha os sábios na astúcia deles,","e as maquinações dos astutos são malogradas por sua precipitação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["As trevas vêm sobre eles em pleno dia;","ao meio-dia eles tateiam como se fosse noite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ele salva o oprimido da espada que trazem na boca;","salva-o das garras dos poderosos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Por isso os pobres têm esperança,","e a injustiça cala a própria boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["“Como é feliz o homem a quem Deus corrige;","portanto, não despreze a disciplina do Todo-poderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pois ele fere, mas trata do ferido;","ele machuca, mas suas mãos também curam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["De seis desgraças ele o livrará;","em sete delas você nada sofrerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Na fome ele o livrará da morte","e na guerra o livrará do golpe da espada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Você será protegido do açoite da língua","e não precisará ter medo quando a destruição chegar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Você rirá da destruição e da fome","e não precisará temer as feras da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Pois fará aliança com as pedras do campo,","e os animais selvagens estarão em paz com você."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Você saberá que a sua tenda é segura;","contará os bens da sua morada e de nada achará falta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Você saberá que os seus filhos serão muitos,","e que os seus descendentes serão como a relva da terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Você irá para a sepultura em pleno vigor,","como um feixe recolhido no devido tempo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["“Verificamos isso e vimos que é verdade.","Portanto, ouça e aplique isso à sua vida”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.6.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Jó"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.4",
+      "human": "Jó 4"
+    },
+    "current": {
+      "usfm": "JOB.5",
+      "human": "Jó 5"
+    },
+    "next": {
+      "usfm": "JOB.6",
+      "human": "Jó 6"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“Clame, se quiser, mas quem o ouvirá?",
+          "Para qual dos seres celestes você se voltará?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O ressentimento mata o insensato,",
+          "e a inveja destrói o tolo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Eu mesmo já vi um insensato lançar raízes,",
+          "mas de repente a sua casa foi amaldiçoada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Seus filhos longe estão de desfrutar segurança,",
+          "maltratados nos tribunais, não há quem os defenda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Os famintos devoram a sua colheita,",
+          "tirando-a até do meio dos espinhos,",
+          "e os sedentos sugam a sua riqueza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Pois o sofrimento não brota do pó,",
+          "e as dificuldades não nascem do chão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No entanto, o homem nasce para as dificuldades",
+          "tão certamente como as fagulhas voam para cima."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Mas, se fosse comigo, eu apelaria para Deus;",
+          "apresentaria a ele a minha causa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ele realiza maravilhas insondáveis,",
+          "milagres que não se pode contar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Derrama chuva sobre a terra",
+          "e envia água sobre os campos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Os humildes, ele exalta",
+          "e traz os que pranteiam a um lugar de segurança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ele frustra os planos dos astutos,",
+          "para que fracassem as mãos deles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Apanha os sábios na astúcia deles,",
+          "e as maquinações dos astutos são malogradas por sua precipitação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "As trevas vêm sobre eles em pleno dia;",
+          "ao meio-dia eles tateiam como se fosse noite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ele salva o oprimido da espada que trazem na boca;",
+          "salva-o das garras dos poderosos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Por isso os pobres têm esperança,",
+          "e a injustiça cala a própria boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "“Como é feliz o homem a quem Deus corrige;",
+          "portanto, não despreze a disciplina do Todo-poderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pois ele fere, mas trata do ferido;",
+          "ele machuca, mas suas mãos também curam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "De seis desgraças ele o livrará;",
+          "em sete delas você nada sofrerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Na fome ele o livrará da morte",
+          "e na guerra o livrará do golpe da espada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Você será protegido do açoite da língua",
+          "e não precisará ter medo quando a destruição chegar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Você rirá da destruição e da fome",
+          "e não precisará temer as feras da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Pois fará aliança com as pedras do campo,",
+          "e os animais selvagens estarão em paz com você."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Você saberá que a sua tenda é segura;",
+          "contará os bens da sua morada e de nada achará falta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Você saberá que os seus filhos serão muitos,",
+          "e que os seus descendentes serão como a relva da terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Você irá para a sepultura em pleno vigor,",
+          "como um feixe recolhido no devido tempo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "“Verificamos isso e vimos que é verdade.",
+          "Portanto, ouça e aplique isso à sua vida”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

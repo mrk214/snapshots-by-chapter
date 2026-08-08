@@ -1,1 +1,158 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Psalms 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Psalms 101"},"next":{"usfm":"PSA.102","human":"Psalms 102","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Promised Faithfulness to the Lord"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I will sing of mercy and justice;","To You, O Lord, I will sing praises."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I will behave wisely in a perfect way.","Oh, when will You come to me?","I will walk within my house with a perfect heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["I will set nothing wicked before my eyes;","I hate the work of those who fall away;","It shall not cling to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A perverse heart shall depart from me;","I will not know wickedness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Whoever secretly slanders his neighbor,","Him I will destroy;","The one who has a haughty look and a proud heart,","Him I will not endure."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["My eyes shall be on the faithful of the land,","That they may dwell with me;","He who walks in a perfect way,","He shall serve me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He who works deceit shall not dwell within my house;","He who tells lies shall not continue in my presence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Early I will destroy all the wicked of the land,","That I may cut off all the evildoers from the city of the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Psalms 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Psalms 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Psalms 102"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Promised Faithfulness to the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I will sing of mercy and justice;",
+          "To You, O Lord, I will sing praises."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I will behave wisely in a perfect way.",
+          "Oh, when will You come to me?",
+          "I will walk within my house with a perfect heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "I will set nothing wicked before my eyes;",
+          "I hate the work of those who fall away;",
+          "It shall not cling to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A perverse heart shall depart from me;",
+          "I will not know wickedness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Whoever secretly slanders his neighbor,",
+          "Him I will destroy;",
+          "The one who has a haughty look and a proud heart,",
+          "Him I will not endure."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "My eyes shall be on the faithful of the land,",
+          "That they may dwell with me;",
+          "He who walks in a perfect way,",
+          "He shall serve me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He who works deceit shall not dwell within my house;",
+          "He who tells lies shall not continue in my presence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Early I will destroy all the wicked of the land,",
+          "That I may cut off all the evildoers from the city of the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

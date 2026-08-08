@@ -1,1 +1,123 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.93","is_chapter":true,"previous":{"usfm":"PSA.92","human":"Psalm 92","canonical":true,"toc":true},"current":{"usfm":"PSA.93","human":"Psalm 93"},"next":{"usfm":"PSA.94","human":"Psalm 94","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 93"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Majesty of the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The Lord reigns, He is clothed with majesty;","The Lord has clothed and encircled Himself with strength.","Indeed, the world is firmly established; it will not be moved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Your throne is established from of old;","You are from eternity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¶The floods have lifted up, Lord,","The floods have lifted up their voice,","The floods lift up their pounding waves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["More than the sounds of many waters,","Than the mighty breakers of the sea,","The Lord on high is mighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Your testimonies are fully confirmed;","Holiness is pleasing to Your house,","Lord, forevermore."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.92.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.94.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.93",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.92",
+      "human": "Psalm 92"
+    },
+    "current": {
+      "usfm": "PSA.93",
+      "human": "Psalm 93"
+    },
+    "next": {
+      "usfm": "PSA.94",
+      "human": "Psalm 94"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 93"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Majesty of the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The Lord reigns, He is clothed with majesty;",
+          "The Lord has clothed and encircled Himself with strength.",
+          "Indeed, the world is firmly established; it will not be moved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Your throne is established from of old;",
+          "You are from eternity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¶The floods have lifted up, Lord,",
+          "The floods have lifted up their voice,",
+          "The floods lift up their pounding waves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "More than the sounds of many waters,",
+          "Than the mighty breakers of the sea,",
+          "The Lord on high is mighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Your testimonies are fully confirmed;",
+          "Holiness is pleasing to Your house,",
+          "Lord, forevermore."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

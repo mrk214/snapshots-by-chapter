@@ -1,1 +1,116 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"MAL","name":"Malachi"},"chapter":{"chapter_usfm":"MAL.4","is_chapter":true,"previous":{"usfm":"MAL.3","human":"Malachi 3","canonical":true,"toc":true},"current":{"usfm":"MAL.4","human":"Malachi 4"},"next":{"usfm":"MAT.1","human":"Matthew 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Great Day of the Lord"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/MAL.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/MAT.1.json"
+  },
+  "book": {
+    "book_usfm": "MAL",
+    "name": "Malachi"
+  },
+  "chapter": {
+    "chapter_usfm": "MAL.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malachi 3"
+    },
+    "current": {
+      "usfm": "MAL.4",
+      "human": "Malachi 4"
+    },
+    "next": {
+      "usfm": "MAT.1",
+      "human": "Matthew 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Great Day of the Lord"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“For behold, the day is coming, burning like an oven, when all the arrogant and all evildoers will be stubble. The day that is coming shall set them ablaze, says the Lord of hosts, so that it will leave them neither root nor branch."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "But for you who fear my name, the sun of righteousness shall rise with healing in its wings. You shall go out leaping like calves from the stall."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And you shall tread down the wicked, for they will be ashes under the soles of your feet, on the day when I act, says the Lord of hosts."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“Remember the law of my servant Moses, the statutes and rules that I commanded him at Horeb for all Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“Behold, I will send you Elijah the prophet before the great and awesome day of the Lord comes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And he will turn the hearts of fathers to their children and the hearts of children to their fathers, lest I come and strike the land with a decree of utter destruction.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

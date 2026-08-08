@@ -1,1 +1,159 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"JER","name":"Jeremias"},"chapter":{"chapter_usfm":"JER.47","is_chapter":true,"previous":{"usfm":"JER.46","human":"Jeremias 46","canonical":true,"toc":true},"current":{"usfm":"JER.47","human":"Jeremias 47"},"next":{"usfm":"JER.48","human":"Jeremias 48","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Profecia a respeito dos filisteus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Palavra do Senhor que veio ao profeta Jeremias a respeito dos filisteus, antes que Faraó atacasse Gaza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Assim diz o Senhor:","“Eis que do Norte","se levantam as águas,","e se tornarão","em torrente transbordante.","Inundarão a terra e a sua plenitude,","a cidade e os seus habitantes.","As pessoas gritarão por socorro,","e todos os moradores da terra","se lamentarão,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["ao ruído dos cascos","dos seus cavalos,","ao barulho de seus carros","de guerra,","ao estrondo das suas rodas.","Os pais não voltarão","para socorrer os filhos,","porque as mãos deles","enfraqueceram,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["por causa do dia que vem","para destruir todos os filisteus,","para exterminar todo o resto","que poderia socorrer Tiro e Sidom.","Porque o Senhor destruirá","os filisteus,","o resto que veio da ilha de Caftor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O povo de Gaza rapou a cabeça;","Asquelom foi reduzida a silêncio,","com o resto do seu vale.","Até quando vocês vão fazer","cortes na pele em sinal de luto?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“‘Ah! Espada do Senhor,","quando é que você vai parar?","Volte para a sua bainha,","descanse e fique quieta.’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas como pode ela ficar quieta,","se o Senhor lhe deu ordens?","Ele a dirige contra Asquelom","e contra a costa do mar.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JER.46.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JER.48.json"
+  },
+  "book": {
+    "book_usfm": "JER",
+    "name": "Jeremias"
+  },
+  "chapter": {
+    "chapter_usfm": "JER.47",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JER.46",
+      "human": "Jeremias 46"
+    },
+    "current": {
+      "usfm": "JER.47",
+      "human": "Jeremias 47"
+    },
+    "next": {
+      "usfm": "JER.48",
+      "human": "Jeremias 48"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecia a respeito dos filisteus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Palavra do Senhor que veio ao profeta Jeremias a respeito dos filisteus, antes que Faraó atacasse Gaza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Assim diz o Senhor:",
+          "“Eis que do Norte",
+          "se levantam as águas,",
+          "e se tornarão",
+          "em torrente transbordante.",
+          "Inundarão a terra e a sua plenitude,",
+          "a cidade e os seus habitantes.",
+          "As pessoas gritarão por socorro,",
+          "e todos os moradores da terra",
+          "se lamentarão,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "ao ruído dos cascos",
+          "dos seus cavalos,",
+          "ao barulho de seus carros",
+          "de guerra,",
+          "ao estrondo das suas rodas.",
+          "Os pais não voltarão",
+          "para socorrer os filhos,",
+          "porque as mãos deles",
+          "enfraqueceram,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "por causa do dia que vem",
+          "para destruir todos os filisteus,",
+          "para exterminar todo o resto",
+          "que poderia socorrer Tiro e Sidom.",
+          "Porque o Senhor destruirá",
+          "os filisteus,",
+          "o resto que veio da ilha de Caftor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O povo de Gaza rapou a cabeça;",
+          "Asquelom foi reduzida a silêncio,",
+          "com o resto do seu vale.",
+          "Até quando vocês vão fazer",
+          "cortes na pele em sinal de luto?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“‘Ah! Espada do Senhor,",
+          "quando é que você vai parar?",
+          "Volte para a sua bainha,",
+          "descanse e fique quieta.’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas como pode ela ficar quieta,",
+          "se o Senhor lhe deu ordens?",
+          "Ele a dirige contra Asquelom",
+          "e contra a costa do mar.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

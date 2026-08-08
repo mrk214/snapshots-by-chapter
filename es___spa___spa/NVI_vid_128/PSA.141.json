@@ -1,1 +1,174 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.141","is_chapter":true,"previous":{"usfm":"PSA.140","human":"Salmo 140","canonical":true,"toc":true},"current":{"usfm":"PSA.141","human":"Salmo 141"},"next":{"usfm":"PSA.142","human":"Salmo 142","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A ti clamo, Señor, ven pronto a mí.","Escucha mi voz cuando a ti clamo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que suba a tu presencia mi oración","como una ofrenda de incienso,","mis manos levantadas","como el sacrificio de la tarde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Señor, ponme en la boca un centinela;","un guardia a la puerta de mis labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["No permitas que mi corazón se incline a la maldad","ni que sea yo cómplice de iniquidades;","no me dejes participar de banquetes","en compañía de malhechores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que cuando el justo me castigue,","sea una muestra de amor;","que su reprensión sea bálsamo que mi cabeza no rechace,","pues mi oración siempre está en contra de las malas obras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuando sus gobernantes sean arrojados desde los despeñaderos,","sabrán que mis palabras eran bien intencionadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Y dirán: «Así como se esparce la tierra","cuando en ella se abren surcos con el arado,","así se han esparcido nuestros huesos","a la orilla del sepulcro»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Por eso tengo los ojos puestos en ti, mi Señor y Dios,","en ti busco refugio; no me dejes morir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Protégeme de las trampas que me tienden,","de las trampas que me tienden los malhechores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Que caigan los malvados en sus propias redes,","mientras yo salgo bien librado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.140.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.142.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.141",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.140",
+      "human": "Salmo 140"
+    },
+    "current": {
+      "usfm": "PSA.141",
+      "human": "Salmo 141"
+    },
+    "next": {
+      "usfm": "PSA.142",
+      "human": "Salmo 142"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A ti clamo, Señor, ven pronto a mí.",
+          "Escucha mi voz cuando a ti clamo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que suba a tu presencia mi oración",
+          "como una ofrenda de incienso,",
+          "mis manos levantadas",
+          "como el sacrificio de la tarde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Señor, ponme en la boca un centinela;",
+          "un guardia a la puerta de mis labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "No permitas que mi corazón se incline a la maldad",
+          "ni que sea yo cómplice de iniquidades;",
+          "no me dejes participar de banquetes",
+          "en compañía de malhechores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que cuando el justo me castigue,",
+          "sea una muestra de amor;",
+          "que su reprensión sea bálsamo que mi cabeza no rechace,",
+          "pues mi oración siempre está en contra de las malas obras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuando sus gobernantes sean arrojados desde los despeñaderos,",
+          "sabrán que mis palabras eran bien intencionadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Y dirán: «Así como se esparce la tierra",
+          "cuando en ella se abren surcos con el arado,",
+          "así se han esparcido nuestros huesos",
+          "a la orilla del sepulcro»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Por eso tengo los ojos puestos en ti, mi Señor y Dios,",
+          "en ti busco refugio; no me dejes morir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Protégeme de las trampas que me tienden,",
+          "de las trampas que me tienden los malhechores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Que caigan los malvados en sus propias redes,",
+          "mientras yo salgo bien librado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,171 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"BAR","name":"Baruc"},"chapter":{"chapter_usfm":"BAR.5","is_chapter":true,"previous":{"usfm":"BAR.4","human":"Baruc 4","canonical":true,"toc":true},"current":{"usfm":"BAR.5","human":"Baruc 5"},"next":{"usfm":"LJE.1","human":"Carta de Jer 6","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»Ciudad de Jerusalén,","quítate esa ropa de luto;","aleja tu tristeza y amargura.","¡Vístete para siempre","con el poder que Dios te da!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que la justicia de Dios","te cubra como un manto,","y que el poder de Dios","sea la corona de tu cabeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Dios mismo mostrará","tu grandeza y esplendor,","y todo el mundo lo verá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dios te dará un nuevo nombre,","y para siempre te llamarán:","“Paz en la justicia,","y poder en el servicio”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Jerusalén, ponte de pie,","sube a la colina más alta,","mira hacia donde sale el sol,","y contempla a tus habitantes.","El Dios todopoderoso","los ha reunido y llamado","de todas las naciones del mundo.","Vienen llenos de alegría,","porque Dios les ha dado libertad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["»Sus enemigos los tomaron presos,","y se los llevaron a pie;","pero Dios traerá a tus habitantes","en carruajes de reyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dios mismo ha dado la orden","de aplanar montañas y colinas,","y de rellenar todos los valles,","hasta que la tierra quede pareja.","Así tus habitantes,","guiados por Dios mismo,","no encontrarán ningún tropiezo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Dios también ha ordenado","que los árboles aromáticos","den su sombra a los israelitas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Dios guiará a su pueblo con alegría,","y los protegerá con su poder,","con su amor y su justicia»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LJE.1.json"
+  },
+  "book": {
+    "book_usfm": "BAR",
+    "name": "Baruc"
+  },
+  "chapter": {
+    "chapter_usfm": "BAR.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "BAR.4",
+      "human": "Baruc 4"
+    },
+    "current": {
+      "usfm": "BAR.5",
+      "human": "Baruc 5"
+    },
+    "next": {
+      "usfm": "LJE.1",
+      "human": "Carta de Jer 6"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»Ciudad de Jerusalén,",
+          "quítate esa ropa de luto;",
+          "aleja tu tristeza y amargura.",
+          "¡Vístete para siempre",
+          "con el poder que Dios te da!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que la justicia de Dios",
+          "te cubra como un manto,",
+          "y que el poder de Dios",
+          "sea la corona de tu cabeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Dios mismo mostrará",
+          "tu grandeza y esplendor,",
+          "y todo el mundo lo verá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dios te dará un nuevo nombre,",
+          "y para siempre te llamarán:",
+          "“Paz en la justicia,",
+          "y poder en el servicio”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Jerusalén, ponte de pie,",
+          "sube a la colina más alta,",
+          "mira hacia donde sale el sol,",
+          "y contempla a tus habitantes.",
+          "El Dios todopoderoso",
+          "los ha reunido y llamado",
+          "de todas las naciones del mundo.",
+          "Vienen llenos de alegría,",
+          "porque Dios les ha dado libertad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "»Sus enemigos los tomaron presos,",
+          "y se los llevaron a pie;",
+          "pero Dios traerá a tus habitantes",
+          "en carruajes de reyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dios mismo ha dado la orden",
+          "de aplanar montañas y colinas,",
+          "y de rellenar todos los valles,",
+          "hasta que la tierra quede pareja.",
+          "Así tus habitantes,",
+          "guiados por Dios mismo,",
+          "no encontrarán ningún tropiezo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Dios también ha ordenado",
+          "que los árboles aromáticos",
+          "den su sombra a los israelitas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Dios guiará a su pueblo con alegría,",
+          "y los protegerá con su poder,",
+          "con su amor y su justicia»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

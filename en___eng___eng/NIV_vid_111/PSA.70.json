@@ -1,1 +1,117 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.70","is_chapter":true,"previous":{"usfm":"PSA.69","human":"Psalms 69","canonical":true,"toc":true},"current":{"usfm":"PSA.70","human":"Psalms 70"},"next":{"usfm":"PSA.71","human":"Psalms 71","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the director of music. Of David. A petition."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hasten, O God, to save me;","come quickly, Lord, to help me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["May those who want to take my life","be put to shame and confusion;","may all who desire my ruin","be turned back in disgrace."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["May those who say to me, “Aha! Aha!”","turn back because of their shame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But may all who seek you","rejoice and be glad in you;","may those who long for your saving help always say,","“The Lord is great!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But as for me, I am poor and needy;","come quickly to me, O God.","You are my help and my deliverer;","Lord, do not delay."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.69.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.71.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.70",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.69",
+      "human": "Psalms 69"
+    },
+    "current": {
+      "usfm": "PSA.70",
+      "human": "Psalms 70"
+    },
+    "next": {
+      "usfm": "PSA.71",
+      "human": "Psalms 71"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the director of music. Of David. A petition."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hasten, O God, to save me;",
+          "come quickly, Lord, to help me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "May those who want to take my life",
+          "be put to shame and confusion;",
+          "may all who desire my ruin",
+          "be turned back in disgrace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "May those who say to me, “Aha! Aha!”",
+          "turn back because of their shame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But may all who seek you",
+          "rejoice and be glad in you;",
+          "may those who long for your saving help always say,",
+          "“The Lord is great!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But as for me, I am poor and needy;",
+          "come quickly to me, O God.",
+          "You are my help and my deliverer;",
+          "Lord, do not delay."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

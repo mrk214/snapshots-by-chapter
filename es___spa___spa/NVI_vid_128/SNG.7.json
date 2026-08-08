@@ -1,1 +1,225 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"SNG","name":"Cantares"},"chapter":{"chapter_usfm":"SNG.7","is_chapter":true,"previous":{"usfm":"SNG.6","human":"Cantares 6","canonical":true,"toc":true},"current":{"usfm":"SNG.7","human":"Cantares 7"},"next":{"usfm":"SNG.8","human":"Cantares 8","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["¡Ah, princesa mía,","cuán bellos son tus pies en las sandalias!","Las curvas de tus caderas son como alhajas","labradas por hábil artesano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tu ombligo es una copa redonda,","rebosante de buen vino.","Tu vientre es un monte de trigo","rodeado de azucenas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tus pechos parecen dos cervatillos,","dos crías mellizas de gacela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tu cuello parece torre de marfil.","Tus ojos son como los manantiales de Hesbón,","junto a la entrada de Bat Rabín.","Tu nariz se asemeja a la torre del Líbano,","que mira hacia Damasco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tu cabeza se eleva como la cumbre del Carmelo.","Hilos de color púrpura son tus cabellos;","con tus rizos has cautivado al rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuán bella eres, amor mío,","¡cuán encantadora en tus delicias!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tu altura se asemeja a la palmera","y tus pechos, a sus racimos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Me dije: «Me subiré a la palmera;","de sus racimos me adueñaré».","¡Sean tus pechos como racimos de uvas,","tu aliento cual fragancia de manzanas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["y como el buen vino tu boca!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Corra el vino hacia mi amado","y le resbale por labios y dientes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo soy de mi amado","y él me desea con pasión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ven, amado mío;","vayamos a los campos,","pasemos la noche en las aldeas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Vayamos temprano a los viñedos","para ver si han retoñado las vides,","si han abierto las flores,","si ya florecen los granados.","¡Allí te brindaré mis caricias!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Las mandrágoras esparcen su fragancia","y a nuestras puertas hay toda clase de exquisitos frutos,","lo mismo nuevos que añejos,","que he guardado para ti, amor mío."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/SNG.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/SNG.8.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.6",
+      "human": "Cantares 6"
+    },
+    "current": {
+      "usfm": "SNG.7",
+      "human": "Cantares 7"
+    },
+    "next": {
+      "usfm": "SNG.8",
+      "human": "Cantares 8"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Ah, princesa mía,",
+          "cuán bellos son tus pies en las sandalias!",
+          "Las curvas de tus caderas son como alhajas",
+          "labradas por hábil artesano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tu ombligo es una copa redonda,",
+          "rebosante de buen vino.",
+          "Tu vientre es un monte de trigo",
+          "rodeado de azucenas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tus pechos parecen dos cervatillos,",
+          "dos crías mellizas de gacela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tu cuello parece torre de marfil.",
+          "Tus ojos son como los manantiales de Hesbón,",
+          "junto a la entrada de Bat Rabín.",
+          "Tu nariz se asemeja a la torre del Líbano,",
+          "que mira hacia Damasco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tu cabeza se eleva como la cumbre del Carmelo.",
+          "Hilos de color púrpura son tus cabellos;",
+          "con tus rizos has cautivado al rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuán bella eres, amor mío,",
+          "¡cuán encantadora en tus delicias!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tu altura se asemeja a la palmera",
+          "y tus pechos, a sus racimos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Me dije: «Me subiré a la palmera;",
+          "de sus racimos me adueñaré».",
+          "¡Sean tus pechos como racimos de uvas,",
+          "tu aliento cual fragancia de manzanas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "y como el buen vino tu boca!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Corra el vino hacia mi amado",
+          "y le resbale por labios y dientes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo soy de mi amado",
+          "y él me desea con pasión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ven, amado mío;",
+          "vayamos a los campos,",
+          "pasemos la noche en las aldeas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Vayamos temprano a los viñedos",
+          "para ver si han retoñado las vides,",
+          "si han abierto las flores,",
+          "si ya florecen los granados.",
+          "¡Allí te brindaré mis caricias!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Las mandrágoras esparcen su fragancia",
+          "y a nuestras puertas hay toda clase de exquisitos frutos,",
+          "lo mismo nuevos que añejos,",
+          "que he guardado para ti, amor mío."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

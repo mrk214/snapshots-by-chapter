@@ -1,1 +1,278 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.83","is_chapter":true,"previous":{"usfm":"PSA.82","human":"Salmo 82","canonical":true,"toc":true},"current":{"usfm":"PSA.83","human":"Salmo 83"},"next":{"usfm":"PSA.84","human":"Salmo 84","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 83"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Oración contra enemigos conjurados"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico. Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oh Dios, no permanezcas en silencio;","no calles, oh Dios, ni te quedes quieto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque, he aquí, tus enemigos rugen,","y los que te aborrecen se han enaltecido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Hacen planes astutos contra tu pueblo,","y juntos conspiran contra tus protegidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Han dicho: Venid, y destruyámoslos como nación,","para que ya no haya memoria del nombre de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Porque de corazón han conspirado a una;","hacen pacto contra ti:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["las tiendas de Edom y de los ismaelitas,","Moab y los agarenos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Gebal, Amón y Amalec,","Filistea con los habitantes de Tiro;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Asiria también se ha unido a ellos;","se han convertido en ayuda para los hijos de Lot."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶Trátalos como a Madián,","como a Sísara, como a Jabín en el torrente Cisón,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["que fueron destruidos en Endor,","que quedaron como estiércol para la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pon a sus nobles como a Oreb y Zeeb,","y a todos sus príncipes como a Zeba y Zalmuna,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["que dijeron: apoderémonos","de los prados de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶Oh Dios mío, ponlos como polvo en remolino;","como paja ante el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como fuego que consume el bosque,","y como llama que incendia las montañas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["así persíguelos con tu tempestad,","y aterrorízalos con tu torbellino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Cubre sus rostros de ignominia,","para que busquen tu nombre, oh Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Sean avergonzados y turbados para siempre;","sean humillados y perezcan,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["para que sepan que solo tú, que te llamas el Señor,","eres el Altísimo sobre toda la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.82.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.84.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.83",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.82",
+      "human": "Salmo 82"
+    },
+    "current": {
+      "usfm": "PSA.83",
+      "human": "Salmo 83"
+    },
+    "next": {
+      "usfm": "PSA.84",
+      "human": "Salmo 84"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 83"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración contra enemigos conjurados"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico. Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oh Dios, no permanezcas en silencio;",
+          "no calles, oh Dios, ni te quedes quieto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque, he aquí, tus enemigos rugen,",
+          "y los que te aborrecen se han enaltecido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Hacen planes astutos contra tu pueblo,",
+          "y juntos conspiran contra tus protegidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Han dicho: Venid, y destruyámoslos como nación,",
+          "para que ya no haya memoria del nombre de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Porque de corazón han conspirado a una;",
+          "hacen pacto contra ti:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "las tiendas de Edom y de los ismaelitas,",
+          "Moab y los agarenos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Gebal, Amón y Amalec,",
+          "Filistea con los habitantes de Tiro;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Asiria también se ha unido a ellos;",
+          "se han convertido en ayuda para los hijos de Lot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶Trátalos como a Madián,",
+          "como a Sísara, como a Jabín en el torrente Cisón,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "que fueron destruidos en Endor,",
+          "que quedaron como estiércol para la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pon a sus nobles como a Oreb y Zeeb,",
+          "y a todos sus príncipes como a Zeba y Zalmuna,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "que dijeron: apoderémonos",
+          "de los prados de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶Oh Dios mío, ponlos como polvo en remolino;",
+          "como paja ante el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como fuego que consume el bosque,",
+          "y como llama que incendia las montañas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "así persíguelos con tu tempestad,",
+          "y aterrorízalos con tu torbellino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Cubre sus rostros de ignominia,",
+          "para que busquen tu nombre, oh Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Sean avergonzados y turbados para siempre;",
+          "sean humillados y perezcan,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "para que sepan que solo tú, que te llamas el Señor,",
+          "eres el Altísimo sobre toda la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

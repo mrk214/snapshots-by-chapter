@@ -1,1 +1,164 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.141","is_chapter":true,"previous":{"usfm":"PSA.140","human":"Salmos 140","canonical":true,"toc":true},"current":{"usfm":"PSA.141","human":"Salmos 141"},"next":{"usfm":"PSA.142","human":"Salmos 142","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Vitória na tentação"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Senhor, clamo a ti! Acode-me depressa! Ouve a minha voz, quando clamo a ti!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que a minha oração suba como incenso à tua presença, e o levantar das minhas mãos seja como o sacrifício da tarde!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Senhor, guarda a minha boca; vigia a porta dos meus lábios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Não permitas que meu coração se incline para o mal, nem que se ocupe de coisas más com aqueles que praticam o mal, nem que eu coma dos seus banquetes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Fira-me o justo, e isso será sinal de amor; repreenda-me, e será como óleo sobre a minha cabeça, que não há de recusá-lo; mas continuarei a orar contra os feitos dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Eles saberão que as palavras do Senhor são verdadeiras, quando seus juízes forem jogados precipício abaixo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Os nossos ossos são espalhados à boca da sepultura como a terra quando é lavrada e arada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mas os meus olhos te contemplam, Senhor, meu Senhor! Em ti tenho buscado refúgio; não me deixes indefeso!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Guarda-me do laço que me armaram e das armadilhas dos que praticam o mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Caiam os ímpios nas suas próprias redes, enquanto eu escapo ileso."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.140.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.142.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.141",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.140",
+      "human": "Salmos 140"
+    },
+    "current": {
+      "usfm": "PSA.141",
+      "human": "Salmos 141"
+    },
+    "next": {
+      "usfm": "PSA.142",
+      "human": "Salmos 142"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Vitória na tentação"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Senhor, clamo a ti! Acode-me depressa! Ouve a minha voz, quando clamo a ti!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que a minha oração suba como incenso à tua presença, e o levantar das minhas mãos seja como o sacrifício da tarde!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Senhor, guarda a minha boca; vigia a porta dos meus lábios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Não permitas que meu coração se incline para o mal, nem que se ocupe de coisas más com aqueles que praticam o mal, nem que eu coma dos seus banquetes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Fira-me o justo, e isso será sinal de amor; repreenda-me, e será como óleo sobre a minha cabeça, que não há de recusá-lo; mas continuarei a orar contra os feitos dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Eles saberão que as palavras do Senhor são verdadeiras, quando seus juízes forem jogados precipício abaixo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Os nossos ossos são espalhados à boca da sepultura como a terra quando é lavrada e arada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mas os meus olhos te contemplam, Senhor, meu Senhor! Em ti tenho buscado refúgio; não me deixes indefeso!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Guarda-me do laço que me armaram e das armadilhas dos que praticam o mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Caiam os ímpios nas suas próprias redes, enquanto eu escapo ileso."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

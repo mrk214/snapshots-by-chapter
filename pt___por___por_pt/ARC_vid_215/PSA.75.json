@@ -1,1 +1,164 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.75","is_chapter":true,"previous":{"usfm":"PSA.74","human":"Salmos 74","canonical":true,"toc":true},"current":{"usfm":"PSA.75","human":"Salmos 75"},"next":{"usfm":"PSA.76","human":"Salmos 76","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O profeta louva a Deus e promete fazer observar a justiça"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para o cantor-mor Al-tascheth. Salmo e cântico de Asaf"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A TI, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Quando eu ocupar o lugar determinado, julgarei retamente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Dissolve-se a terra e todos os seus moradores, mas eu fortaleci as suas colunas (Selah)."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Disse eu aos loucos: Não enlouqueçais; e aos ímpios: Não levanteis a fronte;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Não levanteis a vossa fronte altiva, nem faleis com cerviz dura;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque nem do oriente, nem do ocidente, nem do deserto vem a exaltação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas Deus é o Juiz; a um abate, e a outro exalta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Porque na mão do Senhor há um cálix, cujo vinho ferve, cheio de mistura, e dá a beber dele; certamente todos os ímpios da terra sorverão e beberão as suas fezes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mas, quanto a mim, anunciarei para sempre; cantarei louvores ao Deus de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["E quebrantarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.74.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.76.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.75",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.74",
+      "human": "Salmos 74"
+    },
+    "current": {
+      "usfm": "PSA.75",
+      "human": "Salmos 75"
+    },
+    "next": {
+      "usfm": "PSA.76",
+      "human": "Salmos 76"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O profeta louva a Deus e promete fazer observar a justiça"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o cantor-mor Al-tascheth. Salmo e cântico de Asaf"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A TI, ó Deus, glorificamos, a ti damos louvor, pois o teu nome está perto, as tuas maravilhas o declaram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Quando eu ocupar o lugar determinado, julgarei retamente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Dissolve-se a terra e todos os seus moradores, mas eu fortaleci as suas colunas (Selah)."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Disse eu aos loucos: Não enlouqueçais; e aos ímpios: Não levanteis a fronte;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Não levanteis a vossa fronte altiva, nem faleis com cerviz dura;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque nem do oriente, nem do ocidente, nem do deserto vem a exaltação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas Deus é o Juiz; a um abate, e a outro exalta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Porque na mão do Senhor há um cálix, cujo vinho ferve, cheio de mistura, e dá a beber dele; certamente todos os ímpios da terra sorverão e beberão as suas fezes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mas, quanto a mim, anunciarei para sempre; cantarei louvores ao Deus de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "E quebrantarei todas as forças dos ímpios, mas as forças dos justos serão exaltadas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

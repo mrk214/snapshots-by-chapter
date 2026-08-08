@@ -1,1 +1,326 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"ECC","name":"Ecclesiastes"},"chapter":{"chapter_usfm":"ECC.3","is_chapter":true,"previous":{"usfm":"ECC.2","human":"Ecclesiastes 2","canonical":true,"toc":true},"current":{"usfm":"ECC.3","human":"Ecclesiastes 3"},"next":{"usfm":"ECC.4","human":"Ecclesiastes 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Everything Has Its Time"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["To everything there is a season,","A time for every purpose under heaven:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["A time to be born,","And a time to die;","A time to plant,","And a time to pluck what is planted;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A time to kill,","And a time to heal;","A time to break down,","And a time to build up;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A time to weep,","And a time to laugh;","A time to mourn,","And a time to dance;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A time to cast away stones,","And a time to gather stones;","A time to embrace,","And a time to refrain from embracing;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A time to gain,","And a time to lose;","A time to keep,","And a time to throw away;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["A time to tear,","And a time to sew;","A time to keep silence,","And a time to speak;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A time to love,","And a time to hate;","A time of war,","And a time of peace."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The God-Given Task"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["What profit has the worker from that in which he labors?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I have seen the God-given task with which the sons of men are to be occupied."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["I know that nothing is better for them than to rejoice, and to do good in their lives,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["and also that every man should eat and drink and enjoy the good of all his labor—it is the gift of God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I know that whatever God does,","It shall be forever.","Nothing can be added to it,","And nothing taken from it.","God does it, that men should fear before Him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["That which is has already been,","And what is to be has already been;","And God requires an account of what is past."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Injustice Seems to Prevail"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Moreover I saw under the sun:","In the place of judgment,","Wickedness was there;","And in the place of righteousness,","Iniquity was there."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I said in my heart,","“God shall judge the righteous and the wicked,","For there is a time there for every purpose and for every work.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["All go to one place: all are from the dust, and all return to dust."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ECC.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ECC.4.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Ecclesiastes"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.2",
+      "human": "Ecclesiastes 2"
+    },
+    "current": {
+      "usfm": "ECC.3",
+      "human": "Ecclesiastes 3"
+    },
+    "next": {
+      "usfm": "ECC.4",
+      "human": "Ecclesiastes 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Everything Has Its Time"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "To everything there is a season,",
+          "A time for every purpose under heaven:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "A time to be born,",
+          "And a time to die;",
+          "A time to plant,",
+          "And a time to pluck what is planted;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A time to kill,",
+          "And a time to heal;",
+          "A time to break down,",
+          "And a time to build up;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A time to weep,",
+          "And a time to laugh;",
+          "A time to mourn,",
+          "And a time to dance;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A time to cast away stones,",
+          "And a time to gather stones;",
+          "A time to embrace,",
+          "And a time to refrain from embracing;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A time to gain,",
+          "And a time to lose;",
+          "A time to keep,",
+          "And a time to throw away;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "A time to tear,",
+          "And a time to sew;",
+          "A time to keep silence,",
+          "And a time to speak;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A time to love,",
+          "And a time to hate;",
+          "A time of war,",
+          "And a time of peace."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The God-Given Task"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "What profit has the worker from that in which he labors?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I have seen the God-given task with which the sons of men are to be occupied."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "He has made everything beautiful in its time. Also He has put eternity in their hearts, except that no one can find out the work that God does from beginning to end."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "I know that nothing is better for them than to rejoice, and to do good in their lives,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "and also that every man should eat and drink and enjoy the good of all his labor—it is the gift of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I know that whatever God does,",
+          "It shall be forever.",
+          "Nothing can be added to it,",
+          "And nothing taken from it.",
+          "God does it, that men should fear before Him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "That which is has already been,",
+          "And what is to be has already been;",
+          "And God requires an account of what is past."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Injustice Seems to Prevail"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Moreover I saw under the sun:",
+          "In the place of judgment,",
+          "Wickedness was there;",
+          "And in the place of righteousness,",
+          "Iniquity was there."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I said in my heart,",
+          "“God shall judge the righteous and the wicked,",
+          "For there is a time there for every purpose and for every work.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "I said in my heart, “Concerning the condition of the sons of men, God tests them, that they may see that they themselves are like animals.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "For what happens to the sons of men also happens to animals; one thing befalls them: as one dies, so dies the other. Surely, they all have one breath; man has no advantage over animals, for all is vanity."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "All go to one place: all are from the dust, and all return to dust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Who knows the spirit of the sons of men, which goes upward, and the spirit of the animal, which goes down to the earth?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "So I perceived that nothing is better than that a man should rejoice in his own works, for that is his heritage. For who can bring him to see what will happen after him?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

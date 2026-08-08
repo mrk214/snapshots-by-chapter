@@ -1,1 +1,201 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.108","is_chapter":true,"previous":{"usfm":"PSA.107","human":"Salmo 107","canonical":true,"toc":true},"current":{"usfm":"PSA.108","human":"Salmo 108"},"next":{"usfm":"PSA.109","human":"Salmo 109","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Firme está, oh Dios, mi corazón.","¡Voy a cantarte y entonarte salmos, gloria mía!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Despierten, lira y arpa!","¡Haré despertar al nuevo día!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Te alabaré, Señor, entre los pueblos;","te cantaré salmos entre las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pues tu gran amor es tan grande que rebasa los cielos","y tu verdad llega hasta las nubes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Sé exaltado, oh Dios, sobre los cielos!","¡Alza tu gloria sobre toda la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sálvanos con tu diestra y respóndenos,","para que tu pueblo amado quede a salvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dios ha dicho en su santuario:","«Triunfante repartiré a Siquén","y dividiré el valle de Sucot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Mío es Galaad, mío es Manasés;","Efraín es mi yelmo y Judá, mi cetro de mando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Moab es el recipiente en que me lavo las manos,","sobre Edom arrojo mi sandalia;","sobre Filistea lanzo gritos de triunfo»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¿Quién me llevará a la ciudad fortificada?","¿Quién me mostrará el camino a Edom?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿No eres tú, oh Dios, quien nos ha rechazado?","¡Ya no sales, oh Dios, con nuestros ejércitos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Bríndanos tu apoyo contra el enemigo,","pues la ayuda humana será inútil."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Con Dios obtendremos la victoria;","¡él aplastará a nuestros enemigos!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.107.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.109.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.108",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.107",
+      "human": "Salmo 107"
+    },
+    "current": {
+      "usfm": "PSA.108",
+      "human": "Salmo 108"
+    },
+    "next": {
+      "usfm": "PSA.109",
+      "human": "Salmo 109"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Firme está, oh Dios, mi corazón.",
+          "¡Voy a cantarte y entonarte salmos, gloria mía!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Despierten, lira y arpa!",
+          "¡Haré despertar al nuevo día!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Te alabaré, Señor, entre los pueblos;",
+          "te cantaré salmos entre las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pues tu gran amor es tan grande que rebasa los cielos",
+          "y tu verdad llega hasta las nubes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Sé exaltado, oh Dios, sobre los cielos!",
+          "¡Alza tu gloria sobre toda la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sálvanos con tu diestra y respóndenos,",
+          "para que tu pueblo amado quede a salvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dios ha dicho en su santuario:",
+          "«Triunfante repartiré a Siquén",
+          "y dividiré el valle de Sucot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Mío es Galaad, mío es Manasés;",
+          "Efraín es mi yelmo y Judá, mi cetro de mando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Moab es el recipiente en que me lavo las manos,",
+          "sobre Edom arrojo mi sandalia;",
+          "sobre Filistea lanzo gritos de triunfo»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¿Quién me llevará a la ciudad fortificada?",
+          "¿Quién me mostrará el camino a Edom?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿No eres tú, oh Dios, quien nos ha rechazado?",
+          "¡Ya no sales, oh Dios, con nuestros ejércitos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Bríndanos tu apoyo contra el enemigo,",
+          "pues la ayuda humana será inútil."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Con Dios obtendremos la victoria;",
+          "¡él aplastará a nuestros enemigos!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

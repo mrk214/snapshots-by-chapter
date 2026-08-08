@@ -1,1 +1,131 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.12","is_chapter":true,"previous":{"usfm":"ISA.11","human":"Isaías 11","canonical":true,"toc":true},"current":{"usfm":"ISA.12","human":"Isaías 12"},"next":{"usfm":"ISA.13","human":"Isaías 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Agradecimiento por la liberación divina"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En aquel día dirás:","“¡Te doy gracias, oh SEÑOR!","Aunque te enojaste contra mí,","tu ira se apartó, y me has consolado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡He aquí, Dios es mi salvación!","Confiaré y no temeré,","porque el SEÑOR es mi fortaleza y mi canción;","él es mi salvación”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Con regocijo sacarán agua","de los manantiales de la salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En aquel día dirán:","“¡Den gracias al SEÑOR!","¡Invoquen su nombre!","Den a conocer entre los pueblos sus hazañas;","recuerden que grande es su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Canten salmos al SEÑOR,","porque ha hecho cosas magníficas!.","Sea esto conocido en toda la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Grita y canta, oh habitante de Sion,","pues el Santo de Israel","es grande en medio de ti”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/ISA.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/ISA.13.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.11",
+      "human": "Isaías 11"
+    },
+    "current": {
+      "usfm": "ISA.12",
+      "human": "Isaías 12"
+    },
+    "next": {
+      "usfm": "ISA.13",
+      "human": "Isaías 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Agradecimiento por la liberación divina"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En aquel día dirás:",
+          "“¡Te doy gracias, oh SEÑOR!",
+          "Aunque te enojaste contra mí,",
+          "tu ira se apartó, y me has consolado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡He aquí, Dios es mi salvación!",
+          "Confiaré y no temeré,",
+          "porque el SEÑOR es mi fortaleza y mi canción;",
+          "él es mi salvación”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Con regocijo sacarán agua",
+          "de los manantiales de la salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En aquel día dirán:",
+          "“¡Den gracias al SEÑOR!",
+          "¡Invoquen su nombre!",
+          "Den a conocer entre los pueblos sus hazañas;",
+          "recuerden que grande es su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Canten salmos al SEÑOR,",
+          "porque ha hecho cosas magníficas!.",
+          "Sea esto conocido en toda la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Grita y canta, oh habitante de Sion,",
+          "pues el Santo de Israel",
+          "es grande en medio de ti”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

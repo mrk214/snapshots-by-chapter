@@ -1,1 +1,304 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.14","is_chapter":true,"previous":{"usfm":"JOB.13","human":"Job 13","canonical":true,"toc":true},"current":{"usfm":"JOB.14","human":"Job 14"},"next":{"usfm":"JOB.15","human":"Job 15","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job habla sobre la brevedad de la vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El hombre, nacido de mujer,","corto de días y lleno de turbaciones,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["como una flor brota y se marchita,","y como una sombra huye y no permanece."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sobre él ciertamente abres tus ojos,","y lo traes a juicio contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¿Quién hará algo limpio de lo inmundo?","¡Nadie!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ya que sus días están determinados,","el número de sus meses te es conocido,","y has fijado sus límites para que no pueda pasarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Aparta de él tu mirada para que descanse,","hasta que cumpla su día como jornalero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Porque hay esperanza para un árbol","cuando es cortado, que volverá a retoñar,","y sus renuevos no le faltarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Aunque envejezcan sus raíces en la tierra,","y muera su tronco en el polvo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["al olor del agua reverdecerá","y como una planta joven echará renuevos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pero el hombre muere y yace inerte.","El hombre expira, ¿y dónde está?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Como las aguas se evaporan del mar,","como un río se agota y se seca,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["así el hombre yace y no se levanta;","hasta que los cielos ya no existan","no se despertará ni se levantará de su sueño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶¡Oh, si me escondieras en el Seol,","si me ocultaras hasta que tu ira se pasara,","si me pusieras un plazo y de mí te acordaras!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Si el hombre muere, ¿volverá a vivir?","Todos los días de mi batallar esperaré","hasta que llegue mi relevo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Tú llamarás, y yo te responderé;","anhelarás la obra de tus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Porque ahora cuentas mis pasos,","no observas mi pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Sellada está en un saco mi transgresión,","y tienes cubierta mi iniquidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["¶Pero el monte que cae se desmorona,","y se cambia la roca de su lugar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["el agua desgasta las piedras,","sus torrentes se llevan el polvo de la tierra;","así destruyes tú la esperanza del hombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Prevaleces para siempre contra él, y se va;","cambias su apariencia, y lo despides."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Alcanzan honra sus hijos, pero él no lo sabe;","o son humillados, pero él no lo percibe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Mas su cuerpo le da dolores,","y se lamenta solo por sí mismo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.15.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.14",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.13",
+      "human": "Job 13"
+    },
+    "current": {
+      "usfm": "JOB.14",
+      "human": "Job 14"
+    },
+    "next": {
+      "usfm": "JOB.15",
+      "human": "Job 15"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job habla sobre la brevedad de la vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El hombre, nacido de mujer,",
+          "corto de días y lleno de turbaciones,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "como una flor brota y se marchita,",
+          "y como una sombra huye y no permanece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sobre él ciertamente abres tus ojos,",
+          "y lo traes a juicio contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¿Quién hará algo limpio de lo inmundo?",
+          "¡Nadie!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ya que sus días están determinados,",
+          "el número de sus meses te es conocido,",
+          "y has fijado sus límites para que no pueda pasarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Aparta de él tu mirada para que descanse,",
+          "hasta que cumpla su día como jornalero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Porque hay esperanza para un árbol",
+          "cuando es cortado, que volverá a retoñar,",
+          "y sus renuevos no le faltarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Aunque envejezcan sus raíces en la tierra,",
+          "y muera su tronco en el polvo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "al olor del agua reverdecerá",
+          "y como una planta joven echará renuevos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pero el hombre muere y yace inerte.",
+          "El hombre expira, ¿y dónde está?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Como las aguas se evaporan del mar,",
+          "como un río se agota y se seca,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "así el hombre yace y no se levanta;",
+          "hasta que los cielos ya no existan",
+          "no se despertará ni se levantará de su sueño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶¡Oh, si me escondieras en el Seol,",
+          "si me ocultaras hasta que tu ira se pasara,",
+          "si me pusieras un plazo y de mí te acordaras!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Si el hombre muere, ¿volverá a vivir?",
+          "Todos los días de mi batallar esperaré",
+          "hasta que llegue mi relevo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Tú llamarás, y yo te responderé;",
+          "anhelarás la obra de tus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Porque ahora cuentas mis pasos,",
+          "no observas mi pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Sellada está en un saco mi transgresión,",
+          "y tienes cubierta mi iniquidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "¶Pero el monte que cae se desmorona,",
+          "y se cambia la roca de su lugar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "el agua desgasta las piedras,",
+          "sus torrentes se llevan el polvo de la tierra;",
+          "así destruyes tú la esperanza del hombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Prevaleces para siempre contra él, y se va;",
+          "cambias su apariencia, y lo despides."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Alcanzan honra sus hijos, pero él no lo sabe;",
+          "o son humillados, pero él no lo percibe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Mas su cuerpo le da dolores,",
+          "y se lamenta solo por sí mismo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

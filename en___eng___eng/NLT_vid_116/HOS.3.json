@@ -1,1 +1,106 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"HOS","name":"Hosea"},"chapter":{"chapter_usfm":"HOS.3","is_chapter":true,"previous":{"usfm":"HOS.2","human":"Hosea 2","canonical":true,"toc":true},"current":{"usfm":"HOS.3","human":"Hosea 3"},"next":{"usfm":"HOS.4","human":"Hosea 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Hosea’s Wife Is Redeemed"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Then the Lord said to me, “Go and love your wife again, even though she commits adultery with another lover. This will illustrate that the Lord still loves Israel, even though the people have turned to other gods and love to worship them.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["So I bought her back for fifteen pieces of silver and five bushels of barley and a measure of wine."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Then I said to her, “You must live in my house for many days and stop your prostitution. During this time, you will not have sexual relations with anyone, not even with me.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["This shows that Israel will go a long time without a king or prince, and without sacrifices, sacred pillars, priests, or even idols!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But afterward the people will return and devote themselves to the Lord their God and to David’s descendant, their king. In the last days, they will tremble in awe of the Lord and of his goodness."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.4.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Hosea"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Hosea 2"
+    },
+    "current": {
+      "usfm": "HOS.3",
+      "human": "Hosea 3"
+    },
+    "next": {
+      "usfm": "HOS.4",
+      "human": "Hosea 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Hosea’s Wife Is Redeemed"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Then the Lord said to me, “Go and love your wife again, even though she commits adultery with another lover. This will illustrate that the Lord still loves Israel, even though the people have turned to other gods and love to worship them.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "So I bought her back for fifteen pieces of silver and five bushels of barley and a measure of wine."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Then I said to her, “You must live in my house for many days and stop your prostitution. During this time, you will not have sexual relations with anyone, not even with me.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "This shows that Israel will go a long time without a king or prince, and without sacrifices, sacred pillars, priests, or even idols!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But afterward the people will return and devote themselves to the Lord their God and to David’s descendant, their king. In the last days, they will tremble in awe of the Lord and of his goodness."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

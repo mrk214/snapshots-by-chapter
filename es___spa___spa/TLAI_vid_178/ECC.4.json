@@ -1,1 +1,206 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.4","is_chapter":true,"previous":{"usfm":"ECC.3","human":"Eclesiastés 3","canonical":true,"toc":true},"current":{"usfm":"ECC.4","human":"Eclesiastés 4"},"next":{"usfm":"ECC.5","human":"Eclesiastés 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Miré hacia otro lado, y esto fue lo que vi en este mundo: hay mucha gente maltratada, y quienes la maltratan son los que tienen el poder. La gente llora, pero nadie la consuela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entonces dije: «¡Qué felices son los que han muerto, y que lástima dan los que aún viven!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Aunque, en realidad, son más felices los que no han nacido, pues todavía no han visto la maldad que hay en este mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["También vi que todos trabajan y buscan progresar solo para tener más que los otros. Pero tampoco esto tiene sentido, porque es como querer atrapar el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Es verdad que, «el tonto no quiere trabajar y por eso acaba muriéndose de hambre»;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["pero «más vale una hora de descanso que dos horas de trabajo», pues el mucho trabajo no sirve de nada."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La unión hace la fuerza"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Miré hacia otro lado, y vi que en esta vida hay algo más que no tiene sentido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Me refiero al hombre solitario, que no tiene hijos ni hermanos: todo el tiempo se lo pasa trabajando, y nunca está satisfecho; siempre quiere tener más. Ese hombre jamás se pone a pensar si vale la pena tanto trabajar y nunca gozar de la vida. ¡No tiene sentido esforzarse tanto!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La verdad, «más valen dos que uno», porque sacan más provecho de lo que hacen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Además, si uno de ellos se tropieza, el otro puede levantarlo. Pero ¡pobre del que cae y no tiene quien lo ayude a levantarse!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Y también, si dos se acuestan juntos, entran en calor; pero uno solo se muere de frío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Una sola persona puede ser vencida, pero dos ya pueden defenderse; y si tres unen sus fuerzas, ya no es fácil derrotarlas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Juventud y sabiduría"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Si tengo que elegir, prefiero al joven pobre pero sabio, que al rey viejo pero tonto que no deja que nadie lo aconseje."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14,15,16],"lines":["Porque ese rey viejo muere y viene otro más joven, y aunque el nuevo rey haya nacido en la pobreza, o haya estado en la cárcel, la gente lo apoya al principio. Sin embargo, con el tiempo habrá muchos que tampoco estarán contentos con él. Y esto no tiene sentido; ¡es como querer atrapar el viento!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.5.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.3",
+      "human": "Eclesiastés 3"
+    },
+    "current": {
+      "usfm": "ECC.4",
+      "human": "Eclesiastés 4"
+    },
+    "next": {
+      "usfm": "ECC.5",
+      "human": "Eclesiastés 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Miré hacia otro lado, y esto fue lo que vi en este mundo: hay mucha gente maltratada, y quienes la maltratan son los que tienen el poder. La gente llora, pero nadie la consuela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entonces dije: «¡Qué felices son los que han muerto, y que lástima dan los que aún viven!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Aunque, en realidad, son más felices los que no han nacido, pues todavía no han visto la maldad que hay en este mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "También vi que todos trabajan y buscan progresar solo para tener más que los otros. Pero tampoco esto tiene sentido, porque es como querer atrapar el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Es verdad que, «el tonto no quiere trabajar y por eso acaba muriéndose de hambre»;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "pero «más vale una hora de descanso que dos horas de trabajo», pues el mucho trabajo no sirve de nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La unión hace la fuerza"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Miré hacia otro lado, y vi que en esta vida hay algo más que no tiene sentido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Me refiero al hombre solitario, que no tiene hijos ni hermanos: todo el tiempo se lo pasa trabajando, y nunca está satisfecho; siempre quiere tener más. Ese hombre jamás se pone a pensar si vale la pena tanto trabajar y nunca gozar de la vida. ¡No tiene sentido esforzarse tanto!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La verdad, «más valen dos que uno», porque sacan más provecho de lo que hacen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Además, si uno de ellos se tropieza, el otro puede levantarlo. Pero ¡pobre del que cae y no tiene quien lo ayude a levantarse!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Y también, si dos se acuestan juntos, entran en calor; pero uno solo se muere de frío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Una sola persona puede ser vencida, pero dos ya pueden defenderse; y si tres unen sus fuerzas, ya no es fácil derrotarlas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juventud y sabiduría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Si tengo que elegir, prefiero al joven pobre pero sabio, que al rey viejo pero tonto que no deja que nadie lo aconseje."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14,
+          15,
+          16
+        ],
+        "lines": [
+          "Porque ese rey viejo muere y viene otro más joven, y aunque el nuevo rey haya nacido en la pobreza, o haya estado en la cárcel, la gente lo apoya al principio. Sin embargo, con el tiempo habrá muchos que tampoco estarán contentos con él. Y esto no tiene sentido; ¡es como querer atrapar el viento!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

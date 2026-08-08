@@ -1,1 +1,144 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.129","is_chapter":true,"previous":{"usfm":"PSA.128","human":"Salmos 128","canonical":true,"toc":true},"current":{"usfm":"PSA.129","human":"Salmos 129"},"next":{"usfm":"PSA.130","human":"Salmos 130","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oração do oprimido"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Muitas vezes me oprimiram, desde minha mocidade; Israel que o diga:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Muitas vezes me oprimiram, desde minha mocidade; todavia não prevaleceram contra mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Os lavradores araram sobre minhas costas; abriram longos sulcos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mas o Senhor é justo, ele rompeu as cordas dos ímpios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Retrocedam envergonhados todos os que odeiam Sião."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sejam como o capim dos telhados, que seca antes de florescer"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["e não enche a mão do ceifeiro, nem os braços do que ata os feixes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Não digam os que passam: A bênção do Senhor seja sobre vós; nós vos abençoamos em nome do Senhor."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.128.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.130.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.129",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "current": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "next": {
+      "usfm": "PSA.130",
+      "human": "Salmos 130"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oração do oprimido"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Muitas vezes me oprimiram, desde minha mocidade; Israel que o diga:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Muitas vezes me oprimiram, desde minha mocidade; todavia não prevaleceram contra mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Os lavradores araram sobre minhas costas; abriram longos sulcos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mas o Senhor é justo, ele rompeu as cordas dos ímpios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Retrocedam envergonhados todos os que odeiam Sião."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sejam como o capim dos telhados, que seca antes de florescer"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "e não enche a mão do ceifeiro, nem os braços do que ata os feixes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Não digam os que passam: A bênção do Senhor seja sobre vós; nós vos abençoamos em nome do Senhor."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

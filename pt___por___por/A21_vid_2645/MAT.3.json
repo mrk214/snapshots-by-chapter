@@ -1,1 +1,235 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"MAT","name":"Mateus"},"chapter":{"chapter_usfm":"MAT.3","is_chapter":true,"previous":{"usfm":"MAT.2","human":"Mateus 2","canonical":true,"toc":true},"current":{"usfm":"MAT.3","human":"Mateus 3"},"next":{"usfm":"MAT.4","human":"Mateus 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A pregação de João Batista"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Naqueles dias, apareceu João Batista, pregando no deserto da Judeia"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["e dizendo: Arrependei-vos, porque o reino do céu chegou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque é dele que o profeta Isaías disse:","Voz do que clama no deserto, preparai o caminho do Senhor, endireitai as suas veredas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["João usava roupas feitas de pelos de camelo e um cinto de couro; alimentava-se de gafanhotos e mel silvestre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Habitantes de Jerusalém, de toda a Judeia e de toda a região do Jordão iam até ele"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e eram batizados por ele no rio Jordão, confessando seus pecados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Mas, quando ele percebeu que muitos fariseus e saduceus iam ao lugar em que ele batizava, disse-lhes: Raça de víboras, quem vos ensinou a fugir da ira futura?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Produzi fruto próprio de arrependimento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Não fiqueis dizendo a vós mesmos: Abraão é nosso pai! Eu vos digo que até dessas pedras Deus pode dar filhos a Abraão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["E o machado já está posto à raiz das árvores; aquela que não produzir bom fruto será cortada e lançada no fogo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Eu, na verdade, vos batizo com água, tendo por base o arrependimento; mas aquele que vem depois de mim é mais poderoso do que eu; não sou digno nem de carregar suas sandálias; ele vos batizará com o Espírito Santo e com fogo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ele traz na mão a sua pá e limpará sua eira; recolherá o seu trigo no celeiro, mas queimará a palha com fogo que não se apaga."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O batismo de Jesus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Então Jesus foi da Galileia para o Jordão, para ser batizado por João."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mas João tentou impedi-lo, dizendo: Tu vens a mim? Eu é que preciso ser batizado por ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["E Jesus lhe respondeu: Deixa por enquanto; porque assim nos convém cumprir toda a justiça. Então João consentiu."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Depois de batizado, Jesus saiu logo da água. E viu o céu se abrir e o Espírito de Deus descer como uma pomba, vindo sobre ele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["E uma voz do céu disse: Este é o meu Filho amado, de quem me agrado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MAT.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MAT.4.json"
+  },
+  "book": {
+    "book_usfm": "MAT",
+    "name": "Mateus"
+  },
+  "chapter": {
+    "chapter_usfm": "MAT.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAT.2",
+      "human": "Mateus 2"
+    },
+    "current": {
+      "usfm": "MAT.3",
+      "human": "Mateus 3"
+    },
+    "next": {
+      "usfm": "MAT.4",
+      "human": "Mateus 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A pregação de João Batista"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Naqueles dias, apareceu João Batista, pregando no deserto da Judeia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "e dizendo: Arrependei-vos, porque o reino do céu chegou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque é dele que o profeta Isaías disse:",
+          "Voz do que clama no deserto, preparai o caminho do Senhor, endireitai as suas veredas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "João usava roupas feitas de pelos de camelo e um cinto de couro; alimentava-se de gafanhotos e mel silvestre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Habitantes de Jerusalém, de toda a Judeia e de toda a região do Jordão iam até ele"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e eram batizados por ele no rio Jordão, confessando seus pecados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Mas, quando ele percebeu que muitos fariseus e saduceus iam ao lugar em que ele batizava, disse-lhes: Raça de víboras, quem vos ensinou a fugir da ira futura?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Produzi fruto próprio de arrependimento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Não fiqueis dizendo a vós mesmos: Abraão é nosso pai! Eu vos digo que até dessas pedras Deus pode dar filhos a Abraão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "E o machado já está posto à raiz das árvores; aquela que não produzir bom fruto será cortada e lançada no fogo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Eu, na verdade, vos batizo com água, tendo por base o arrependimento; mas aquele que vem depois de mim é mais poderoso do que eu; não sou digno nem de carregar suas sandálias; ele vos batizará com o Espírito Santo e com fogo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ele traz na mão a sua pá e limpará sua eira; recolherá o seu trigo no celeiro, mas queimará a palha com fogo que não se apaga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O batismo de Jesus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Então Jesus foi da Galileia para o Jordão, para ser batizado por João."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mas João tentou impedi-lo, dizendo: Tu vens a mim? Eu é que preciso ser batizado por ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "E Jesus lhe respondeu: Deixa por enquanto; porque assim nos convém cumprir toda a justiça. Então João consentiu."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Depois de batizado, Jesus saiu logo da água. E viu o céu se abrir e o Espírito de Deus descer como uma pomba, vindo sobre ele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "E uma voz do céu disse: Este é o meu Filho amado, de quem me agrado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

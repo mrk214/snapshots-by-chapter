@@ -1,1 +1,230 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.19","is_chapter":true,"previous":{"usfm":"PSA.18","human":"Psalm 18","canonical":true,"toc":true},"current":{"usfm":"PSA.19","human":"Psalm 19"},"next":{"usfm":"PSA.20","human":"Psalm 20","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 19"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Works and the Word of God."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the music director. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["The heavens tell of the glory of God;","And their expanse declares the work of His hands."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Day to day pours forth speech,","And night to night reveals knowledge."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["There is no speech, nor are there words;","Their voice is not heard."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Their line has gone out into all the earth,","And their words to the end of the world.","In them He has placed a tent for the sun,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Which is like a groom coming out of his chamber;","It rejoices like a strong person to run his course."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Its rising is from one end of the heavens,","And its circuit to the other end of them;","And there is nothing hidden from its heat."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶The Law of the Lord is perfect, restoring the soul;","The testimony of the Lord is sure, making wise the simple."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The precepts of the Lord are right, rejoicing the heart;","The commandment of the Lord is pure, enlightening the eyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The fear of the Lord is clean, enduring forever;","The judgments of the Lord are true; they are righteous altogether."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They are more desirable than gold, yes, than much pure gold;","Sweeter also than honey and drippings of the honeycomb."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Moreover, Your servant is warned by them;","In keeping them there is great reward."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Who can discern his errors? Acquit me of hidden faults."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Also keep Your servant back from presumptuous sins;","Let them not rule over me;","Then I will be innocent,","And I will be blameless of great wrongdoing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["May the words of my mouth and the meditation of my heart","Be acceptable in Your sight,","Lord, my rock and my Redeemer."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.18.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.20.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.19",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.18",
+      "human": "Psalm 18"
+    },
+    "current": {
+      "usfm": "PSA.19",
+      "human": "Psalm 19"
+    },
+    "next": {
+      "usfm": "PSA.20",
+      "human": "Psalm 20"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 19"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Works and the Word of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the music director. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The heavens tell of the glory of God;",
+          "And their expanse declares the work of His hands."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Day to day pours forth speech,",
+          "And night to night reveals knowledge."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "There is no speech, nor are there words;",
+          "Their voice is not heard."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Their line has gone out into all the earth,",
+          "And their words to the end of the world.",
+          "In them He has placed a tent for the sun,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Which is like a groom coming out of his chamber;",
+          "It rejoices like a strong person to run his course."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Its rising is from one end of the heavens,",
+          "And its circuit to the other end of them;",
+          "And there is nothing hidden from its heat."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶The Law of the Lord is perfect, restoring the soul;",
+          "The testimony of the Lord is sure, making wise the simple."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The precepts of the Lord are right, rejoicing the heart;",
+          "The commandment of the Lord is pure, enlightening the eyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The fear of the Lord is clean, enduring forever;",
+          "The judgments of the Lord are true; they are righteous altogether."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They are more desirable than gold, yes, than much pure gold;",
+          "Sweeter also than honey and drippings of the honeycomb."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Moreover, Your servant is warned by them;",
+          "In keeping them there is great reward."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Who can discern his errors? Acquit me of hidden faults."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Also keep Your servant back from presumptuous sins;",
+          "Let them not rule over me;",
+          "Then I will be innocent,",
+          "And I will be blameless of great wrongdoing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "May the words of my mouth and the meditation of my heart",
+          "Be acceptable in Your sight,",
+          "Lord, my rock and my Redeemer."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

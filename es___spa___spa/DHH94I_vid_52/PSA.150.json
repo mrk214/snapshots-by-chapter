@@ -1,1 +1,123 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Proverbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza universal a Dios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Aleluya!","¡Alaben a Dios en su santuario!","¡Alábenlo en su majestuosa bóveda celeste!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Alábenlo por sus hechos poderosos!","¡Alábenlo por su grandeza infinita!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Alábenlo con toques de trompeta!","¡Alábenlo con arpa y salterio!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Alábenlo danzando al son de panderos!","¡Alábenlo con flautas e instrumentos de cuerda!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Alábenlo con platillos sonoros!","¡Alábenlo con platillos vibrantes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Que todo lo que respira alabe al Señor!","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Proverbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza universal a Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Aleluya!",
+          "¡Alaben a Dios en su santuario!",
+          "¡Alábenlo en su majestuosa bóveda celeste!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Alábenlo por sus hechos poderosos!",
+          "¡Alábenlo por su grandeza infinita!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Alábenlo con toques de trompeta!",
+          "¡Alábenlo con arpa y salterio!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Alábenlo danzando al son de panderos!",
+          "¡Alábenlo con flautas e instrumentos de cuerda!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Alábenlo con platillos sonoros!",
+          "¡Alábenlo con platillos vibrantes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Que todo lo que respira alabe al Señor!",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

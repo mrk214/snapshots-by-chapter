@@ -1,1 +1,176 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.6","is_chapter":true,"previous":{"usfm":"ECC.5","human":"Eclesiastés 5","canonical":true,"toc":true},"current":{"usfm":"ECC.6","human":"Eclesiastés 6"},"next":{"usfm":"ECC.7","human":"Eclesiastés 7","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["He visto otro mal terrible bajo el sol que pesa tremendamente sobre la humanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Dios les da a algunos mucha riqueza, honor y todo lo que pudieran desear, pero luego no les da la oportunidad de disfrutar de esas cosas. Se mueren, y algún otro —incluso un extraño— termina disfrutando de toda esa abundancia. Eso no tiene sentido, es una tragedia terrible."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Un hombre podría tener cien hijos y llegar a vivir muchos años. Pero si no encuentra satisfacción en la vida y ni siquiera recibe un entierro digno, sería mejor para él haber nacido muerto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Entonces su nacimiento habría sido insignificante, y él habría terminado en la oscuridad. Ni siquiera habría tenido un nombre"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["ni habría visto la luz del sol o sabido que existía. Sin embargo, habría gozado de más paz que si hubiera crecido para convertirse en un hombre infeliz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Podría vivir mil años o el doble, y ni aun así encontrar satisfacción; y si al final de cuentas tiene que morir como todos, ¿de qué le sirve?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Toda la gente se pasa la vida trabajando para tener qué comer, pero parece que nunca le alcanza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Entonces, ¿de verdad están los sabios en mejores condiciones que los necios? ¿Ganan algo los pobres con ser sabios y saber comportarse frente a otros?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Disfruta de lo que tienes en lugar de desear lo que no tienes; soñar con tener cada vez más no tiene sentido, es como perseguir el viento."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El futuro: algo definido y a la vez incierto"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Todo ha sido decidido. Ya se sabía desde hace tiempo lo que cada persona habría de ser. Así que no sirve de nada discutir con Dios acerca de tu destino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Cuantas más palabras decimos, menos sentido tienen. Entonces, ¿para qué sirven?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["En la brevedad de nuestra vida sin sentido, ¿quién conoce cómo pasar mejor nuestros días? Nuestra vida es como una sombra. ¿Quién sabe lo que sucederá en este mundo después de la muerte?"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ECC.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ECC.7.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.5",
+      "human": "Eclesiastés 5"
+    },
+    "current": {
+      "usfm": "ECC.6",
+      "human": "Eclesiastés 6"
+    },
+    "next": {
+      "usfm": "ECC.7",
+      "human": "Eclesiastés 7"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "He visto otro mal terrible bajo el sol que pesa tremendamente sobre la humanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Dios les da a algunos mucha riqueza, honor y todo lo que pudieran desear, pero luego no les da la oportunidad de disfrutar de esas cosas. Se mueren, y algún otro —incluso un extraño— termina disfrutando de toda esa abundancia. Eso no tiene sentido, es una tragedia terrible."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Un hombre podría tener cien hijos y llegar a vivir muchos años. Pero si no encuentra satisfacción en la vida y ni siquiera recibe un entierro digno, sería mejor para él haber nacido muerto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Entonces su nacimiento habría sido insignificante, y él habría terminado en la oscuridad. Ni siquiera habría tenido un nombre"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "ni habría visto la luz del sol o sabido que existía. Sin embargo, habría gozado de más paz que si hubiera crecido para convertirse en un hombre infeliz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Podría vivir mil años o el doble, y ni aun así encontrar satisfacción; y si al final de cuentas tiene que morir como todos, ¿de qué le sirve?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Toda la gente se pasa la vida trabajando para tener qué comer, pero parece que nunca le alcanza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Entonces, ¿de verdad están los sabios en mejores condiciones que los necios? ¿Ganan algo los pobres con ser sabios y saber comportarse frente a otros?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Disfruta de lo que tienes en lugar de desear lo que no tienes; soñar con tener cada vez más no tiene sentido, es como perseguir el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El futuro: algo definido y a la vez incierto"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Todo ha sido decidido. Ya se sabía desde hace tiempo lo que cada persona habría de ser. Así que no sirve de nada discutir con Dios acerca de tu destino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Cuantas más palabras decimos, menos sentido tienen. Entonces, ¿para qué sirven?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "En la brevedad de nuestra vida sin sentido, ¿quién conoce cómo pasar mejor nuestros días? Nuestra vida es como una sombra. ¿Quién sabe lo que sucederá en este mundo después de la muerte?"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

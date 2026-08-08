@@ -1,1 +1,165 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.16","is_chapter":true,"previous":{"usfm":"JOS.15","human":"Josué 15","canonical":true,"toc":true},"current":{"usfm":"JOS.16","human":"Josué 16"},"next":{"usfm":"JOS.17","human":"Josué 17","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los territorios de Efraín y Manasés"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El territorio asignado a los descendientes de José comenzaba en el río Jordán, al este de los manantiales de Jericó; y de allí ascendía hacia la región montañosa de Betel, a través del desierto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De Betel, es decir, Luz, continuaba hacia el territorio de los arquitas hasta Atarot,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["descendía hacia el oeste al territorio de los jafletitas hasta la región de Bet Jorón de Abajo y Guézer, y terminaba en el mar Mediterráneo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Así fue como las tribus de Manasés y Efraín, descendientes de José, recibieron como herencia sus territorios."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El territorio de Efraín"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Este es el territorio que recibieron la tribu de Efraín y sus respectivos clanes:","En el lado oriental sus límites se extendían desde Atarot Adar hasta Bet Jorón de Arriba"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["y llegaban hasta el mar Mediterráneo. En Micmetat, que está al norte, hacían una curva hacia el oriente rumbo a Tanat Siló y de allí llegaban a Janoa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Descendían de Janoa hacia Atarot y Nará, pasando por Jericó hasta llegar al río Jordán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["De Tapúaj la frontera seguía hacia el occidente rumbo al arroyo de Caná y terminaba en el mar Mediterráneo. Este es el territorio que recibió como herencia la tribu de Efraín por sus clanes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El territorio también incluía las ciudades y sus respectivas aldeas que se encontraban en el territorio asignado a la tribu de Manasés."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los efraimitas no expulsaron a los cananeos que vivían en Guézer; les permitieron vivir entre ellos, como sucede hasta el día de hoy, pero los sometieron a la esclavitud."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOS.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOS.17.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.15",
+      "human": "Josué 15"
+    },
+    "current": {
+      "usfm": "JOS.16",
+      "human": "Josué 16"
+    },
+    "next": {
+      "usfm": "JOS.17",
+      "human": "Josué 17"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los territorios de Efraín y Manasés"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El territorio asignado a los descendientes de José comenzaba en el río Jordán, al este de los manantiales de Jericó; y de allí ascendía hacia la región montañosa de Betel, a través del desierto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De Betel, es decir, Luz, continuaba hacia el territorio de los arquitas hasta Atarot,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "descendía hacia el oeste al territorio de los jafletitas hasta la región de Bet Jorón de Abajo y Guézer, y terminaba en el mar Mediterráneo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Así fue como las tribus de Manasés y Efraín, descendientes de José, recibieron como herencia sus territorios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El territorio de Efraín"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Este es el territorio que recibieron la tribu de Efraín y sus respectivos clanes:",
+          "En el lado oriental sus límites se extendían desde Atarot Adar hasta Bet Jorón de Arriba"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "y llegaban hasta el mar Mediterráneo. En Micmetat, que está al norte, hacían una curva hacia el oriente rumbo a Tanat Siló y de allí llegaban a Janoa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Descendían de Janoa hacia Atarot y Nará, pasando por Jericó hasta llegar al río Jordán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "De Tapúaj la frontera seguía hacia el occidente rumbo al arroyo de Caná y terminaba en el mar Mediterráneo. Este es el territorio que recibió como herencia la tribu de Efraín por sus clanes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El territorio también incluía las ciudades y sus respectivas aldeas que se encontraban en el territorio asignado a la tribu de Manasés."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los efraimitas no expulsaron a los cananeos que vivían en Guézer; les permitieron vivir entre ellos, como sucede hasta el día de hoy, pero los sometieron a la esclavitud."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

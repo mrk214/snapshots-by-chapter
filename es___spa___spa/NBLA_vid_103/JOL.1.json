@@ -1,1 +1,312 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"JOL","name":"Joel"},"chapter":{"chapter_usfm":"JOL.1","is_chapter":true,"previous":{"usfm":"HOS.14","human":"Oseas 14","canonical":true,"toc":true},"current":{"usfm":"JOL.1","human":"Joel 1"},"next":{"usfm":"JOL.2","human":"Joel 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La plaga de langostas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Palabra del Señor que vino a Joel, hijo de Petuel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Oigan esto, ancianos,","Y presten oído, habitantes todos de la tierra.","¿Ha acontecido cosa semejante en sus días,","O en los días de sus padres?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuéntenselo a los hijos de ustedes,","Y sus hijos a los suyos,","Y sus hijos a la siguiente generación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Lo que dejó la oruga, lo comió la langosta;","Lo que dejó la langosta, lo comió el pulgón;","Y lo que dejó el pulgón, lo comió el saltón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Despierten, borrachos, y lloren,","Y giman todos los que beben vino,","A causa del vino dulce","Que les quitan de la boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque una nación ha subido contra mi tierra,","Poderosa e innumerable;","Sus dientes son dientes de león,","Y tiene colmillos de leona."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ha hecho de mi vid una desolación,","Y astillas de mi higuera.","Del todo las ha descortezado y derribado;","Sus ramas se han vuelto blancas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶Laméntate como virgen ceñida de cilicio","Por el esposo de su juventud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Han sido cortadas la ofrenda de cereal y la libación","De la casa del Señor.","Están de duelo los sacerdotes,","Los ministros del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El campo está asolado,","La tierra está de duelo,","Porque el grano está arruinado,","El vino nuevo se seca,","Y el aceite virgen se pierde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Avergüéncense, labradores,","Giman, viñadores,","Por el trigo y la cebada,","Porque la cosecha del campo se ha perdido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["La vid se seca,","Y se marchita la higuera;","También el granado, la palmera y el manzano,","Todos los árboles del campo se secan.","Ciertamente se seca la alegría","De los hijos de los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶Cíñanse de cilicio,","Y laméntense, sacerdotes;","Giman, ministros del altar.","Vengan, pasen la noche ceñidos de cilicio,","Ministros de mi Dios,","Porque sin ofrenda de cereal y sin libación","Ha quedado la casa de su Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Promulguen ayuno,","Convoquen asamblea;","Congreguen a los ancianos","Y a todos los habitantes de la tierra","En la casa del Señor su Dios,","Y clamen al Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Ay de ese día!","Porque está cerca el día del Señor,","Y vendrá como destrucción del Todopoderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¿No ha sido suprimido el alimento de delante de nuestros ojos,","Y la alegría y el regocijo de la casa de nuestro Dios?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Las semillas se han secado bajo los terrones;","Los almacenes han sido asolados,","Los graneros derribados","Porque se secó el grano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["¡Cómo muge el ganado!","Andan vagando las manadas de vacas","Porque no hay pasto para ellas;","Hasta los rebaños de ovejas sufren."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A Ti clamo, oh Señor,","Porque el fuego ha devorado los pastos del desierto,","Y la llama ha consumido todos los árboles del campo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Aun las bestias del campo braman por Ti,","Porque se han secado los arroyos de agua,","Y el fuego ha devorado los pastos del desierto."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JOL.2.json"
+  },
+  "book": {
+    "book_usfm": "JOL",
+    "name": "Joel"
+  },
+  "chapter": {
+    "chapter_usfm": "JOL.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.14",
+      "human": "Oseas 14"
+    },
+    "current": {
+      "usfm": "JOL.1",
+      "human": "Joel 1"
+    },
+    "next": {
+      "usfm": "JOL.2",
+      "human": "Joel 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La plaga de langostas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Palabra del Señor que vino a Joel, hijo de Petuel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Oigan esto, ancianos,",
+          "Y presten oído, habitantes todos de la tierra.",
+          "¿Ha acontecido cosa semejante en sus días,",
+          "O en los días de sus padres?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuéntenselo a los hijos de ustedes,",
+          "Y sus hijos a los suyos,",
+          "Y sus hijos a la siguiente generación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Lo que dejó la oruga, lo comió la langosta;",
+          "Lo que dejó la langosta, lo comió el pulgón;",
+          "Y lo que dejó el pulgón, lo comió el saltón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Despierten, borrachos, y lloren,",
+          "Y giman todos los que beben vino,",
+          "A causa del vino dulce",
+          "Que les quitan de la boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque una nación ha subido contra mi tierra,",
+          "Poderosa e innumerable;",
+          "Sus dientes son dientes de león,",
+          "Y tiene colmillos de leona."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ha hecho de mi vid una desolación,",
+          "Y astillas de mi higuera.",
+          "Del todo las ha descortezado y derribado;",
+          "Sus ramas se han vuelto blancas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶Laméntate como virgen ceñida de cilicio",
+          "Por el esposo de su juventud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Han sido cortadas la ofrenda de cereal y la libación",
+          "De la casa del Señor.",
+          "Están de duelo los sacerdotes,",
+          "Los ministros del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El campo está asolado,",
+          "La tierra está de duelo,",
+          "Porque el grano está arruinado,",
+          "El vino nuevo se seca,",
+          "Y el aceite virgen se pierde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Avergüéncense, labradores,",
+          "Giman, viñadores,",
+          "Por el trigo y la cebada,",
+          "Porque la cosecha del campo se ha perdido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "La vid se seca,",
+          "Y se marchita la higuera;",
+          "También el granado, la palmera y el manzano,",
+          "Todos los árboles del campo se secan.",
+          "Ciertamente se seca la alegría",
+          "De los hijos de los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶Cíñanse de cilicio,",
+          "Y laméntense, sacerdotes;",
+          "Giman, ministros del altar.",
+          "Vengan, pasen la noche ceñidos de cilicio,",
+          "Ministros de mi Dios,",
+          "Porque sin ofrenda de cereal y sin libación",
+          "Ha quedado la casa de su Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Promulguen ayuno,",
+          "Convoquen asamblea;",
+          "Congreguen a los ancianos",
+          "Y a todos los habitantes de la tierra",
+          "En la casa del Señor su Dios,",
+          "Y clamen al Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Ay de ese día!",
+          "Porque está cerca el día del Señor,",
+          "Y vendrá como destrucción del Todopoderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¿No ha sido suprimido el alimento de delante de nuestros ojos,",
+          "Y la alegría y el regocijo de la casa de nuestro Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Las semillas se han secado bajo los terrones;",
+          "Los almacenes han sido asolados,",
+          "Los graneros derribados",
+          "Porque se secó el grano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "¡Cómo muge el ganado!",
+          "Andan vagando las manadas de vacas",
+          "Porque no hay pasto para ellas;",
+          "Hasta los rebaños de ovejas sufren."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A Ti clamo, oh Señor,",
+          "Porque el fuego ha devorado los pastos del desierto,",
+          "Y la llama ha consumido todos los árboles del campo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Aun las bestias del campo braman por Ti,",
+          "Porque se han secado los arroyos de agua,",
+          "Y el fuego ha devorado los pastos del desierto."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

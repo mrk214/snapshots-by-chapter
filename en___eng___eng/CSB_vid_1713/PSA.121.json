@@ -1,1 +1,152 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.121","is_chapter":true,"previous":{"usfm":"PSA.120","human":"Psalms 120","canonical":true,"toc":true},"current":{"usfm":"PSA.121","human":"Psalms 121"},"next":{"usfm":"PSA.122","human":"Psalms 122","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord Our Protector"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I lift my eyes toward the mountains.","Where will my help come from?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["My help comes from the Lord,","the Maker of heaven and earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He will not allow your foot to slip;","your Protector will not slumber."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Indeed, the Protector of Israel","does not slumber or sleep."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The Lord protects you;","the Lord is a shelter right by your side. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The sun will not strike you by day","or the moon by night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The Lord will protect you from all harm;","he will protect your life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The Lord will protect your coming and going","both now and forever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.120.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.122.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.121",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.120",
+      "human": "Psalms 120"
+    },
+    "current": {
+      "usfm": "PSA.121",
+      "human": "Psalms 121"
+    },
+    "next": {
+      "usfm": "PSA.122",
+      "human": "Psalms 122"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord Our Protector"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I lift my eyes toward the mountains.",
+          "Where will my help come from?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "My help comes from the Lord,",
+          "the Maker of heaven and earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He will not allow your foot to slip;",
+          "your Protector will not slumber."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Indeed, the Protector of Israel",
+          "does not slumber or sleep."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The Lord protects you;",
+          "the Lord is a shelter right by your side. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The sun will not strike you by day",
+          "or the moon by night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The Lord will protect you from all harm;",
+          "he will protect your life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The Lord will protect your coming and going",
+          "both now and forever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

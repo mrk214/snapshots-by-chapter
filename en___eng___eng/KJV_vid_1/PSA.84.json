@@ -1,1 +1,205 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.84","is_chapter":true,"previous":{"usfm":"PSA.83","human":"Psalm 83","canonical":true,"toc":true},"current":{"usfm":"PSA.84","human":"Psalm 84"},"next":{"usfm":"PSA.85","human":"Psalm 85","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician upon Gittith, A Psalm for the sons of Korah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How amiable are thy tabernacles, O LORD of hosts!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["My soul longeth, yea, even fainteth for the courts of the LORD:","My heart and my flesh crieth out for the living God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young,","Even thine altars, O LORD of hosts, my King, and my God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Blessed are they that dwell in thy house:","They will be still praising thee."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Blessed is the man whose strength is","in thee; In whose heart are the ways of them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Who passing through the valley of Baca make it a well;","The rain also filleth the pools."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["They go from strength to strength,","Every one of them in Zion appeareth before God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O LORD God of hosts, hear my prayer:","Give ear, O God of Jacob."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Behold, O God our shield,","And look upon the face of thine anointed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["For a day in thy courts","Is better than a thousand.","I had rather be a doorkeeper in the house of my God,","Than to dwell in the tents of wickedness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["For the LORD God is a sun and shield:","The LORD will give grace and glory: No good thing will he withhold from them that walk uprightly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["O LORD of hosts,","Blessed is the man that trusteth in thee."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.83.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.85.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.84",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.83",
+      "human": "Psalm 83"
+    },
+    "current": {
+      "usfm": "PSA.84",
+      "human": "Psalm 84"
+    },
+    "next": {
+      "usfm": "PSA.85",
+      "human": "Psalm 85"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician upon Gittith, A Psalm for the sons of Korah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How amiable are thy tabernacles, O LORD of hosts!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "My soul longeth, yea, even fainteth for the courts of the LORD:",
+          "My heart and my flesh crieth out for the living God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Yea, the sparrow hath found an house, and the swallow a nest for herself, where she may lay her young,",
+          "Even thine altars, O LORD of hosts, my King, and my God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Blessed are they that dwell in thy house:",
+          "They will be still praising thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Blessed is the man whose strength is",
+          "in thee; In whose heart are the ways of them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Who passing through the valley of Baca make it a well;",
+          "The rain also filleth the pools."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "They go from strength to strength,",
+          "Every one of them in Zion appeareth before God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O LORD God of hosts, hear my prayer:",
+          "Give ear, O God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Behold, O God our shield,",
+          "And look upon the face of thine anointed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "For a day in thy courts",
+          "Is better than a thousand.",
+          "I had rather be a doorkeeper in the house of my God,",
+          "Than to dwell in the tents of wickedness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "For the LORD God is a sun and shield:",
+          "The LORD will give grace and glory: No good thing will he withhold from them that walk uprightly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "O LORD of hosts,",
+          "Blessed is the man that trusteth in thee."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

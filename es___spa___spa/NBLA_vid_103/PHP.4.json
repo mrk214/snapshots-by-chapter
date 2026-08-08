@@ -1,1 +1,310 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PHP","name":"Filipenses"},"chapter":{"chapter_usfm":"PHP.4","is_chapter":true,"previous":{"usfm":"PHP.3","human":"Filipenses 3","canonical":true,"toc":true},"current":{"usfm":"PHP.4","human":"Filipenses 4"},"next":{"usfm":"COL.1","human":"Colosenses 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Regocijo y paz en el Señor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Así que, hermanos míos, amados y añorados, gozo y corona mía, estén así firmes en el Señor, amados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ruego a Evodia y a Síntique, que vivan en armonía en el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En verdad, fiel compañero, también te ruego que ayudes a estas mujeres que han compartido mis luchas en la causa del evangelio, junto con Clemente y los demás colaboradores míos, cuyos nombres están en el libro de la vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Regocíjense en el Señor siempre. Otra vez lo diré: ¡Regocíjense!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["La bondad de ustedes sea conocida de todos los hombres. El Señor está cerca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Por nada estén afanosos; antes bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Y la paz de Dios, que sobrepasa todo entendimiento, guardará sus corazones y sus mentes en Cristo Jesús."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El secreto de la paz"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Por lo demás, hermanos, todo lo que es verdadero, todo lo digno, todo lo justo, todo lo puro, todo lo amable, todo lo honorable, si hay alguna virtud o algo que merece elogio, en esto mediten."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Lo que también han aprendido y recibido y oído y visto en mí, esto practiquen, y el Dios de paz estará con ustedes."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Actitud ejemplar de Pablo hacia las cosas materiales"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Me alegré grandemente en el Señor de que ya al fin han reavivado su cuidado para conmigo. En verdad, antes se preocupaban, pero les faltaba la oportunidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["No que hable porque tenga escasez, pues he aprendido a contentarme cualquiera que sea mi situación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Sé vivir en pobreza, y sé vivir en prosperidad. En todo y por todo he aprendido el secreto tanto de estar saciado como de tener hambre, de tener abundancia como de sufrir necesidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Todo lo puedo en Cristo que me fortalece."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Sin embargo, han hecho bien en compartir conmigo en mi aflicción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Ustedes mismos también saben, filipenses, que al comienzo de la predicación del evangelio, después que partí de Macedonia, ninguna iglesia compartió conmigo en cuestión de dar y recibir, sino solamente ustedes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Porque aun a Tesalónica enviaron dádivas más de una vez para mis necesidades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No es que busque la dádiva en sí, sino que busco fruto que aumente en su cuenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pero lo he recibido todo y tengo abundancia. Estoy bien abastecido, habiendo recibido de Epafrodito lo que han enviado: fragante aroma, sacrificio aceptable, agradable a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Y mi Dios proveerá a todas sus necesidades, conforme a sus riquezas en gloria en Cristo Jesús."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["A nuestro Dios y Padre sea la gloria por los siglos de los siglos. Amén."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Saludos y bendición"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Saluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo los saludan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Todos los santos los saludan, especialmente los de la casa de César."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["La gracia del Señor Jesucristo sea con el espíritu de ustedes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PHP.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/COL.1.json"
+  },
+  "book": {
+    "book_usfm": "PHP",
+    "name": "Filipenses"
+  },
+  "chapter": {
+    "chapter_usfm": "PHP.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PHP.3",
+      "human": "Filipenses 3"
+    },
+    "current": {
+      "usfm": "PHP.4",
+      "human": "Filipenses 4"
+    },
+    "next": {
+      "usfm": "COL.1",
+      "human": "Colosenses 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Regocijo y paz en el Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Así que, hermanos míos, amados y añorados, gozo y corona mía, estén así firmes en el Señor, amados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ruego a Evodia y a Síntique, que vivan en armonía en el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En verdad, fiel compañero, también te ruego que ayudes a estas mujeres que han compartido mis luchas en la causa del evangelio, junto con Clemente y los demás colaboradores míos, cuyos nombres están en el libro de la vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Regocíjense en el Señor siempre. Otra vez lo diré: ¡Regocíjense!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "La bondad de ustedes sea conocida de todos los hombres. El Señor está cerca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Por nada estén afanosos; antes bien, en todo, mediante oración y súplica con acción de gracias, sean dadas a conocer sus peticiones delante de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Y la paz de Dios, que sobrepasa todo entendimiento, guardará sus corazones y sus mentes en Cristo Jesús."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El secreto de la paz"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Por lo demás, hermanos, todo lo que es verdadero, todo lo digno, todo lo justo, todo lo puro, todo lo amable, todo lo honorable, si hay alguna virtud o algo que merece elogio, en esto mediten."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Lo que también han aprendido y recibido y oído y visto en mí, esto practiquen, y el Dios de paz estará con ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Actitud ejemplar de Pablo hacia las cosas materiales"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Me alegré grandemente en el Señor de que ya al fin han reavivado su cuidado para conmigo. En verdad, antes se preocupaban, pero les faltaba la oportunidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "No que hable porque tenga escasez, pues he aprendido a contentarme cualquiera que sea mi situación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Sé vivir en pobreza, y sé vivir en prosperidad. En todo y por todo he aprendido el secreto tanto de estar saciado como de tener hambre, de tener abundancia como de sufrir necesidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Todo lo puedo en Cristo que me fortalece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Sin embargo, han hecho bien en compartir conmigo en mi aflicción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Ustedes mismos también saben, filipenses, que al comienzo de la predicación del evangelio, después que partí de Macedonia, ninguna iglesia compartió conmigo en cuestión de dar y recibir, sino solamente ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Porque aun a Tesalónica enviaron dádivas más de una vez para mis necesidades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No es que busque la dádiva en sí, sino que busco fruto que aumente en su cuenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pero lo he recibido todo y tengo abundancia. Estoy bien abastecido, habiendo recibido de Epafrodito lo que han enviado: fragante aroma, sacrificio aceptable, agradable a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Y mi Dios proveerá a todas sus necesidades, conforme a sus riquezas en gloria en Cristo Jesús."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "A nuestro Dios y Padre sea la gloria por los siglos de los siglos. Amén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Saludos y bendición"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Saluden a todos los santos en Cristo Jesús. Los hermanos que están conmigo los saludan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Todos los santos los saludan, especialmente los de la casa de César."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "La gracia del Señor Jesucristo sea con el espíritu de ustedes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

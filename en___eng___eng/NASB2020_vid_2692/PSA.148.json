@@ -1,1 +1,222 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.148","is_chapter":true,"previous":{"usfm":"PSA.147","human":"Psalm 147","canonical":true,"toc":true},"current":{"usfm":"PSA.148","human":"Psalm 148"},"next":{"usfm":"PSA.149","human":"Psalm 149","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 148"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["The Whole Creation Invoked to Praise the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise the Lord!","Praise the Lord from the heavens;","Praise Him in the heights!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Praise Him, all His angels;","Praise Him, all His heavenly armies!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Praise Him, sun and moon;","Praise Him, all stars of light!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Praise Him, highest heavens,","And the waters that are above the heavens!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They are to praise the name of the Lord,","For He commanded and they were created."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He has also established them forever and ever;","He has made a decree, and it will not pass away."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¶Praise the Lord from the earth,","Sea monsters, and all the ocean depths;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Fire and hail, snow and clouds;","Stormy wind, fulfilling His word;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mountains and all hills;","Fruit trees and all cedars;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Animals and all cattle;","Crawling things and winged fowl;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Kings of the earth and all peoples;","Rulers and all judges of the earth;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Both young men and virgins;","Old men and children."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¶They are to praise the name of the Lord,","For His name alone is exalted;","His majesty is above earth and heaven."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And He has lifted up a horn for His people,","Praise for all His godly ones,","For the sons of Israel, a people near to Him.","Praise the Lord!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.147.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.149.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.148",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.147",
+      "human": "Psalm 147"
+    },
+    "current": {
+      "usfm": "PSA.148",
+      "human": "Psalm 148"
+    },
+    "next": {
+      "usfm": "PSA.149",
+      "human": "Psalm 149"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 148"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Whole Creation Invoked to Praise the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise the Lord!",
+          "Praise the Lord from the heavens;",
+          "Praise Him in the heights!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Praise Him, all His angels;",
+          "Praise Him, all His heavenly armies!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Praise Him, sun and moon;",
+          "Praise Him, all stars of light!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Praise Him, highest heavens,",
+          "And the waters that are above the heavens!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They are to praise the name of the Lord,",
+          "For He commanded and they were created."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He has also established them forever and ever;",
+          "He has made a decree, and it will not pass away."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¶Praise the Lord from the earth,",
+          "Sea monsters, and all the ocean depths;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Fire and hail, snow and clouds;",
+          "Stormy wind, fulfilling His word;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mountains and all hills;",
+          "Fruit trees and all cedars;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Animals and all cattle;",
+          "Crawling things and winged fowl;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Kings of the earth and all peoples;",
+          "Rulers and all judges of the earth;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Both young men and virgins;",
+          "Old men and children."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¶They are to praise the name of the Lord,",
+          "For His name alone is exalted;",
+          "His majesty is above earth and heaven."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And He has lifted up a horn for His people,",
+          "Praise for all His godly ones,",
+          "For the sons of Israel, a people near to Him.",
+          "Praise the Lord!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

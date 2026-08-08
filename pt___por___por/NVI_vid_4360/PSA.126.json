@@ -1,1 +1,126 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Salmos 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Salmos 126"},"next":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cântico de Peregrinação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Quando o Senhor trouxe os cativos","de volta a Sião, foi como um sonho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Então a nossa boca encheu-se de riso","e a nossa língua de cantos de alegria.","Até nas outras nações se dizia:","“O Senhor fez coisas grandiosas por este povo”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sim, coisas grandiosas fez o Senhor por nós,","por isso estamos alegres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Senhor, restaura-nos,","assim como enches o leito dos ribeiros no deserto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Aqueles que semeiam com lágrimas,","com cantos de alegria colherão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Aquele que sai chorando","enquanto lança a semente,","voltará com cantos de alegria,","trazendo os seus feixes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Salmos 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de Peregrinação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Quando o Senhor trouxe os cativos",
+          "de volta a Sião, foi como um sonho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Então a nossa boca encheu-se de riso",
+          "e a nossa língua de cantos de alegria.",
+          "Até nas outras nações se dizia:",
+          "“O Senhor fez coisas grandiosas por este povo”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sim, coisas grandiosas fez o Senhor por nós,",
+          "por isso estamos alegres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Senhor, restaura-nos,",
+          "assim como enches o leito dos ribeiros no deserto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Aqueles que semeiam com lágrimas,",
+          "com cantos de alegria colherão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Aquele que sai chorando",
+          "enquanto lança a semente,",
+          "voltará com cantos de alegria,",
+          "trazendo os seus feixes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

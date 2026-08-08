@@ -1,1 +1,323 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.13","is_chapter":true,"previous":{"usfm":"PRO.12","human":"Proverbios 12","canonical":true,"toc":true},"current":{"usfm":"PRO.13","human":"Proverbios 13"},"next":{"usfm":"PRO.14","human":"Proverbios 14","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El hijo sabio acepta la disciplina de su padre,","pero el escarnecedor no escucha la reprensión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Del fruto de su boca el hombre comerá el bien,","pero el deseo de los pérfidos es la violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Él que guarda su boca, preserva su vida;","el que mucho abre sus labios, termina en ruina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El alma del perezoso desea, pero nada consigue,","mas el alma de los diligentes queda satisfecha."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El justo aborrece la falsedad,","mas el impío causa repugnancia y vergüenza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La justicia guarda al íntegro en su camino,","mas la maldad trastorna al pecador."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Hay quien pretende ser rico, y nada tiene;","hay quien pretende ser pobre, y tiene una gran fortuna."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El rescate de la vida de un hombre está en sus riquezas,","pero el pobre no oye amenazas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["La luz de los justos brilla alegremente,","pero la lámpara de los impíos se apaga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por la soberbia solo viene la contienda,","mas con los que reciben consejos está la sabiduría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["La fortuna obtenida con fraude disminuye,","pero el que la recoge con trabajo la aumenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["La esperanza que se demora enferma el corazón,","pero el deseo cumplido es árbol de vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Él que desprecia la palabra pagará por ello,","pero el que teme el mandamiento será recompensado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["La enseñanza del sabio es fuente de vida,","para apartarse de los lazos de la muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El buen entendimiento produce favor,","mas el camino de los pérfidos es duro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Todo hombre prudente obra con conocimiento,","pero el necio ostenta necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El mensajero perverso cae en la adversidad,","pero el enviado fiel trae sanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Pobreza y vergüenza vendrán al que menosprecia la instrucción,","mas el que acepta la reprensión será honrado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Deseo cumplido es dulzura para el alma,","pero abominación para los necios es apartarse del mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Él que anda con sabios será sabio,","mas el compañero de los necios sufrirá daño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["A los pecadores los persigue el mal,","pero los justos serán recompensados con el bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["El hombre bueno deja herencia a los hijos de sus hijos,","pero la riqueza del pecador está reservada para el justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["El barbecho de los pobres tiene mucho de comer,","pero es barrido por la injusticia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Él que escatima la vara odia a su hijo,","mas el que lo ama lo disciplina con diligencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["El justo come hasta saciar su alma,","pero el vientre de los impíos sufre escasez."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PRO.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PRO.14.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Proverbios 12"
+    },
+    "current": {
+      "usfm": "PRO.13",
+      "human": "Proverbios 13"
+    },
+    "next": {
+      "usfm": "PRO.14",
+      "human": "Proverbios 14"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El hijo sabio acepta la disciplina de su padre,",
+          "pero el escarnecedor no escucha la reprensión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Del fruto de su boca el hombre comerá el bien,",
+          "pero el deseo de los pérfidos es la violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Él que guarda su boca, preserva su vida;",
+          "el que mucho abre sus labios, termina en ruina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El alma del perezoso desea, pero nada consigue,",
+          "mas el alma de los diligentes queda satisfecha."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El justo aborrece la falsedad,",
+          "mas el impío causa repugnancia y vergüenza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La justicia guarda al íntegro en su camino,",
+          "mas la maldad trastorna al pecador."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Hay quien pretende ser rico, y nada tiene;",
+          "hay quien pretende ser pobre, y tiene una gran fortuna."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El rescate de la vida de un hombre está en sus riquezas,",
+          "pero el pobre no oye amenazas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "La luz de los justos brilla alegremente,",
+          "pero la lámpara de los impíos se apaga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por la soberbia solo viene la contienda,",
+          "mas con los que reciben consejos está la sabiduría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "La fortuna obtenida con fraude disminuye,",
+          "pero el que la recoge con trabajo la aumenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "La esperanza que se demora enferma el corazón,",
+          "pero el deseo cumplido es árbol de vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Él que desprecia la palabra pagará por ello,",
+          "pero el que teme el mandamiento será recompensado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "La enseñanza del sabio es fuente de vida,",
+          "para apartarse de los lazos de la muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El buen entendimiento produce favor,",
+          "mas el camino de los pérfidos es duro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Todo hombre prudente obra con conocimiento,",
+          "pero el necio ostenta necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El mensajero perverso cae en la adversidad,",
+          "pero el enviado fiel trae sanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Pobreza y vergüenza vendrán al que menosprecia la instrucción,",
+          "mas el que acepta la reprensión será honrado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Deseo cumplido es dulzura para el alma,",
+          "pero abominación para los necios es apartarse del mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Él que anda con sabios será sabio,",
+          "mas el compañero de los necios sufrirá daño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "A los pecadores los persigue el mal,",
+          "pero los justos serán recompensados con el bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "El hombre bueno deja herencia a los hijos de sus hijos,",
+          "pero la riqueza del pecador está reservada para el justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "El barbecho de los pobres tiene mucho de comer,",
+          "pero es barrido por la injusticia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Él que escatima la vara odia a su hijo,",
+          "mas el que lo ama lo disciplina con diligencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "El justo come hasta saciar su alma,",
+          "pero el vientre de los impíos sufre escasez."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

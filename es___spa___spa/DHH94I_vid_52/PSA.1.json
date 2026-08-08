@@ -1,1 +1,143 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.1","is_chapter":true,"previous":{"usfm":"JOB.42","human":"Job 42","canonical":true,"toc":true},"current":{"usfm":"PSA.1","human":"Salmos 1"},"next":{"usfm":"PSA.2","human":"Salmos 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["LIBRO I"],"rlw_lines":[]},{"type":"section2","verse_numbers":[],"lines":["(Sal 1—41)"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Felicidad verdadera"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Feliz el hombre","que no sigue el consejo de los malvados,","ni va por el camino de los pecadores,","ni hace causa común con los que se burlan de Dios,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["sino que pone su amor en la ley del Señor","y en ella medita noche y día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ese hombre es como un árbol","plantado a la orilla de un río,","que da su fruto a su tiempo","y jamás se marchitan sus hojas.","¡Todo lo que hace, le sale bien!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Con los malvados no pasa lo mismo,","pues son como paja que se lleva el viento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por eso los malvados caerán bajo el juicio de Dios","y no tendrán parte en la comunidad de los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El Señor cuida el camino de los justos,","pero el camino de los malos lleva al desastre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOB.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.2.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Job 42"
+    },
+    "current": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "next": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "LIBRO I"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "section2",
+        "verse_numbers": [],
+        "lines": [
+          "(Sal 1—41)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Felicidad verdadera"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Feliz el hombre",
+          "que no sigue el consejo de los malvados,",
+          "ni va por el camino de los pecadores,",
+          "ni hace causa común con los que se burlan de Dios,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "sino que pone su amor en la ley del Señor",
+          "y en ella medita noche y día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ese hombre es como un árbol",
+          "plantado a la orilla de un río,",
+          "que da su fruto a su tiempo",
+          "y jamás se marchitan sus hojas.",
+          "¡Todo lo que hace, le sale bien!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Con los malvados no pasa lo mismo,",
+          "pues son como paja que se lleva el viento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por eso los malvados caerán bajo el juicio de Dios",
+          "y no tendrán parte en la comunidad de los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El Señor cuida el camino de los justos,",
+          "pero el camino de los malos lleva al desastre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

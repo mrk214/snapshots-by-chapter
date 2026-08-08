@@ -1,1 +1,94 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.133","is_chapter":true,"previous":{"usfm":"PSA.132","human":"Salmos 132","canonical":true,"toc":true},"current":{"usfm":"PSA.133","human":"Salmos 133"},"next":{"usfm":"PSA.134","human":"Salmos 134","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A excelência da união fraternal"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico de degraus; de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Como é bom e agradável os irmãos viverem em união!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["É como o óleo precioso sobre a cabeça, que desce para a barba, a barba de Arão, e desce sobre a gola das suas vestes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["como o orvalho do Hermom, que desce sobre os montes de Sião. Ali o Senhor ordena a bênção e a vida para sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.132.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.134.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.133",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.132",
+      "human": "Salmos 132"
+    },
+    "current": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "next": {
+      "usfm": "PSA.134",
+      "human": "Salmos 134"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A excelência da união fraternal"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de degraus; de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Como é bom e agradável os irmãos viverem em união!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "É como o óleo precioso sobre a cabeça, que desce para a barba, a barba de Arão, e desce sobre a gola das suas vestes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "como o orvalho do Hermom, que desce sobre os montes de Sião. Ali o Senhor ordena a bênção e a vida para sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

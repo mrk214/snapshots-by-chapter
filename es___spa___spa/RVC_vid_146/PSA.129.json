@@ -1,1 +1,155 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.129","is_chapter":true,"previous":{"usfm":"PSA.128","human":"Salmos 128","canonical":true,"toc":true},"current":{"usfm":"PSA.129","human":"Salmos 129"},"next":{"usfm":"PSA.130","human":"Salmos 130","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La justicia del Señor"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico gradual."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Muchas han sido mis angustias","desde mi juventud…","—que lo reconozca el pueblo de Israel—,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["muchas han sido mis angustias","desde mi juventud,","pero no lograron vencerme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sobre mis espaldas pasaron los arados","y me dejaron profundas huellas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["pero el Señor, que es justo,","me libró de las ataduras de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Que huyan avergonzados","todos los que odian a Sión!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Que sean como la hierba en el tejado,","que se marchita y nunca crece,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["que no alcanza a llenar la mano del segador,","ni jamás llega a formar un manojo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Que nunca le digan los que pasan:","«¡Que el Señor los bendiga!","¡Nosotros los bendecimos en el nombre del Señor!»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.128.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.130.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.129",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "current": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "next": {
+      "usfm": "PSA.130",
+      "human": "Salmos 130"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La justicia del Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico gradual."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Muchas han sido mis angustias",
+          "desde mi juventud…",
+          "—que lo reconozca el pueblo de Israel—,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "muchas han sido mis angustias",
+          "desde mi juventud,",
+          "pero no lograron vencerme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sobre mis espaldas pasaron los arados",
+          "y me dejaron profundas huellas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "pero el Señor, que es justo,",
+          "me libró de las ataduras de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Que huyan avergonzados",
+          "todos los que odian a Sión!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Que sean como la hierba en el tejado,",
+          "que se marchita y nunca crece,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "que no alcanza a llenar la mano del segador,",
+          "ni jamás llega a formar un manojo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Que nunca le digan los que pasan:",
+          "«¡Que el Señor los bendiga!",
+          "¡Nosotros los bendecimos en el nombre del Señor!»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

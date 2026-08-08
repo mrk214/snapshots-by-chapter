@@ -1,1 +1,177 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.75","is_chapter":true,"previous":{"usfm":"PSA.74","human":"Psalm 74","canonical":true,"toc":true},"current":{"usfm":"PSA.75","human":"Psalm 75"},"next":{"usfm":"PSA.76","human":"Psalm 76","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician, Al-taschith, A Psalm or Song of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Unto thee, O God, do we give thanks,","Unto thee do we give thanks:","For that thy name is near","Thy wondrous works declare."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["When I shall receive the congregation","I will judge uprightly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The earth and all the inhabitants thereof are dissolved:","I bear up the pillars of it."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I said unto the fools, Deal not foolishly:","And to the wicked, Lift not up the horn:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Lift not up your horn on high:","Speak not with a stiff neck."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["For promotion cometh neither from the east, nor from the west,","Nor from the south."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But God is the judge:","He putteth down one, and setteth up another."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["For in the hand of the LORD there is a cup, and the wine is red;","It is full of mixture; and he poureth out of the same:","But the dregs thereof,","All the wicked of the earth shall wring them out, and drink them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["But I will declare for ever; I will sing praises to the God of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["All the horns of the wicked also will I cut off;","But the horns of the righteous shall be exalted."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.74.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.76.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.75",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.74",
+      "human": "Psalm 74"
+    },
+    "current": {
+      "usfm": "PSA.75",
+      "human": "Psalm 75"
+    },
+    "next": {
+      "usfm": "PSA.76",
+      "human": "Psalm 76"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician, Al-taschith, A Psalm or Song of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Unto thee, O God, do we give thanks,",
+          "Unto thee do we give thanks:",
+          "For that thy name is near",
+          "Thy wondrous works declare."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "When I shall receive the congregation",
+          "I will judge uprightly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The earth and all the inhabitants thereof are dissolved:",
+          "I bear up the pillars of it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I said unto the fools, Deal not foolishly:",
+          "And to the wicked, Lift not up the horn:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Lift not up your horn on high:",
+          "Speak not with a stiff neck."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "For promotion cometh neither from the east, nor from the west,",
+          "Nor from the south."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But God is the judge:",
+          "He putteth down one, and setteth up another."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "For in the hand of the LORD there is a cup, and the wine is red;",
+          "It is full of mixture; and he poureth out of the same:",
+          "But the dregs thereof,",
+          "All the wicked of the earth shall wring them out, and drink them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "But I will declare for ever; I will sing praises to the God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "All the horns of the wicked also will I cut off;",
+          "But the horns of the righteous shall be exalted."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

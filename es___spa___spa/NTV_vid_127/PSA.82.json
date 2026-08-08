@@ -1,1 +1,154 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Salmos 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Salmos 82"},"next":{"usfm":"PSA.83","human":"Salmos 83","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de Asaf."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios preside la corte de los cielos;","pronuncia juicio en medio de los seres celestiales:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¿Hasta cuándo dictarán decisiones injustas","que favorecen a los malvados?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["»Hagan justicia al pobre y al huérfano;","defiendan los derechos de los oprimidos y de los desposeídos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Rescaten al pobre y al indefenso;","líbrenlos de las garras de los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pero esos opresores no saben nada;","¡son tan ignorantes!","Andan errantes en la oscuridad","mientras el mundo entero se estremece hasta los cimientos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Yo digo: “Ustedes son dioses;","son todos hijos del Altísimo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero morirán como simples mortales","y caerán como cualquier otro gobernante”»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levántate, oh Dios, y juzga a la tierra,","porque todas las naciones te pertenecen."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Salmos 83"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Asaf."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios preside la corte de los cielos;",
+          "pronuncia juicio en medio de los seres celestiales:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¿Hasta cuándo dictarán decisiones injustas",
+          "que favorecen a los malvados?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "»Hagan justicia al pobre y al huérfano;",
+          "defiendan los derechos de los oprimidos y de los desposeídos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Rescaten al pobre y al indefenso;",
+          "líbrenlos de las garras de los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pero esos opresores no saben nada;",
+          "¡son tan ignorantes!",
+          "Andan errantes en la oscuridad",
+          "mientras el mundo entero se estremece hasta los cimientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Yo digo: “Ustedes son dioses;",
+          "son todos hijos del Altísimo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero morirán como simples mortales",
+          "y caerán como cualquier otro gobernante”»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levántate, oh Dios, y juzga a la tierra,",
+          "porque todas las naciones te pertenecen."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

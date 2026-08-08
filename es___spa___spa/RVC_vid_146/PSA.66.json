@@ -1,1 +1,289 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.66","is_chapter":true,"previous":{"usfm":"PSA.65","human":"Salmos 65","canonical":true,"toc":true},"current":{"usfm":"PSA.66","human":"Salmos 66"},"next":{"usfm":"PSA.67","human":"Salmos 67","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Alabanza por los portentos de Dios"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al músico principal. Cántico. Salmo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ustedes, habitantes de toda la tierra,","¡aclamen a Dios con alegría!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Canten salmos a la gloria de su nombre!","¡Cántenle gloriosas alabanzas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Digan a Dios: «¡Tus obras son asombrosas!","¡Con tu gran poder sometes a tus enemigos!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Toda la tierra te rinde adoración","y canta salmos a tu nombre!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Vengan a ver las obras de Dios,","sus hechos sorprendentes en favor de los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Convirtió el mar en terreno seco,","y ellos cruzaron el río por su propio pie.","¡Alegrémonos por lo que hizo allí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por su poder, él nos gobierna para siempre;","sus ojos vigilan atentamente a las naciones;","por eso los rebeldes no lograrán levantarse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pueblos todos: ¡bendigan a nuestro Dios!","¡Hagan resonar la voz de su alabanza!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tú, Señor, nos has preservado la vida,","y no has dejado que resbalen nuestros pies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tú, Dios nuestro, nos has puesto a prueba;","nos has refinado como se refina la plata."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero nos dejaste caer en la trampa;","¡impusiste sobre nosotros una pesada carga!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Caballos y jinetes han pasado sobre nosotros;","hemos pasado por el fuego y por el agua,","pero al final nos has llevado a la abundancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Entraré en tu templo con holocaustos,","y allí te cumpliré mis promesas,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["las promesas que, en mi angustia,","pronuncié con mis propios labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Te ofreceré holocaustos de los mejores animales,","te ofreceré sahumerio de carneros","y sacrificios de bueyes y machos cabríos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Ustedes todos, los que temen a Dios,","vengan y escuchen lo que él ha hecho conmigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Con mis labios le pedí ayuda;","con mi lengua exalté su nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Si mi corazón se hubiera fijado en la maldad,","el Señor no me habría escuchado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Pero lo cierto es que Dios me escuchó","y atendió a la voz de mi súplica."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¡Bendito sea Dios,","que no rechazó mi oración","ni me escatimó su misericordia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.65.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.67.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.66",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.65",
+      "human": "Salmos 65"
+    },
+    "current": {
+      "usfm": "PSA.66",
+      "human": "Salmos 66"
+    },
+    "next": {
+      "usfm": "PSA.67",
+      "human": "Salmos 67"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza por los portentos de Dios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al músico principal. Cántico. Salmo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ustedes, habitantes de toda la tierra,",
+          "¡aclamen a Dios con alegría!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Canten salmos a la gloria de su nombre!",
+          "¡Cántenle gloriosas alabanzas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Digan a Dios: «¡Tus obras son asombrosas!",
+          "¡Con tu gran poder sometes a tus enemigos!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Toda la tierra te rinde adoración",
+          "y canta salmos a tu nombre!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Vengan a ver las obras de Dios,",
+          "sus hechos sorprendentes en favor de los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Convirtió el mar en terreno seco,",
+          "y ellos cruzaron el río por su propio pie.",
+          "¡Alegrémonos por lo que hizo allí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por su poder, él nos gobierna para siempre;",
+          "sus ojos vigilan atentamente a las naciones;",
+          "por eso los rebeldes no lograrán levantarse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pueblos todos: ¡bendigan a nuestro Dios!",
+          "¡Hagan resonar la voz de su alabanza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tú, Señor, nos has preservado la vida,",
+          "y no has dejado que resbalen nuestros pies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tú, Dios nuestro, nos has puesto a prueba;",
+          "nos has refinado como se refina la plata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero nos dejaste caer en la trampa;",
+          "¡impusiste sobre nosotros una pesada carga!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Caballos y jinetes han pasado sobre nosotros;",
+          "hemos pasado por el fuego y por el agua,",
+          "pero al final nos has llevado a la abundancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Entraré en tu templo con holocaustos,",
+          "y allí te cumpliré mis promesas,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "las promesas que, en mi angustia,",
+          "pronuncié con mis propios labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Te ofreceré holocaustos de los mejores animales,",
+          "te ofreceré sahumerio de carneros",
+          "y sacrificios de bueyes y machos cabríos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Ustedes todos, los que temen a Dios,",
+          "vengan y escuchen lo que él ha hecho conmigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Con mis labios le pedí ayuda;",
+          "con mi lengua exalté su nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Si mi corazón se hubiera fijado en la maldad,",
+          "el Señor no me habría escuchado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Pero lo cierto es que Dios me escuchó",
+          "y atendió a la voz de mi súplica."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¡Bendito sea Dios,",
+          "que no rechazó mi oración",
+          "ni me escatimó su misericordia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

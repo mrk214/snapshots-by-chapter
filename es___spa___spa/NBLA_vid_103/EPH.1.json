@@ -1,1 +1,303 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"EPH","name":"Efesios"},"chapter":{"chapter_usfm":"EPH.1","is_chapter":true,"previous":{"usfm":"GAL.6","human":"Gálatas 6","canonical":true,"toc":true},"current":{"usfm":"EPH.1","human":"Efesios 1"},"next":{"usfm":"EPH.2","human":"Efesios 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Saludo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Pablo, apóstol de Cristo Jesús por la voluntad de Dios:","A los santos que están en Éfeso y que son fieles en Cristo Jesús:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Beneficios de la redención"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido con toda bendición espiritual en los lugares celestiales en Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["nos predestinó para adopción como hijos para Sí mediante Jesucristo, conforme a la buena intención de Su voluntad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["para alabanza de la gloria de Su gracia que gratuitamente ha impartido sobre nosotros en el Amado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En Él tenemos redención mediante Su sangre, el perdón de nuestros pecados según las riquezas de Su gracia"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["que ha hecho abundar para con nosotros. En toda sabiduría y discernimiento"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["nos dio a conocer el misterio de Su voluntad, según la buena intención que se propuso en Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["con miras a una buena administración en el cumplimiento de los tiempos, es decir, de reunir todas las cosas en Cristo, tanto las que están en los cielos, como las que están en la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["También en Él hemos obtenido herencia, habiendo sido predestinados según el propósito de Aquel que obra todas las cosas conforme al consejo de Su voluntad,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["a fin de que nosotros, que fuimos los primeros en esperar en Cristo, seamos para alabanza de Su gloria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["que nos es dado como garantía de nuestra herencia, con miras a la redención de la posesión adquirida de Dios, para alabanza de Su gloria."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Pablo ora por los efesios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por esta razón también yo, habiendo oído de la fe en el Señor Jesús que hay entre ustedes, y de su amor por todos los santos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["no ceso de dar gracias por ustedes, mencionándolos en mis oraciones,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["pido que el Dios de nuestro Señor Jesucristo, el Padre de gloria, les dé espíritu de sabiduría y de revelación en un mejor conocimiento de Él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Mi oración es que los ojos de su corazón les sean iluminados, para que sepan cuál es la esperanza de Su llamamiento, cuáles son las riquezas de la gloria de Su herencia en los santos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["y cuál es la extraordinaria grandeza de Su poder para con nosotros los que creemos, conforme a la eficacia de la fuerza de Su poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Ese poder obró en Cristo cuando lo resucitó de entre los muertos y lo sentó a Su diestra en los lugares celestiales,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["muy por encima de todo principado, autoridad, poder, dominio y de todo nombre que se nombra, no solo en este siglo sino también en el venidero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GAL.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/EPH.2.json"
+  },
+  "book": {
+    "book_usfm": "EPH",
+    "name": "Efesios"
+  },
+  "chapter": {
+    "chapter_usfm": "EPH.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GAL.6",
+      "human": "Gálatas 6"
+    },
+    "current": {
+      "usfm": "EPH.1",
+      "human": "Efesios 1"
+    },
+    "next": {
+      "usfm": "EPH.2",
+      "human": "Efesios 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Saludo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Pablo, apóstol de Cristo Jesús por la voluntad de Dios:",
+          "A los santos que están en Éfeso y que son fieles en Cristo Jesús:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Gracia y paz a ustedes de parte de Dios nuestro Padre y del Señor Jesucristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Beneficios de la redención"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Bendito sea el Dios y Padre de nuestro Señor Jesucristo, que nos ha bendecido con toda bendición espiritual en los lugares celestiales en Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque Dios nos escogió en Cristo antes de la fundación del mundo, para que fuéramos santos y sin mancha delante de Él. En amor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "nos predestinó para adopción como hijos para Sí mediante Jesucristo, conforme a la buena intención de Su voluntad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "para alabanza de la gloria de Su gracia que gratuitamente ha impartido sobre nosotros en el Amado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En Él tenemos redención mediante Su sangre, el perdón de nuestros pecados según las riquezas de Su gracia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "que ha hecho abundar para con nosotros. En toda sabiduría y discernimiento"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "nos dio a conocer el misterio de Su voluntad, según la buena intención que se propuso en Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "con miras a una buena administración en el cumplimiento de los tiempos, es decir, de reunir todas las cosas en Cristo, tanto las que están en los cielos, como las que están en la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "También en Él hemos obtenido herencia, habiendo sido predestinados según el propósito de Aquel que obra todas las cosas conforme al consejo de Su voluntad,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "a fin de que nosotros, que fuimos los primeros en esperar en Cristo, seamos para alabanza de Su gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "En Él también ustedes, después de escuchar el mensaje de la verdad, el evangelio de su salvación, y habiendo creído, fueron sellados en Él con el Espíritu Santo de la promesa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "que nos es dado como garantía de nuestra herencia, con miras a la redención de la posesión adquirida de Dios, para alabanza de Su gloria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Pablo ora por los efesios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por esta razón también yo, habiendo oído de la fe en el Señor Jesús que hay entre ustedes, y de su amor por todos los santos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "no ceso de dar gracias por ustedes, mencionándolos en mis oraciones,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "pido que el Dios de nuestro Señor Jesucristo, el Padre de gloria, les dé espíritu de sabiduría y de revelación en un mejor conocimiento de Él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Mi oración es que los ojos de su corazón les sean iluminados, para que sepan cuál es la esperanza de Su llamamiento, cuáles son las riquezas de la gloria de Su herencia en los santos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "y cuál es la extraordinaria grandeza de Su poder para con nosotros los que creemos, conforme a la eficacia de la fuerza de Su poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Ese poder obró en Cristo cuando lo resucitó de entre los muertos y lo sentó a Su diestra en los lugares celestiales,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "muy por encima de todo principado, autoridad, poder, dominio y de todo nombre que se nombra, no solo en este siglo sino también en el venidero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Y todo lo sometió bajo Sus pies, y a Él lo dio por cabeza sobre todas las cosas a la iglesia,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "la cual es Su cuerpo, la plenitud de Aquel que lo llena todo en todo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

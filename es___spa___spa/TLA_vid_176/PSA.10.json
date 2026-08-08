@@ -1,1 +1,239 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.10","is_chapter":true,"previous":{"usfm":"PSA.9","human":"Salmos 9","canonical":true,"toc":true},"current":{"usfm":"PSA.10","human":"Salmos 10"},"next":{"usfm":"PSA.11","human":"Salmos 11","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración por la victoria"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios mío,","¿por qué te quedas tan lejos?,","¿por qué te escondes de mí","cuando más te necesito?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Los malvados y orgullosos","persiguen a los humildes,","pero acabarán por caer","en sus propias trampas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3,4],"lines":["Alaban a los ambiciosos,","pero a ti te menosprecian.","No te buscan,","porque para ellos no existes.","Son groseros. Levantan la nariz","y presumen de su codicia,","pues solo en eso piensan;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡siempre les va bien","en todo lo que hacen!","Tus leyes, Dios mío,","no las pueden entender.","Se burlan de sus enemigos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["y en su interior piensan","que jamás fracasarán,","que nunca tendrán problemas","y que siempre serán felices."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Sus palabras ofenden y lastiman;","tras sus palabras esconden","sus malas intenciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Andan por las calles","espiando a los inocentes,","para caerles encima","y matarlos a traición."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Siempre se andan escondiendo,","como el león en su cueva;","siempre están dispuestos a saltar","sobre la gente indefensa,","y en cuanto la atrapan,","la arrastran en su red."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Y así, quedan humillados","los que tienen la desgracia","de caer bajo su dominio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Esos malvados piensan","que a ti no te importa,","y que hasta escondes la cara","para no ver lo que pasa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12,13,14,15],"lines":["¡Vamos, Dios mío!","¡Llama a cuentas a los malvados!","¿Por qué han de burlarse de ti?","¡Pídeles cuentas de su maldad,","y bórralos de este mundo!","¿Por qué han de creer","que no les pedirás cuentas?","Tú conoces su maldad,","tomas en cuenta su violencia,","y un día les darás su merecido.","¡Tú acabarás con su poder!","¡Dios mío,","no te olvides de los humildes!","Los huérfanos y desvalidos","confían en ti;","¡tú eres quien los ayuda!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16,17,18],"lines":["Tú, Dios mío, reinas para siempre","y escuchas la oración de los humildes.","Tú defiendes a los huérfanos","y a los que son maltratados;","tú los animas y les prestas atención.","Pero a los que no te reconocen","los echarás de tu tierra,","para que nadie en este mundo","vuelva a sembrar el terror."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.11.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.9",
+      "human": "Salmos 9"
+    },
+    "current": {
+      "usfm": "PSA.10",
+      "human": "Salmos 10"
+    },
+    "next": {
+      "usfm": "PSA.11",
+      "human": "Salmos 11"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración por la victoria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios mío,",
+          "¿por qué te quedas tan lejos?,",
+          "¿por qué te escondes de mí",
+          "cuando más te necesito?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Los malvados y orgullosos",
+          "persiguen a los humildes,",
+          "pero acabarán por caer",
+          "en sus propias trampas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3,
+          4
+        ],
+        "lines": [
+          "Alaban a los ambiciosos,",
+          "pero a ti te menosprecian.",
+          "No te buscan,",
+          "porque para ellos no existes.",
+          "Son groseros. Levantan la nariz",
+          "y presumen de su codicia,",
+          "pues solo en eso piensan;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡siempre les va bien",
+          "en todo lo que hacen!",
+          "Tus leyes, Dios mío,",
+          "no las pueden entender.",
+          "Se burlan de sus enemigos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "y en su interior piensan",
+          "que jamás fracasarán,",
+          "que nunca tendrán problemas",
+          "y que siempre serán felices."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Sus palabras ofenden y lastiman;",
+          "tras sus palabras esconden",
+          "sus malas intenciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Andan por las calles",
+          "espiando a los inocentes,",
+          "para caerles encima",
+          "y matarlos a traición."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Siempre se andan escondiendo,",
+          "como el león en su cueva;",
+          "siempre están dispuestos a saltar",
+          "sobre la gente indefensa,",
+          "y en cuanto la atrapan,",
+          "la arrastran en su red."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Y así, quedan humillados",
+          "los que tienen la desgracia",
+          "de caer bajo su dominio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Esos malvados piensan",
+          "que a ti no te importa,",
+          "y que hasta escondes la cara",
+          "para no ver lo que pasa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12,
+          13,
+          14,
+          15
+        ],
+        "lines": [
+          "¡Vamos, Dios mío!",
+          "¡Llama a cuentas a los malvados!",
+          "¿Por qué han de burlarse de ti?",
+          "¡Pídeles cuentas de su maldad,",
+          "y bórralos de este mundo!",
+          "¿Por qué han de creer",
+          "que no les pedirás cuentas?",
+          "Tú conoces su maldad,",
+          "tomas en cuenta su violencia,",
+          "y un día les darás su merecido.",
+          "¡Tú acabarás con su poder!",
+          "¡Dios mío,",
+          "no te olvides de los humildes!",
+          "Los huérfanos y desvalidos",
+          "confían en ti;",
+          "¡tú eres quien los ayuda!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16,
+          17,
+          18
+        ],
+        "lines": [
+          "Tú, Dios mío, reinas para siempre",
+          "y escuchas la oración de los humildes.",
+          "Tú defiendes a los huérfanos",
+          "y a los que son maltratados;",
+          "tú los animas y les prestas atención.",
+          "Pero a los que no te reconocen",
+          "los echarás de tu tierra,",
+          "para que nadie en este mundo",
+          "vuelva a sembrar el terror."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

@@ -1,1 +1,154 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Salmos 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Salmos 101"},"next":{"usfm":"PSA.102","human":"Salmos 102","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Promesa de vivir rectamente"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Misericordia y juicio cantaré;","A ti cantaré yo, oh Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Entenderé el camino de la perfección","Cuando vengas a mí.","En la integridad de mi corazón andaré en medio de mi casa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["No pondré delante de mis ojos cosa injusta.","Aborrezco la obra de los que se desvían;","Ninguno de ellos se acercará a mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Corazón perverso se apartará de mí;","No conoceré al malvado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Al que solapadamente infama a su prójimo, yo lo destruiré;","No sufriré al de ojos altaneros y de corazón vanidoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mis ojos pondré en los fieles de la tierra, para que estén conmigo;","El que ande en el camino de la perfección, este me servirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["No habitará dentro de mi casa el que hace fraude;","El que habla mentiras no se afirmará delante de mis ojos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["De mañana destruiré a todos los impíos de la tierra,","Para exterminar de la ciudad de Jehová a todos los que hagan iniquidad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Salmos 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Salmos 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Salmos 102"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Promesa de vivir rectamente"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Misericordia y juicio cantaré;",
+          "A ti cantaré yo, oh Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Entenderé el camino de la perfección",
+          "Cuando vengas a mí.",
+          "En la integridad de mi corazón andaré en medio de mi casa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "No pondré delante de mis ojos cosa injusta.",
+          "Aborrezco la obra de los que se desvían;",
+          "Ninguno de ellos se acercará a mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Corazón perverso se apartará de mí;",
+          "No conoceré al malvado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Al que solapadamente infama a su prójimo, yo lo destruiré;",
+          "No sufriré al de ojos altaneros y de corazón vanidoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mis ojos pondré en los fieles de la tierra, para que estén conmigo;",
+          "El que ande en el camino de la perfección, este me servirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "No habitará dentro de mi casa el que hace fraude;",
+          "El que habla mentiras no se afirmará delante de mis ojos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "De mañana destruiré a todos los impíos de la tierra,",
+          "Para exterminar de la ciudad de Jehová a todos los que hagan iniquidad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

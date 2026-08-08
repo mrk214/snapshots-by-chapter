@@ -1,1 +1,189 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.30","is_chapter":true,"previous":{"usfm":"PSA.29","human":"Psalm 29","canonical":true,"toc":true},"current":{"usfm":"PSA.30","human":"Psalm 30"},"next":{"usfm":"PSA.31","human":"Psalm 31","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm and Song at the dedication of the house of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I will extol thee, O LORD; for thou hast lifted me up,","And hast not made my foes to rejoice over me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O LORD my God,","I cried unto thee, and thou hast healed me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O LORD, thou hast brought up my soul from the grave:","Thou hast kept me alive, that I should not go down to the pit."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Sing unto the LORD, O ye saints of his,","And give thanks at the remembrance of his holiness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["For his anger endureth but a moment; in his favour is life:","Weeping may endure for a night, but joy cometh in the morning."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And in my prosperity I said, I shall never be moved."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["LORD, by thy favour thou hast made my mountain to stand strong:","Thou didst hide thy face, and I was troubled."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I cried to thee, O LORD;","And unto the LORD I made supplication."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["What profit is there in my blood,","When I go down to the pit?","Shall the dust praise thee?","Shall it declare thy truth?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Hear, O LORD, and have mercy upon me:","LORD, be thou my helper."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Thou hast turned for me my mourning into dancing:","Thou hast put off my sackcloth, and girded me with gladness;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["To the end that my glory may sing praise to thee, and not be silent.","O LORD my God, I will give thanks unto thee for ever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.31.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.29",
+      "human": "Psalm 29"
+    },
+    "current": {
+      "usfm": "PSA.30",
+      "human": "Psalm 30"
+    },
+    "next": {
+      "usfm": "PSA.31",
+      "human": "Psalm 31"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm and Song at the dedication of the house of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I will extol thee, O LORD; for thou hast lifted me up,",
+          "And hast not made my foes to rejoice over me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O LORD my God,",
+          "I cried unto thee, and thou hast healed me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O LORD, thou hast brought up my soul from the grave:",
+          "Thou hast kept me alive, that I should not go down to the pit."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Sing unto the LORD, O ye saints of his,",
+          "And give thanks at the remembrance of his holiness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "For his anger endureth but a moment; in his favour is life:",
+          "Weeping may endure for a night, but joy cometh in the morning."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And in my prosperity I said, I shall never be moved."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "LORD, by thy favour thou hast made my mountain to stand strong:",
+          "Thou didst hide thy face, and I was troubled."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I cried to thee, O LORD;",
+          "And unto the LORD I made supplication."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "What profit is there in my blood,",
+          "When I go down to the pit?",
+          "Shall the dust praise thee?",
+          "Shall it declare thy truth?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Hear, O LORD, and have mercy upon me:",
+          "LORD, be thou my helper."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Thou hast turned for me my mourning into dancing:",
+          "Thou hast put off my sackcloth, and girded me with gladness;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "To the end that my glory may sing praise to thee, and not be silent.",
+          "O LORD my God, I will give thanks unto thee for ever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

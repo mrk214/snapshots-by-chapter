@@ -1,1 +1,204 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.50","is_chapter":true,"previous":{"usfm":"ISA.49","human":"Isaías 49","canonical":true,"toc":true},"current":{"usfm":"ISA.50","human":"Isaías 50"},"next":{"usfm":"ISA.51","human":"Isaías 51","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Exhortación a confiar en el Señor"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Así dice el Señor:","¿Dónde está esa carta de divorcio","con la que repudié a vuestra madre?","¿O a cuál de mis acreedores os vendí?","He aquí, por vuestras iniquidades fuisteis vendidos,","y por vuestras transgresiones fue repudiada vuestra madre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¿Por qué cuando vine no había nadie,","y cuando llamé no había quien respondiera?","¿Acaso es tan corta mi mano que no puede rescatar,","o no tengo poder para librar?","He aquí, con mi reprensión seco el mar,","convierto los ríos en desierto;","sus peces hieden por falta de agua,","mueren de sed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Yo visto de negrura los cielos,","y hago de cilicio su cobertura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶El Señor Dios me ha dado lengua de discípulo,","para que yo sepa sostener con una palabra al fatigado.","Mañana tras mañana me despierta,","despierta mi oído para escuchar como los discípulos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El Señor Dios me ha abierto el oído;","y no fui desobediente,","ni me volví atrás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Di mis espaldas a los que me herían,","y mis mejillas a los que me arrancaban la barba;","no escondí mi rostro de injurias y esputos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El Señor Dios me ayuda,","por eso no soy humillado,","por eso como pedernal he puesto mi rostro,","y sé que no seré avergonzado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cercano está el que me justifica;","¿quién contenderá conmigo?","Comparezcamos juntos;","¿quién es el enemigo de mi causa?","Que se acerque a mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["He aquí, el Señor Dios me ayuda;","¿quién es el que me condena?","He aquí, todos ellos como un vestido se gastarán,","la polilla se los comerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¿Quién hay entre vosotros que tema al Señor,","que oiga la voz de su siervo,","que ande en tinieblas y no tenga luz?","Confíe en el nombre del Señor y apóyese en su Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["He aquí, todos vosotros que encendéis fuego,","que os rodeáis de teas,","andad a la lumbre de vuestro fuego","y entre las teas que habéis encendido.","Esto os vendrá de mi mano:","en tormento yaceréis."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.49.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.51.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.50",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.49",
+      "human": "Isaías 49"
+    },
+    "current": {
+      "usfm": "ISA.50",
+      "human": "Isaías 50"
+    },
+    "next": {
+      "usfm": "ISA.51",
+      "human": "Isaías 51"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Exhortación a confiar en el Señor"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "¿Dónde está esa carta de divorcio",
+          "con la que repudié a vuestra madre?",
+          "¿O a cuál de mis acreedores os vendí?",
+          "He aquí, por vuestras iniquidades fuisteis vendidos,",
+          "y por vuestras transgresiones fue repudiada vuestra madre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¿Por qué cuando vine no había nadie,",
+          "y cuando llamé no había quien respondiera?",
+          "¿Acaso es tan corta mi mano que no puede rescatar,",
+          "o no tengo poder para librar?",
+          "He aquí, con mi reprensión seco el mar,",
+          "convierto los ríos en desierto;",
+          "sus peces hieden por falta de agua,",
+          "mueren de sed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Yo visto de negrura los cielos,",
+          "y hago de cilicio su cobertura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶El Señor Dios me ha dado lengua de discípulo,",
+          "para que yo sepa sostener con una palabra al fatigado.",
+          "Mañana tras mañana me despierta,",
+          "despierta mi oído para escuchar como los discípulos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El Señor Dios me ha abierto el oído;",
+          "y no fui desobediente,",
+          "ni me volví atrás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Di mis espaldas a los que me herían,",
+          "y mis mejillas a los que me arrancaban la barba;",
+          "no escondí mi rostro de injurias y esputos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El Señor Dios me ayuda,",
+          "por eso no soy humillado,",
+          "por eso como pedernal he puesto mi rostro,",
+          "y sé que no seré avergonzado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cercano está el que me justifica;",
+          "¿quién contenderá conmigo?",
+          "Comparezcamos juntos;",
+          "¿quién es el enemigo de mi causa?",
+          "Que se acerque a mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "He aquí, el Señor Dios me ayuda;",
+          "¿quién es el que me condena?",
+          "He aquí, todos ellos como un vestido se gastarán,",
+          "la polilla se los comerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¿Quién hay entre vosotros que tema al Señor,",
+          "que oiga la voz de su siervo,",
+          "que ande en tinieblas y no tenga luz?",
+          "Confíe en el nombre del Señor y apóyese en su Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "He aquí, todos vosotros que encendéis fuego,",
+          "que os rodeáis de teas,",
+          "andad a la lumbre de vuestro fuego",
+          "y entre las teas que habéis encendido.",
+          "Esto os vendrá de mi mano:",
+          "en tormento yaceréis."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

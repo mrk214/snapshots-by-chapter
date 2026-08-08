@@ -1,1 +1,161 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.112","is_chapter":true,"previous":{"usfm":"PSA.111","human":"Salmos 111","canonical":true,"toc":true},"current":{"usfm":"PSA.112","human":"Salmos 112"},"next":{"usfm":"PSA.113","human":"Salmos 113","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Aleluia!","Como é feliz o homem que teme o Senhor","e tem grande prazer em seus mandamentos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Seus descendentes serão poderosos na terra,","serão uma geração abençoada, de homens íntegros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Grande riqueza há em sua casa,","e a sua justiça dura para sempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A luz raia nas trevas para o íntegro,","para quem é misericordioso, compassivo e justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Feliz é o homem que empresta com generosidade","e que com honestidade conduz os seus negócios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["O justo jamais será abalado;","para sempre se lembrarão dele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Não temerá más notícias;","seu coração está firme, confiante no Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O seu coração está seguro e nada temerá.","No final, verá a derrota dos seus adversários."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Reparte generosamente com os pobres;","a sua justiça dura para sempre;","seu poder será exaltado em honra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O ímpio o vê e fica irado,","range os dentes e definha.","O desejo dos ímpios se frustrará."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.111.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.113.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.112",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.111",
+      "human": "Salmos 111"
+    },
+    "current": {
+      "usfm": "PSA.112",
+      "human": "Salmos 112"
+    },
+    "next": {
+      "usfm": "PSA.113",
+      "human": "Salmos 113"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia!",
+          "Como é feliz o homem que teme o Senhor",
+          "e tem grande prazer em seus mandamentos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Seus descendentes serão poderosos na terra,",
+          "serão uma geração abençoada, de homens íntegros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Grande riqueza há em sua casa,",
+          "e a sua justiça dura para sempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A luz raia nas trevas para o íntegro,",
+          "para quem é misericordioso, compassivo e justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Feliz é o homem que empresta com generosidade",
+          "e que com honestidade conduz os seus negócios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "O justo jamais será abalado;",
+          "para sempre se lembrarão dele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Não temerá más notícias;",
+          "seu coração está firme, confiante no Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O seu coração está seguro e nada temerá.",
+          "No final, verá a derrota dos seus adversários."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Reparte generosamente com os pobres;",
+          "a sua justiça dura para sempre;",
+          "seu poder será exaltado em honra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O ímpio o vê e fica irado,",
+          "range os dentes e definha.",
+          "O desejo dos ímpios se frustrará."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

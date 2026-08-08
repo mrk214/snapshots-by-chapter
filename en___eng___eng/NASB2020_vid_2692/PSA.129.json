@@ -1,1 +1,161 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.129","is_chapter":true,"previous":{"usfm":"PSA.128","human":"Psalm 128","canonical":true,"toc":true},"current":{"usfm":"PSA.129","human":"Psalm 129"},"next":{"usfm":"PSA.130","human":"Psalm 130","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 129"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Prayer for the Overthrow of Zion’s Enemies."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["“Many times they have attacked me from my youth up,”","Let Israel say,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“Many times they have attacked me from my youth up;","Yet they have not prevailed against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["“The plowers plowed upon my back;","They lengthened their furrows.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord is righteous;","He has cut up the ropes of the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶May all who hate Zion","Be put to shame and turned backward;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["May they be like grass upon the housetops,","Which withers before it grows up;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["With which the harvester does not fill his hand,","Or the binder of sheaves his arms;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Nor do those who pass by say,","“The blessing of the Lord be upon you;","We bless you in the name of the Lord.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.128.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.130.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.129",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.128",
+      "human": "Psalm 128"
+    },
+    "current": {
+      "usfm": "PSA.129",
+      "human": "Psalm 129"
+    },
+    "next": {
+      "usfm": "PSA.130",
+      "human": "Psalm 130"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 129"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prayer for the Overthrow of Zion’s Enemies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“Many times they have attacked me from my youth up,”",
+          "Let Israel say,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“Many times they have attacked me from my youth up;",
+          "Yet they have not prevailed against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "“The plowers plowed upon my back;",
+          "They lengthened their furrows.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord is righteous;",
+          "He has cut up the ropes of the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶May all who hate Zion",
+          "Be put to shame and turned backward;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "May they be like grass upon the housetops,",
+          "Which withers before it grows up;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "With which the harvester does not fill his hand,",
+          "Or the binder of sheaves his arms;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Nor do those who pass by say,",
+          "“The blessing of the Lord be upon you;",
+          "We bless you in the name of the Lord.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

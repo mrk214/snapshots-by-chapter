@@ -1,1 +1,106 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.3","is_chapter":true,"previous":{"usfm":"HOS.2","human":"Oseas 2","canonical":true,"toc":true},"current":{"usfm":"HOS.3","human":"Oseas 3"},"next":{"usfm":"HOS.4","human":"Oseas 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oseas y la adúltera"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Me dijo otra vez Jehová: Ve, ama a una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel, los cuales miran a dioses ajenos, y aman tortas de pasas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["La compré entonces para mí por quince siclos de plata y un homer y medio de cebada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y le dije: Tú serás mía durante muchos días; no fornicarás, ni tomarás otro varón; lo mismo haré yo contigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque muchos días estarán los hijos de Israel sin rey, sin príncipe, sin sacrificio, sin estatua, sin efod y sin terafines."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Después volverán los hijos de Israel, y buscarán a Jehová su Dios, y a David su rey; y temerán a Jehová y a su bondad en el fin de los días."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/HOS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/HOS.4.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Oseas 2"
+    },
+    "current": {
+      "usfm": "HOS.3",
+      "human": "Oseas 3"
+    },
+    "next": {
+      "usfm": "HOS.4",
+      "human": "Oseas 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oseas y la adúltera"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Me dijo otra vez Jehová: Ve, ama a una mujer amada de su compañero, aunque adúltera, como el amor de Jehová para con los hijos de Israel, los cuales miran a dioses ajenos, y aman tortas de pasas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "La compré entonces para mí por quince siclos de plata y un homer y medio de cebada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y le dije: Tú serás mía durante muchos días; no fornicarás, ni tomarás otro varón; lo mismo haré yo contigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque muchos días estarán los hijos de Israel sin rey, sin príncipe, sin sacrificio, sin estatua, sin efod y sin terafines."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Después volverán los hijos de Israel, y buscarán a Jehová su Dios, y a David su rey; y temerán a Jehová y a su bondad en el fin de los días."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

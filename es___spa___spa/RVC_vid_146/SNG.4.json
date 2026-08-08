@@ -1,1 +1,264 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"SNG","name":"Cantares"},"chapter":{"chapter_usfm":"SNG.4","is_chapter":true,"previous":{"usfm":"SNG.3","human":"Cantares 3","canonical":true,"toc":true},"current":{"usfm":"SNG.4","human":"Cantares 4"},"next":{"usfm":"SNG.5","human":"Cantares 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El esposo alaba a la esposa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Qué hermosa eres, amiga mía!","¡Qué hermosa eres!","Son tus ojos dos palomas","que se asoman tras el velo,","y tus cabellos, un rebaño de cabritos","que desciende de los montes de Galaad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Comparables son tus dientes","a un rebaño de blancas ovejas","recién bañadas y trasquiladas.","Todas ellas tienen su pareja;","ningún espacio dejan vacío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tus labios son un hilo carmesí,","y tus palabras son cautivadoras.","Tus mejillas son dos gajos de granada","que se asoman tras el velo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tu cuello, cual la torre de David,","es de elegante estructura;","de esa torre penden mil escudos,","¡todos ellos escudos de valientes!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Son tus pechos dos cervatos gemelos,","que reposan entre los lirios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Hasta que llegue el día","y las sombras se disipen,","quiero ir al monte de la mirra;","quiero ir a la colina del incienso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Toda tú eres hermosa, amiga mía;","no tienes ningún defecto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Acompáñame desde el Líbano, esposa mía;","acompáñame desde el Líbano.","Baja conmigo de la cumbre del Amana,","bajemos de la cumbre del Senir y del Hermón;","donde están las guaridas de los leones,","donde están las cuevas de los leopardos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Hermana y esposa mía,","con una sola mirada tuya","y con un solo hilo de tu collar","me robaste el corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Hermana y esposa mía,","¡cuán deliciosas son tus caricias!","¡Son más deliciosas que el vino!","¡Es más dulce el olor de tus perfumes","que el de todas las especias aromáticas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["De tus labios fluye miel, esposa mía;","leche y miel hay debajo de tu lengua.","La fragancia de tus vestidos","evoca la fragancia del monte Líbano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Eres un jardín cercado,","hermana y esposa mía;","eres cerrada fuente, ¡sellado manantial!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Eres un jardín de granados,","donde crecen frutos exquisitos,","y flores de alheña y nardos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["nardo y azafrán, cálamo y canela,","toda clase de árboles de incienso,","y mirra y áloes, y las más finas especias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Eres fuente de los jardines,","eres pozo de aguas vivas","que fluyen desde el Líbano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Levántate, viento del norte!","¡Ven acá, viento del sur!","¡Vengan y soplen en mi jardín,","para que se esparzan sus aromas!","¡Ven, amado mío, a tu jardín","y deléitate con sus dulces frutos!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/SNG.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/SNG.5.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SNG.3",
+      "human": "Cantares 3"
+    },
+    "current": {
+      "usfm": "SNG.4",
+      "human": "Cantares 4"
+    },
+    "next": {
+      "usfm": "SNG.5",
+      "human": "Cantares 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El esposo alaba a la esposa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Qué hermosa eres, amiga mía!",
+          "¡Qué hermosa eres!",
+          "Son tus ojos dos palomas",
+          "que se asoman tras el velo,",
+          "y tus cabellos, un rebaño de cabritos",
+          "que desciende de los montes de Galaad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Comparables son tus dientes",
+          "a un rebaño de blancas ovejas",
+          "recién bañadas y trasquiladas.",
+          "Todas ellas tienen su pareja;",
+          "ningún espacio dejan vacío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tus labios son un hilo carmesí,",
+          "y tus palabras son cautivadoras.",
+          "Tus mejillas son dos gajos de granada",
+          "que se asoman tras el velo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tu cuello, cual la torre de David,",
+          "es de elegante estructura;",
+          "de esa torre penden mil escudos,",
+          "¡todos ellos escudos de valientes!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Son tus pechos dos cervatos gemelos,",
+          "que reposan entre los lirios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Hasta que llegue el día",
+          "y las sombras se disipen,",
+          "quiero ir al monte de la mirra;",
+          "quiero ir a la colina del incienso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Toda tú eres hermosa, amiga mía;",
+          "no tienes ningún defecto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Acompáñame desde el Líbano, esposa mía;",
+          "acompáñame desde el Líbano.",
+          "Baja conmigo de la cumbre del Amana,",
+          "bajemos de la cumbre del Senir y del Hermón;",
+          "donde están las guaridas de los leones,",
+          "donde están las cuevas de los leopardos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Hermana y esposa mía,",
+          "con una sola mirada tuya",
+          "y con un solo hilo de tu collar",
+          "me robaste el corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Hermana y esposa mía,",
+          "¡cuán deliciosas son tus caricias!",
+          "¡Son más deliciosas que el vino!",
+          "¡Es más dulce el olor de tus perfumes",
+          "que el de todas las especias aromáticas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "De tus labios fluye miel, esposa mía;",
+          "leche y miel hay debajo de tu lengua.",
+          "La fragancia de tus vestidos",
+          "evoca la fragancia del monte Líbano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Eres un jardín cercado,",
+          "hermana y esposa mía;",
+          "eres cerrada fuente, ¡sellado manantial!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Eres un jardín de granados,",
+          "donde crecen frutos exquisitos,",
+          "y flores de alheña y nardos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "nardo y azafrán, cálamo y canela,",
+          "toda clase de árboles de incienso,",
+          "y mirra y áloes, y las más finas especias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Eres fuente de los jardines,",
+          "eres pozo de aguas vivas",
+          "que fluyen desde el Líbano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Levántate, viento del norte!",
+          "¡Ven acá, viento del sur!",
+          "¡Vengan y soplen en mi jardín,",
+          "para que se esparzan sus aromas!",
+          "¡Ven, amado mío, a tu jardín",
+          "y deléitate con sus dulces frutos!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

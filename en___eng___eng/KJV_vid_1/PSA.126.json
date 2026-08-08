@@ -1,1 +1,124 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Psalm 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Psalm 126"},"next":{"usfm":"PSA.127","human":"Psalm 127","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["When the LORD turned again the captivity of Zion,","We were like them that dream."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Then was our mouth filled with laughter,","And our tongue with singing:","Then said they among the heathen,","The LORD hath done great things for them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The LORD hath done great things for us;","Whereof we are glad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Turn again our captivity, O LORD,","As the streams in the south."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They that sow in tears","Shall reap in joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["He that goeth forth and weepeth, bearing precious seed,","Shall doubtless come again with rejoicing, bringing his sheaves with him."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Psalm 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Psalm 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Psalm 127"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "When the LORD turned again the captivity of Zion,",
+          "We were like them that dream."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Then was our mouth filled with laughter,",
+          "And our tongue with singing:",
+          "Then said they among the heathen,",
+          "The LORD hath done great things for them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The LORD hath done great things for us;",
+          "Whereof we are glad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Turn again our captivity, O LORD,",
+          "As the streams in the south."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They that sow in tears",
+          "Shall reap in joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "He that goeth forth and weepeth, bearing precious seed,",
+          "Shall doubtless come again with rejoicing, bringing his sheaves with him."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

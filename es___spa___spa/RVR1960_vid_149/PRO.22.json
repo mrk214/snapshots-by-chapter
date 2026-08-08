@@ -1,1 +1,375 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.22","is_chapter":true,"previous":{"usfm":"PRO.21","human":"Proverbios 21","canonical":true,"toc":true},"current":{"usfm":"PRO.22","human":"Proverbios 22"},"next":{"usfm":"PRO.23","human":"Proverbios 23","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["De más estima es el buen nombre que las muchas riquezas,","Y la buena fama más que la plata y el oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El rico y el pobre se encuentran;","A ambos los hizo Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El avisado ve el mal y se esconde;","Mas los simples pasan y reciben el daño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Riquezas, honra y vida","Son la remuneración de la humildad y del temor de Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Espinos y lazos hay en el camino del perverso;","El que guarda su alma se alejará de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Instruye al niño en su camino,","Y aun cuando fuere viejo no se apartará de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El rico se enseñorea de los pobres,","Y el que toma prestado es siervo del que presta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El que sembrare iniquidad, iniquidad segará,","Y la vara de su insolencia se quebrará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["El ojo misericordioso será bendito,","Porque dio de su pan al indigente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Echa fuera al escarnecedor, y saldrá la contienda,","Y cesará el pleito y la afrenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El que ama la limpieza de corazón,","Por la gracia de sus labios tendrá la amistad del rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Los ojos de Jehová velan por la ciencia;","Mas él trastorna las cosas de los prevaricadores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Dice el perezoso: El león está fuera;","Seré muerto en la calle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Fosa profunda es la boca de la mujer extraña;","Aquel contra el cual Jehová estuviere airado caerá en ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["La necedad está ligada en el corazón del muchacho;","Mas la vara de la corrección la alejará de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El que oprime al pobre para aumentar sus ganancias,","O que da al rico, ciertamente se empobrecerá."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Preceptos y amonestaciones"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Inclina tu oído y oye las palabras de los sabios,","Y aplica tu corazón a mi sabiduría;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque es cosa deliciosa, si las guardares dentro de ti;","Si juntamente se afirmaren sobre tus labios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Para que tu confianza sea en Jehová,","Te las he hecho saber hoy a ti también."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¿No te he escrito tres veces","En consejos y en ciencia,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Para hacerte saber la certidumbre de las palabras de verdad,","A fin de que vuelvas a llevar palabras de verdad a los que te enviaron?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["No robes al pobre, porque es pobre,","Ni quebrantes en la puerta al afligido;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Porque Jehová juzgará la causa de ellos,","Y despojará el alma de aquellos que los despojaren."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["No te entremetas con el iracundo,","Ni te acompañes con el hombre de enojos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["No sea que aprendas sus maneras,","Y tomes lazo para tu alma."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["No seas de aquellos que se comprometen,","Ni de los que salen por fiadores de deudas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Si no tuvieres para pagar,","¿Por qué han de quitar tu cama de debajo de ti?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["No traspases los linderos antiguos","Que pusieron tus padres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["¿Has visto hombre solícito en su trabajo? Delante de los reyes estará;","No estará delante de los de baja condición."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.21.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PRO.23.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.22",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.21",
+      "human": "Proverbios 21"
+    },
+    "current": {
+      "usfm": "PRO.22",
+      "human": "Proverbios 22"
+    },
+    "next": {
+      "usfm": "PRO.23",
+      "human": "Proverbios 23"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "De más estima es el buen nombre que las muchas riquezas,",
+          "Y la buena fama más que la plata y el oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El rico y el pobre se encuentran;",
+          "A ambos los hizo Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El avisado ve el mal y se esconde;",
+          "Mas los simples pasan y reciben el daño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Riquezas, honra y vida",
+          "Son la remuneración de la humildad y del temor de Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Espinos y lazos hay en el camino del perverso;",
+          "El que guarda su alma se alejará de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Instruye al niño en su camino,",
+          "Y aun cuando fuere viejo no se apartará de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El rico se enseñorea de los pobres,",
+          "Y el que toma prestado es siervo del que presta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El que sembrare iniquidad, iniquidad segará,",
+          "Y la vara de su insolencia se quebrará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "El ojo misericordioso será bendito,",
+          "Porque dio de su pan al indigente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Echa fuera al escarnecedor, y saldrá la contienda,",
+          "Y cesará el pleito y la afrenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El que ama la limpieza de corazón,",
+          "Por la gracia de sus labios tendrá la amistad del rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Los ojos de Jehová velan por la ciencia;",
+          "Mas él trastorna las cosas de los prevaricadores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Dice el perezoso: El león está fuera;",
+          "Seré muerto en la calle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Fosa profunda es la boca de la mujer extraña;",
+          "Aquel contra el cual Jehová estuviere airado caerá en ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "La necedad está ligada en el corazón del muchacho;",
+          "Mas la vara de la corrección la alejará de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El que oprime al pobre para aumentar sus ganancias,",
+          "O que da al rico, ciertamente se empobrecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Preceptos y amonestaciones"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Inclina tu oído y oye las palabras de los sabios,",
+          "Y aplica tu corazón a mi sabiduría;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque es cosa deliciosa, si las guardares dentro de ti;",
+          "Si juntamente se afirmaren sobre tus labios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Para que tu confianza sea en Jehová,",
+          "Te las he hecho saber hoy a ti también."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¿No te he escrito tres veces",
+          "En consejos y en ciencia,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Para hacerte saber la certidumbre de las palabras de verdad,",
+          "A fin de que vuelvas a llevar palabras de verdad a los que te enviaron?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "No robes al pobre, porque es pobre,",
+          "Ni quebrantes en la puerta al afligido;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Porque Jehová juzgará la causa de ellos,",
+          "Y despojará el alma de aquellos que los despojaren."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "No te entremetas con el iracundo,",
+          "Ni te acompañes con el hombre de enojos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "No sea que aprendas sus maneras,",
+          "Y tomes lazo para tu alma."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "No seas de aquellos que se comprometen,",
+          "Ni de los que salen por fiadores de deudas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Si no tuvieres para pagar,",
+          "¿Por qué han de quitar tu cama de debajo de ti?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "No traspases los linderos antiguos",
+          "Que pusieron tus padres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "¿Has visto hombre solícito en su trabajo? Delante de los reyes estará;",
+          "No estará delante de los de baja condición."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

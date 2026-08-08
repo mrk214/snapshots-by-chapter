@@ -1,1 +1,142 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.142","is_chapter":true,"previous":{"usfm":"PSA.141","human":"Salmo 141","canonical":true,"toc":true},"current":{"usfm":"PSA.142","human":"Salmo 142"},"next":{"usfm":"PSA.143","human":"Salmo 143","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Masquil de David. Cuando estaba en la cueva. Oración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["A gritos, le pido al Señor ayuda;","a gritos, le pido al Señor compasión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ante él expongo mis quejas;","ante él expreso mis angustias."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando ya no me queda aliento,","tú me muestras el camino.","Por la senda que transito,","algunos me han tendido una trampa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mira a mi derecha, y ve:","nadie me tiende la mano.","No tengo dónde refugiarme;","por mí nadie se preocupa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A ti, Señor, te pido ayuda;","a ti te digo: «Tú eres mi refugio,","mi porción en la tierra de los vivos»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Atiende a mi clamor,","porque me siento muy débil;","líbrame de mis perseguidores,","porque son más fuertes que yo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Sácame de la prisión,","para que alabe yo tu nombre.","Los justos se reunirán en torno a mí","por la bondad que me has mostrado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.141.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.143.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.142",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.141",
+      "human": "Salmo 141"
+    },
+    "current": {
+      "usfm": "PSA.142",
+      "human": "Salmo 142"
+    },
+    "next": {
+      "usfm": "PSA.143",
+      "human": "Salmo 143"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Masquil de David. Cuando estaba en la cueva. Oración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "A gritos, le pido al Señor ayuda;",
+          "a gritos, le pido al Señor compasión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ante él expongo mis quejas;",
+          "ante él expreso mis angustias."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando ya no me queda aliento,",
+          "tú me muestras el camino.",
+          "Por la senda que transito,",
+          "algunos me han tendido una trampa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mira a mi derecha, y ve:",
+          "nadie me tiende la mano.",
+          "No tengo dónde refugiarme;",
+          "por mí nadie se preocupa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A ti, Señor, te pido ayuda;",
+          "a ti te digo: «Tú eres mi refugio,",
+          "mi porción en la tierra de los vivos»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Atiende a mi clamor,",
+          "porque me siento muy débil;",
+          "líbrame de mis perseguidores,",
+          "porque son más fuertes que yo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Sácame de la prisión,",
+          "para que alabe yo tu nombre.",
+          "Los justos se reunirán en torno a mí",
+          "por la bondad que me has mostrado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

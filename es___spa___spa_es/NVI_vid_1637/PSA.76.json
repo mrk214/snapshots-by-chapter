@@ -1,1 +1,208 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.76","is_chapter":true,"previous":{"usfm":"PSA.75","human":"Salmo 75","canonical":true,"toc":true},"current":{"usfm":"PSA.76","human":"Salmo 76"},"next":{"usfm":"PSA.77","human":"Salmo 77","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con instrumentos de cuerda. Salmo de Asaf. Cántico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dios es conocido en Judá;","su nombre es exaltado en Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En Salén se halla su santuario;","en Sión está su morada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Allí hizo pedazos las centelleantes flechas,","los escudos, las espadas, las armas de guerra."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Estás rodeado de esplendor;","eres más imponente que las montañas eternas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Los valientes yacen ahora despojados;","han caído en el sopor de la muerte.","Ninguno de esos hombres aguerridos","volverá a levantar sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cuando tú, Dios de Jacob, los reprendiste,","quedaron pasmados jinetes y corceles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tú, y solo tú, eres temido.","¿Quién puede hacerte frente","cuando se enciende tu enojo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Desde el cielo diste a conocer tu veredicto;","la tierra, temerosa, guardó silencio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["cuando tú, oh Dios, te levantaste para juzgar,","para salvar a los pobres de la tierra."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La furia del hombre se vuelve tu alabanza,","y los que sobrevivan al castigo te harán fiesta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Haced votos al Señor vuestro Dios, y cumplidlos;","que todos los países vecinos","paguen tributo al Dios temible,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["al que acaba con el valor de los gobernantes,","¡al que es temido por los reyes de la tierra!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.75.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.77.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.76",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.75",
+      "human": "Salmo 75"
+    },
+    "current": {
+      "usfm": "PSA.76",
+      "human": "Salmo 76"
+    },
+    "next": {
+      "usfm": "PSA.77",
+      "human": "Salmo 77"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con instrumentos de cuerda. Salmo de Asaf. Cántico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dios es conocido en Judá;",
+          "su nombre es exaltado en Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En Salén se halla su santuario;",
+          "en Sión está su morada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Allí hizo pedazos las centelleantes flechas,",
+          "los escudos, las espadas, las armas de guerra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Estás rodeado de esplendor;",
+          "eres más imponente que las montañas eternas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Los valientes yacen ahora despojados;",
+          "han caído en el sopor de la muerte.",
+          "Ninguno de esos hombres aguerridos",
+          "volverá a levantar sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cuando tú, Dios de Jacob, los reprendiste,",
+          "quedaron pasmados jinetes y corceles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tú, y solo tú, eres temido.",
+          "¿Quién puede hacerte frente",
+          "cuando se enciende tu enojo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Desde el cielo diste a conocer tu veredicto;",
+          "la tierra, temerosa, guardó silencio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "cuando tú, oh Dios, te levantaste para juzgar,",
+          "para salvar a los pobres de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La furia del hombre se vuelve tu alabanza,",
+          "y los que sobrevivan al castigo te harán fiesta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Haced votos al Señor vuestro Dios, y cumplidlos;",
+          "que todos los países vecinos",
+          "paguen tributo al Dios temible,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "al que acaba con el valor de los gobernantes,",
+          "¡al que es temido por los reyes de la tierra!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

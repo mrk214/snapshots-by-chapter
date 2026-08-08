@@ -1,1 +1,143 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.1","is_chapter":true,"previous":{"usfm":"JOB.42","human":"Jó 42","canonical":true,"toc":true},"current":{"usfm":"PSA.1","human":"Salmos 1"},"next":{"usfm":"PSA.2","human":"Salmos 2","canonical":true,"toc":true},"items":[{"type":"section1","verse_numbers":[],"lines":["Livro I"],"rlw_lines":[]},{"type":"section2","verse_numbers":[],"lines":["Salmos 1—41"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Os justos e os ímpios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Bem-aventurado o homem","que não anda no conselho dos ímpios,","não se detém no caminho dos pecadores,","nem se assenta na roda dos escarnecedores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Antes, o seu prazer está na lei do Senhor,","e na sua lei medita de dia e de noite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ele é como árvore","plantada junto a corrente de águas,","que, no devido tempo, dá o seu fruto,","e cuja folhagem não murcha;","e tudo quanto ele faz será bem-sucedido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Os ímpios não são assim;","são, porém, como a palha que o vento dispersa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por isso, os perversos não prevalecerão no juízo,","nem os pecadores, na congregação dos justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Pois o Senhor conhece o caminho dos justos,","mas o caminho dos ímpios perecerá."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOB.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.2.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Jó 42"
+    },
+    "current": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "next": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "items": [
+      {
+        "type": "section1",
+        "verse_numbers": [],
+        "lines": [
+          "Livro I"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "section2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmos 1—41"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os justos e os ímpios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Bem-aventurado o homem",
+          "que não anda no conselho dos ímpios,",
+          "não se detém no caminho dos pecadores,",
+          "nem se assenta na roda dos escarnecedores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Antes, o seu prazer está na lei do Senhor,",
+          "e na sua lei medita de dia e de noite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ele é como árvore",
+          "plantada junto a corrente de águas,",
+          "que, no devido tempo, dá o seu fruto,",
+          "e cuja folhagem não murcha;",
+          "e tudo quanto ele faz será bem-sucedido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Os ímpios não são assim;",
+          "são, porém, como a palha que o vento dispersa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por isso, os perversos não prevalecerão no juízo,",
+          "nem os pecadores, na congregação dos justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Pois o Senhor conhece o caminho dos justos,",
+          "mas o caminho dos ímpios perecerá."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

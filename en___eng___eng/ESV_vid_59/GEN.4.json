@@ -1,1 +1,321 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.4","is_chapter":true,"previous":{"usfm":"GEN.3","human":"Genesis 3","canonical":true,"toc":true},"current":{"usfm":"GEN.4","human":"Genesis 4"},"next":{"usfm":"GEN.5","human":"Genesis 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Cain and Abel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the Lord.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["In the course of time Cain brought to the Lord an offering of the fruit of the ground,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["but for Cain and his offering he had no regard. So Cain was very angry, and his face fell."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The Lord said to Cain, “Why are you angry, and why has your face fallen?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Then the Lord said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother’s keeper?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And the Lord said, “What have you done? The voice of your brother’s blood is crying to me from the ground."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Cain said to the Lord, “My punishment is greater than I can bear."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who found him should attack him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Adah bore Jabal; he was the father of those who dwell in tents and have livestock."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["His brother’s name was Jubal; he was the father of all those who play the lyre and pipe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Lamech said to his wives:","“Adah and Zillah, hear my voice;","you wives of Lamech, listen to what I say:","I have killed a man for wounding me,","a young man for striking me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["If Cain’s revenge is sevenfold,","then Lamech’s is seventy-sevenfold.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["And Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed for me another offspring instead of Abel, for Cain killed him.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.5.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.3",
+      "human": "Genesis 3"
+    },
+    "current": {
+      "usfm": "GEN.4",
+      "human": "Genesis 4"
+    },
+    "next": {
+      "usfm": "GEN.5",
+      "human": "Genesis 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Cain and Abel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Now Adam knew Eve his wife, and she conceived and bore Cain, saying, “I have gotten a man with the help of the Lord.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And again, she bore his brother Abel. Now Abel was a keeper of sheep, and Cain a worker of the ground."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "In the course of time Cain brought to the Lord an offering of the fruit of the ground,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "and Abel also brought of the firstborn of his flock and of their fat portions. And the Lord had regard for Abel and his offering,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "but for Cain and his offering he had no regard. So Cain was very angry, and his face fell."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The Lord said to Cain, “Why are you angry, and why has your face fallen?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "If you do well, will you not be accepted? And if you do not do well, sin is crouching at the door. Its desire is contrary to you, but you must rule over it.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cain spoke to Abel his brother. And when they were in the field, Cain rose up against his brother Abel and killed him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Then the Lord said to Cain, “Where is Abel your brother?” He said, “I do not know; am I my brother’s keeper?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And the Lord said, “What have you done? The voice of your brother’s blood is crying to me from the ground."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "And now you are cursed from the ground, which has opened its mouth to receive your brother’s blood from your hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "When you work the ground, it shall no longer yield to you its strength. You shall be a fugitive and a wanderer on the earth.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Cain said to the Lord, “My punishment is greater than I can bear."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Behold, you have driven me today away from the ground, and from your face I shall be hidden. I shall be a fugitive and a wanderer on the earth, and whoever finds me will kill me.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Then the Lord said to him, “Not so! If anyone kills Cain, vengeance shall be taken on him sevenfold.” And the Lord put a mark on Cain, lest any who found him should attack him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Then Cain went away from the presence of the Lord and settled in the land of Nod, east of Eden."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Cain knew his wife, and she conceived and bore Enoch. When he built a city, he called the name of the city after the name of his son, Enoch."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "To Enoch was born Irad, and Irad fathered Mehujael, and Mehujael fathered Methushael, and Methushael fathered Lamech."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "And Lamech took two wives. The name of the one was Adah, and the name of the other Zillah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Adah bore Jabal; he was the father of those who dwell in tents and have livestock."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "His brother’s name was Jubal; he was the father of all those who play the lyre and pipe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Zillah also bore Tubal-cain; he was the forger of all instruments of bronze and iron. The sister of Tubal-cain was Naamah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Lamech said to his wives:",
+          "“Adah and Zillah, hear my voice;",
+          "you wives of Lamech, listen to what I say:",
+          "I have killed a man for wounding me,",
+          "a young man for striking me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "If Cain’s revenge is sevenfold,",
+          "then Lamech’s is seventy-sevenfold.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "And Adam knew his wife again, and she bore a son and called his name Seth, for she said, “God has appointed for me another offspring instead of Abel, for Cain killed him.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "To Seth also a son was born, and he called his name Enosh. At that time people began to call upon the name of the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

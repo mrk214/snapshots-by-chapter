@@ -1,1 +1,310 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"SIR","name":"Eclesiástico"},"chapter":{"chapter_usfm":"SIR.28","is_chapter":true,"previous":{"usfm":"SIR.27","human":"Eclesiástico 27","canonical":true,"toc":true},"current":{"usfm":"SIR.28","human":"Eclesiástico 28"},"next":{"usfm":"SIR.29","human":"Eclesiástico 29","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Pero Dios lleva la cuenta","de todos los pecados","que comete esa gente vengativa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Perdona a los que te ofenden","y, cuando ores, Dios te perdonará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3,4],"lines":["Porque si vives enojado con otros,","y no les tienes compasión,","¿cómo esperas que Dios te perdone?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Dios no aceptará tus ofrendas,","si continúas enojado con otros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6,7],"lines":["Piensa en el día de tu muerte","y pon ya fin a tus rencores.","Acuérdate de la alianza","que Dios hizo con Israel.","Así que deja de odiar a tu prójimo;","olvídate de las ofensas","y cumple los mandamientos."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Las discusiones y peleas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8,9],"lines":["No discutas ni pelees.","Quien fácilmente se enoja,","confunde a sus amigos","y divide a quienes viven en paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La gente terca provoca peleas","como la leña alimenta el fuego.","Mientras más rica y poderosa","más grande es su enojo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11,12],"lines":["Si soplas sobre las brasas,","avivas el fuego;","si le echas agua, lo apagas.","Si discutes con violencia,","haces que corra la sangre.","Si no discutes con violencia,","mantienes la paz.","¡Todo depende de ti!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Las malas lenguas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Querido jovencito,","maldice a los chismosos,","porque ellos han causado la ruina","de mucha gente de bien."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["La gente chismosa es un peligro:","destruye grandes ciudades,","derriba casas de gente importante,","y obliga a mucha gente","a ir de una a otra nación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El chisme ha destruido","a muchos matrimonios honrados.","Por culpa de los chismosos","muchas mujeres fieles y trabajadoras","terminaron divorciadas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Quien hace caso de chismes","no vuelve a vivir en paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Un latigazo deja una marca,","pero un chisme causa grandes destrozos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["La espada ha matado a muchos,","pero los chismes han matado a más."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19,20],"lines":["Es una bendición de Dios","estar a salvo de los chismes;","¡sus cadenas son duras como el bronce"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["y causan una muerte terrible!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22,23],"lines":["El chisme no tiene poder","sobre la gente buena,","pero ataca, como un león,","y destroza como una pantera,","a los que abandonan a Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24,25],"lines":["Por lo tanto,","piensa bien lo que dices","y cierra bien la boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Ten cuidado con lo que dices,","no sea que digas algo indebido","y seas derrotado por tus enemigos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.27.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.29.json"
+  },
+  "book": {
+    "book_usfm": "SIR",
+    "name": "Eclesiástico"
+  },
+  "chapter": {
+    "chapter_usfm": "SIR.28",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "SIR.27",
+      "human": "Eclesiástico 27"
+    },
+    "current": {
+      "usfm": "SIR.28",
+      "human": "Eclesiástico 28"
+    },
+    "next": {
+      "usfm": "SIR.29",
+      "human": "Eclesiástico 29"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Pero Dios lleva la cuenta",
+          "de todos los pecados",
+          "que comete esa gente vengativa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Perdona a los que te ofenden",
+          "y, cuando ores, Dios te perdonará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3,
+          4
+        ],
+        "lines": [
+          "Porque si vives enojado con otros,",
+          "y no les tienes compasión,",
+          "¿cómo esperas que Dios te perdone?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Dios no aceptará tus ofrendas,",
+          "si continúas enojado con otros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6,
+          7
+        ],
+        "lines": [
+          "Piensa en el día de tu muerte",
+          "y pon ya fin a tus rencores.",
+          "Acuérdate de la alianza",
+          "que Dios hizo con Israel.",
+          "Así que deja de odiar a tu prójimo;",
+          "olvídate de las ofensas",
+          "y cumple los mandamientos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las discusiones y peleas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8,
+          9
+        ],
+        "lines": [
+          "No discutas ni pelees.",
+          "Quien fácilmente se enoja,",
+          "confunde a sus amigos",
+          "y divide a quienes viven en paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La gente terca provoca peleas",
+          "como la leña alimenta el fuego.",
+          "Mientras más rica y poderosa",
+          "más grande es su enojo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11,
+          12
+        ],
+        "lines": [
+          "Si soplas sobre las brasas,",
+          "avivas el fuego;",
+          "si le echas agua, lo apagas.",
+          "Si discutes con violencia,",
+          "haces que corra la sangre.",
+          "Si no discutes con violencia,",
+          "mantienes la paz.",
+          "¡Todo depende de ti!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las malas lenguas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Querido jovencito,",
+          "maldice a los chismosos,",
+          "porque ellos han causado la ruina",
+          "de mucha gente de bien."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "La gente chismosa es un peligro:",
+          "destruye grandes ciudades,",
+          "derriba casas de gente importante,",
+          "y obliga a mucha gente",
+          "a ir de una a otra nación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El chisme ha destruido",
+          "a muchos matrimonios honrados.",
+          "Por culpa de los chismosos",
+          "muchas mujeres fieles y trabajadoras",
+          "terminaron divorciadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Quien hace caso de chismes",
+          "no vuelve a vivir en paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Un latigazo deja una marca,",
+          "pero un chisme causa grandes destrozos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "La espada ha matado a muchos,",
+          "pero los chismes han matado a más."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19,
+          20
+        ],
+        "lines": [
+          "Es una bendición de Dios",
+          "estar a salvo de los chismes;",
+          "¡sus cadenas son duras como el bronce"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "y causan una muerte terrible!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22,
+          23
+        ],
+        "lines": [
+          "El chisme no tiene poder",
+          "sobre la gente buena,",
+          "pero ataca, como un león,",
+          "y destroza como una pantera,",
+          "a los que abandonan a Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24,
+          25
+        ],
+        "lines": [
+          "Por lo tanto,",
+          "piensa bien lo que dices",
+          "y cierra bien la boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Ten cuidado con lo que dices,",
+          "no sea que digas algo indebido",
+          "y seas derrotado por tus enemigos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

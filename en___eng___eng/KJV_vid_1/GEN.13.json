@@ -1,1 +1,236 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.13","is_chapter":true,"previous":{"usfm":"GEN.12","human":"Genesis 12","canonical":true,"toc":true},"current":{"usfm":"GEN.13","human":"Genesis 13"},"next":{"usfm":"GEN.14","human":"Genesis 14","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Abraham and Lot"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["And Abram was very rich in cattle, in silver, and in gold."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And Lot also, which went with Abram, had flocks, and herds, and tents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["But the men of Sodom were wicked and sinners before the LORD exceedingly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["for all the land which thou seest, to thee will I give it, and to thy seed for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.14.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.12",
+      "human": "Genesis 12"
+    },
+    "current": {
+      "usfm": "GEN.13",
+      "human": "Genesis 13"
+    },
+    "next": {
+      "usfm": "GEN.14",
+      "human": "Genesis 14"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Abraham and Lot"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And Abram went up out of Egypt, he, and his wife, and all that he had, and Lot with him, into the south."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "And Abram was very rich in cattle, in silver, and in gold."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "And he went on his journeys from the south even to Beth-el, unto the place where his tent had been at the beginning, between Beth-el and Hai;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "unto the place of the altar, which he had made there at the first: and there Abram called on the name of the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And Lot also, which went with Abram, had flocks, and herds, and tents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "And the land was not able to bear them, that they might dwell together: for their substance was great, so that they could not dwell together."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "And there was a strife between the herdmen of Abram's cattle and the herdmen of Lot's cattle: and the Canaanite and the Perizzite dwelled then in the land."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "And Abram said unto Lot, Let there be no strife, I pray thee, between me and thee, and between my herdmen and thy herdmen; for we be brethren."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Is not the whole land before thee? separate thyself, I pray thee, from me: if thou wilt take the left hand, then I will go to the right; or if thou depart to the right hand, then I will go to the left."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "And Lot lifted up his eyes, and beheld all the plain of Jordan, that it was well watered every where, before the LORD destroyed Sodom and Gomorrah, even as the garden of the LORD, like the land of Egypt, as thou comest unto Zoar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Then Lot chose him all the plain of Jordan; and Lot journeyed east: and they separated themselves the one from the other."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Abram dwelled in the land of Canaan, and Lot dwelled in the cities of the plain, and pitched his tent toward Sodom."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "But the men of Sodom were wicked and sinners before the LORD exceedingly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "And the LORD said unto Abram, after that Lot was separated from him, Lift up now thine eyes, and look from the place where thou art northward, and southward, and eastward, and westward:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "for all the land which thou seest, to thee will I give it, and to thy seed for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "And I will make thy seed as the dust of the earth: so that if a man can number the dust of the earth, then shall thy seed also be numbered."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Arise, walk through the land in the length of it and in the breadth of it; for I will give it unto thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Then Abram removed his tent, and came and dwelt in the plain of Mamre, which is in Hebron, and built there an altar unto the LORD."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

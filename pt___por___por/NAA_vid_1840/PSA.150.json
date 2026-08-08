@@ -1,1 +1,131 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Provérbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Doxologia final"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aleluia!","Louvem a Deus no seu santuário;","louvem a Deus no firmamento,","obra do seu poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Louvem-no pelos seus","poderosos feitos;","louvem-no segundo","a sua imensa grandeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Louvem-no ao som da trombeta;","louvem-no com harpas e liras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Louvem-no com tamborins","e danças;","louvem-no com instrumentos","de cordas e com flautas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Louvem-no","com címbalos sonoros;","louvem-no","com címbalos retumbantes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Todo ser que respira","louve o Senhor.","Aleluia!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Provérbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Doxologia final"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aleluia!",
+          "Louvem a Deus no seu santuário;",
+          "louvem a Deus no firmamento,",
+          "obra do seu poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Louvem-no pelos seus",
+          "poderosos feitos;",
+          "louvem-no segundo",
+          "a sua imensa grandeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Louvem-no ao som da trombeta;",
+          "louvem-no com harpas e liras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Louvem-no com tamborins",
+          "e danças;",
+          "louvem-no com instrumentos",
+          "de cordas e com flautas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Louvem-no",
+          "com címbalos sonoros;",
+          "louvem-no",
+          "com címbalos retumbantes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Todo ser que respira",
+          "louve o Senhor.",
+          "Aleluia!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

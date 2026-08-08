@@ -1,1 +1,284 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"EPH","name":"Ephesians"},"chapter":{"chapter_usfm":"EPH.2","is_chapter":true,"previous":{"usfm":"EPH.1","human":"Ephesians 1","canonical":true,"toc":true},"current":{"usfm":"EPH.2","human":"Ephesians 2"},"next":{"usfm":"EPH.3","human":"Ephesians 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["By Grace Through Faith"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["And you were dead in the trespasses and sins"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But God, being rich in mercy, because of the great love with which he loved us,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["For by grace you have been saved through faith. And this is not your own doing; it is the gift of God,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["not a result of works, so that no one may boast."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["One in Christ"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Therefore remember that at one time you Gentiles in the flesh, called “the uncircumcision” by what is called the circumcision, which is made in the flesh by hands—"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["But now in Christ Jesus you who once were far off have been brought near by the blood of Christ."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["and might reconcile us both to God in one body through the cross, thereby killing the hostility."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["And he came and preached peace to you who were far off and peace to those who were near."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["For through him we both have access in one Spirit to the Father."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["in whom the whole structure, being joined together, grows into a holy temple in the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["In him you also are being built together into a dwelling place for God by the Spirit."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EPH.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EPH.3.json"
+  },
+  "book": {
+    "book_usfm": "EPH",
+    "name": "Ephesians"
+  },
+  "chapter": {
+    "chapter_usfm": "EPH.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EPH.1",
+      "human": "Ephesians 1"
+    },
+    "current": {
+      "usfm": "EPH.2",
+      "human": "Ephesians 2"
+    },
+    "next": {
+      "usfm": "EPH.3",
+      "human": "Ephesians 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "By Grace Through Faith"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And you were dead in the trespasses and sins"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "in which you once walked, following the course of this world, following the prince of the power of the air, the spirit that is now at work in the sons of disobedience—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "among whom we all once lived in the passions of our flesh, carrying out the desires of the body and the mind, and were by nature children of wrath, like the rest of mankind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But God, being rich in mercy, because of the great love with which he loved us,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "even when we were dead in our trespasses, made us alive together with Christ—by grace you have been saved—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "and raised us up with him and seated us with him in the heavenly places in Christ Jesus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "so that in the coming ages he might show the immeasurable riches of his grace in kindness toward us in Christ Jesus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "For by grace you have been saved through faith. And this is not your own doing; it is the gift of God,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "not a result of works, so that no one may boast."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "For we are his workmanship, created in Christ Jesus for good works, which God prepared beforehand, that we should walk in them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "One in Christ"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Therefore remember that at one time you Gentiles in the flesh, called “the uncircumcision” by what is called the circumcision, which is made in the flesh by hands—"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "remember that you were at that time separated from Christ, alienated from the commonwealth of Israel and strangers to the covenants of promise, having no hope and without God in the world."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "But now in Christ Jesus you who once were far off have been brought near by the blood of Christ."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "For he himself is our peace, who has made us both one and has broken down in his flesh the dividing wall of hostility"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "by abolishing the law of commandments expressed in ordinances, that he might create in himself one new man in place of the two, so making peace,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "and might reconcile us both to God in one body through the cross, thereby killing the hostility."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "And he came and preached peace to you who were far off and peace to those who were near."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "For through him we both have access in one Spirit to the Father."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "So then you are no longer strangers and aliens, but you are fellow citizens with the saints and members of the household of God,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "built on the foundation of the apostles and prophets, Christ Jesus himself being the cornerstone,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "in whom the whole structure, being joined together, grows into a holy temple in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "In him you also are being built together into a dwelling place for God by the Spirit."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

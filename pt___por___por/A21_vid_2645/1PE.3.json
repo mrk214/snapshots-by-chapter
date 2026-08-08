@@ -1,1 +1,285 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"1PE","name":"1Pedro"},"chapter":{"chapter_usfm":"1PE.3","is_chapter":true,"previous":{"usfm":"1PE.2","human":"1Pedro 2","canonical":true,"toc":true},"current":{"usfm":"1PE.3","human":"1Pedro 3"},"next":{"usfm":"1PE.4","human":"1Pedro 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Os deveres das mulheres e dos maridos cristãos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Mulheres, do mesmo modo, cada uma de vós seja submissa ao marido, para que também, se alguns deles não obedecem à palavra, sejam ganhos sem palavra alguma pela conduta de sua mulher,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["ao observarem vossa conduta pura em temor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O que vos torna belas não deve ser o enfeite exterior, como as tranças dos cabelos, as joias de ouro ou o luxo dos vestidos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["mas sim o íntimo do coração, com um espírito gentil e tranquilo, que não perece e tem muito valor diante de Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois, no passado, as santas mulheres que esperavam em Deus também se enfeitavam assim e estavam submissas ao marido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Era dessa forma que Sara obedecia a Abraão, chamando-lhe senhor; dela sois filhas, se fizerdes o bem sem nenhum temor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Da mesma forma, maridos, vivei com elas a vida do lar, com entendimento, dando honra à mulher como parte mais frágil e herdeira convosco da graça da vida, para que as vossas orações não sejam impedidas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O amor fraternal e a paciência na aflição"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Finalmente, tende todos vós o mesmo modo de pensar; mostrai compaixão e amor fraternal, sede misericordiosos e humildes,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["não retribuindo mal com mal, nem ofensa com ofensa; pelo contrário, bendizei; porque para isso fostes chamados, a fim de receber bênção como herança."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pois,","quem quer amar a vida e ver dias felizes, refreie a língua do mal, e os lábios de falar coisas enganosas;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["afaste-se do mal e faça o bem; busque a paz e nela insista."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos, atentos à sua súplica; mas o rosto do Senhor está contra os que praticam o mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Quem vos fará mal, se sois zelosos do bem?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mas, ainda que venhais a sofrer por causa da justiça, sereis abençoados. Não temais suas ameaças, nem vos alarmeis."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Antes, reverenciai a Cristo como Senhor no coração. Estai sempre preparados para responder a todo o que vos pedir a razão da esperança que há em vós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Mas fazei isso com mansidão e temor, tendo boa consciência, para que os que caluniam o vosso bom procedimento em Cristo fiquem envergonhados naquilo de que falam mal de vós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Porque, se a vontade de Deus assim o decretar, é melhor que sofrais fazendo o bem do que o mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque também Cristo morreu uma única vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; morto na carne, mas vivificado pelo Espírito,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["no qual também foi e pregou aos espíritos em prisão,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["os quais, noutro tempo, foram rebeldes, quando a paciência de Deus esperava enquanto a arca era construída nos dias de Noé; poucas pessoas, isto é, oito, salvaram-se nela por meio da água,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["que, prefigurando o batismo, agora também vos salva, o qual não é a remoção da impureza da carne, mas a promessa de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["o qual, tendo subido ao céu, está à direita de Deus; e a ele sujeitaram-se os anjos, as autoridades e os poderes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1PE.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1PE.4.json"
+  },
+  "book": {
+    "book_usfm": "1PE",
+    "name": "1Pedro"
+  },
+  "chapter": {
+    "chapter_usfm": "1PE.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1PE.2",
+      "human": "1Pedro 2"
+    },
+    "current": {
+      "usfm": "1PE.3",
+      "human": "1Pedro 3"
+    },
+    "next": {
+      "usfm": "1PE.4",
+      "human": "1Pedro 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os deveres das mulheres e dos maridos cristãos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Mulheres, do mesmo modo, cada uma de vós seja submissa ao marido, para que também, se alguns deles não obedecem à palavra, sejam ganhos sem palavra alguma pela conduta de sua mulher,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "ao observarem vossa conduta pura em temor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O que vos torna belas não deve ser o enfeite exterior, como as tranças dos cabelos, as joias de ouro ou o luxo dos vestidos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "mas sim o íntimo do coração, com um espírito gentil e tranquilo, que não perece e tem muito valor diante de Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois, no passado, as santas mulheres que esperavam em Deus também se enfeitavam assim e estavam submissas ao marido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Era dessa forma que Sara obedecia a Abraão, chamando-lhe senhor; dela sois filhas, se fizerdes o bem sem nenhum temor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Da mesma forma, maridos, vivei com elas a vida do lar, com entendimento, dando honra à mulher como parte mais frágil e herdeira convosco da graça da vida, para que as vossas orações não sejam impedidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O amor fraternal e a paciência na aflição"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Finalmente, tende todos vós o mesmo modo de pensar; mostrai compaixão e amor fraternal, sede misericordiosos e humildes,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "não retribuindo mal com mal, nem ofensa com ofensa; pelo contrário, bendizei; porque para isso fostes chamados, a fim de receber bênção como herança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pois,",
+          "quem quer amar a vida e ver dias felizes, refreie a língua do mal, e os lábios de falar coisas enganosas;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "afaste-se do mal e faça o bem; busque a paz e nela insista."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Porque os olhos do Senhor estão sobre os justos, e os seus ouvidos, atentos à sua súplica; mas o rosto do Senhor está contra os que praticam o mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Quem vos fará mal, se sois zelosos do bem?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mas, ainda que venhais a sofrer por causa da justiça, sereis abençoados. Não temais suas ameaças, nem vos alarmeis."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Antes, reverenciai a Cristo como Senhor no coração. Estai sempre preparados para responder a todo o que vos pedir a razão da esperança que há em vós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Mas fazei isso com mansidão e temor, tendo boa consciência, para que os que caluniam o vosso bom procedimento em Cristo fiquem envergonhados naquilo de que falam mal de vós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Porque, se a vontade de Deus assim o decretar, é melhor que sofrais fazendo o bem do que o mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque também Cristo morreu uma única vez pelos pecados, o justo pelos injustos, para levar-nos a Deus; morto na carne, mas vivificado pelo Espírito,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "no qual também foi e pregou aos espíritos em prisão,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "os quais, noutro tempo, foram rebeldes, quando a paciência de Deus esperava enquanto a arca era construída nos dias de Noé; poucas pessoas, isto é, oito, salvaram-se nela por meio da água,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "que, prefigurando o batismo, agora também vos salva, o qual não é a remoção da impureza da carne, mas a promessa de uma boa consciência para com Deus, pela ressurreição de Jesus Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "o qual, tendo subido ao céu, está à direita de Deus; e a ele sujeitaram-se os anjos, as autoridades e os poderes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

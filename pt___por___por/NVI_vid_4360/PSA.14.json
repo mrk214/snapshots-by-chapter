@@ -1,1 +1,140 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.14","is_chapter":true,"previous":{"usfm":"PSA.13","human":"Salmos 13","canonical":true,"toc":true},"current":{"usfm":"PSA.14","human":"Salmos 14"},"next":{"usfm":"PSA.15","human":"Salmos 15","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. Davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Diz o tolo em seu coração: “Deus não existe”.","Corromperam-se e cometeram atos detestáveis;","não há ninguém que faça o bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O Senhor olha dos céus","para os filhos dos homens,","para ver se há alguém que tenha entendimento,","alguém que busque a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Todos se desviaram,","igualmente se corromperam;","não há ninguém que faça o bem,","não há nem um sequer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Será que nenhum dos malfeitores aprende?","Eles devoram o meu povo como quem come pão","e não clamam pelo Senhor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Olhem! Estão tomados de pavor!","Pois Deus está presente no meio dos justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Vocês, malfeitores, frustram os planos dos pobres,","mas o refúgio deles é o Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ah, se de Sião viesse a salvação para Israel!","Quando o Senhor restaurar o seu povo,","Jacó exultará! Israel se regozijará!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.13.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.15.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.14",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.13",
+      "human": "Salmos 13"
+    },
+    "current": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "next": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. Davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Diz o tolo em seu coração: “Deus não existe”.",
+          "Corromperam-se e cometeram atos detestáveis;",
+          "não há ninguém que faça o bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O Senhor olha dos céus",
+          "para os filhos dos homens,",
+          "para ver se há alguém que tenha entendimento,",
+          "alguém que busque a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Todos se desviaram,",
+          "igualmente se corromperam;",
+          "não há ninguém que faça o bem,",
+          "não há nem um sequer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Será que nenhum dos malfeitores aprende?",
+          "Eles devoram o meu povo como quem come pão",
+          "e não clamam pelo Senhor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Olhem! Estão tomados de pavor!",
+          "Pois Deus está presente no meio dos justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Vocês, malfeitores, frustram os planos dos pobres,",
+          "mas o refúgio deles é o Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ah, se de Sião viesse a salvação para Israel!",
+          "Quando o Senhor restaurar o seu povo,",
+          "Jacó exultará! Israel se regozijará!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

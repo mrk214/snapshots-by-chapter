@@ -1,1 +1,244 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"2TI","name":"2Timóteo"},"chapter":{"chapter_usfm":"2TI.1","is_chapter":true,"previous":{"usfm":"1TI.6","human":"1Timóteo 6","canonical":true,"toc":true},"current":{"usfm":"2TI.1","human":"2Timóteo 1"},"next":{"usfm":"2TI.2","human":"2Timóteo 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prefácio e cumprimentos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["a Timóteo, filho amado: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A preocupação de Paulo com Timóteo Exortação à firmeza e à constância no ministério"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Dou graças a Deus, a quem sirvo com consciência limpa, assim como serviram os meus antepassados, ao mencionar-te sempre em minhas súplicas noite e dia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Recordo-me das tuas lágrimas e desejo muito te ver, para encher-me de alegria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Também recordo a fé sincera que há em ti, que primeiro habitou em tua avó Loide e em tua mãe Eunice, e estou certo de que também habita em ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Por essa razão, lembro-te de que despertes o dom de Deus que há em ti mediante a imposição das minhas mãos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque Deus não nos deu espírito de covardia, mas de poder, de amor e de moderação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Portanto, não te envergonhes do testemunho de nosso Senhor nem de mim, prisioneiro dele; pelo contrário, participa comigo dos sofrimentos do evangelho segundo o poder de Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Ele nos salvou e nos chamou com uma santa vocação, não por causa das nossas obras, mas devido ao seu propósito e à graça que nos foi concedida em Cristo Jesus antes dos tempos eternos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["e que agora se manifestou pelo aparecimento de nosso Salvador Cristo Jesus, que destruiu a morte e trouxe à luz a vida e a imortalidade pelo evangelho,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["do qual fui constituído pregador, apóstolo e mestre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Por essa razão sofro também essas coisas, mas não me envergonho; porque eu sei em quem tenho crido e estou certo de que ele é poderoso para guardar o meu tesouro até aquele dia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Preserva o modelo das sãs palavras que de mim ouviste na fé e no amor que estão em Cristo Jesus;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["guarda o bom tesouro com o auxílio do Espírito Santo, que habita em nós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Bem sabes que todos os que estão na Ásia me abandonaram, entre eles Fígelo e Hermógenes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["O Senhor conceda misericórdia à casa de Onesíforo, porque muitas vezes ele me trouxe ânimo e não se envergonhou de eu estar na prisão;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["pelo contrário, quando chegou a Roma, procurou-me com persistência e me encontrou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["O Senhor lhe conceda que naquele dia obtenha misericórdia diante do Senhor. E bem sabes quantos serviços ele me prestou em Éfeso."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1TI.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/2TI.2.json"
+  },
+  "book": {
+    "book_usfm": "2TI",
+    "name": "2Timóteo"
+  },
+  "chapter": {
+    "chapter_usfm": "2TI.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1TI.6",
+      "human": "1Timóteo 6"
+    },
+    "current": {
+      "usfm": "2TI.1",
+      "human": "2Timóteo 1"
+    },
+    "next": {
+      "usfm": "2TI.2",
+      "human": "2Timóteo 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prefácio e cumprimentos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, segundo a promessa da vida que está em Cristo Jesus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "a Timóteo, filho amado: Graça, misericórdia e paz da parte de Deus Pai e de Cristo Jesus, nosso Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A preocupação de Paulo com Timóteo Exortação à firmeza e à constância no ministério"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Dou graças a Deus, a quem sirvo com consciência limpa, assim como serviram os meus antepassados, ao mencionar-te sempre em minhas súplicas noite e dia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Recordo-me das tuas lágrimas e desejo muito te ver, para encher-me de alegria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Também recordo a fé sincera que há em ti, que primeiro habitou em tua avó Loide e em tua mãe Eunice, e estou certo de que também habita em ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Por essa razão, lembro-te de que despertes o dom de Deus que há em ti mediante a imposição das minhas mãos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque Deus não nos deu espírito de covardia, mas de poder, de amor e de moderação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Portanto, não te envergonhes do testemunho de nosso Senhor nem de mim, prisioneiro dele; pelo contrário, participa comigo dos sofrimentos do evangelho segundo o poder de Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Ele nos salvou e nos chamou com uma santa vocação, não por causa das nossas obras, mas devido ao seu propósito e à graça que nos foi concedida em Cristo Jesus antes dos tempos eternos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "e que agora se manifestou pelo aparecimento de nosso Salvador Cristo Jesus, que destruiu a morte e trouxe à luz a vida e a imortalidade pelo evangelho,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "do qual fui constituído pregador, apóstolo e mestre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Por essa razão sofro também essas coisas, mas não me envergonho; porque eu sei em quem tenho crido e estou certo de que ele é poderoso para guardar o meu tesouro até aquele dia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Preserva o modelo das sãs palavras que de mim ouviste na fé e no amor que estão em Cristo Jesus;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "guarda o bom tesouro com o auxílio do Espírito Santo, que habita em nós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Bem sabes que todos os que estão na Ásia me abandonaram, entre eles Fígelo e Hermógenes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "O Senhor conceda misericórdia à casa de Onesíforo, porque muitas vezes ele me trouxe ânimo e não se envergonhou de eu estar na prisão;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "pelo contrário, quando chegou a Roma, procurou-me com persistência e me encontrou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "O Senhor lhe conceda que naquele dia obtenha misericórdia diante do Senhor. E bem sabes quantos serviços ele me prestou em Éfeso."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

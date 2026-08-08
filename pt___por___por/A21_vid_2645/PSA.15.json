@@ -1,1 +1,114 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.15","is_chapter":true,"previous":{"usfm":"PSA.14","human":"Salmos 14","canonical":true,"toc":true},"current":{"usfm":"PSA.15","human":"Salmos 15"},"next":{"usfm":"PSA.16","human":"Salmos 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Integridade e comunhão com Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de Davi"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Senhor, quem habitará no teu tabernáculo? Quem poderá morar no teu santo monte?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Aquele que vive com integridade, pratica a justiça e fala a verdade de coração;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["que não difama com a língua, nem faz o mal ao próximo, nem calunia seu amigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Aquele cujos olhos rejeitam o desprezível, mas que também honra os que temem o Senhor. O que não volta atrás, mesmo quando jura com prejuízo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["que não empresta seu dinheiro exigindo juros, nem recebe suborno contra o inocente. Aquele que agir assim nunca será abalado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.16.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "current": {
+      "usfm": "PSA.15",
+      "human": "Salmos 15"
+    },
+    "next": {
+      "usfm": "PSA.16",
+      "human": "Salmos 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Integridade e comunhão com Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de Davi"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Senhor, quem habitará no teu tabernáculo? Quem poderá morar no teu santo monte?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Aquele que vive com integridade, pratica a justiça e fala a verdade de coração;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "que não difama com a língua, nem faz o mal ao próximo, nem calunia seu amigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Aquele cujos olhos rejeitam o desprezível, mas que também honra os que temem o Senhor. O que não volta atrás, mesmo quando jura com prejuízo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "que não empresta seu dinheiro exigindo juros, nem recebe suborno contra o inocente. Aquele que agir assim nunca será abalado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

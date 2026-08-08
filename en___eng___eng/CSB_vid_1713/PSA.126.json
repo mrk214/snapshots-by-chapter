@@ -1,1 +1,134 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.126","is_chapter":true,"previous":{"usfm":"PSA.125","human":"Psalms 125","canonical":true,"toc":true},"current":{"usfm":"PSA.126","human":"Psalms 126"},"next":{"usfm":"PSA.127","human":"Psalms 127","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Zion’s Restoration"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A song of ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["When the Lord restored the fortunes of Zion,","we were like those who dream."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Our mouths were filled with laughter then,","and our tongues with shouts of joy.","Then they said among the nations,","“The Lord has done great things for them.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The Lord had done great things for us;","we were joyful."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Restore our fortunes, Lord,","like watercourses in the Negev."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Those who sow in tears","will reap with shouts of joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Though one goes along weeping,","carrying the bag of seed,","he will surely come back with shouts of joy,","carrying his sheaves."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.125.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.127.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.126",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.125",
+      "human": "Psalms 125"
+    },
+    "current": {
+      "usfm": "PSA.126",
+      "human": "Psalms 126"
+    },
+    "next": {
+      "usfm": "PSA.127",
+      "human": "Psalms 127"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Zion’s Restoration"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A song of ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "When the Lord restored the fortunes of Zion,",
+          "we were like those who dream."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Our mouths were filled with laughter then,",
+          "and our tongues with shouts of joy.",
+          "Then they said among the nations,",
+          "“The Lord has done great things for them.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The Lord had done great things for us;",
+          "we were joyful."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Restore our fortunes, Lord,",
+          "like watercourses in the Negev."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Those who sow in tears",
+          "will reap with shouts of joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Though one goes along weeping,",
+          "carrying the bag of seed,",
+          "he will surely come back with shouts of joy,",
+          "carrying his sheaves."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

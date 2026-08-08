@@ -1,1 +1,177 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.31","is_chapter":true,"previous":{"usfm":"ISA.30","human":"Isaiah 30","canonical":true,"toc":true},"current":{"usfm":"ISA.31","human":"Isaiah 31"},"next":{"usfm":"ISA.32","human":"Isaiah 32","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Woe to Those Who Rely on Egypt"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Woe to those who go down to Egypt for help,","who rely on horses,","who trust in the multitude of their chariots","and in the great strength of their horsemen,","but do not look to the Holy One of Israel,","or seek help from the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Yet he too is wise and can bring disaster;","he does not take back his words.","He will rise up against that wicked nation,","against those who help evildoers."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But the Egyptians are mere mortals and not God;","their horses are flesh and not spirit.","When the Lord stretches out his hand,","those who help will stumble,","those who are helped will fall;","all will perish together."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["This is what the Lord says to me:","“As a lion growls,","a great lion over its prey—","and though a whole band of shepherds","is called together against it,","it is not frightened by their shouts","or disturbed by their clamor—","so the Lord Almighty will come down","to do battle on Mount Zion and on its heights."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Like birds hovering overhead,","the Lord Almighty will shield Jerusalem;","he will shield it and deliver it,","he will ‘pass over’ it and will rescue it.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Return, you Israelites, to the One you have so greatly revolted against."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For in that day every one of you will reject the idols of silver and gold your sinful hands have made."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Assyria will fall by no human sword;","a sword, not of mortals, will devour them.","They will flee before the sword","and their young men will be put to forced labor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Their stronghold will fall because of terror;","at the sight of the battle standard their commanders will panic,”","declares the Lord,","whose fire is in Zion,","whose furnace is in Jerusalem."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.30.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.32.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.31",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.30",
+      "human": "Isaiah 30"
+    },
+    "current": {
+      "usfm": "ISA.31",
+      "human": "Isaiah 31"
+    },
+    "next": {
+      "usfm": "ISA.32",
+      "human": "Isaiah 32"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Woe to Those Who Rely on Egypt"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Woe to those who go down to Egypt for help,",
+          "who rely on horses,",
+          "who trust in the multitude of their chariots",
+          "and in the great strength of their horsemen,",
+          "but do not look to the Holy One of Israel,",
+          "or seek help from the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Yet he too is wise and can bring disaster;",
+          "he does not take back his words.",
+          "He will rise up against that wicked nation,",
+          "against those who help evildoers."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But the Egyptians are mere mortals and not God;",
+          "their horses are flesh and not spirit.",
+          "When the Lord stretches out his hand,",
+          "those who help will stumble,",
+          "those who are helped will fall;",
+          "all will perish together."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "This is what the Lord says to me:",
+          "“As a lion growls,",
+          "a great lion over its prey—",
+          "and though a whole band of shepherds",
+          "is called together against it,",
+          "it is not frightened by their shouts",
+          "or disturbed by their clamor—",
+          "so the Lord Almighty will come down",
+          "to do battle on Mount Zion and on its heights."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Like birds hovering overhead,",
+          "the Lord Almighty will shield Jerusalem;",
+          "he will shield it and deliver it,",
+          "he will ‘pass over’ it and will rescue it.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Return, you Israelites, to the One you have so greatly revolted against."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For in that day every one of you will reject the idols of silver and gold your sinful hands have made."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Assyria will fall by no human sword;",
+          "a sword, not of mortals, will devour them.",
+          "They will flee before the sword",
+          "and their young men will be put to forced labor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Their stronghold will fall because of terror;",
+          "at the sight of the battle standard their commanders will panic,”",
+          "declares the Lord,",
+          "whose fire is in Zion,",
+          "whose furnace is in Jerusalem."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

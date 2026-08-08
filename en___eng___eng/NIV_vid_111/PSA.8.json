@@ -1,1 +1,161 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.8","is_chapter":true,"previous":{"usfm":"PSA.7","human":"Psalms 7","canonical":true,"toc":true},"current":{"usfm":"PSA.8","human":"Psalms 8"},"next":{"usfm":"PSA.9","human":"Psalms 9","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["For the director of music. According to gittith. A psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Lord, our Lord,","how majestic is your name in all the earth!","You have set your glory","in the heavens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Through the praise of children and infants","you have established a stronghold against your enemies,","to silence the foe and the avenger."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When I consider your heavens,","the work of your fingers,","the moon and the stars,","which you have set in place,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["what is mankind that you are mindful of them,","human beings that you care for them?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["You have made them a little lower than the angels","and crowned them with glory and honor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You made them rulers over the works of your hands;","you put everything under their feet:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["all flocks and herds,","and the animals of the wild,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["the birds in the sky,","and the fish in the sea,","all that swim the paths of the seas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Lord, our Lord,","how majestic is your name in all the earth!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.7.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.9.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.8",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.7",
+      "human": "Psalms 7"
+    },
+    "current": {
+      "usfm": "PSA.8",
+      "human": "Psalms 8"
+    },
+    "next": {
+      "usfm": "PSA.9",
+      "human": "Psalms 9"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the director of music. According to gittith. A psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Lord, our Lord,",
+          "how majestic is your name in all the earth!",
+          "You have set your glory",
+          "in the heavens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Through the praise of children and infants",
+          "you have established a stronghold against your enemies,",
+          "to silence the foe and the avenger."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When I consider your heavens,",
+          "the work of your fingers,",
+          "the moon and the stars,",
+          "which you have set in place,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "what is mankind that you are mindful of them,",
+          "human beings that you care for them?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "You have made them a little lower than the angels",
+          "and crowned them with glory and honor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You made them rulers over the works of your hands;",
+          "you put everything under their feet:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "all flocks and herds,",
+          "and the animals of the wild,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "the birds in the sky,",
+          "and the fish in the sea,",
+          "all that swim the paths of the seas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Lord, our Lord,",
+          "how majestic is your name in all the earth!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,256 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"HOS","name":"Oseas"},"chapter":{"chapter_usfm":"HOS.7","is_chapter":true,"previous":{"usfm":"HOS.6","human":"Oseas 6","canonical":true,"toc":true},"current":{"usfm":"HOS.7","human":"Oseas 7"},"next":{"usfm":"HOS.8","human":"Oseas 8","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["y cuando yo sane a Israel,","la perversidad de Efraín y la maldad de Samaria","quedarán al descubierto.","Porque ellos cometen fraudes;","mientras el ladrón se mete en las casas,","una banda de salteadores roba en las calles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No consideran en sus corazones","que yo recuerdo todas sus maldades.","Sus malas acciones los tienen cercados,","siempre las tengo presentes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["»Con su maldad alegran al rey;","con sus mentiras, a los príncipes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Todos ellos son adúlteros!","Parecen un horno encendido","cuyo fuego no hace falta atizar","desde que el panadero prepara la harina hasta que la masa fermenta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En el día de fiesta de nuestro rey,","los príncipes se encienden con el vino","y el rey da la mano a los burladores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sus corazones son como un horno,","mientras se acercan con intrigas.","Su ira se adormece por la noche,","pero se reaviva por la mañana."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos ellos arden como un horno","y devoran a sus gobernantes.","Caen todos sus reyes,","pero ninguno de ellos me invoca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["»Efraín se mezcla con las naciones;","parece una torta cocida de un solo lado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los extranjeros minan sus fuerzas,","pero él ni cuenta se da.","Su pelo se ha encanecido,","pero él ni cuenta se da."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["La arrogancia de Israel testifica en su contra,","pero él no se vuelve al Señor su Dios;","a pesar de todo esto,","no lo busca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»Efraín es como una paloma","torpe y sin entendimiento,","que unas veces pide ayuda a Egipto","y otras, recurre a Asiria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando vayan, lanzaré mi red sobre ellos;","los derribaré como a las aves del cielo","y cuando escuche que están juntos,","los atraparé."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡Ay de ellos,","que de mí se alejaron!","¡Destrucción vendrá sobre ellos","por rebelarse contra mí!","Yo bien podría redimirlos,","pero ellos mienten sobre mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No me invocan de corazón,","sino que se lamentan echados en sus camas.","Para obtener grano y vino nuevo","se laceran","y se ponen en mi contra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Yo adiestré y fortalecí sus brazos,","pero ellos maquinan maldades contra mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["No se vuelven al Altísimo;","son como un arco engañoso.","Sus líderes caerán a filo de espada","por sus palabras insolentes.","Y en la tierra de Egipto","se burlarán de ellos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HOS.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HOS.8.json"
+  },
+  "book": {
+    "book_usfm": "HOS",
+    "name": "Oseas"
+  },
+  "chapter": {
+    "chapter_usfm": "HOS.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HOS.6",
+      "human": "Oseas 6"
+    },
+    "current": {
+      "usfm": "HOS.7",
+      "human": "Oseas 7"
+    },
+    "next": {
+      "usfm": "HOS.8",
+      "human": "Oseas 8"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "y cuando yo sane a Israel,",
+          "la perversidad de Efraín y la maldad de Samaria",
+          "quedarán al descubierto.",
+          "Porque ellos cometen fraudes;",
+          "mientras el ladrón se mete en las casas,",
+          "una banda de salteadores roba en las calles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No consideran en sus corazones",
+          "que yo recuerdo todas sus maldades.",
+          "Sus malas acciones los tienen cercados,",
+          "siempre las tengo presentes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "»Con su maldad alegran al rey;",
+          "con sus mentiras, a los príncipes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Todos ellos son adúlteros!",
+          "Parecen un horno encendido",
+          "cuyo fuego no hace falta atizar",
+          "desde que el panadero prepara la harina hasta que la masa fermenta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En el día de fiesta de nuestro rey,",
+          "los príncipes se encienden con el vino",
+          "y el rey da la mano a los burladores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sus corazones son como un horno,",
+          "mientras se acercan con intrigas.",
+          "Su ira se adormece por la noche,",
+          "pero se reaviva por la mañana."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos ellos arden como un horno",
+          "y devoran a sus gobernantes.",
+          "Caen todos sus reyes,",
+          "pero ninguno de ellos me invoca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "»Efraín se mezcla con las naciones;",
+          "parece una torta cocida de un solo lado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los extranjeros minan sus fuerzas,",
+          "pero él ni cuenta se da.",
+          "Su pelo se ha encanecido,",
+          "pero él ni cuenta se da."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "La arrogancia de Israel testifica en su contra,",
+          "pero él no se vuelve al Señor su Dios;",
+          "a pesar de todo esto,",
+          "no lo busca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»Efraín es como una paloma",
+          "torpe y sin entendimiento,",
+          "que unas veces pide ayuda a Egipto",
+          "y otras, recurre a Asiria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando vayan, lanzaré mi red sobre ellos;",
+          "los derribaré como a las aves del cielo",
+          "y cuando escuche que están juntos,",
+          "los atraparé."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡Ay de ellos,",
+          "que de mí se alejaron!",
+          "¡Destrucción vendrá sobre ellos",
+          "por rebelarse contra mí!",
+          "Yo bien podría redimirlos,",
+          "pero ellos mienten sobre mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No me invocan de corazón,",
+          "sino que se lamentan echados en sus camas.",
+          "Para obtener grano y vino nuevo",
+          "se laceran",
+          "y se ponen en mi contra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Yo adiestré y fortalecí sus brazos,",
+          "pero ellos maquinan maldades contra mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "No se vuelven al Altísimo;",
+          "son como un arco engañoso.",
+          "Sus líderes caerán a filo de espada",
+          "por sus palabras insolentes.",
+          "Y en la tierra de Egipto",
+          "se burlarán de ellos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,173 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.47","is_chapter":true,"previous":{"usfm":"PSA.46","human":"Psalm 46","canonical":true,"toc":true},"current":{"usfm":"PSA.47","human":"Psalm 47"},"next":{"usfm":"PSA.48","human":"Psalm 48","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["God Is King over All the Earth"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster. A Psalm of the Sons of Korah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Clap your hands, all peoples!","Shout to God with loud songs of joy!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For the Lord, the Most High, is to be feared,","a great king over all the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He subdued peoples under us,","and nations under our feet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["He chose our heritage for us,","the pride of Jacob whom he loves."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["God has gone up with a shout,","the Lord with the sound of a trumpet."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sing praises to God, sing praises!","Sing praises to our King, sing praises!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For God is the King of all the earth;","sing praises with a psalm!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["God reigns over the nations;","God sits on his holy throne."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The princes of the peoples gather","as the people of the God of Abraham.","For the shields of the earth belong to God;","he is highly exalted!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.46.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.48.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.47",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.46",
+      "human": "Psalm 46"
+    },
+    "current": {
+      "usfm": "PSA.47",
+      "human": "Psalm 47"
+    },
+    "next": {
+      "usfm": "PSA.48",
+      "human": "Psalm 48"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "God Is King over All the Earth"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster. A Psalm of the Sons of Korah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Clap your hands, all peoples!",
+          "Shout to God with loud songs of joy!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For the Lord, the Most High, is to be feared,",
+          "a great king over all the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He subdued peoples under us,",
+          "and nations under our feet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "He chose our heritage for us,",
+          "the pride of Jacob whom he loves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "God has gone up with a shout,",
+          "the Lord with the sound of a trumpet."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sing praises to God, sing praises!",
+          "Sing praises to our King, sing praises!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For God is the King of all the earth;",
+          "sing praises with a psalm!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "God reigns over the nations;",
+          "God sits on his holy throne."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The princes of the peoples gather",
+          "as the people of the God of Abraham.",
+          "For the shields of the earth belong to God;",
+          "he is highly exalted!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

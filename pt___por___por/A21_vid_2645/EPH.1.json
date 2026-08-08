@@ -1,1 +1,294 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"EPH","name":"Efésios"},"chapter":{"chapter_usfm":"EPH.1","is_chapter":true,"previous":{"usfm":"GAL.6","human":"Gálatas 6","canonical":true,"toc":true},"current":{"usfm":"EPH.1","human":"Efésios 1"},"next":{"usfm":"EPH.2","human":"Efésios 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Prefácio e cumprimentos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus que estão em Éfeso:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Graça a vós e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["As bênçãos de Deus em Jesus Cristo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituais nas regiões celestiais em Cristo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["como também nos elegeu nele, antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["e nos predestinou para si mesmo, segundo a boa determinação de sua vontade, para sermos filhos adotivos por meio de Jesus Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["para o louvor da glória da sua graça, que nos deu gratuitamente no Amado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nele temos a redenção, o perdão dos nossos pecados pelo seu sangue, segundo a riqueza da sua graça,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["que ele fez multiplicar-se para conosco em toda sabedoria e prudência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["E fez com que conhecêssemos o mistério da sua vontade, segundo a sua boa determinação, que nele propôs"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["para a dispensação da plenitude dos tempos, de fazer convergir em Cristo todas as coisas, tanto as que estão no céu como as que estão na terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Nele também fomos feitos herança, predestinados conforme o propósito daquele que faz todas as coisas segundo o desígnio da sua vontade,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["a fim de sermos para o louvor da sua glória, nós, os que antes havíamos esperado em Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Nele, também vós, tendo ouvido a palavra da verdade, o evangelho da vossa salvação, e nele também crido, fostes selados com o Espírito Santo da promessa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["que é a garantia da nossa herança, para a redenção da propriedade de Deus, para o louvor da sua glória."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por isso também eu, tendo ouvido falar da fé no Senhor Jesus que há entre vós, e do vosso amor para com todos os santos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["não cesso de dar graças por vós, lembrando-me de vós nas minhas orações,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o espírito de sabedoria e de revelação no pleno conhecimento dele,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["sendo iluminados os olhos do vosso coração, para que saibais qual é a esperança do chamado que ele vos fez, quais são as riquezas da glória da sua herança nos santos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["e qual é a suprema grandeza do seu poder para conosco, os que cremos, segundo a atuação da força do seu poder,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["que atuou em Cristo, ressuscitando-o dentre os mortos e fazendo-o sentar-se à sua direita nos céus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["muito acima de todo principado, autoridade, poder, domínio, e de todo nome que possa ser pronunciado, não só nesta era, mas também na vindoura."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Também sujeitou todas as coisas debaixo dos seus pés, para que seja cabeça sobre todas as coisas, e o deu à igreja,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["que é o seu corpo, a plenitude daquele que preenche tudo em todas as coisas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/GAL.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EPH.2.json"
+  },
+  "book": {
+    "book_usfm": "EPH",
+    "name": "Efésios"
+  },
+  "chapter": {
+    "chapter_usfm": "EPH.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GAL.6",
+      "human": "Gálatas 6"
+    },
+    "current": {
+      "usfm": "EPH.1",
+      "human": "Efésios 1"
+    },
+    "next": {
+      "usfm": "EPH.2",
+      "human": "Efésios 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Prefácio e cumprimentos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Paulo, apóstolo de Cristo Jesus pela vontade de Deus, aos santos e fiéis em Cristo Jesus que estão em Éfeso:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Graça a vós e paz da parte de Deus nosso Pai e do Senhor Jesus Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "As bênçãos de Deus em Jesus Cristo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Bendito seja o Deus e Pai de nosso Senhor Jesus Cristo, que nos abençoou com todas as bênçãos espirituais nas regiões celestiais em Cristo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "como também nos elegeu nele, antes da fundação do mundo, para sermos santos e irrepreensíveis diante dele em amor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "e nos predestinou para si mesmo, segundo a boa determinação de sua vontade, para sermos filhos adotivos por meio de Jesus Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "para o louvor da glória da sua graça, que nos deu gratuitamente no Amado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nele temos a redenção, o perdão dos nossos pecados pelo seu sangue, segundo a riqueza da sua graça,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "que ele fez multiplicar-se para conosco em toda sabedoria e prudência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "E fez com que conhecêssemos o mistério da sua vontade, segundo a sua boa determinação, que nele propôs"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "para a dispensação da plenitude dos tempos, de fazer convergir em Cristo todas as coisas, tanto as que estão no céu como as que estão na terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Nele também fomos feitos herança, predestinados conforme o propósito daquele que faz todas as coisas segundo o desígnio da sua vontade,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "a fim de sermos para o louvor da sua glória, nós, os que antes havíamos esperado em Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Nele, também vós, tendo ouvido a palavra da verdade, o evangelho da vossa salvação, e nele também crido, fostes selados com o Espírito Santo da promessa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "que é a garantia da nossa herança, para a redenção da propriedade de Deus, para o louvor da sua glória."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por isso também eu, tendo ouvido falar da fé no Senhor Jesus que há entre vós, e do vosso amor para com todos os santos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "não cesso de dar graças por vós, lembrando-me de vós nas minhas orações,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "para que o Deus de nosso Senhor Jesus Cristo, o Pai da glória, vos dê o espírito de sabedoria e de revelação no pleno conhecimento dele,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "sendo iluminados os olhos do vosso coração, para que saibais qual é a esperança do chamado que ele vos fez, quais são as riquezas da glória da sua herança nos santos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "e qual é a suprema grandeza do seu poder para conosco, os que cremos, segundo a atuação da força do seu poder,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "que atuou em Cristo, ressuscitando-o dentre os mortos e fazendo-o sentar-se à sua direita nos céus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "muito acima de todo principado, autoridade, poder, domínio, e de todo nome que possa ser pronunciado, não só nesta era, mas também na vindoura."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Também sujeitou todas as coisas debaixo dos seus pés, para que seja cabeça sobre todas as coisas, e o deu à igreja,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "que é o seu corpo, a plenitude daquele que preenche tudo em todas as coisas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

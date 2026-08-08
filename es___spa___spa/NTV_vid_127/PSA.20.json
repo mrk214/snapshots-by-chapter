@@ -1,1 +1,165 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.20","is_chapter":true,"previous":{"usfm":"PSA.19","human":"Salmos 19","canonical":true,"toc":true},"current":{"usfm":"PSA.20","human":"Salmos 20"},"next":{"usfm":"PSA.21","human":"Salmos 21","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para el director del coro: salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Que el Señor responda a tu clamor en tiempos de dificultad;","que el nombre del Dios de Jacob te proteja de todo mal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Que te envíe ayuda desde su santuario","y te fortalezca desde Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Que se acuerde de todas tus ofrendas","y mire con agrado tus ofrendas quemadas."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Que él conceda los deseos de tu corazón","y haga que todos tus planes tengan éxito."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que gritemos de alegría cuando escuchemos de tu triunfo","y levantemos una bandera de victoria en el nombre de nuestro Dios.","Que el Señor conteste a todas tus oraciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ahora sé que el Señor rescata a su rey ungido.","Le responderá desde su santo cielo","y lo rescatará con su gran poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Algunas naciones se jactan de sus caballos y sus carros de guerra,","pero nosotros nos jactamos en el nombre del Señor nuestro Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Esas naciones se derrumbarán y caerán,","pero nosotros nos levantaremos y estaremos firmes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Da la victoria a nuestro rey, oh Señor!","Responde a nuestro grito de auxilio."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.19.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.21.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.20",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.19",
+      "human": "Salmos 19"
+    },
+    "current": {
+      "usfm": "PSA.20",
+      "human": "Salmos 20"
+    },
+    "next": {
+      "usfm": "PSA.21",
+      "human": "Salmos 21"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro: salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Que el Señor responda a tu clamor en tiempos de dificultad;",
+          "que el nombre del Dios de Jacob te proteja de todo mal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Que te envíe ayuda desde su santuario",
+          "y te fortalezca desde Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Que se acuerde de todas tus ofrendas",
+          "y mire con agrado tus ofrendas quemadas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Que él conceda los deseos de tu corazón",
+          "y haga que todos tus planes tengan éxito."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que gritemos de alegría cuando escuchemos de tu triunfo",
+          "y levantemos una bandera de victoria en el nombre de nuestro Dios.",
+          "Que el Señor conteste a todas tus oraciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ahora sé que el Señor rescata a su rey ungido.",
+          "Le responderá desde su santo cielo",
+          "y lo rescatará con su gran poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Algunas naciones se jactan de sus caballos y sus carros de guerra,",
+          "pero nosotros nos jactamos en el nombre del Señor nuestro Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Esas naciones se derrumbarán y caerán,",
+          "pero nosotros nos levantaremos y estaremos firmes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Da la victoria a nuestro rey, oh Señor!",
+          "Responde a nuestro grito de auxilio."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

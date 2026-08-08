@@ -1,1 +1,125 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.13","is_chapter":true,"previous":{"usfm":"PSA.12","human":"Salmos 12","canonical":true,"toc":true},"current":{"usfm":"PSA.13","human":"Salmos 13"},"next":{"usfm":"PSA.14","human":"Salmos 14","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. Salmo davídico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Até quando, Senhor?","Para sempre te esquecerás de mim?","Até quando esconderás de mim o teu rosto?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Até quando terei inquietações","e tristeza no coração dia após dia?","Até quando o meu inimigo triunfará sobre mim?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Olha para mim e responde, Senhor, meu Deus.","Ilumina os meus olhos,","ou do contrário dormirei o sono da morte;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["os meus inimigos dirão: “Eu o venci”,","e os meus adversários festejarão o meu fracasso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Eu, porém, confio em teu amor;","o meu coração exulta em tua salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Quero cantar ao Senhor","pelo bem que me tem feito."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.14.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.12",
+      "human": "Salmos 12"
+    },
+    "current": {
+      "usfm": "PSA.13",
+      "human": "Salmos 13"
+    },
+    "next": {
+      "usfm": "PSA.14",
+      "human": "Salmos 14"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. Salmo davídico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Até quando, Senhor?",
+          "Para sempre te esquecerás de mim?",
+          "Até quando esconderás de mim o teu rosto?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Até quando terei inquietações",
+          "e tristeza no coração dia após dia?",
+          "Até quando o meu inimigo triunfará sobre mim?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Olha para mim e responde, Senhor, meu Deus.",
+          "Ilumina os meus olhos,",
+          "ou do contrário dormirei o sono da morte;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "os meus inimigos dirão: “Eu o venci”,",
+          "e os meus adversários festejarão o meu fracasso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Eu, porém, confio em teu amor;",
+          "o meu coração exulta em tua salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Quero cantar ao Senhor",
+          "pelo bem que me tem feito."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

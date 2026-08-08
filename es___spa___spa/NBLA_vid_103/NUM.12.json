@@ -1,1 +1,225 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"NUM","name":"Números"},"chapter":{"chapter_usfm":"NUM.12","is_chapter":true,"previous":{"usfm":"NUM.11","human":"Números 11","canonical":true,"toc":true},"current":{"usfm":"NUM.12","human":"Números 12"},"next":{"usfm":"NUM.13","human":"Números 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Murmuración contra Moisés"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces Miriam y Aarón hablaron contra Moisés por causa de la mujer cusita con quien se había casado, pues se había casado con una mujer cusita;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y dijeron: «¿Es cierto que el Señor ha hablado solo mediante Moisés? ¿No ha hablado también mediante nosotros?». Y el Señor lo oyó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Moisés era un hombre muy humilde, más que cualquier otro hombre sobre la superficie de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Y el Señor de repente les dijo a Moisés, a Aarón y a Miriam: «Salgan ustedes tres a la tienda de reunión». Y salieron los tres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Entonces el Señor descendió en una columna de nube y se puso a la puerta de la tienda; y llamó a Aarón y a Miriam. Y cuando los dos se adelantaron,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Él dijo:","«Oigan ahora Mis palabras:","Si entre ustedes hay profeta,","Yo, el Señor, me manifestaré a él en visión.","Hablaré con él en sueños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["-»No así con Mi siervo Moisés;","En toda Mi casa él es fiel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["-»Cara a cara hablo con él,","Abiertamente y no en dichos oscuros,","Y él contempla la imagen del Señor.","¿Por qué, pues, no temieron","Hablar contra Mi siervo, contra Moisés?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Y se encendió la ira del Señor contra ellos, y Él se fue."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Pero cuando la nube se retiró de sobre la tienda, vieron que Miriam estaba leprosa, blanca como la nieve. Y cuando Aarón se volvió hacia Miriam, vio que estaba leprosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Entonces Aarón dijo a Moisés: «Señor mío, te ruego que no nos cargues este pecado, en el cual hemos obrado neciamente y con el cual hemos pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["No permitas que ella sea como quien nace muerto, que cuando sale del vientre de su madre su carne ya está medio consumida»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Y Moisés clamó al Señor y dijo: «Oh Dios, sánala ahora, te ruego»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Pero el Señor le respondió a Moisés: «Si su padre le hubiera escupido a ella en el rostro, ¿no llevaría su vergüenza por siete días? Que sea echada fuera del campamento por siete días, y después puede ser admitida de nuevo»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Miriam fue confinada fuera del campamento por siete días y el pueblo no se puso en marcha hasta que Miriam volvió."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Después el pueblo salió de Hazerot y acampó en el desierto de Parán."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.13.json"
+  },
+  "book": {
+    "book_usfm": "NUM",
+    "name": "Números"
+  },
+  "chapter": {
+    "chapter_usfm": "NUM.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "NUM.11",
+      "human": "Números 11"
+    },
+    "current": {
+      "usfm": "NUM.12",
+      "human": "Números 12"
+    },
+    "next": {
+      "usfm": "NUM.13",
+      "human": "Números 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Murmuración contra Moisés"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces Miriam y Aarón hablaron contra Moisés por causa de la mujer cusita con quien se había casado, pues se había casado con una mujer cusita;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y dijeron: «¿Es cierto que el Señor ha hablado solo mediante Moisés? ¿No ha hablado también mediante nosotros?». Y el Señor lo oyó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Moisés era un hombre muy humilde, más que cualquier otro hombre sobre la superficie de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Y el Señor de repente les dijo a Moisés, a Aarón y a Miriam: «Salgan ustedes tres a la tienda de reunión». Y salieron los tres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Entonces el Señor descendió en una columna de nube y se puso a la puerta de la tienda; y llamó a Aarón y a Miriam. Y cuando los dos se adelantaron,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Él dijo:",
+          "«Oigan ahora Mis palabras:",
+          "Si entre ustedes hay profeta,",
+          "Yo, el Señor, me manifestaré a él en visión.",
+          "Hablaré con él en sueños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "-»No así con Mi siervo Moisés;",
+          "En toda Mi casa él es fiel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "-»Cara a cara hablo con él,",
+          "Abiertamente y no en dichos oscuros,",
+          "Y él contempla la imagen del Señor.",
+          "¿Por qué, pues, no temieron",
+          "Hablar contra Mi siervo, contra Moisés?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Y se encendió la ira del Señor contra ellos, y Él se fue."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Pero cuando la nube se retiró de sobre la tienda, vieron que Miriam estaba leprosa, blanca como la nieve. Y cuando Aarón se volvió hacia Miriam, vio que estaba leprosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Entonces Aarón dijo a Moisés: «Señor mío, te ruego que no nos cargues este pecado, en el cual hemos obrado neciamente y con el cual hemos pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "No permitas que ella sea como quien nace muerto, que cuando sale del vientre de su madre su carne ya está medio consumida»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Y Moisés clamó al Señor y dijo: «Oh Dios, sánala ahora, te ruego»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Pero el Señor le respondió a Moisés: «Si su padre le hubiera escupido a ella en el rostro, ¿no llevaría su vergüenza por siete días? Que sea echada fuera del campamento por siete días, y después puede ser admitida de nuevo»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Miriam fue confinada fuera del campamento por siete días y el pueblo no se puso en marcha hasta que Miriam volvió."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Después el pueblo salió de Hazerot y acampó en el desierto de Parán."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

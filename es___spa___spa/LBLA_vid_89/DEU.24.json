@@ -1,1 +1,268 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"DEU","name":"Deuteronomio"},"chapter":{"chapter_usfm":"DEU.24","is_chapter":true,"previous":{"usfm":"DEU.23","human":"Deuteronomio 23","canonical":true,"toc":true},"current":{"usfm":"DEU.24","human":"Deuteronomio 24"},"next":{"usfm":"DEU.25","human":"Deuteronomio 25","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Cuando alguno toma una mujer y se casa con ella, si sucede que no le es agradable porque ha encontrado algo reprochable en ella, y le escribe certificado de divorcio, lo pone en su mano y la despide de su casa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["y ella sale de su casa y llega a ser mujer de otro hombre;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["si el segundo marido la aborrece y le escribe certificado de divorcio, lo pone en su mano y la despide de su casa, o si muere este último marido que la tomó para ser su mujer,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["al primer marido que la despidió no le es permitido tomarla nuevamente como mujer, porque ha sido menospreciada; pues eso es abominación ante el Señor. No traerás pecado sobre la tierra que el Señor tu Dios te da por heredad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cuando un hombre es recién casado, no saldrá con el ejército, ni se le impondrá ningún deber; quedará libre en su casa por un año para hacer feliz a la mujer que ha tomado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ninguno tomará en prenda el molino de mano ni la muela del molino, porque sería tomar en prenda la vida del hombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Si se encuentra a un hombre que haya secuestrado a alguno de sus hermanos de los hijos de Israel, y lo haya tratado con violencia, o lo haya vendido, entonces ese ladrón morirá; así quitarás el mal de en medio de ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cuídate de una infección de lepra, para que observes diligentemente y hagas conforme a todo lo que los sacerdotes levitas os enseñen; como les he ordenado, así cuidaréis de hacer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Recuerda lo que el Señor tu Dios hizo a Miriam en el camino, cuando salíais de Egipto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cuando prestes cualquier cosa a tu prójimo, no entrarás en su casa para tomar su prenda;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["te quedarás afuera, y el hombre a quien hiciste el préstamo te traerá la prenda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Y si es un hombre pobre, no te acostarás reteniendo aún su prenda;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["sin falta le devolverás la prenda al ponerse el sol, para que se acueste con su ropa, y te bendiga; y te será justicia delante del Señor tu Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["No oprimirás al jornalero pobre y necesitado, ya sea uno de tus conciudadanos o uno de los extranjeros que habita en tu tierra y en tus ciudades."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["En su día le darás su jornal antes de la puesta del sol, porque es pobre y ha puesto su corazón en él; para que él no clame contra ti al Señor, y llegue a ser pecado en ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Los padres no morirán por sus hijos, ni los hijos morirán por sus padres; cada uno morirá por su propio pecado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No pervertirás la justicia debida al forastero ni al huérfano, ni tomarás en prenda la ropa de la viuda,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["sino que recordarás que fuiste esclavo en Egipto y que el Señor tu Dios te rescató de allí; por tanto, yo te mando que hagas esto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Cuando siegues tu mies en tu campo y olvides alguna gavilla en el campo, no regresarás a recogerla; será para el forastero, para el huérfano y para la viuda, para que el Señor tu Dios te bendiga en toda obra de tus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Cuando sacudas tus olivos, no recorrerás las ramas que hayas dejado tras de ti, serán para el forastero, para el huérfano y para la viuda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Cuando vendimies tu viña, no la repasarás; será para el forastero, para el huérfano y para la viuda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Recordarás que tú fuiste esclavo en la tierra de Egipto; por tanto, yo te mando que hagas esto."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.23.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.25.json"
+  },
+  "book": {
+    "book_usfm": "DEU",
+    "name": "Deuteronomio"
+  },
+  "chapter": {
+    "chapter_usfm": "DEU.24",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "DEU.23",
+      "human": "Deuteronomio 23"
+    },
+    "current": {
+      "usfm": "DEU.24",
+      "human": "Deuteronomio 24"
+    },
+    "next": {
+      "usfm": "DEU.25",
+      "human": "Deuteronomio 25"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando alguno toma una mujer y se casa con ella, si sucede que no le es agradable porque ha encontrado algo reprochable en ella, y le escribe certificado de divorcio, lo pone en su mano y la despide de su casa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "y ella sale de su casa y llega a ser mujer de otro hombre;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "si el segundo marido la aborrece y le escribe certificado de divorcio, lo pone en su mano y la despide de su casa, o si muere este último marido que la tomó para ser su mujer,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "al primer marido que la despidió no le es permitido tomarla nuevamente como mujer, porque ha sido menospreciada; pues eso es abominación ante el Señor. No traerás pecado sobre la tierra que el Señor tu Dios te da por heredad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cuando un hombre es recién casado, no saldrá con el ejército, ni se le impondrá ningún deber; quedará libre en su casa por un año para hacer feliz a la mujer que ha tomado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ninguno tomará en prenda el molino de mano ni la muela del molino, porque sería tomar en prenda la vida del hombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Si se encuentra a un hombre que haya secuestrado a alguno de sus hermanos de los hijos de Israel, y lo haya tratado con violencia, o lo haya vendido, entonces ese ladrón morirá; así quitarás el mal de en medio de ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cuídate de una infección de lepra, para que observes diligentemente y hagas conforme a todo lo que los sacerdotes levitas os enseñen; como les he ordenado, así cuidaréis de hacer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Recuerda lo que el Señor tu Dios hizo a Miriam en el camino, cuando salíais de Egipto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cuando prestes cualquier cosa a tu prójimo, no entrarás en su casa para tomar su prenda;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "te quedarás afuera, y el hombre a quien hiciste el préstamo te traerá la prenda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Y si es un hombre pobre, no te acostarás reteniendo aún su prenda;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "sin falta le devolverás la prenda al ponerse el sol, para que se acueste con su ropa, y te bendiga; y te será justicia delante del Señor tu Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "No oprimirás al jornalero pobre y necesitado, ya sea uno de tus conciudadanos o uno de los extranjeros que habita en tu tierra y en tus ciudades."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "En su día le darás su jornal antes de la puesta del sol, porque es pobre y ha puesto su corazón en él; para que él no clame contra ti al Señor, y llegue a ser pecado en ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Los padres no morirán por sus hijos, ni los hijos morirán por sus padres; cada uno morirá por su propio pecado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No pervertirás la justicia debida al forastero ni al huérfano, ni tomarás en prenda la ropa de la viuda,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "sino que recordarás que fuiste esclavo en Egipto y que el Señor tu Dios te rescató de allí; por tanto, yo te mando que hagas esto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Cuando siegues tu mies en tu campo y olvides alguna gavilla en el campo, no regresarás a recogerla; será para el forastero, para el huérfano y para la viuda, para que el Señor tu Dios te bendiga en toda obra de tus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Cuando sacudas tus olivos, no recorrerás las ramas que hayas dejado tras de ti, serán para el forastero, para el huérfano y para la viuda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Cuando vendimies tu viña, no la repasarás; será para el forastero, para el huérfano y para la viuda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Recordarás que tú fuiste esclavo en la tierra de Egipto; por tanto, yo te mando que hagas esto."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

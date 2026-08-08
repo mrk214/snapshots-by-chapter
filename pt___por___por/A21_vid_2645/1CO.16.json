@@ -1,1 +1,304 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"1CO","name":"1Coríntios"},"chapter":{"chapter_usfm":"1CO.16","is_chapter":true,"previous":{"usfm":"1CO.15","human":"1Coríntios 15","canonical":true,"toc":true},"current":{"usfm":"1CO.16","human":"1Coríntios 16"},"next":{"usfm":"2CO.1","human":"2Coríntios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A coleta para os irmãos da Judeia"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Quanto à coleta para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No primeiro dia da semana, cada um de vós separe o que puder, de acordo com o seu ganho, e o guarde, para que não se façam coletas quando eu chegar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Quando eu chegar, enviarei, com carta de recomendação, os que aprovardes para levarem a vossa contribuição para Jerusalém."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se convier que eu também vá, eles irão comigo."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Os projetos de Paulo, recomendações e despedidas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Depois de passar pela Macedônia, por onde tenho de passar, irei até vós."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Talvez me demore convosco algum tempo, ou até mesmo passe o inverno, a fim de que me encaminheis para onde eu for."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pois desta vez não vos quero ver apenas de passagem; pelo contrário, espero ficar convosco algum tempo, se o Senhor permitir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ficarei, porém, em Éfeso até o Pentecostes;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["porque me foi aberta uma porta grande e promissora, e há muitos adversários."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Se Timóteo chegar, tomai providências para que ele não tenha nada que recear entre vós, pois ele trabalha na obra do Senhor, assim como eu."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Portanto, ninguém o menospreze. Mas encaminhai-o em paz, para que venha até mim, pois o espero com os irmãos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Quanto ao irmão Apolo, pedi-lhe muito que fosse até vós com os irmãos. Mas ele não quis ir agora de modo algum. Irá, porém, quando tiver oportunidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Vigiai, permanecei firmes na fé, portai-vos corajosamente, sede fortes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Fazei tudo com amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Irmãos, sabeis que a família de Estéfanas são os primeiros frutos da Acaia; eles têm se dedicado ao serviço dos santos; assim, suplico‑vos agora"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["que também vos sujeiteis aos que são como eles e a todo que coopera e trabalha na obra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Alegro-me com a vinda de Estéfanas, Fortunato e Acaico; pois eles supriram o que me faltava da vossa parte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Porque revigoraram o meu espírito assim como o vosso. Homens como eles merecem o vosso reconhecimento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["As igrejas da Ásia vos cumprimentam. Áquila e Prisca vos cumprimentam com afeto no Senhor, assim como a igreja que se reúne na casa deles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Todos os irmãos vos cumprimentam. Cumprimentai-vos uns aos outros com beijo santo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Eu, Paulo, vos cumprimento, assinando de próprio punho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Se alguém não ama o Senhor, seja maldito! Vem, Senhor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["A graça do Senhor Jesus seja convosco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["O meu amor seja com todos vós em Cristo Jesus."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1CO.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/2CO.1.json"
+  },
+  "book": {
+    "book_usfm": "1CO",
+    "name": "1Coríntios"
+  },
+  "chapter": {
+    "chapter_usfm": "1CO.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1CO.15",
+      "human": "1Coríntios 15"
+    },
+    "current": {
+      "usfm": "1CO.16",
+      "human": "1Coríntios 16"
+    },
+    "next": {
+      "usfm": "2CO.1",
+      "human": "2Coríntios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A coleta para os irmãos da Judeia"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Quanto à coleta para os santos, fazei vós também o mesmo que ordenei às igrejas da Galácia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No primeiro dia da semana, cada um de vós separe o que puder, de acordo com o seu ganho, e o guarde, para que não se façam coletas quando eu chegar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Quando eu chegar, enviarei, com carta de recomendação, os que aprovardes para levarem a vossa contribuição para Jerusalém."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se convier que eu também vá, eles irão comigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os projetos de Paulo, recomendações e despedidas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Depois de passar pela Macedônia, por onde tenho de passar, irei até vós."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Talvez me demore convosco algum tempo, ou até mesmo passe o inverno, a fim de que me encaminheis para onde eu for."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pois desta vez não vos quero ver apenas de passagem; pelo contrário, espero ficar convosco algum tempo, se o Senhor permitir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ficarei, porém, em Éfeso até o Pentecostes;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "porque me foi aberta uma porta grande e promissora, e há muitos adversários."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Se Timóteo chegar, tomai providências para que ele não tenha nada que recear entre vós, pois ele trabalha na obra do Senhor, assim como eu."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Portanto, ninguém o menospreze. Mas encaminhai-o em paz, para que venha até mim, pois o espero com os irmãos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Quanto ao irmão Apolo, pedi-lhe muito que fosse até vós com os irmãos. Mas ele não quis ir agora de modo algum. Irá, porém, quando tiver oportunidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Vigiai, permanecei firmes na fé, portai-vos corajosamente, sede fortes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Fazei tudo com amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Irmãos, sabeis que a família de Estéfanas são os primeiros frutos da Acaia; eles têm se dedicado ao serviço dos santos; assim, suplico‑vos agora"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "que também vos sujeiteis aos que são como eles e a todo que coopera e trabalha na obra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Alegro-me com a vinda de Estéfanas, Fortunato e Acaico; pois eles supriram o que me faltava da vossa parte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Porque revigoraram o meu espírito assim como o vosso. Homens como eles merecem o vosso reconhecimento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "As igrejas da Ásia vos cumprimentam. Áquila e Prisca vos cumprimentam com afeto no Senhor, assim como a igreja que se reúne na casa deles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Todos os irmãos vos cumprimentam. Cumprimentai-vos uns aos outros com beijo santo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Eu, Paulo, vos cumprimento, assinando de próprio punho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Se alguém não ama o Senhor, seja maldito! Vem, Senhor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "A graça do Senhor Jesus seja convosco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "O meu amor seja com todos vós em Cristo Jesus."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

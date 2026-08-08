@@ -1,1 +1,86 @@
-{"version":{"version_id":1840,"local_abbreviation":"NAA","local_title":"Nova Almeida Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.10","is_chapter":true,"previous":{"usfm":"EST.9","human":"Ester 9","canonical":true,"toc":true},"current":{"usfm":"EST.10","human":"Ester 10"},"next":{"usfm":"JOB.1","human":"Jó 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O renome de Mordecai"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Depois disto, o rei Assuero impôs tributo sobre a terra e sobre as terras do mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Quanto aos demais atos do seu poder e do seu valor e ao relatório completo da grandeza de Mordecai, a quem o rei exaltou, não está tudo escrito no Livro da História dos Reis da Média e da Pérsia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pois o judeu Mordecai foi o segundo depois do rei Assuero, e grande para com os judeus, e estimado pela multidão de seus irmãos, tendo procurado o bem-estar do seu povo e trabalhado pela prosperidade da sua nação."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EST.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.1.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.9",
+      "human": "Ester 9"
+    },
+    "current": {
+      "usfm": "EST.10",
+      "human": "Ester 10"
+    },
+    "next": {
+      "usfm": "JOB.1",
+      "human": "Jó 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O renome de Mordecai"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Depois disto, o rei Assuero impôs tributo sobre a terra e sobre as terras do mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Quanto aos demais atos do seu poder e do seu valor e ao relatório completo da grandeza de Mordecai, a quem o rei exaltou, não está tudo escrito no Livro da História dos Reis da Média e da Pérsia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pois o judeu Mordecai foi o segundo depois do rei Assuero, e grande para com os judeus, e estimado pela multidão de seus irmãos, tendo procurado o bem-estar do seu povo e trabalhado pela prosperidade da sua nação."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1840,
+    "local_abbreviation": "NAA",
+    "local_title": "Nova Almeida Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! NAA © 2017 Sociedade Bíblica do Brasil."
+    }
+  }
+}

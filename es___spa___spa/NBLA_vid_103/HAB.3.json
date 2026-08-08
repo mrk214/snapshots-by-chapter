@@ -1,1 +1,335 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"HAB","name":"Habacuc"},"chapter":{"chapter_usfm":"HAB.3","is_chapter":true,"previous":{"usfm":"HAB.2","human":"Habacuc 2","canonical":true,"toc":true},"current":{"usfm":"HAB.3","human":"Habacuc 3"},"next":{"usfm":"ZEP.1","human":"Sofonías 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración de Habacuc"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Oración del profeta Habacuc, en tono de Sigionot."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¶Oh Señor, he oído lo que se dice de Ti y temí.","Aviva, oh Señor, Tu obra en medio de los años,","En medio de los años dala a conocer;","En la ira, acuérdate de tener compasión."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¶Dios viene de Temán,","Y el Santo, del monte Parán."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Su esplendor cubre los cielos,","Y de Su alabanza está llena la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Su resplandor es como la luz;","Tiene rayos que salen de Su mano,","Y allí se oculta Su poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Delante de Él va la pestilencia,","Y la plaga sigue Sus pasos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Se detuvo, e hizo temblar la tierra,","Miró e hizo estremecerse a las naciones.","Sí, se desmoronaron los montes perpetuos,","Se hundieron las colinas antiguas.","Sus caminos son eternos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Bajo aflicción vi las tiendas de Cusán,","Temblaban las tiendas de la tierra de Madián."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶¿Te indignaste, Señor, contra los ríos?","¿Contra los ríos fue Tu ira,","Contra el mar Tu furor,","Cuando montaste en Tus caballos,","En Tus carros de victoria?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Tu arco fue desnudado por completo,","Las varas de castigo fueron juradas."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Con ríos hendiste la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Te vieron los montes y temblaron,","El diluvio de aguas pasó;","Dio el abismo su voz,","Levantó en alto sus manos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El sol y la luna se detuvieron en su sitio;","A la luz de Tus flechas se fueron,","Al resplandor de Tu lanza fulgurante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Con indignación marchaste por la tierra;","Con ira pisoteaste las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Saliste para salvar a Tu pueblo,","Para salvar a Tu ungido.","Destrozaste la cabeza de la casa del impío,","Descubriéndolo de arriba abajo."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Traspasaste con sus propios dardos","La cabeza de sus guerreros","Que irrumpieron para dispersarnos;","Su regocijo fue como el de los que devoran en secreto a los oprimidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Marchaste por el mar con Tus caballos,","En el oleaje de las inmensas aguas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¶Oí, y se estremecieron mis entrañas;","A Tu voz temblaron mis labios.","Entra podredumbre en mis huesos,","Y tiemblo donde estoy.","Tranquilo espero el día de la angustia,","Al pueblo que se levantará para invadirnos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Aunque la higuera no eche brotes,","Ni haya fruto en las viñas;","Aunque falte el producto del olivo,","Y los campos no produzcan alimento;","Aunque falten las ovejas del redil,","Y no haya vacas en los establos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Con todo yo me alegraré en el Señor,","Me regocijaré en el Dios de mi salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El Señor Dios es mi fortaleza;","Él ha hecho mis pies como los de las ciervas,","Y por las alturas me hace caminar.","Para el director del coro, con mis instrumentos de cuerda."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HAB.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ZEP.1.json"
+  },
+  "book": {
+    "book_usfm": "HAB",
+    "name": "Habacuc"
+  },
+  "chapter": {
+    "chapter_usfm": "HAB.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "HAB.2",
+      "human": "Habacuc 2"
+    },
+    "current": {
+      "usfm": "HAB.3",
+      "human": "Habacuc 3"
+    },
+    "next": {
+      "usfm": "ZEP.1",
+      "human": "Sofonías 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración de Habacuc"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Oración del profeta Habacuc, en tono de Sigionot."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¶Oh Señor, he oído lo que se dice de Ti y temí.",
+          "Aviva, oh Señor, Tu obra en medio de los años,",
+          "En medio de los años dala a conocer;",
+          "En la ira, acuérdate de tener compasión."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¶Dios viene de Temán,",
+          "Y el Santo, del monte Parán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Su esplendor cubre los cielos,",
+          "Y de Su alabanza está llena la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Su resplandor es como la luz;",
+          "Tiene rayos que salen de Su mano,",
+          "Y allí se oculta Su poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Delante de Él va la pestilencia,",
+          "Y la plaga sigue Sus pasos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Se detuvo, e hizo temblar la tierra,",
+          "Miró e hizo estremecerse a las naciones.",
+          "Sí, se desmoronaron los montes perpetuos,",
+          "Se hundieron las colinas antiguas.",
+          "Sus caminos son eternos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Bajo aflicción vi las tiendas de Cusán,",
+          "Temblaban las tiendas de la tierra de Madián."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶¿Te indignaste, Señor, contra los ríos?",
+          "¿Contra los ríos fue Tu ira,",
+          "Contra el mar Tu furor,",
+          "Cuando montaste en Tus caballos,",
+          "En Tus carros de victoria?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Tu arco fue desnudado por completo,",
+          "Las varas de castigo fueron juradas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Con ríos hendiste la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Te vieron los montes y temblaron,",
+          "El diluvio de aguas pasó;",
+          "Dio el abismo su voz,",
+          "Levantó en alto sus manos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El sol y la luna se detuvieron en su sitio;",
+          "A la luz de Tus flechas se fueron,",
+          "Al resplandor de Tu lanza fulgurante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Con indignación marchaste por la tierra;",
+          "Con ira pisoteaste las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Saliste para salvar a Tu pueblo,",
+          "Para salvar a Tu ungido.",
+          "Destrozaste la cabeza de la casa del impío,",
+          "Descubriéndolo de arriba abajo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Traspasaste con sus propios dardos",
+          "La cabeza de sus guerreros",
+          "Que irrumpieron para dispersarnos;",
+          "Su regocijo fue como el de los que devoran en secreto a los oprimidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Marchaste por el mar con Tus caballos,",
+          "En el oleaje de las inmensas aguas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¶Oí, y se estremecieron mis entrañas;",
+          "A Tu voz temblaron mis labios.",
+          "Entra podredumbre en mis huesos,",
+          "Y tiemblo donde estoy.",
+          "Tranquilo espero el día de la angustia,",
+          "Al pueblo que se levantará para invadirnos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Aunque la higuera no eche brotes,",
+          "Ni haya fruto en las viñas;",
+          "Aunque falte el producto del olivo,",
+          "Y los campos no produzcan alimento;",
+          "Aunque falten las ovejas del redil,",
+          "Y no haya vacas en los establos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Con todo yo me alegraré en el Señor,",
+          "Me regocijaré en el Dios de mi salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El Señor Dios es mi fortaleza;",
+          "Él ha hecho mis pies como los de las ciervas,",
+          "Y por las alturas me hace caminar.",
+          "Para el director del coro, con mis instrumentos de cuerda."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

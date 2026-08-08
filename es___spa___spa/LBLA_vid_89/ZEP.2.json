@@ -1,1 +1,256 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"ZEP","name":"Sofonías"},"chapter":{"chapter_usfm":"ZEP.2","is_chapter":true,"previous":{"usfm":"ZEP.1","human":"Sofonías 1","canonical":true,"toc":true},"current":{"usfm":"ZEP.2","human":"Sofonías 2"},"next":{"usfm":"ZEP.3","human":"Sofonías 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Castigo de los enemigos de Judá"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Congregaos, congregaos,","oh nación sin pudor,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["antes que entre en vigencia el decreto","(como tamo pasa el día),","antes que venga sobre vosotros","el ardor de la ira del Señor,","antes que venga sobre vosotros","el día de la ira del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Buscad al Señor,","vosotros todos, humildes de la tierra","que habéis cumplido sus preceptos;","buscad la justicia, buscad la humildad.","Quizá seréis protegidos","el día de la ira del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Porque Gaza será abandonada,","y Ascalón desolada;","Asdod será expulsada al mediodía,","y Ecrón será desarraigada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Ay de los habitantes de la costa del mar,","la nación de los cereteos!","La palabra del Señor está contra vosotros:","Canaán, tierra de los filisteos,","yo te destruiré hasta que no quede habitante alguno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y la costa del mar se convertirá en pastizales,","en praderas para pastores y apriscos para ovejas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La costa será","para el remanente de la casa de Judá;","allí apacentarán","y en las casas de Ascalón reposarán al atardecer;","porque el Señor su Dios los cuidará","y los hará volver de su cautiverio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¶He oído las afrentas de Moab","y los ultrajes de los hijos de Amón,","con los cuales afrentaron a mi pueblo","y se engrandecieron sobre su territorio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Por tanto, vivo yo —declara el Señor de los ejércitos,","Dios de Israel—","que Moab será como Sodoma,","y los hijos de Amón como Gomorra:","campo de ortigas y mina de sal,","una desolación perpetua.","El remanente de mi pueblo los saqueará,","y el resto de mi nación los heredará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Esto tendrán ellos como pago por su orgullo, porque han afrentado y se han engrandecido sobre el pueblo del Señor de los ejércitos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Terrible será el Señor contra ellos, porque debilitará a todos los dioses de la tierra; y se inclinarán a Él todas las costas de las naciones cada una desde su lugar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["También vosotros, etíopes, seréis muertos por mi espada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El extenderá su mano contra el norte","y destruirá a Asiria,","y hará de Nínive una desolación,","árida como el desierto;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["y se echarán en medio de ella los rebaños,","toda clase de animales,","tanto el pelícano como el erizo","pasarán la noche en los capiteles;","el ave cantará en la ventana,","habrá desolación en el umbral,","porque Él ha dejado al descubierto el entablado de cedro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Esta es la ciudad divertida","que vivía confiada,","que decía en su corazón:","Yo soy, y no hay otra más que yo.","¡Cómo ha sido hecha una desolación,","una guarida de fieras!","Todo el que pase por ella silbará","y agitará su mano."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ZEP.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ZEP.3.json"
+  },
+  "book": {
+    "book_usfm": "ZEP",
+    "name": "Sofonías"
+  },
+  "chapter": {
+    "chapter_usfm": "ZEP.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ZEP.1",
+      "human": "Sofonías 1"
+    },
+    "current": {
+      "usfm": "ZEP.2",
+      "human": "Sofonías 2"
+    },
+    "next": {
+      "usfm": "ZEP.3",
+      "human": "Sofonías 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Castigo de los enemigos de Judá"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Congregaos, congregaos,",
+          "oh nación sin pudor,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "antes que entre en vigencia el decreto",
+          "(como tamo pasa el día),",
+          "antes que venga sobre vosotros",
+          "el ardor de la ira del Señor,",
+          "antes que venga sobre vosotros",
+          "el día de la ira del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Buscad al Señor,",
+          "vosotros todos, humildes de la tierra",
+          "que habéis cumplido sus preceptos;",
+          "buscad la justicia, buscad la humildad.",
+          "Quizá seréis protegidos",
+          "el día de la ira del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Porque Gaza será abandonada,",
+          "y Ascalón desolada;",
+          "Asdod será expulsada al mediodía,",
+          "y Ecrón será desarraigada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Ay de los habitantes de la costa del mar,",
+          "la nación de los cereteos!",
+          "La palabra del Señor está contra vosotros:",
+          "Canaán, tierra de los filisteos,",
+          "yo te destruiré hasta que no quede habitante alguno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y la costa del mar se convertirá en pastizales,",
+          "en praderas para pastores y apriscos para ovejas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La costa será",
+          "para el remanente de la casa de Judá;",
+          "allí apacentarán",
+          "y en las casas de Ascalón reposarán al atardecer;",
+          "porque el Señor su Dios los cuidará",
+          "y los hará volver de su cautiverio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¶He oído las afrentas de Moab",
+          "y los ultrajes de los hijos de Amón,",
+          "con los cuales afrentaron a mi pueblo",
+          "y se engrandecieron sobre su territorio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Por tanto, vivo yo —declara el Señor de los ejércitos,",
+          "Dios de Israel—",
+          "que Moab será como Sodoma,",
+          "y los hijos de Amón como Gomorra:",
+          "campo de ortigas y mina de sal,",
+          "una desolación perpetua.",
+          "El remanente de mi pueblo los saqueará,",
+          "y el resto de mi nación los heredará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Esto tendrán ellos como pago por su orgullo, porque han afrentado y se han engrandecido sobre el pueblo del Señor de los ejércitos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Terrible será el Señor contra ellos, porque debilitará a todos los dioses de la tierra; y se inclinarán a Él todas las costas de las naciones cada una desde su lugar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "También vosotros, etíopes, seréis muertos por mi espada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El extenderá su mano contra el norte",
+          "y destruirá a Asiria,",
+          "y hará de Nínive una desolación,",
+          "árida como el desierto;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "y se echarán en medio de ella los rebaños,",
+          "toda clase de animales,",
+          "tanto el pelícano como el erizo",
+          "pasarán la noche en los capiteles;",
+          "el ave cantará en la ventana,",
+          "habrá desolación en el umbral,",
+          "porque Él ha dejado al descubierto el entablado de cedro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Esta es la ciudad divertida",
+          "que vivía confiada,",
+          "que decía en su corazón:",
+          "Yo soy, y no hay otra más que yo.",
+          "¡Cómo ha sido hecha una desolación,",
+          "una guarida de fieras!",
+          "Todo el que pase por ella silbará",
+          "y agitará su mano."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

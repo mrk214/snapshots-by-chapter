@@ -1,1 +1,288 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"ROM","name":"Romanos"},"chapter":{"chapter_usfm":"ROM.10","is_chapter":true,"previous":{"usfm":"ROM.9","human":"Romanos 9","canonical":true,"toc":true},"current":{"usfm":"ROM.10","human":"Romanos 10"},"next":{"usfm":"ROM.11","human":"Romanos 11","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Os judeus rejeitam a justiça de Deus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Irmãos, a boa vontade do meu coração e a minha súplica a Deus a favor deles são para que sejam salvos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque lhes dou testemunho de que eles têm zelo por Deus, porém não com entendimento."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porquanto, desconhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram à que vem de Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Porque o fim da lei é Cristo, para justiça de todo aquele que crê."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ora, Moisés escreveu que o homem que praticar a justiça decorrente da lei viverá por ela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mas a justiça decorrente da fé assim diz:","Não perguntes em teu coração: Quem subirá ao céu?,","isto é, para trazer do alto a Cristo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["ou:","Quem descerá ao abismo?,","isto é, para levantar Cristo dentre os mortos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Porém que se diz?","A palavra está perto de ti, na tua boca e no teu coração;","isto é, a palavra da fé que pregamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Se, com a tua boca, confessares Jesus como Senhor e, em teu coração, creres que Deus o ressuscitou dentre os mortos, serás salvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Porque com o coração se crê para justiça e com a boca se confessa a respeito da salvação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Porquanto a Escritura diz:","Todo aquele que nele crê não será confundido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Pois não há distinção entre judeu e grego, uma vez que o mesmo é o Senhor de todos, rico para com todos os que o invocam."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Porque:","Todo aquele que invocar o nome do Senhor será salvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Como, porém, invocarão aquele em quem não creram? E como crerão naquele de quem nada ouviram? E como ouvirão, se não há quem pregue?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["E como pregarão, se não forem enviados? Como está escrito:","Quão formosos são os pés dos que anunciam coisas boas!"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Israel não pode alegar falta de oportunidade"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Mas nem todos obedeceram ao evangelho; pois Isaías diz:","Senhor, quem acreditou na nossa pregação?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["E, assim, a fé vem pela pregação, e a pregação, pela palavra de Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Mas pergunto: Porventura, não ouviram? Sim, por certo:","Por toda a terra se fez ouvir a sua voz, e as suas palavras, até aos confins do mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Pergunto mais: Porventura, não terá chegado isso ao conhecimento de Israel? Moisés já dizia:","Eu vos porei em ciúmes com um povo que não é nação, com gente insensata eu vos provocarei à ira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["E Isaías a mais se atreve e diz:","Fui achado pelos que não me procuravam, revelei-me aos que não perguntavam por mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Quanto a Israel, porém, diz:","Todo o dia estendi as mãos a um povo rebelde e contradizente."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ROM.9.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ROM.11.json"
+  },
+  "book": {
+    "book_usfm": "ROM",
+    "name": "Romanos"
+  },
+  "chapter": {
+    "chapter_usfm": "ROM.10",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ROM.9",
+      "human": "Romanos 9"
+    },
+    "current": {
+      "usfm": "ROM.10",
+      "human": "Romanos 10"
+    },
+    "next": {
+      "usfm": "ROM.11",
+      "human": "Romanos 11"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Os judeus rejeitam a justiça de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Irmãos, a boa vontade do meu coração e a minha súplica a Deus a favor deles são para que sejam salvos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque lhes dou testemunho de que eles têm zelo por Deus, porém não com entendimento."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porquanto, desconhecendo a justiça de Deus e procurando estabelecer a sua própria, não se sujeitaram à que vem de Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Porque o fim da lei é Cristo, para justiça de todo aquele que crê."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ora, Moisés escreveu que o homem que praticar a justiça decorrente da lei viverá por ela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mas a justiça decorrente da fé assim diz:",
+          "Não perguntes em teu coração: Quem subirá ao céu?,",
+          "isto é, para trazer do alto a Cristo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "ou:",
+          "Quem descerá ao abismo?,",
+          "isto é, para levantar Cristo dentre os mortos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Porém que se diz?",
+          "A palavra está perto de ti, na tua boca e no teu coração;",
+          "isto é, a palavra da fé que pregamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Se, com a tua boca, confessares Jesus como Senhor e, em teu coração, creres que Deus o ressuscitou dentre os mortos, serás salvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Porque com o coração se crê para justiça e com a boca se confessa a respeito da salvação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Porquanto a Escritura diz:",
+          "Todo aquele que nele crê não será confundido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Pois não há distinção entre judeu e grego, uma vez que o mesmo é o Senhor de todos, rico para com todos os que o invocam."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Porque:",
+          "Todo aquele que invocar o nome do Senhor será salvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Como, porém, invocarão aquele em quem não creram? E como crerão naquele de quem nada ouviram? E como ouvirão, se não há quem pregue?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "E como pregarão, se não forem enviados? Como está escrito:",
+          "Quão formosos são os pés dos que anunciam coisas boas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Israel não pode alegar falta de oportunidade"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Mas nem todos obedeceram ao evangelho; pois Isaías diz:",
+          "Senhor, quem acreditou na nossa pregação?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "E, assim, a fé vem pela pregação, e a pregação, pela palavra de Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Mas pergunto: Porventura, não ouviram? Sim, por certo:",
+          "Por toda a terra se fez ouvir a sua voz, e as suas palavras, até aos confins do mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Pergunto mais: Porventura, não terá chegado isso ao conhecimento de Israel? Moisés já dizia:",
+          "Eu vos porei em ciúmes com um povo que não é nação, com gente insensata eu vos provocarei à ira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "E Isaías a mais se atreve e diz:",
+          "Fui achado pelos que não me procuravam, revelei-me aos que não perguntavam por mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Quanto a Israel, porém, diz:",
+          "Todo o dia estendi as mãos a um povo rebelde e contradizente."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

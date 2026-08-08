@@ -1,1 +1,318 @@
-{"version":{"version_id":1782,"local_abbreviation":"RVA2015","local_title":"Reina Valera Actualizada","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Editorial Mundo Hispano"},"copyright":{"html":"<p>Copyright © 2015 by Editorial Mundo Hispano</p>","text":"Copyright © 2015 by Editorial Mundo Hispano"}},"book":{"book_usfm":"SNG","name":"Cantares"},"chapter":{"chapter_usfm":"SNG.1","is_chapter":true,"previous":{"usfm":"ECC.12","human":"Eclesiastés 12","canonical":true,"toc":true},"current":{"usfm":"SNG.1","human":"Cantares 1"},"next":{"usfm":"SNG.2","human":"Cantares 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El cantar de los cantares, el cual es de Salomón."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Oh, que él me besara","con los besos de su boca!","Mejor que el vino es tu amor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tu nombre es como perfume derramado;","por el olor de tu suave perfume","las jóvenes se enamoran de ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Atráeme en pos de ti. ¡Corramos!","El rey me ha llevado a sus habitaciones."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El cortejo nupcial"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Nos gozaremos y nos alegraremos contigo.","Nos acordaremos de tu amor más que del vino.","Con razón te aman."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Soy morena y bella,","oh hijas de Jerusalén.","Soy como las tiendas en Quedar","o como los pabellones de Salomón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["No se fijen en que soy morena,","pues el sol me bronceó.","Los hijos de mi madre se enojaron contra mí","y me pusieron a cuidar viñas.","¡Y mi propia viña no cuidé!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Hazme saber, oh amado de mi alma,","dónde pastorearás;","dónde harás recostar el rebaño al mediodía,","para que yo no ande errante","tras los rebaños de tus compañeros."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El amado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Si no lo sabes,","oh la más hermosa de las mujeres,","sigue las huellas del rebaño","y apacienta tus cabritas","cerca de las cabañas de los pastores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["A mi yegua, entre los carros del faraón,","te he comparado, oh amada mía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¡Qué bellas son tus mejillas entre tus aretes","y tu cuello entre los collares!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Te haremos aretes de oro","con engastes de plata."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando el rey estaba en su diván,","mi nardo liberó su fragancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Mi amado se parece a un manojito de mirra","que duerme entre mis pechos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Mi amado se parece","a un racimo de flores de alheña","de las viñas de En-guedi."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El amado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Qué bella eres, oh amada mía!","¡Qué bella eres!","Tus ojos son como de palomas."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La amada"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Qué bello y dulce eres tú,","oh amado mío!","Nuestra cama es frondosa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["las vigas de nuestra casa son los cedros,","y nuestros artesonados son los cipreses."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/ECC.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/SNG.2.json"
+  },
+  "book": {
+    "book_usfm": "SNG",
+    "name": "Cantares"
+  },
+  "chapter": {
+    "chapter_usfm": "SNG.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
+    },
+    "current": {
+      "usfm": "SNG.1",
+      "human": "Cantares 1"
+    },
+    "next": {
+      "usfm": "SNG.2",
+      "human": "Cantares 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El cantar de los cantares, el cual es de Salomón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Oh, que él me besara",
+          "con los besos de su boca!",
+          "Mejor que el vino es tu amor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tu nombre es como perfume derramado;",
+          "por el olor de tu suave perfume",
+          "las jóvenes se enamoran de ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Atráeme en pos de ti. ¡Corramos!",
+          "El rey me ha llevado a sus habitaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El cortejo nupcial"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Nos gozaremos y nos alegraremos contigo.",
+          "Nos acordaremos de tu amor más que del vino.",
+          "Con razón te aman."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Soy morena y bella,",
+          "oh hijas de Jerusalén.",
+          "Soy como las tiendas en Quedar",
+          "o como los pabellones de Salomón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "No se fijen en que soy morena,",
+          "pues el sol me bronceó.",
+          "Los hijos de mi madre se enojaron contra mí",
+          "y me pusieron a cuidar viñas.",
+          "¡Y mi propia viña no cuidé!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Hazme saber, oh amado de mi alma,",
+          "dónde pastorearás;",
+          "dónde harás recostar el rebaño al mediodía,",
+          "para que yo no ande errante",
+          "tras los rebaños de tus compañeros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El amado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Si no lo sabes,",
+          "oh la más hermosa de las mujeres,",
+          "sigue las huellas del rebaño",
+          "y apacienta tus cabritas",
+          "cerca de las cabañas de los pastores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "A mi yegua, entre los carros del faraón,",
+          "te he comparado, oh amada mía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¡Qué bellas son tus mejillas entre tus aretes",
+          "y tu cuello entre los collares!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Te haremos aretes de oro",
+          "con engastes de plata."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando el rey estaba en su diván,",
+          "mi nardo liberó su fragancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Mi amado se parece a un manojito de mirra",
+          "que duerme entre mis pechos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Mi amado se parece",
+          "a un racimo de flores de alheña",
+          "de las viñas de En-guedi."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El amado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Qué bella eres, oh amada mía!",
+          "¡Qué bella eres!",
+          "Tus ojos son como de palomas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La amada"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Qué bello y dulce eres tú,",
+          "oh amado mío!",
+          "Nuestra cama es frondosa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "las vigas de nuestra casa son los cedros,",
+          "y nuestros artesonados son los cipreses."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1782,
+    "local_abbreviation": "RVA2015",
+    "local_title": "Reina Valera Actualizada",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Editorial Mundo Hispano"
+    },
+    "copyright": {
+      "html": "<p>Copyright © 2015 by Editorial Mundo Hispano</p>",
+      "text": "Copyright © 2015 by Editorial Mundo Hispano"
+    }
+  }
+}

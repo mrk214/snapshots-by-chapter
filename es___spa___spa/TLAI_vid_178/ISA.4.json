@@ -1,1 +1,122 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.4","is_chapter":true,"previous":{"usfm":"ISA.3","human":"Isaías 3","canonical":true,"toc":true},"current":{"usfm":"ISA.4","human":"Isaías 4"},"next":{"usfm":"ISA.5","human":"Isaías 5","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["»En aquel día quedarán tan pocos hombres,","que siete mujeres se pelearán por uno de ellos.","Las mujeres les dirán a los hombres:","“Si te casas conmigo","yo me compraré mi propio pan","y también mi propia ropa;","por favor, cásate conmigo","para que no me muera de vergüenza”»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dios perdonará a Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3],"lines":["Dios también dijo:","«No castigaré a todos.","A los que deje con vida,","les permitiré vivir en Jerusalén","y serán llamados:","“Pueblo elegido de Dios”.","»Cuando llegue ese día,","haré que prosperen y vivan bien.","Mi pueblo se pondrá orgulloso","de los frutos que su tierra le dará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Cuando yo dicte sentencia","y castigue a mi pueblo,","perdonaré a los habitantes de Jerusalén","de los crímenes que han cometido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5,6],"lines":["Entonces protegeré a mi pueblo","con una nube durante el día","y una llama de fuego durante la noche.","Así, durante el día,","los protegeré del calor,","de la lluvia y de la tempestad»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ISA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ISA.5.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.3",
+      "human": "Isaías 3"
+    },
+    "current": {
+      "usfm": "ISA.4",
+      "human": "Isaías 4"
+    },
+    "next": {
+      "usfm": "ISA.5",
+      "human": "Isaías 5"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "»En aquel día quedarán tan pocos hombres,",
+          "que siete mujeres se pelearán por uno de ellos.",
+          "Las mujeres les dirán a los hombres:",
+          "“Si te casas conmigo",
+          "yo me compraré mi propio pan",
+          "y también mi propia ropa;",
+          "por favor, cásate conmigo",
+          "para que no me muera de vergüenza”»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios perdonará a Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3
+        ],
+        "lines": [
+          "Dios también dijo:",
+          "«No castigaré a todos.",
+          "A los que deje con vida,",
+          "les permitiré vivir en Jerusalén",
+          "y serán llamados:",
+          "“Pueblo elegido de Dios”.",
+          "»Cuando llegue ese día,",
+          "haré que prosperen y vivan bien.",
+          "Mi pueblo se pondrá orgulloso",
+          "de los frutos que su tierra le dará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Cuando yo dicte sentencia",
+          "y castigue a mi pueblo,",
+          "perdonaré a los habitantes de Jerusalén",
+          "de los crímenes que han cometido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5,
+          6
+        ],
+        "lines": [
+          "Entonces protegeré a mi pueblo",
+          "con una nube durante el día",
+          "y una llama de fuego durante la noche.",
+          "Así, durante el día,",
+          "los protegeré del calor,",
+          "de la lluvia y de la tempestad»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

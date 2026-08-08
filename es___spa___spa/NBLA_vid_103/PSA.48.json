@@ -1,1 +1,240 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.48","is_chapter":true,"previous":{"usfm":"PSA.47","human":"Salmo 47","canonical":true,"toc":true},"current":{"usfm":"PSA.48","human":"Salmo 48"},"next":{"usfm":"PSA.49","human":"Salmo 49","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 48"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Hermosura y gloria de Sión"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cántico. Salmo de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Grande es el Señor, y muy digno de ser alabado","En la ciudad de nuestro Dios, Su santo monte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Hermoso en su elevación, el gozo de toda la tierra","Es el monte Sión, en el extremo norte,","La ciudad del gran Rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Dios en sus palacios","Se dio a conocer como baluarte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Pues los reyes se reunieron;","Pasaron juntos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Ellos la vieron y quedaron pasmados;","Se aterrorizaron y huyeron alarmados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Allí se apoderó de ellos un temblor;","Dolor como el de mujer que está de parto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Con el viento del este","Tú destrozas las naves de Tarsis."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Como lo hemos oído, así lo hemos visto","En la ciudad del Señor de los ejércitos, en la ciudad de nuestro Dios;","Dios la afirmará para siempre."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶Hemos meditado en Tu misericordia, oh Dios,","En medio de Tu templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Oh Dios, como es Tu nombre,","Así es Tu alabanza hasta los confines de la tierra;","Llena de justicia está Tu diestra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Alégrese el monte Sión,","Regocíjense las hijas de Judá,","A causa de Tus juicios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Caminen por Sión y vayan alrededor de ella;","Cuenten sus torres;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Consideren atentamente sus murallas,","Recorran sus palacios,","Para que lo cuenten a la generación venidera."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Porque Este es Dios,","Nuestro Dios para siempre;","Él nos guiará hasta la muerte."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.47.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.49.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.48",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.47",
+      "human": "Salmo 47"
+    },
+    "current": {
+      "usfm": "PSA.48",
+      "human": "Salmo 48"
+    },
+    "next": {
+      "usfm": "PSA.49",
+      "human": "Salmo 49"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 48"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Hermosura y gloria de Sión"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico. Salmo de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Grande es el Señor, y muy digno de ser alabado",
+          "En la ciudad de nuestro Dios, Su santo monte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Hermoso en su elevación, el gozo de toda la tierra",
+          "Es el monte Sión, en el extremo norte,",
+          "La ciudad del gran Rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Dios en sus palacios",
+          "Se dio a conocer como baluarte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Pues los reyes se reunieron;",
+          "Pasaron juntos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Ellos la vieron y quedaron pasmados;",
+          "Se aterrorizaron y huyeron alarmados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Allí se apoderó de ellos un temblor;",
+          "Dolor como el de mujer que está de parto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Con el viento del este",
+          "Tú destrozas las naves de Tarsis."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Como lo hemos oído, así lo hemos visto",
+          "En la ciudad del Señor de los ejércitos, en la ciudad de nuestro Dios;",
+          "Dios la afirmará para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶Hemos meditado en Tu misericordia, oh Dios,",
+          "En medio de Tu templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Oh Dios, como es Tu nombre,",
+          "Así es Tu alabanza hasta los confines de la tierra;",
+          "Llena de justicia está Tu diestra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Alégrese el monte Sión,",
+          "Regocíjense las hijas de Judá,",
+          "A causa de Tus juicios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Caminen por Sión y vayan alrededor de ella;",
+          "Cuenten sus torres;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Consideren atentamente sus murallas,",
+          "Recorran sus palacios,",
+          "Para que lo cuenten a la generación venidera."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Porque Este es Dios,",
+          "Nuestro Dios para siempre;",
+          "Él nos guiará hasta la muerte."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

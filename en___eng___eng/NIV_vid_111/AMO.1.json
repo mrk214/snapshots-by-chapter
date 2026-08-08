@@ -1,1 +1,249 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"AMO","name":"Amos"},"chapter":{"chapter_usfm":"AMO.1","is_chapter":true,"previous":{"usfm":"AMO.INTRO1","human":"Amos Intro","canonical":false,"toc":true},"current":{"usfm":"AMO.1","human":"Amos 1"},"next":{"usfm":"AMO.2","human":"Amos 2","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He said:","“The Lord roars from Zion","and thunders from Jerusalem;","the pastures of the shepherds dry up,","and the top of Carmel withers.”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Judgment on Israel’s Neighbors"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["This is what the Lord says:","“For three sins of Damascus,","even for four, I will not relent.","Because she threshed Gilead","with sledges having iron teeth,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I will send fire on the house of Hazael","that will consume the fortresses of Ben-Hadad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I will break down the gate of Damascus;","I will destroy the king who is in the Valley of Aven","and the one who holds the scepter in Beth Eden.","The people of Aram will go into exile to Kir,”","says the Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["This is what the Lord says:","“For three sins of Gaza,","even for four, I will not relent.","Because she took captive whole communities","and sold them to Edom,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["I will send fire on the walls of Gaza","that will consume her fortresses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I will destroy the king of Ashdod","and the one who holds the scepter in Ashkelon.","I will turn my hand against Ekron,","till the last of the Philistines are dead,”","says the Sovereign Lord."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["This is what the Lord says:","“For three sins of Tyre,","even for four, I will not relent.","Because she sold whole communities of captives to Edom,","disregarding a treaty of brotherhood,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I will send fire on the walls of Tyre","that will consume her fortresses.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["This is what the Lord says:","“For three sins of Edom,","even for four, I will not relent.","Because he pursued his brother with a sword","and slaughtered the women of the land,","because his anger raged continually","and his fury flamed unchecked,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["I will send fire on Teman","that will consume the fortresses of Bozrah.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["This is what the Lord says:","“For three sins of Ammon,","even for four, I will not relent.","Because he ripped open the pregnant women of Gilead","in order to extend his borders,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I will set fire to the walls of Rabbah","that will consume her fortresses","amid war cries on the day of battle,","amid violent winds on a stormy day."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Her king will go into exile,","he and his officials together,”","says the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/AMO.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/AMO.2.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amos"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.INTRO1",
+      "human": "Amos Intro"
+    },
+    "current": {
+      "usfm": "AMO.1",
+      "human": "Amos 1"
+    },
+    "next": {
+      "usfm": "AMO.2",
+      "human": "Amos 2"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "The words of Amos, one of the shepherds of Tekoa—the vision he saw concerning Israel two years before the earthquake, when Uzziah was king of Judah and Jeroboam son of Jehoash was king of Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He said:",
+          "“The Lord roars from Zion",
+          "and thunders from Jerusalem;",
+          "the pastures of the shepherds dry up,",
+          "and the top of Carmel withers.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Judgment on Israel’s Neighbors"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“For three sins of Damascus,",
+          "even for four, I will not relent.",
+          "Because she threshed Gilead",
+          "with sledges having iron teeth,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I will send fire on the house of Hazael",
+          "that will consume the fortresses of Ben-Hadad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I will break down the gate of Damascus;",
+          "I will destroy the king who is in the Valley of Aven",
+          "and the one who holds the scepter in Beth Eden.",
+          "The people of Aram will go into exile to Kir,”",
+          "says the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“For three sins of Gaza,",
+          "even for four, I will not relent.",
+          "Because she took captive whole communities",
+          "and sold them to Edom,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "I will send fire on the walls of Gaza",
+          "that will consume her fortresses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I will destroy the king of Ashdod",
+          "and the one who holds the scepter in Ashkelon.",
+          "I will turn my hand against Ekron,",
+          "till the last of the Philistines are dead,”",
+          "says the Sovereign Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“For three sins of Tyre,",
+          "even for four, I will not relent.",
+          "Because she sold whole communities of captives to Edom,",
+          "disregarding a treaty of brotherhood,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I will send fire on the walls of Tyre",
+          "that will consume her fortresses.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“For three sins of Edom,",
+          "even for four, I will not relent.",
+          "Because he pursued his brother with a sword",
+          "and slaughtered the women of the land,",
+          "because his anger raged continually",
+          "and his fury flamed unchecked,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "I will send fire on Teman",
+          "that will consume the fortresses of Bozrah.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "This is what the Lord says:",
+          "“For three sins of Ammon,",
+          "even for four, I will not relent.",
+          "Because he ripped open the pregnant women of Gilead",
+          "in order to extend his borders,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I will set fire to the walls of Rabbah",
+          "that will consume her fortresses",
+          "amid war cries on the day of battle,",
+          "amid violent winds on a stormy day."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Her king will go into exile,",
+          "he and his officials together,”",
+          "says the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

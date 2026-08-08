@@ -1,1 +1,333 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.12","is_chapter":true,"previous":{"usfm":"JOB.11","human":"Job 11","canonical":true,"toc":true},"current":{"usfm":"JOB.12","human":"Job 12"},"next":{"usfm":"JOB.13","human":"Job 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job's Reply"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["And Job answered and said,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No doubt but ye are the people,","And wisdom shall die with you."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But I have understanding as well as you;","I am not inferior to you:","Yea, who knoweth not such things as these?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I am as one mocked of his neighbour,","Who calleth upon God, and he answereth him:","The just upright man is laughed to scorn."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["He that is ready to slip with his feet","Is as a lamp despised in the thought of him that is at ease."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The tabernacles of robbers prosper,","And they that provoke God are secure;","Into whose hand God bringeth abundantly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But ask now the beasts, and they shall teach thee;","And the fowls of the air, and they shall tell thee:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Or speak to the earth, and it shall teach thee:","And the fishes of the sea shall declare unto thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Who knoweth not in all these","That the hand of the LORD hath wrought this?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["In whose hand is the soul of every living thing,","And the breath of all mankind."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Doth not the ear try words?","And the mouth taste his meat?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["With the ancient is wisdom;","And in length of days understanding."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["With him is wisdom and strength,","He hath counsel and understanding."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Behold, he breaketh down, and it cannot be built again:","He shutteth up a man, and there can be no opening."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Behold, he withholdeth the waters, and they dry up:","Also he sendeth them out, and they overturn the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["With him is strength and wisdom:","The deceived and the deceiver are his."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["He leadeth counsellors away spoiled,","And maketh the judges fools."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["He looseth the bond of kings,","And girdeth their loins with a girdle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["He leadeth princes away spoiled,","And overthroweth the mighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["He removeth away the speech of the trusty,","And taketh away the understanding of the aged."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["He poureth contempt upon princes,","And weakeneth the strength of the mighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["He discovereth deep things out of darkness,","And bringeth out to light the shadow of death."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["He increaseth the nations, and destroyeth them:","He enlargeth the nations, and straiteneth them again."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["He taketh away the heart of the chief of the people of the earth,","And causeth them to wander in a wilderness where there is no way."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["They grope in the dark without light,","And he maketh them to stagger like a drunken man."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JOB.13.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.11",
+      "human": "Job 11"
+    },
+    "current": {
+      "usfm": "JOB.12",
+      "human": "Job 12"
+    },
+    "next": {
+      "usfm": "JOB.13",
+      "human": "Job 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job's Reply"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And Job answered and said,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No doubt but ye are the people,",
+          "And wisdom shall die with you."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But I have understanding as well as you;",
+          "I am not inferior to you:",
+          "Yea, who knoweth not such things as these?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I am as one mocked of his neighbour,",
+          "Who calleth upon God, and he answereth him:",
+          "The just upright man is laughed to scorn."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "He that is ready to slip with his feet",
+          "Is as a lamp despised in the thought of him that is at ease."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The tabernacles of robbers prosper,",
+          "And they that provoke God are secure;",
+          "Into whose hand God bringeth abundantly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But ask now the beasts, and they shall teach thee;",
+          "And the fowls of the air, and they shall tell thee:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Or speak to the earth, and it shall teach thee:",
+          "And the fishes of the sea shall declare unto thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Who knoweth not in all these",
+          "That the hand of the LORD hath wrought this?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "In whose hand is the soul of every living thing,",
+          "And the breath of all mankind."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Doth not the ear try words?",
+          "And the mouth taste his meat?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "With the ancient is wisdom;",
+          "And in length of days understanding."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "With him is wisdom and strength,",
+          "He hath counsel and understanding."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Behold, he breaketh down, and it cannot be built again:",
+          "He shutteth up a man, and there can be no opening."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Behold, he withholdeth the waters, and they dry up:",
+          "Also he sendeth them out, and they overturn the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "With him is strength and wisdom:",
+          "The deceived and the deceiver are his."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "He leadeth counsellors away spoiled,",
+          "And maketh the judges fools."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "He looseth the bond of kings,",
+          "And girdeth their loins with a girdle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "He leadeth princes away spoiled,",
+          "And overthroweth the mighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "He removeth away the speech of the trusty,",
+          "And taketh away the understanding of the aged."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "He poureth contempt upon princes,",
+          "And weakeneth the strength of the mighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "He discovereth deep things out of darkness,",
+          "And bringeth out to light the shadow of death."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "He increaseth the nations, and destroyeth them:",
+          "He enlargeth the nations, and straiteneth them again."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "He taketh away the heart of the chief of the people of the earth,",
+          "And causeth them to wander in a wilderness where there is no way."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "They grope in the dark without light,",
+          "And he maketh them to stagger like a drunken man."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

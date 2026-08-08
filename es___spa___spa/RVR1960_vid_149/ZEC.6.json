@@ -1,1 +1,214 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"ZEC","name":"Zacarías"},"chapter":{"chapter_usfm":"ZEC.6","is_chapter":true,"previous":{"usfm":"ZEC.5","human":"Zacarías 5","canonical":true,"toc":true},"current":{"usfm":"ZEC.6","human":"Zacarías 6"},"next":{"usfm":"ZEC.7","human":"Zacarías 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los cuatro carros"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["De nuevo alcé mis ojos y miré, y he aquí cuatro carros que salían de entre dos montes; y aquellos montes eran de bronce."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En el primer carro había caballos alazanes, en el segundo carro caballos negros,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["en el tercer carro caballos blancos, y en el cuarto carro caballos overos rucios rodados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Respondí entonces y dije al ángel que hablaba conmigo: Señor mío, ¿qué es esto?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Y el ángel me respondió y me dijo: Estos son los cuatro vientos de los cielos, que salen después de presentarse delante del Señor de toda la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El carro con los caballos negros salía hacia la tierra del norte, y los blancos salieron tras ellos, y los overos salieron hacia la tierra del sur."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Y los alazanes salieron y se afanaron por ir a recorrer la tierra. Y dijo: Id, recorred la tierra. Y recorrieron la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Luego me llamó, y me habló diciendo: Mira, los que salieron hacia la tierra del norte hicieron reposar mi Espíritu en la tierra del norte."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Coronación simbólica de Josué"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Vino a mí palabra de Jehová, diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Toma de los del cautiverio a Heldai, a Tobías y a Jedaías, los cuales volvieron de Babilonia; e irás tú en aquel día, y entrarás en casa de Josías hijo de Sofonías."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Tomarás, pues, plata y oro, y harás coronas, y las pondrás en la cabeza del sumo sacerdote Josué, hijo de Josadac."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Y le hablarás, diciendo: Así ha hablado Jehová de los ejércitos, diciendo: He aquí el varón cuyo nombre es el Renuevo, el cual brotará de sus raíces, y edificará el templo de Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Él edificará el templo de Jehová, y él llevará gloria, y se sentará y dominará en su trono, y habrá sacerdote a su lado; y consejo de paz habrá entre ambos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Las coronas servirán a Helem, a Tobías, a Jedaías y a Hen hijo de Sofonías, como memoria en el templo de Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Y los que están lejos vendrán y ayudarán a edificar el templo de Jehová, y conoceréis que Jehová de los ejércitos me ha enviado a vosotros. Y esto sucederá si oyereis obedientes la voz de Jehová vuestro Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ZEC.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ZEC.7.json"
+  },
+  "book": {
+    "book_usfm": "ZEC",
+    "name": "Zacarías"
+  },
+  "chapter": {
+    "chapter_usfm": "ZEC.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ZEC.5",
+      "human": "Zacarías 5"
+    },
+    "current": {
+      "usfm": "ZEC.6",
+      "human": "Zacarías 6"
+    },
+    "next": {
+      "usfm": "ZEC.7",
+      "human": "Zacarías 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los cuatro carros"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "De nuevo alcé mis ojos y miré, y he aquí cuatro carros que salían de entre dos montes; y aquellos montes eran de bronce."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En el primer carro había caballos alazanes, en el segundo carro caballos negros,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "en el tercer carro caballos blancos, y en el cuarto carro caballos overos rucios rodados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Respondí entonces y dije al ángel que hablaba conmigo: Señor mío, ¿qué es esto?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Y el ángel me respondió y me dijo: Estos son los cuatro vientos de los cielos, que salen después de presentarse delante del Señor de toda la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El carro con los caballos negros salía hacia la tierra del norte, y los blancos salieron tras ellos, y los overos salieron hacia la tierra del sur."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Y los alazanes salieron y se afanaron por ir a recorrer la tierra. Y dijo: Id, recorred la tierra. Y recorrieron la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Luego me llamó, y me habló diciendo: Mira, los que salieron hacia la tierra del norte hicieron reposar mi Espíritu en la tierra del norte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Coronación simbólica de Josué"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Vino a mí palabra de Jehová, diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Toma de los del cautiverio a Heldai, a Tobías y a Jedaías, los cuales volvieron de Babilonia; e irás tú en aquel día, y entrarás en casa de Josías hijo de Sofonías."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Tomarás, pues, plata y oro, y harás coronas, y las pondrás en la cabeza del sumo sacerdote Josué, hijo de Josadac."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Y le hablarás, diciendo: Así ha hablado Jehová de los ejércitos, diciendo: He aquí el varón cuyo nombre es el Renuevo, el cual brotará de sus raíces, y edificará el templo de Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Él edificará el templo de Jehová, y él llevará gloria, y se sentará y dominará en su trono, y habrá sacerdote a su lado; y consejo de paz habrá entre ambos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Las coronas servirán a Helem, a Tobías, a Jedaías y a Hen hijo de Sofonías, como memoria en el templo de Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Y los que están lejos vendrán y ayudarán a edificar el templo de Jehová, y conoceréis que Jehová de los ejércitos me ha enviado a vosotros. Y esto sucederá si oyereis obedientes la voz de Jehová vuestro Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

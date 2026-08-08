@@ -1,1 +1,284 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"WIS","name":"Sabiduría"},"chapter":{"chapter_usfm":"WIS.3","is_chapter":true,"previous":{"usfm":"WIS.2","human":"Sabiduría 2","canonical":true,"toc":true},"current":{"usfm":"WIS.3","human":"Sabiduría 3"},"next":{"usfm":"WIS.4","human":"Sabiduría 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La suerte de los buenos comparada con la de los malos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Las almas de los buenos","están en las manos de Dios,","y el tormento no las alcanzará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Los insensatos creen que los buenos están muertos;","consideran su muerte como una desgracia,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["y como una calamidad el haberse alejado de nosotros.","Pero los buenos están en paz:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["aunque a los ojos de los hombres parecían castigados,","abrigaban la esperanza de no tener que morir."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Después de sufrir pequeños castigos,","recibirán grandes beneficios,","porque Dios los puso a prueba","y los halló dignos de él."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los probó como al oro en el crisol,","y los aceptó como un sacrificio ofrecido en el altar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El día en que el Señor venga a juzgarlos,","resplandecerán como antorchas,","como chispas que prenden entre el rastrojo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Juzgarán a las naciones y gobernarán a los pueblos,","y el Señor reinará sobre ellos para siempre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los que confían en el Señor comprenderán la verdad,","y los fieles permanecerán a su lado con amor,","pues Dios es bueno y favorece a sus elegidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Los malos tendrán el castigo que merecen sus malos pensamientos,","porque despreciaron a los buenos y se apartaron del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¡Desdichados los que desprecian la sabiduría y la instrucción;","vana es su esperanza, inútiles sus esfuerzos,","y sin valor sus obras!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Sus mujeres son estúpidas, malvados sus hijos","y maldita su descendencia."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Más vale no tener hijos que tenerlos del pecado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡Dichosa la mujer estéril","que se ha mantenido irreprochable","y no ha tenido relaciones prohibidas:","recibirá el premio merecido","cuando el Señor venga a juzgar a los hombres!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["¡Dichoso también el castrado","que nunca cometió ninguna maldad","ni tuvo malos pensamientos contra el Señor:","por su fidelidad recibirá una recompensa especial","y un lugar muy agradable en el templo del Señor!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["El fruto del trabajo honrado es espléndido,","y la raíz del buen juicio no se seca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Los hijos de los adúlteros no llegan a la madurez;","habiendo nacido de relaciones prohibidas, tendrán mal fin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Aunque lleguen a viejos, no se les tendrá en cuenta;","y al final, en su vejez, nadie los respetará;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["si mueren jóvenes, no tendrán esperanza,","y el día del juicio no tendrán quien los consuele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A la gente perversa le espera un destino terrible."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.4.json"
+  },
+  "book": {
+    "book_usfm": "WIS",
+    "name": "Sabiduría"
+  },
+  "chapter": {
+    "chapter_usfm": "WIS.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "WIS.2",
+      "human": "Sabiduría 2"
+    },
+    "current": {
+      "usfm": "WIS.3",
+      "human": "Sabiduría 3"
+    },
+    "next": {
+      "usfm": "WIS.4",
+      "human": "Sabiduría 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La suerte de los buenos comparada con la de los malos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Las almas de los buenos",
+          "están en las manos de Dios,",
+          "y el tormento no las alcanzará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Los insensatos creen que los buenos están muertos;",
+          "consideran su muerte como una desgracia,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "y como una calamidad el haberse alejado de nosotros.",
+          "Pero los buenos están en paz:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "aunque a los ojos de los hombres parecían castigados,",
+          "abrigaban la esperanza de no tener que morir."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Después de sufrir pequeños castigos,",
+          "recibirán grandes beneficios,",
+          "porque Dios los puso a prueba",
+          "y los halló dignos de él."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los probó como al oro en el crisol,",
+          "y los aceptó como un sacrificio ofrecido en el altar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El día en que el Señor venga a juzgarlos,",
+          "resplandecerán como antorchas,",
+          "como chispas que prenden entre el rastrojo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Juzgarán a las naciones y gobernarán a los pueblos,",
+          "y el Señor reinará sobre ellos para siempre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los que confían en el Señor comprenderán la verdad,",
+          "y los fieles permanecerán a su lado con amor,",
+          "pues Dios es bueno y favorece a sus elegidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Los malos tendrán el castigo que merecen sus malos pensamientos,",
+          "porque despreciaron a los buenos y se apartaron del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¡Desdichados los que desprecian la sabiduría y la instrucción;",
+          "vana es su esperanza, inútiles sus esfuerzos,",
+          "y sin valor sus obras!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Sus mujeres son estúpidas, malvados sus hijos",
+          "y maldita su descendencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Más vale no tener hijos que tenerlos del pecado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡Dichosa la mujer estéril",
+          "que se ha mantenido irreprochable",
+          "y no ha tenido relaciones prohibidas:",
+          "recibirá el premio merecido",
+          "cuando el Señor venga a juzgar a los hombres!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "¡Dichoso también el castrado",
+          "que nunca cometió ninguna maldad",
+          "ni tuvo malos pensamientos contra el Señor:",
+          "por su fidelidad recibirá una recompensa especial",
+          "y un lugar muy agradable en el templo del Señor!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "El fruto del trabajo honrado es espléndido,",
+          "y la raíz del buen juicio no se seca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Los hijos de los adúlteros no llegan a la madurez;",
+          "habiendo nacido de relaciones prohibidas, tendrán mal fin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Aunque lleguen a viejos, no se les tendrá en cuenta;",
+          "y al final, en su vejez, nadie los respetará;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "si mueren jóvenes, no tendrán esperanza,",
+          "y el día del juicio no tendrán quien los consuele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A la gente perversa le espera un destino terrible."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

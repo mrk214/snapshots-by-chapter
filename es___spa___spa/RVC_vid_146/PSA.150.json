@@ -1,1 +1,130 @@
-{"version":{"version_id":146,"local_abbreviation":"RVC","local_title":"Reina Valera Contemporánea","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>","text":"Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.150","is_chapter":true,"previous":{"usfm":"PSA.149","human":"Salmos 149","canonical":true,"toc":true},"current":{"usfm":"PSA.150","human":"Salmos 150"},"next":{"usfm":"PRO.1","human":"Proverbios 1","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Exhortación a alabar a Dios con instrumentos de música"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Aleluya."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Alabado sea Dios en su templo!","¡Alabado sea en la majestad del firmamento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Alabado sea por sus proezas!","¡Alabado sea por su imponente grandeza!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Alabado sea el Señor al son de trompetas!","¡Alabado sea el Señor con salterio y arpa!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Alabado sea al ritmo del pandero!","¡Alabado sea con flautas e instrumentos de cuerda!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Alabado sea con campanillas sonoras!","¡Alabado sea con campanillas jubilosas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Que todo lo que respira alabe al Señor!","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.149.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.1.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.150",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.149",
+      "human": "Salmos 149"
+    },
+    "current": {
+      "usfm": "PSA.150",
+      "human": "Salmos 150"
+    },
+    "next": {
+      "usfm": "PRO.1",
+      "human": "Proverbios 1"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Exhortación a alabar a Dios con instrumentos de música"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Aleluya."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Alabado sea Dios en su templo!",
+          "¡Alabado sea en la majestad del firmamento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Alabado sea por sus proezas!",
+          "¡Alabado sea por su imponente grandeza!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Alabado sea el Señor al son de trompetas!",
+          "¡Alabado sea el Señor con salterio y arpa!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Alabado sea al ritmo del pandero!",
+          "¡Alabado sea con flautas e instrumentos de cuerda!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Alabado sea con campanillas sonoras!",
+          "¡Alabado sea con campanillas jubilosas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Que todo lo que respira alabe al Señor!",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 146,
+    "local_abbreviation": "RVC",
+    "local_title": "Reina Valera Contemporánea",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010.</p>",
+      "text": "Reina Valera Contemporánea™ © Sociedades Bíblicas Unidas, 2009, 2010."
+    }
+  }
+}

@@ -1,1 +1,150 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.101","is_chapter":true,"previous":{"usfm":"PSA.100","human":"Psalm 100","canonical":true,"toc":true},"current":{"usfm":"PSA.101","human":"Psalm 101"},"next":{"usfm":"PSA.102","human":"Psalm 102","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I will sing of mercy and judgment:","Unto thee, O LORD, will I sing."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I will behave myself wisely","In a perfect way.","O when wilt thou come unto me?","I will walk within my house with a perfect heart."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["I will set no wicked thing before mine eyes: I hate the work of them that turn aside;","It shall not cleave to me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A froward heart shall depart from me:","I will not know a wicked person."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Whoso privily slandereth his neighbour,","Him will I cut off:","Him that hath an high look","And a proud heart will not I suffer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Mine eyes shall be upon the faithful","Of the land, that they may dwell with me:","He that walketh in a perfect way,","He shall serve me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["He that worketh deceit shall not dwell within my house:","He that telleth lies shall not tarry in my sight."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I will early destroy all the wicked of the land; That I may cut off","All wicked doers from the city of the LORD."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.100.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.102.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.101",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.100",
+      "human": "Psalm 100"
+    },
+    "current": {
+      "usfm": "PSA.101",
+      "human": "Psalm 101"
+    },
+    "next": {
+      "usfm": "PSA.102",
+      "human": "Psalm 102"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I will sing of mercy and judgment:",
+          "Unto thee, O LORD, will I sing."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I will behave myself wisely",
+          "In a perfect way.",
+          "O when wilt thou come unto me?",
+          "I will walk within my house with a perfect heart."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "I will set no wicked thing before mine eyes: I hate the work of them that turn aside;",
+          "It shall not cleave to me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A froward heart shall depart from me:",
+          "I will not know a wicked person."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Whoso privily slandereth his neighbour,",
+          "Him will I cut off:",
+          "Him that hath an high look",
+          "And a proud heart will not I suffer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Mine eyes shall be upon the faithful",
+          "Of the land, that they may dwell with me:",
+          "He that walketh in a perfect way,",
+          "He shall serve me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "He that worketh deceit shall not dwell within my house:",
+          "He that telleth lies shall not tarry in my sight."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I will early destroy all the wicked of the land; That I may cut off",
+          "All wicked doers from the city of the LORD."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

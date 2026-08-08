@@ -1,1 +1,237 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"MAT","name":"Mateus"},"chapter":{"chapter_usfm":"MAT.3","is_chapter":true,"previous":{"usfm":"MAT.2","human":"Mateus 2","canonical":true,"toc":true},"current":{"usfm":"MAT.3","human":"Mateus 3"},"next":{"usfm":"MAT.4","human":"Mateus 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["João Batista Prepara o Caminho"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Naqueles dias, surgiu João Batista, pregando no deserto da Judeia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ele dizia: “Arrependam-se, pois o Reino dos céus está próximo”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Este é aquele que foi anunciado pelo profeta Isaías:","“Voz do que clama no deserto:","‘Preparem o caminho para o Senhor,","façam veredas retas para ele’ ”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["As roupas de João eram feitas de pelos de camelo, e ele usava um cinto de couro na cintura. O seu alimento era gafanhotos e mel silvestre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["A ele vinha gente de Jerusalém, de toda a Judeia e de toda a região ao redor do Jordão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Confessando os seus pecados, eram batizados por ele no rio Jordão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Quando viu que muitos fariseus e saduceus vinham para onde ele estava batizando, disse-lhes: “Raça de víboras! Quem deu a vocês a ideia de fugir da ira que se aproxima?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Deem fruto que mostre o arrependimento!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Não pensem que vocês podem dizer a si mesmos: ‘Abraão é nosso pai’. Pois eu digo que destas pedras Deus pode fazer surgir filhos a Abraão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O machado já está posto à raiz das árvores, e toda árvore que não der bom fruto será cortada e lançada ao fogo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“Eu os batizo com água para arrependimento. Mas depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de levar as suas sandálias. Ele os batizará com o Espírito Santo e com fogo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Ele traz a pá em sua mão e limpará sua eira, juntando seu trigo no celeiro, mas queimará a palha com fogo que nunca se apaga”."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["O Batismo de Jesus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Então Jesus veio da Galileia ao Jordão para ser batizado por João."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["João, porém, tentou impedi-lo, dizendo: “Eu preciso ser batizado por ti, e tu vens a mim?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Respondeu Jesus: “Deixe assim por enquanto; convém que assim façamos, para cumprir toda a justiça”. E João concordou."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Assim que Jesus foi batizado, saiu da água. Naquele momento, o céu se abriu, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Então uma voz dos céus disse: “Este é o meu Filho amado, de quem me agrado”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/MAT.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/MAT.4.json"
+  },
+  "book": {
+    "book_usfm": "MAT",
+    "name": "Mateus"
+  },
+  "chapter": {
+    "chapter_usfm": "MAT.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MAT.2",
+      "human": "Mateus 2"
+    },
+    "current": {
+      "usfm": "MAT.3",
+      "human": "Mateus 3"
+    },
+    "next": {
+      "usfm": "MAT.4",
+      "human": "Mateus 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "João Batista Prepara o Caminho"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Naqueles dias, surgiu João Batista, pregando no deserto da Judeia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ele dizia: “Arrependam-se, pois o Reino dos céus está próximo”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Este é aquele que foi anunciado pelo profeta Isaías:",
+          "“Voz do que clama no deserto:",
+          "‘Preparem o caminho para o Senhor,",
+          "façam veredas retas para ele’ ”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "As roupas de João eram feitas de pelos de camelo, e ele usava um cinto de couro na cintura. O seu alimento era gafanhotos e mel silvestre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "A ele vinha gente de Jerusalém, de toda a Judeia e de toda a região ao redor do Jordão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Confessando os seus pecados, eram batizados por ele no rio Jordão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Quando viu que muitos fariseus e saduceus vinham para onde ele estava batizando, disse-lhes: “Raça de víboras! Quem deu a vocês a ideia de fugir da ira que se aproxima?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Deem fruto que mostre o arrependimento!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Não pensem que vocês podem dizer a si mesmos: ‘Abraão é nosso pai’. Pois eu digo que destas pedras Deus pode fazer surgir filhos a Abraão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O machado já está posto à raiz das árvores, e toda árvore que não der bom fruto será cortada e lançada ao fogo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“Eu os batizo com água para arrependimento. Mas depois de mim vem alguém mais poderoso do que eu, tanto que não sou digno nem de levar as suas sandálias. Ele os batizará com o Espírito Santo e com fogo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Ele traz a pá em sua mão e limpará sua eira, juntando seu trigo no celeiro, mas queimará a palha com fogo que nunca se apaga”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O Batismo de Jesus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Então Jesus veio da Galileia ao Jordão para ser batizado por João."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "João, porém, tentou impedi-lo, dizendo: “Eu preciso ser batizado por ti, e tu vens a mim?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Respondeu Jesus: “Deixe assim por enquanto; convém que assim façamos, para cumprir toda a justiça”. E João concordou."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Assim que Jesus foi batizado, saiu da água. Naquele momento, o céu se abriu, e ele viu o Espírito de Deus descendo como pomba e pousando sobre ele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Então uma voz dos céus disse: “Este é o meu Filho amado, de quem me agrado”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

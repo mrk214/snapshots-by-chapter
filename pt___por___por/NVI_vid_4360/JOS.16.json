@@ -1,1 +1,165 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"JOS","name":"Josué"},"chapter":{"chapter_usfm":"JOS.16","is_chapter":true,"previous":{"usfm":"JOS.15","human":"Josué 15","canonical":true,"toc":true},"current":{"usfm":"JOS.16","human":"Josué 16"},"next":{"usfm":"JOS.17","human":"Josué 17","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["As Terras das Tribos de Efraim e Manassés"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["As terras distribuídas aos descendentes de José iam desde o Jordão, perto de Jericó, a leste das águas de Jericó, e daí subiam pelo deserto até a serra que vai de Jericó a Betel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De Betel, que é Luz, iam para o território dos arquitas, em Atarote,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["desciam para o oeste até o território dos jafletitas, chegando à região de Bete-Horom Baixa, e prosseguiam até Gezer, terminando no mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Assim os descendentes de Manassés e Efraim, filhos de José, receberam a sua herança."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["A Herança de Efraim"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Este era o território de Efraim, clã por clã:","A fronteira da sua herança ia de Atarote-Adar, a leste, até Bete-Horom Alta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["e prosseguia até o mar. De Micmetá, ao norte, fazia uma curva para o leste até Taanate-Siló e, passando por ela, ia até Janoa, a leste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Depois descia de Janoa para Atarote e Naarate, encostava em Jericó e terminava no Jordão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["De Tapua a fronteira seguia rumo oeste até o ribeiro de Caná e terminava no mar. Essa foi a herança da tribo dos efraimitas, clã por clã,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["que incluía todas as cidades com os seus povoados, separadas para os efraimitas na herança dos manassitas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Os cananeus de Gezer não foram expulsos, e até hoje vivem no meio do povo de Efraim, mas são sujeitos a trabalhos forçados."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOS.15.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOS.17.json"
+  },
+  "book": {
+    "book_usfm": "JOS",
+    "name": "Josué"
+  },
+  "chapter": {
+    "chapter_usfm": "JOS.16",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOS.15",
+      "human": "Josué 15"
+    },
+    "current": {
+      "usfm": "JOS.16",
+      "human": "Josué 16"
+    },
+    "next": {
+      "usfm": "JOS.17",
+      "human": "Josué 17"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "As Terras das Tribos de Efraim e Manassés"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "As terras distribuídas aos descendentes de José iam desde o Jordão, perto de Jericó, a leste das águas de Jericó, e daí subiam pelo deserto até a serra que vai de Jericó a Betel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De Betel, que é Luz, iam para o território dos arquitas, em Atarote,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "desciam para o oeste até o território dos jafletitas, chegando à região de Bete-Horom Baixa, e prosseguiam até Gezer, terminando no mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Assim os descendentes de Manassés e Efraim, filhos de José, receberam a sua herança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Herança de Efraim"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Este era o território de Efraim, clã por clã:",
+          "A fronteira da sua herança ia de Atarote-Adar, a leste, até Bete-Horom Alta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "e prosseguia até o mar. De Micmetá, ao norte, fazia uma curva para o leste até Taanate-Siló e, passando por ela, ia até Janoa, a leste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Depois descia de Janoa para Atarote e Naarate, encostava em Jericó e terminava no Jordão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "De Tapua a fronteira seguia rumo oeste até o ribeiro de Caná e terminava no mar. Essa foi a herança da tribo dos efraimitas, clã por clã,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "que incluía todas as cidades com os seus povoados, separadas para os efraimitas na herança dos manassitas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Os cananeus de Gezer não foram expulsos, e até hoje vivem no meio do povo de Efraim, mas são sujeitos a trabalhos forçados."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

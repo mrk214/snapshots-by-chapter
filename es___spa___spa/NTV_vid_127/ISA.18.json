@@ -1,1 +1,150 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.18","is_chapter":true,"previous":{"usfm":"ISA.17","human":"Isaías 17","canonical":true,"toc":true},"current":{"usfm":"ISA.18","human":"Isaías 18"},"next":{"usfm":"ISA.19","human":"Isaías 19","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Mensaje acerca de Etiopía"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Escucha, Etiopía, tierra de ondulantes velas","que está ubicada a la cabecera del Nilo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["que envía embajadores","río abajo en rápidos barcos.","¡Vayan, veloces mensajeros!","Llévenle un mensaje a un pueblo de gente alta con piel suave,","temido en todas partes","por sus conquistas y destrucción,","y cuya tierra está dividida por ríos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Todos ustedes, habitantes del mundo,","todos los que viven en la tierra:","cuando levante mi bandera de guerra, ¡miren!","Cuando toque el cuerno de carnero, ¡escuchen!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pues el Señor me ha dicho:","«Observaré en silencio desde el lugar donde habito,","tan silencioso como sube el calor en un día de verano,","o como se forma el rocío de la mañana durante la cosecha»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Aun antes que ustedes comiencen a atacar,","mientras sus planes maduran como uvas,","el Señor cortará sus brotes nuevos con podaderas;","cortará y descartará las ramas extendidas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Su poderoso ejército quedará muerto por los campos,","abandonado para los buitres de las montañas y los animales salvajes.","Los buitres despedazarán los cadáveres durante el verano","y los animales salvajes roerán los huesos durante el invierno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En aquel tiempo, el Señor de los Ejércitos Celestiales recibirá obsequios","de esa tierra dividida por ríos,","de ese pueblo de gente alta y de piel suave,","temido en todas partes por sus conquistas y destrucción.","Llevarán obsequios a Jerusalén,","donde habita el Señor de los Ejércitos Celestiales."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.17.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.19.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.18",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.17",
+      "human": "Isaías 17"
+    },
+    "current": {
+      "usfm": "ISA.18",
+      "human": "Isaías 18"
+    },
+    "next": {
+      "usfm": "ISA.19",
+      "human": "Isaías 19"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Mensaje acerca de Etiopía"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Escucha, Etiopía, tierra de ondulantes velas",
+          "que está ubicada a la cabecera del Nilo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "que envía embajadores",
+          "río abajo en rápidos barcos.",
+          "¡Vayan, veloces mensajeros!",
+          "Llévenle un mensaje a un pueblo de gente alta con piel suave,",
+          "temido en todas partes",
+          "por sus conquistas y destrucción,",
+          "y cuya tierra está dividida por ríos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Todos ustedes, habitantes del mundo,",
+          "todos los que viven en la tierra:",
+          "cuando levante mi bandera de guerra, ¡miren!",
+          "Cuando toque el cuerno de carnero, ¡escuchen!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pues el Señor me ha dicho:",
+          "«Observaré en silencio desde el lugar donde habito,",
+          "tan silencioso como sube el calor en un día de verano,",
+          "o como se forma el rocío de la mañana durante la cosecha»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Aun antes que ustedes comiencen a atacar,",
+          "mientras sus planes maduran como uvas,",
+          "el Señor cortará sus brotes nuevos con podaderas;",
+          "cortará y descartará las ramas extendidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Su poderoso ejército quedará muerto por los campos,",
+          "abandonado para los buitres de las montañas y los animales salvajes.",
+          "Los buitres despedazarán los cadáveres durante el verano",
+          "y los animales salvajes roerán los huesos durante el invierno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En aquel tiempo, el Señor de los Ejércitos Celestiales recibirá obsequios",
+          "de esa tierra dividida por ríos,",
+          "de ese pueblo de gente alta y de piel suave,",
+          "temido en todas partes por sus conquistas y destrucción.",
+          "Llevarán obsequios a Jerusalén,",
+          "donde habita el Señor de los Ejércitos Celestiales."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

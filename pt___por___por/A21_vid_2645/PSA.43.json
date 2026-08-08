@@ -1,1 +1,106 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.43","is_chapter":true,"previous":{"usfm":"PSA.42","human":"Salmos 42","canonical":true,"toc":true},"current":{"usfm":"PSA.43","human":"Salmos 43"},"next":{"usfm":"PSA.44","human":"Salmos 44","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Súplica por livramento"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ó Deus, faze-me justiça e defende minha causa contra uma nação ímpia; livra-me do homem falso e perverso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Pois tu és o Deus da minha fortaleza. Por que me rejeitaste? Por que ando lamentando por causa da opressão do inimigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Envia tua luz e tua verdade, para que me guiem e me levem ao teu santo monte e à tua habitação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Então irei ao altar de Deus, a Deus, que é minha grande alegria; e ao som da harpa te louvarei, ó Deus, meu Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Por que estás abatida, ó minha alma? E por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, minha salvação e meu Deus."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.42.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.44.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.43",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.42",
+      "human": "Salmos 42"
+    },
+    "current": {
+      "usfm": "PSA.43",
+      "human": "Salmos 43"
+    },
+    "next": {
+      "usfm": "PSA.44",
+      "human": "Salmos 44"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Súplica por livramento"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ó Deus, faze-me justiça e defende minha causa contra uma nação ímpia; livra-me do homem falso e perverso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Pois tu és o Deus da minha fortaleza. Por que me rejeitaste? Por que ando lamentando por causa da opressão do inimigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Envia tua luz e tua verdade, para que me guiem e me levem ao teu santo monte e à tua habitação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Então irei ao altar de Deus, a Deus, que é minha grande alegria; e ao som da harpa te louvarei, ó Deus, meu Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Por que estás abatida, ó minha alma? E por que te perturbas dentro de mim? Espera em Deus, pois ainda o louvarei, minha salvação e meu Deus."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

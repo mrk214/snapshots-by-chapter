@@ -1,1 +1,366 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.28","is_chapter":true,"previous":{"usfm":"JOB.27","human":"Job 27","canonical":true,"toc":true},"current":{"usfm":"JOB.28","human":"Job 28"},"next":{"usfm":"JOB.29","human":"Job 29","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Los tesoros de la tierra y la sabiduría"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ciertamente hay una mina para la plata,","y un lugar donde se refina el oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El hierro se saca de la tierra,","y de la piedra se funde el cobre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El hombre pone fin a las tinieblas,","y hasta los límites más remotos escudriña","la roca que está en lobreguez y densa oscuridad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Abren minas lejos de lo habitado,","olvidado por el pie;","suspendidos se balancean lejos de los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["De la tierra viene el alimento,","y abajo está revuelta como por fuego."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Sus piedras son yacimientos de zafiros,","y su polvo contiene oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Senda que ave de rapiña no conoce,","ni que ojo de halcón ha alcanzado a ver;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["las orgullosas bestias no la han pisado,","ni el fiero león ha pasado por ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Pone el hombre su mano en el pedernal;","vuelca de raíz los montes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Abre canales en las rocas,","y su ojo ve todo lo preciado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Detiene los arroyos para que no corran,","y saca a luz lo oculto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶Mas la sabiduría, ¿dónde se hallará?","¿Y dónde está el lugar de la inteligencia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["No conoce el hombre su valor,","ni se halla en la tierra de los vivientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["El abismo dice: «No está en mí»;","y el mar dice: «No está conmigo»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["No se puede dar oro puro por ella,","ni peso de plata por su precio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["No puede evaluarse con oro de Ofir,","ni con ónice precioso, ni con zafiro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["No la pueden igualar ni el oro ni el vidrio,","ni se puede cambiar por artículos de oro puro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Coral y cristal ni se mencionen;","la adquisición de la sabiduría es mejor que las perlas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["El topacio de Etiopía no puede igualarla,","ni con oro puro se puede evaluar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["¿De dónde, pues, viene la sabiduría?","¿Y dónde está el lugar de la inteligencia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Está escondida de los ojos de todos los vivientes,","y oculta a todas las aves del cielo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["El Abadón y la muerte dicen:","«Con nuestros oídos hemos oído su fama»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["¶Dios entiende el camino de ella,","y conoce su lugar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Porque Él contempla los confines de la tierra,","y ve todo bajo los cielos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Cuando Él dio peso al viento","y determinó las aguas por medida;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["cuando puso límite a la lluvia","y camino para el rayo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["entonces Él la vio y la declaró,","la estableció y también la escudriñó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Y dijo al hombre: «He aquí, el temor del Señor es sabiduría,","y apartarse del mal, inteligencia»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.27.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JOB.29.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.28",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.27",
+      "human": "Job 27"
+    },
+    "current": {
+      "usfm": "JOB.28",
+      "human": "Job 28"
+    },
+    "next": {
+      "usfm": "JOB.29",
+      "human": "Job 29"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Los tesoros de la tierra y la sabiduría"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ciertamente hay una mina para la plata,",
+          "y un lugar donde se refina el oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El hierro se saca de la tierra,",
+          "y de la piedra se funde el cobre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El hombre pone fin a las tinieblas,",
+          "y hasta los límites más remotos escudriña",
+          "la roca que está en lobreguez y densa oscuridad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Abren minas lejos de lo habitado,",
+          "olvidado por el pie;",
+          "suspendidos se balancean lejos de los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "De la tierra viene el alimento,",
+          "y abajo está revuelta como por fuego."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Sus piedras son yacimientos de zafiros,",
+          "y su polvo contiene oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Senda que ave de rapiña no conoce,",
+          "ni que ojo de halcón ha alcanzado a ver;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "las orgullosas bestias no la han pisado,",
+          "ni el fiero león ha pasado por ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Pone el hombre su mano en el pedernal;",
+          "vuelca de raíz los montes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Abre canales en las rocas,",
+          "y su ojo ve todo lo preciado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Detiene los arroyos para que no corran,",
+          "y saca a luz lo oculto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶Mas la sabiduría, ¿dónde se hallará?",
+          "¿Y dónde está el lugar de la inteligencia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "No conoce el hombre su valor,",
+          "ni se halla en la tierra de los vivientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "El abismo dice: «No está en mí»;",
+          "y el mar dice: «No está conmigo»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "No se puede dar oro puro por ella,",
+          "ni peso de plata por su precio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "No puede evaluarse con oro de Ofir,",
+          "ni con ónice precioso, ni con zafiro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "No la pueden igualar ni el oro ni el vidrio,",
+          "ni se puede cambiar por artículos de oro puro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Coral y cristal ni se mencionen;",
+          "la adquisición de la sabiduría es mejor que las perlas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "El topacio de Etiopía no puede igualarla,",
+          "ni con oro puro se puede evaluar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "¿De dónde, pues, viene la sabiduría?",
+          "¿Y dónde está el lugar de la inteligencia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Está escondida de los ojos de todos los vivientes,",
+          "y oculta a todas las aves del cielo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "El Abadón y la muerte dicen:",
+          "«Con nuestros oídos hemos oído su fama»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "¶Dios entiende el camino de ella,",
+          "y conoce su lugar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Porque Él contempla los confines de la tierra,",
+          "y ve todo bajo los cielos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Cuando Él dio peso al viento",
+          "y determinó las aguas por medida;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "cuando puso límite a la lluvia",
+          "y camino para el rayo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "entonces Él la vio y la declaró,",
+          "la estableció y también la escudriñó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Y dijo al hombre: «He aquí, el temor del Señor es sabiduría,",
+          "y apartarse del mal, inteligencia»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

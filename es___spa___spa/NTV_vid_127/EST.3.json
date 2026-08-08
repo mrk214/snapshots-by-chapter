@@ -1,1 +1,206 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.3","is_chapter":true,"previous":{"usfm":"EST.2","human":"Ester 2","canonical":true,"toc":true},"current":{"usfm":"EST.3","human":"Ester 3"},"next":{"usfm":"EST.4","human":"Ester 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El complot de Amán contra los judíos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Tiempo después, el rey Jerjes ascendió a Amán, hijo de Hamedata el agagueo, lo puso por encima de todos los demás nobles y lo convirtió en el funcionario más poderoso del imperio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Todos los funcionarios del rey se inclinaban ante Amán en señal de respeto cada vez que él pasaba porque el rey lo había ordenado; pero Mardoqueo se negó a inclinarse ante él o a rendirle homenaje."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Entonces los funcionarios del palacio que estaban a la puerta del rey le preguntaron a Mardoqueo: «¿Por qué desobedeces la orden del rey?»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Todos los días le hablaban de lo mismo, pero aun así él se negaba a cumplir la orden. Entonces le informaron a Amán para saber si él toleraría la conducta de Mardoqueo, ya que Mardoqueo les había dicho que era judío."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Cuando Amán vio que Mardoqueo no se inclinaba ante él ni le rendía homenaje, se llenó de furia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Como se había enterado de la nacionalidad de Mardoqueo, decidió que no bastaba con matar solamente a él. Entonces, buscó la forma de destruir a todos los judíos a lo largo y ancho del imperio de Jerjes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Así que, en el mes de abril, durante el año doce del reinado de Jerjes, echaron el plan a suertes en presencia de Amán (las suertes se llamaban purim) a fin de determinar cuál era el mejor día y mes para llevar a cabo el plan. Se escogió el día 7 de marzo, casi un año después."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Luego Amán se acercó al rey Jerjes y le dijo: «Hay cierta raza dispersada por todas las provincias del imperio que se mantiene aislada de todas las demás. Tienen leyes diferentes de los demás pueblos y se niegan a obedecer las leyes del rey. Por lo tanto, no conviene a los intereses del rey que ese pueblo siga con vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Si al rey le agrada, emita un decreto para destruirlos, y yo donaré diez mil bolsas grandes de plata a los administradores del imperio para que los depositen en la tesorería del reino»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El rey estuvo de acuerdo y, para confirmar su decisión, se quitó del dedo el anillo con su sello oficial y se lo entregó a Amán, hijo de Hamedata el agagueo, el enemigo de los judíos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El rey dijo: «Tanto el dinero como el pueblo son tuyos para que hagas con ellos lo que mejor te parezca»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Así que, el 17 de abril, citaron a los secretarios del rey, y se escribió un decreto tal como lo dictó Amán. Lo enviaron a los funcionarios del rey de más alta posición, a los gobernadores y a los nobles de cada provincia en sus propios sistemas de escritura y en sus propios idiomas. El decreto se redactó en nombre del rey Jerjes y fue sellado con el anillo del rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Se enviaron comunicados a todas las provincias del imperio mediante mensajeros veloces, con orden de matar, masacrar y aniquilar a todos los judíos —jóvenes y ancianos, incluso las mujeres y los niños— en un solo día. El plan estaba programado para el 7 de marzo del año siguiente. Las pertenencias de los judíos serían entregadas a los que los mataran."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Una copia del decreto debía emitirse como ley en cada provincia y proclamarse a todos los pueblos, a fin de que estuvieran preparados para cumplir con su deber el día señalado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Por orden del rey, se despachó el decreto mediante mensajeros veloces, y también se proclamó en la fortaleza de Susa. Luego el rey y Amán se sentaron a beber, pero la ciudad de Susa entró en confusión."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EST.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EST.4.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.2",
+      "human": "Ester 2"
+    },
+    "current": {
+      "usfm": "EST.3",
+      "human": "Ester 3"
+    },
+    "next": {
+      "usfm": "EST.4",
+      "human": "Ester 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El complot de Amán contra los judíos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Tiempo después, el rey Jerjes ascendió a Amán, hijo de Hamedata el agagueo, lo puso por encima de todos los demás nobles y lo convirtió en el funcionario más poderoso del imperio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Todos los funcionarios del rey se inclinaban ante Amán en señal de respeto cada vez que él pasaba porque el rey lo había ordenado; pero Mardoqueo se negó a inclinarse ante él o a rendirle homenaje."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Entonces los funcionarios del palacio que estaban a la puerta del rey le preguntaron a Mardoqueo: «¿Por qué desobedeces la orden del rey?»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Todos los días le hablaban de lo mismo, pero aun así él se negaba a cumplir la orden. Entonces le informaron a Amán para saber si él toleraría la conducta de Mardoqueo, ya que Mardoqueo les había dicho que era judío."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Cuando Amán vio que Mardoqueo no se inclinaba ante él ni le rendía homenaje, se llenó de furia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Como se había enterado de la nacionalidad de Mardoqueo, decidió que no bastaba con matar solamente a él. Entonces, buscó la forma de destruir a todos los judíos a lo largo y ancho del imperio de Jerjes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Así que, en el mes de abril, durante el año doce del reinado de Jerjes, echaron el plan a suertes en presencia de Amán (las suertes se llamaban purim) a fin de determinar cuál era el mejor día y mes para llevar a cabo el plan. Se escogió el día 7 de marzo, casi un año después."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Luego Amán se acercó al rey Jerjes y le dijo: «Hay cierta raza dispersada por todas las provincias del imperio que se mantiene aislada de todas las demás. Tienen leyes diferentes de los demás pueblos y se niegan a obedecer las leyes del rey. Por lo tanto, no conviene a los intereses del rey que ese pueblo siga con vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Si al rey le agrada, emita un decreto para destruirlos, y yo donaré diez mil bolsas grandes de plata a los administradores del imperio para que los depositen en la tesorería del reino»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El rey estuvo de acuerdo y, para confirmar su decisión, se quitó del dedo el anillo con su sello oficial y se lo entregó a Amán, hijo de Hamedata el agagueo, el enemigo de los judíos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El rey dijo: «Tanto el dinero como el pueblo son tuyos para que hagas con ellos lo que mejor te parezca»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Así que, el 17 de abril, citaron a los secretarios del rey, y se escribió un decreto tal como lo dictó Amán. Lo enviaron a los funcionarios del rey de más alta posición, a los gobernadores y a los nobles de cada provincia en sus propios sistemas de escritura y en sus propios idiomas. El decreto se redactó en nombre del rey Jerjes y fue sellado con el anillo del rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Se enviaron comunicados a todas las provincias del imperio mediante mensajeros veloces, con orden de matar, masacrar y aniquilar a todos los judíos —jóvenes y ancianos, incluso las mujeres y los niños— en un solo día. El plan estaba programado para el 7 de marzo del año siguiente. Las pertenencias de los judíos serían entregadas a los que los mataran."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Una copia del decreto debía emitirse como ley en cada provincia y proclamarse a todos los pueblos, a fin de que estuvieran preparados para cumplir con su deber el día señalado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Por orden del rey, se despachó el decreto mediante mensajeros veloces, y también se proclamó en la fortaleza de Susa. Luego el rey y Amán se sentaron a beber, pero la ciudad de Susa entró en confusión."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

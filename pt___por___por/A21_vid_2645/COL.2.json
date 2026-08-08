@@ -1,1 +1,278 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"COL","name":"Colossenses"},"chapter":{"chapter_usfm":"COL.2","is_chapter":true,"previous":{"usfm":"COL.1","human":"Colossenses 1","canonical":true,"toc":true},"current":{"usfm":"COL.2","human":"Colossenses 2"},"next":{"usfm":"COL.3","human":"Colossenses 3","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Pois quero que saibais como é grande a luta que enfrento por vós, pelos que estão em Laodiceia e pelos que ainda não me viram em pessoa,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["para que o coração deles seja animado, estando vós unidos em amor e enriquecidos da plenitude do entendimento para o pleno conhecimento do mistério de Deus, Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["em quem estão ocultos todos os tesouros da sabedoria e da ciência."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Digo isso para que ninguém vos engane com palavras capciosas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Pois ainda que meu corpo esteja ausente, estou convosco em espírito, alegrando-me, ao ver a vossa ordem e a firmeza da vossa fé em Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Portanto, assim como recebestes Cristo Jesus, o Senhor, também andai nele,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["arraigados e edificados nele e confirmados na fé, como fostes ensinados, sempre cheios de ações de graças."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Tende cuidado para que ninguém vos tome por presa, por meio de filosofias e sutilezas vazias, segundo a tradição dos homens, conforme os espíritos elementares do mundo, e não de acordo com Cristo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["pois nele habita corporalmente toda a plenitude da divindade,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["e nele, a cabeça de todo principado e poder, tendes a vossa plenitude."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Nele também fostes circuncidados com a circuncisão que não é feita por mãos humanas, o despojar da carne pecaminosa, isto é, a circuncisão de Cristo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["sepultados com ele no batismo, com quem também fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dentre os mortos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["E a vós, quando ainda estáveis mortos nos vossos pecados e na incircuncisão da vossa carne, Deus vos deu vida juntamente com ele, perdoando todos os nossos pecados;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["e, apagando a escrita de dívida, que nos era contrária e constava contra nós em seus mandamentos, removeu-a do nosso meio, cravando‑a na cruz;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["e, tendo despojado os principados e poderes, os expôs em público e na mesma cruz triunfou sobre eles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Assim, ninguém vos julgue pelo comer, ou pelo beber, ou por causa de dias de festa, ou de lua nova, ou de sábados,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["os quais são sombras das coisas que haveriam de vir; mas a realidade é Cristo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Ninguém seja árbitro contra vós, fingindo humildade ou culto aos anjos, baseando-se em coisas que tenha visto, inutilmente arrogante em seu conhecimento carnal,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["e não retendo a Cabeça, com a qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai se desenvolvendo segundo o crescimento concedido por Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Visto que morrestes com Cristo para os espíritos elementares do mundo, por que vos sujeitais ainda a mandamentos como se vivêsseis no mundo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["tais como não toques, não proves, não manuseies?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Todas essas coisas desaparecerão com o uso, pois são preceitos e doutrinas dos homens."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Na verdade, esses mandamentos têm aparência de sabedoria em falsa devoção, falsa humildade e severidade para com o corpo, mas não têm valor algum no combate aos desejos da carne."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/COL.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/COL.3.json"
+  },
+  "book": {
+    "book_usfm": "COL",
+    "name": "Colossenses"
+  },
+  "chapter": {
+    "chapter_usfm": "COL.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "COL.1",
+      "human": "Colossenses 1"
+    },
+    "current": {
+      "usfm": "COL.2",
+      "human": "Colossenses 2"
+    },
+    "next": {
+      "usfm": "COL.3",
+      "human": "Colossenses 3"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Pois quero que saibais como é grande a luta que enfrento por vós, pelos que estão em Laodiceia e pelos que ainda não me viram em pessoa,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "para que o coração deles seja animado, estando vós unidos em amor e enriquecidos da plenitude do entendimento para o pleno conhecimento do mistério de Deus, Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "em quem estão ocultos todos os tesouros da sabedoria e da ciência."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Digo isso para que ninguém vos engane com palavras capciosas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Pois ainda que meu corpo esteja ausente, estou convosco em espírito, alegrando-me, ao ver a vossa ordem e a firmeza da vossa fé em Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Portanto, assim como recebestes Cristo Jesus, o Senhor, também andai nele,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "arraigados e edificados nele e confirmados na fé, como fostes ensinados, sempre cheios de ações de graças."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Tende cuidado para que ninguém vos tome por presa, por meio de filosofias e sutilezas vazias, segundo a tradição dos homens, conforme os espíritos elementares do mundo, e não de acordo com Cristo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "pois nele habita corporalmente toda a plenitude da divindade,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "e nele, a cabeça de todo principado e poder, tendes a vossa plenitude."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Nele também fostes circuncidados com a circuncisão que não é feita por mãos humanas, o despojar da carne pecaminosa, isto é, a circuncisão de Cristo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "sepultados com ele no batismo, com quem também fostes ressuscitados pela fé no poder de Deus, que o ressuscitou dentre os mortos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "E a vós, quando ainda estáveis mortos nos vossos pecados e na incircuncisão da vossa carne, Deus vos deu vida juntamente com ele, perdoando todos os nossos pecados;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "e, apagando a escrita de dívida, que nos era contrária e constava contra nós em seus mandamentos, removeu-a do nosso meio, cravando‑a na cruz;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "e, tendo despojado os principados e poderes, os expôs em público e na mesma cruz triunfou sobre eles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Assim, ninguém vos julgue pelo comer, ou pelo beber, ou por causa de dias de festa, ou de lua nova, ou de sábados,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "os quais são sombras das coisas que haveriam de vir; mas a realidade é Cristo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Ninguém seja árbitro contra vós, fingindo humildade ou culto aos anjos, baseando-se em coisas que tenha visto, inutilmente arrogante em seu conhecimento carnal,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "e não retendo a Cabeça, com a qual todo o corpo, suprido e organizado pelas juntas e ligamentos, vai se desenvolvendo segundo o crescimento concedido por Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Visto que morrestes com Cristo para os espíritos elementares do mundo, por que vos sujeitais ainda a mandamentos como se vivêsseis no mundo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "tais como não toques, não proves, não manuseies?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Todas essas coisas desaparecerão com o uso, pois são preceitos e doutrinas dos homens."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Na verdade, esses mandamentos têm aparência de sabedoria em falsa devoção, falsa humildade e severidade para com o corpo, mas não têm valor algum no combate aos desejos da carne."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

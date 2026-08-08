@@ -1,1 +1,157 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.122","is_chapter":true,"previous":{"usfm":"PSA.121","human":"Salmos 121","canonical":true,"toc":true},"current":{"usfm":"PSA.122","human":"Salmos 122"},"next":{"usfm":"PSA.123","human":"Salmos 123","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico para los peregrinos que suben a Jerusalén. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Me alegré cuando me dijeron:","«Vayamos a la casa del Señor»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Y ahora, aquí estamos,","de pie dentro de tus puertas, oh Jerusalén."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Jerusalén es una ciudad bien construida;","sus murallas compactas son impenetrables."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Todas las tribus de Israel —que son el pueblo del Señor—","peregrinan hasta aquí.","Vienen a dar gracias al nombre del Señor,","como la ley requiere de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Aquí están los tronos donde se emiten los juicios,","los tronos de la dinastía de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Oren por la paz de Jerusalén;","que todos los que aman a esta ciudad prosperen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Oh Jerusalén, que haya paz dentro de tus murallas","y prosperidad en tus palacios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Por amor a mi familia y a mis amigos, diré:","«Que tengas paz»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Por amor a la casa del Señor nuestro Dios,","buscaré lo mejor para ti, oh Jerusalén."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.121.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.123.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.122",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "current": {
+      "usfm": "PSA.122",
+      "human": "Salmos 122"
+    },
+    "next": {
+      "usfm": "PSA.123",
+      "human": "Salmos 123"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico para los peregrinos que suben a Jerusalén. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Me alegré cuando me dijeron:",
+          "«Vayamos a la casa del Señor»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Y ahora, aquí estamos,",
+          "de pie dentro de tus puertas, oh Jerusalén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Jerusalén es una ciudad bien construida;",
+          "sus murallas compactas son impenetrables."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Todas las tribus de Israel —que son el pueblo del Señor—",
+          "peregrinan hasta aquí.",
+          "Vienen a dar gracias al nombre del Señor,",
+          "como la ley requiere de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Aquí están los tronos donde se emiten los juicios,",
+          "los tronos de la dinastía de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Oren por la paz de Jerusalén;",
+          "que todos los que aman a esta ciudad prosperen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Oh Jerusalén, que haya paz dentro de tus murallas",
+          "y prosperidad en tus palacios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Por amor a mi familia y a mis amigos, diré:",
+          "«Que tengas paz»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Por amor a la casa del Señor nuestro Dios,",
+          "buscaré lo mejor para ti, oh Jerusalén."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

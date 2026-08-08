@@ -1,1 +1,376 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.5","is_chapter":true,"previous":{"usfm":"GEN.4","human":"Genesis 4","canonical":true,"toc":true},"current":{"usfm":"GEN.5","human":"Genesis 5"},"next":{"usfm":"GEN.6","human":"Genesis 6","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Adam’s Descendants to Noah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["This is the book of the generations of Adam. When God created man, he made him in the likeness of God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Male and female he created them, and he blessed them and named them Man when they were created."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Thus all the days that Adam lived were 930 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["When Seth had lived 105 years, he fathered Enosh."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Seth lived after he fathered Enosh 807 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Thus all the days of Seth were 912 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["When Enosh had lived 90 years, he fathered Kenan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Enosh lived after he fathered Kenan 815 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Thus all the days of Enosh were 905 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["When Kenan had lived 70 years, he fathered Mahalalel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Kenan lived after he fathered Mahalalel 840 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Thus all the days of Kenan were 910 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["When Mahalalel had lived 65 years, he fathered Jared."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Mahalalel lived after he fathered Jared 830 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Thus all the days of Mahalalel were 895 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["When Jared had lived 162 years, he fathered Enoch."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Jared lived after he fathered Enoch 800 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Thus all the days of Jared were 962 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["When Enoch had lived 65 years, he fathered Methuselah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Thus all the days of Enoch were 365 years."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Enoch walked with God, and he was not, for God took him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["When Methuselah had lived 187 years, he fathered Lamech."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Methuselah lived after he fathered Lamech 782 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Thus all the days of Methuselah were 969 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["When Lamech had lived 182 years, he fathered a son"],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["and called his name Noah, saying, “Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["Lamech lived after he fathered Noah 595 years and had other sons and daughters."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["Thus all the days of Lamech were 777 years, and he died."],"rlw_lines":[]},{"type":"verse","verse_numbers":[32],"lines":["After Noah was 500 years old, Noah fathered Shem, Ham, and Japheth."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.6.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.4",
+      "human": "Genesis 4"
+    },
+    "current": {
+      "usfm": "GEN.5",
+      "human": "Genesis 5"
+    },
+    "next": {
+      "usfm": "GEN.6",
+      "human": "Genesis 6"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Adam’s Descendants to Noah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "This is the book of the generations of Adam. When God created man, he made him in the likeness of God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Male and female he created them, and he blessed them and named them Man when they were created."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "When Adam had lived 130 years, he fathered a son in his own likeness, after his image, and named him Seth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The days of Adam after he fathered Seth were 800 years; and he had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Thus all the days that Adam lived were 930 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "When Seth had lived 105 years, he fathered Enosh."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Seth lived after he fathered Enosh 807 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Thus all the days of Seth were 912 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "When Enosh had lived 90 years, he fathered Kenan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Enosh lived after he fathered Kenan 815 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Thus all the days of Enosh were 905 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "When Kenan had lived 70 years, he fathered Mahalalel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Kenan lived after he fathered Mahalalel 840 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Thus all the days of Kenan were 910 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "When Mahalalel had lived 65 years, he fathered Jared."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Mahalalel lived after he fathered Jared 830 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Thus all the days of Mahalalel were 895 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "When Jared had lived 162 years, he fathered Enoch."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Jared lived after he fathered Enoch 800 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Thus all the days of Jared were 962 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "When Enoch had lived 65 years, he fathered Methuselah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Enoch walked with God after he fathered Methuselah 300 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Thus all the days of Enoch were 365 years."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Enoch walked with God, and he was not, for God took him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "When Methuselah had lived 187 years, he fathered Lamech."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Methuselah lived after he fathered Lamech 782 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Thus all the days of Methuselah were 969 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "When Lamech had lived 182 years, he fathered a son"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "and called his name Noah, saying, “Out of the ground that the Lord has cursed, this one shall bring us relief from our work and from the painful toil of our hands.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "Lamech lived after he fathered Noah 595 years and had other sons and daughters."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "Thus all the days of Lamech were 777 years, and he died."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          32
+        ],
+        "lines": [
+          "After Noah was 500 years old, Noah fathered Shem, Ham, and Japheth."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

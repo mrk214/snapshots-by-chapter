@@ -1,1 +1,277 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.116","is_chapter":true,"previous":{"usfm":"PSA.115","human":"Salmo 115","canonical":true,"toc":true},"current":{"usfm":"PSA.116","human":"Salmo 116"},"next":{"usfm":"PSA.117","human":"Salmo 117","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 116"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Acción de gracias personal"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Amo al Señor, porque oye","Mi voz y mis súplicas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Porque a mí ha inclinado Su oído;","Por tanto le invocaré mientras yo viva."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Los lazos de la muerte me rodearon,","Y los terrores del Seol vinieron sobre mí;","Angustia y tristeza encontré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Invoqué entonces el nombre del Señor, diciendo:","«Te ruego, oh Señor: salva mi vida»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¶Clemente y justo es el Señor;","Sí, compasivo es nuestro Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["El Señor guarda a los sencillos;","Estaba yo postrado y me salvó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Vuelve, alma mía, a tu reposo,","Porque el Señor te ha colmado de bienes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Pues Tú has rescatado mi alma de la muerte,","Mis ojos de lágrimas,","Mis pies de tropezar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Andaré delante del Señor","En la tierra de los vivientes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Yo creía, aun cuando decía:","«Estoy muy afligido»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Dije alarmado:","«Todo hombre es mentiroso»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["¶¿Qué daré al Señor","Por todos Sus beneficios para conmigo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Alzaré la copa de la salvación,","E invocaré el nombre del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Cumpliré mis votos al Señor,","Sí, en presencia de todo Su pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Estimada a los ojos del Señor","Es la muerte de Sus santos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¡Ah, Señor! Ciertamente yo soy Tu siervo,","Siervo Tuyo soy, hijo de Tu sierva;","Tú desataste mis ataduras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Te ofreceré sacrificio de acción de gracias,","E invocaré el nombre del Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Al Señor cumpliré mis votos,","Sí, en presencia de todo Su pueblo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["En los atrios de la casa del Señor,","En medio de ti, oh Jerusalén.","¡Aleluya!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.115.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.117.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.116",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.115",
+      "human": "Salmo 115"
+    },
+    "current": {
+      "usfm": "PSA.116",
+      "human": "Salmo 116"
+    },
+    "next": {
+      "usfm": "PSA.117",
+      "human": "Salmo 117"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 116"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Acción de gracias personal"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Amo al Señor, porque oye",
+          "Mi voz y mis súplicas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Porque a mí ha inclinado Su oído;",
+          "Por tanto le invocaré mientras yo viva."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Los lazos de la muerte me rodearon,",
+          "Y los terrores del Seol vinieron sobre mí;",
+          "Angustia y tristeza encontré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Invoqué entonces el nombre del Señor, diciendo:",
+          "«Te ruego, oh Señor: salva mi vida»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¶Clemente y justo es el Señor;",
+          "Sí, compasivo es nuestro Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "El Señor guarda a los sencillos;",
+          "Estaba yo postrado y me salvó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Vuelve, alma mía, a tu reposo,",
+          "Porque el Señor te ha colmado de bienes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Pues Tú has rescatado mi alma de la muerte,",
+          "Mis ojos de lágrimas,",
+          "Mis pies de tropezar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Andaré delante del Señor",
+          "En la tierra de los vivientes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Yo creía, aun cuando decía:",
+          "«Estoy muy afligido»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Dije alarmado:",
+          "«Todo hombre es mentiroso»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "¶¿Qué daré al Señor",
+          "Por todos Sus beneficios para conmigo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Alzaré la copa de la salvación,",
+          "E invocaré el nombre del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Cumpliré mis votos al Señor,",
+          "Sí, en presencia de todo Su pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Estimada a los ojos del Señor",
+          "Es la muerte de Sus santos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¡Ah, Señor! Ciertamente yo soy Tu siervo,",
+          "Siervo Tuyo soy, hijo de Tu sierva;",
+          "Tú desataste mis ataduras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Te ofreceré sacrificio de acción de gracias,",
+          "E invocaré el nombre del Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Al Señor cumpliré mis votos,",
+          "Sí, en presencia de todo Su pueblo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "En los atrios de la casa del Señor,",
+          "En medio de ti, oh Jerusalén.",
+          "¡Aleluya!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

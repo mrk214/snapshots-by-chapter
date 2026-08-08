@@ -1,1 +1,136 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.114","is_chapter":true,"previous":{"usfm":"PSA.113","human":"Psalms 113","canonical":true,"toc":true},"current":{"usfm":"PSA.114","human":"Psalms 114"},"next":{"usfm":"PSA.115","human":"Psalms 115","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["When Israel came out of Egypt,","Jacob from a people of foreign tongue,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Judah became God’s sanctuary,","Israel his dominion."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["The sea looked and fled,","the Jordan turned back;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["the mountains leaped like rams,","the hills like lambs."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Why was it, sea, that you fled?","Why, Jordan, did you turn back?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Why, mountains, did you leap like rams,","you hills, like lambs?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Tremble, earth, at the presence of the Lord,","at the presence of the God of Jacob,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["who turned the rock into a pool,","the hard rock into springs of water."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.113.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.115.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.114",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.113",
+      "human": "Psalms 113"
+    },
+    "current": {
+      "usfm": "PSA.114",
+      "human": "Psalms 114"
+    },
+    "next": {
+      "usfm": "PSA.115",
+      "human": "Psalms 115"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "When Israel came out of Egypt,",
+          "Jacob from a people of foreign tongue,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Judah became God’s sanctuary,",
+          "Israel his dominion."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "The sea looked and fled,",
+          "the Jordan turned back;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "the mountains leaped like rams,",
+          "the hills like lambs."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Why was it, sea, that you fled?",
+          "Why, Jordan, did you turn back?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Why, mountains, did you leap like rams,",
+          "you hills, like lambs?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Tremble, earth, at the presence of the Lord,",
+          "at the presence of the God of Jacob,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "who turned the rock into a pool,",
+          "the hard rock into springs of water."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

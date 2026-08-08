@@ -1,1 +1,243 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"AMO","name":"Amós"},"chapter":{"chapter_usfm":"AMO.3","is_chapter":true,"previous":{"usfm":"AMO.2","human":"Amós 2","canonical":true,"toc":true},"current":{"usfm":"AMO.3","human":"Amós 3"},"next":{"usfm":"AMO.4","human":"Amós 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["La tarea del profeta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Israelitas, oigan lo que dice el Señor al pueblo que sacó de Egipto:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Solo a ustedes he escogido","de entre todos los pueblos de la tierra.","Por eso habré de pedirles cuentas","de todas las maldades que han cometido.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Si dos caminan juntos, es porque están de acuerdo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["si el león ruge en la selva, es porque ha hecho una presa;","si el cachorro gruñe en la cueva, es porque ha capturado algo;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["si un pájaro cae al suelo, es porque había una trampa;","si la trampa salta del suelo, es porque algo ha atrapado;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["si la trompeta suena en la ciudad, la gente se alarma;","si algo malo pasa en la ciudad, es porque el Señor lo ha mandado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Nunca hace nada el Señor","sin revelarlo a sus siervos los profetas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¿Quién no tiembla de miedo, si el león ruge?","¿Quién no habla en nombre del Señor, si él lo ordena?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Destrucción de Samaria"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Proclamen ustedes en los palacios de Asdod","y en los palacios de Egipto:","«Vengan a los montes de Samaria;","vean los desórdenes que hay en ella","y la violencia que allí se sufre.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El Señor afirma:","«Ellos no saben actuar con rectitud;","guardan en sus palacios lo que robaron con violencia.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Por tanto, así dice Dios el Señor:","«Un enemigo rodeará el país,","derribará tu fortaleza","y saqueará tus palacios.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Así dice el Señor:","«Como el pastor salva de la boca del león","dos patas o la punta de una oreja,","así escaparán los israelitas","que viven en Samaria,","esos que se recuestan en lujosos divanes de Damasco.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El Señor, el Dios todopoderoso, afirma:","«Oigan ustedes y den testimonio contra el pueblo de Jacob,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["pues el día en que yo pida cuentas a Israel por sus pecados,","destruiré los altares de Betel;","los cuernos del altar serán cortados","y caerán a tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Destruiré las casas de invierno y de verano,","pondré fin a las casas de marfil","y arruinaré los grandes palacios.»","El Señor lo afirma."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/AMO.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/AMO.4.json"
+  },
+  "book": {
+    "book_usfm": "AMO",
+    "name": "Amós"
+  },
+  "chapter": {
+    "chapter_usfm": "AMO.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
+    },
+    "current": {
+      "usfm": "AMO.3",
+      "human": "Amós 3"
+    },
+    "next": {
+      "usfm": "AMO.4",
+      "human": "Amós 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La tarea del profeta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Israelitas, oigan lo que dice el Señor al pueblo que sacó de Egipto:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Solo a ustedes he escogido",
+          "de entre todos los pueblos de la tierra.",
+          "Por eso habré de pedirles cuentas",
+          "de todas las maldades que han cometido.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Si dos caminan juntos, es porque están de acuerdo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "si el león ruge en la selva, es porque ha hecho una presa;",
+          "si el cachorro gruñe en la cueva, es porque ha capturado algo;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "si un pájaro cae al suelo, es porque había una trampa;",
+          "si la trampa salta del suelo, es porque algo ha atrapado;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "si la trompeta suena en la ciudad, la gente se alarma;",
+          "si algo malo pasa en la ciudad, es porque el Señor lo ha mandado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Nunca hace nada el Señor",
+          "sin revelarlo a sus siervos los profetas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¿Quién no tiembla de miedo, si el león ruge?",
+          "¿Quién no habla en nombre del Señor, si él lo ordena?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Destrucción de Samaria"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Proclamen ustedes en los palacios de Asdod",
+          "y en los palacios de Egipto:",
+          "«Vengan a los montes de Samaria;",
+          "vean los desórdenes que hay en ella",
+          "y la violencia que allí se sufre.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El Señor afirma:",
+          "«Ellos no saben actuar con rectitud;",
+          "guardan en sus palacios lo que robaron con violencia.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Por tanto, así dice Dios el Señor:",
+          "«Un enemigo rodeará el país,",
+          "derribará tu fortaleza",
+          "y saqueará tus palacios.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Así dice el Señor:",
+          "«Como el pastor salva de la boca del león",
+          "dos patas o la punta de una oreja,",
+          "así escaparán los israelitas",
+          "que viven en Samaria,",
+          "esos que se recuestan en lujosos divanes de Damasco.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El Señor, el Dios todopoderoso, afirma:",
+          "«Oigan ustedes y den testimonio contra el pueblo de Jacob,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "pues el día en que yo pida cuentas a Israel por sus pecados,",
+          "destruiré los altares de Betel;",
+          "los cuernos del altar serán cortados",
+          "y caerán a tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Destruiré las casas de invierno y de verano,",
+          "pondré fin a las casas de marfil",
+          "y arruinaré los grandes palacios.»",
+          "El Señor lo afirma."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

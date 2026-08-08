@@ -1,1 +1,365 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"ISA","name":"Isaiah"},"chapter":{"chapter_usfm":"ISA.3","is_chapter":true,"previous":{"usfm":"ISA.2","human":"Isaiah 2","canonical":true,"toc":true},"current":{"usfm":"ISA.3","human":"Isaiah 3"},"next":{"usfm":"ISA.4","human":"Isaiah 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Judgment on Jerusalem and Judah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["See now, the Lord,","the Lord Almighty,","is about to take from Jerusalem and Judah","both supply and support:","all supplies of food and all supplies of water,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["the hero and the warrior,","the judge and the prophet,","the diviner and the elder,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["the captain of fifty and the man of rank,","the counselor, skilled craftsman and clever enchanter."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“I will make mere youths their officials;","children will rule over them.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["People will oppress each other—","man against man, neighbor against neighbor.","The young will rise up against the old,","the nobody against the honored."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A man will seize one of his brothers","in his father’s house, and say,","“You have a cloak, you be our leader;","take charge of this heap of ruins!”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But in that day he will cry out,","“I have no remedy.","I have no food or clothing in my house;","do not make me the leader of the people.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Jerusalem staggers,","Judah is falling;","their words and deeds are against the Lord,","defying his glorious presence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["The look on their faces testifies against them;","they parade their sin like Sodom;","they do not hide it.","Woe to them!","They have brought disaster upon themselves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tell the righteous it will be well with them,","for they will enjoy the fruit of their deeds."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Woe to the wicked!","Disaster is upon them!","They will be paid back","for what their hands have done."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Youths oppress my people,","women rule over them.","My people, your guides lead you astray;","they turn you from the path."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The Lord takes his place in court;","he rises to judge the people."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The Lord enters into judgment","against the elders and leaders of his people:","“It is you who have ruined my vineyard;","the plunder from the poor is in your houses."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["What do you mean by crushing my people","and grinding the faces of the poor?”","declares the Lord, the Lord Almighty."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The Lord says,","“The women of Zion are haughty,","walking along with outstretched necks,","flirting with their eyes,","strutting along with swaying hips,","with ornaments jingling on their ankles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Therefore the Lord will bring sores on the heads of the women of Zion;","the Lord will make their scalps bald.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["the earrings and bracelets and veils,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["the headdresses and anklets and sashes, the perfume bottles and charms,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["the signet rings and nose rings,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["the fine robes and the capes and cloaks, the purses"],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["and mirrors, and the linen garments and tiaras and shawls."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Instead of fragrance there will be a stench;","instead of a sash, a rope;","instead of well-dressed hair, baldness;","instead of fine clothing, sackcloth;","instead of beauty, branding."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Your men will fall by the sword,","your warriors in battle."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["The gates of Zion will lament and mourn;","destitute, she will sit on the ground."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.4.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaiah"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.2",
+      "human": "Isaiah 2"
+    },
+    "current": {
+      "usfm": "ISA.3",
+      "human": "Isaiah 3"
+    },
+    "next": {
+      "usfm": "ISA.4",
+      "human": "Isaiah 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Judgment on Jerusalem and Judah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "See now, the Lord,",
+          "the Lord Almighty,",
+          "is about to take from Jerusalem and Judah",
+          "both supply and support:",
+          "all supplies of food and all supplies of water,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "the hero and the warrior,",
+          "the judge and the prophet,",
+          "the diviner and the elder,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "the captain of fifty and the man of rank,",
+          "the counselor, skilled craftsman and clever enchanter."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“I will make mere youths their officials;",
+          "children will rule over them.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "People will oppress each other—",
+          "man against man, neighbor against neighbor.",
+          "The young will rise up against the old,",
+          "the nobody against the honored."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A man will seize one of his brothers",
+          "in his father’s house, and say,",
+          "“You have a cloak, you be our leader;",
+          "take charge of this heap of ruins!”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But in that day he will cry out,",
+          "“I have no remedy.",
+          "I have no food or clothing in my house;",
+          "do not make me the leader of the people.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Jerusalem staggers,",
+          "Judah is falling;",
+          "their words and deeds are against the Lord,",
+          "defying his glorious presence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "The look on their faces testifies against them;",
+          "they parade their sin like Sodom;",
+          "they do not hide it.",
+          "Woe to them!",
+          "They have brought disaster upon themselves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tell the righteous it will be well with them,",
+          "for they will enjoy the fruit of their deeds."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Woe to the wicked!",
+          "Disaster is upon them!",
+          "They will be paid back",
+          "for what their hands have done."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Youths oppress my people,",
+          "women rule over them.",
+          "My people, your guides lead you astray;",
+          "they turn you from the path."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The Lord takes his place in court;",
+          "he rises to judge the people."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The Lord enters into judgment",
+          "against the elders and leaders of his people:",
+          "“It is you who have ruined my vineyard;",
+          "the plunder from the poor is in your houses."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "What do you mean by crushing my people",
+          "and grinding the faces of the poor?”",
+          "declares the Lord, the Lord Almighty."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The Lord says,",
+          "“The women of Zion are haughty,",
+          "walking along with outstretched necks,",
+          "flirting with their eyes,",
+          "strutting along with swaying hips,",
+          "with ornaments jingling on their ankles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Therefore the Lord will bring sores on the heads of the women of Zion;",
+          "the Lord will make their scalps bald.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "In that day the Lord will snatch away their finery: the bangles and headbands and crescent necklaces,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "the earrings and bracelets and veils,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "the headdresses and anklets and sashes, the perfume bottles and charms,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "the signet rings and nose rings,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "the fine robes and the capes and cloaks, the purses"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "and mirrors, and the linen garments and tiaras and shawls."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Instead of fragrance there will be a stench;",
+          "instead of a sash, a rope;",
+          "instead of well-dressed hair, baldness;",
+          "instead of fine clothing, sackcloth;",
+          "instead of beauty, branding."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Your men will fall by the sword,",
+          "your warriors in battle."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "The gates of Zion will lament and mourn;",
+          "destitute, she will sit on the ground."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

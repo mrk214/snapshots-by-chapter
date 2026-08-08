@@ -1,1 +1,137 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.53","is_chapter":true,"previous":{"usfm":"PSA.52","human":"Salmos 52","canonical":true,"toc":true},"current":{"usfm":"PSA.53","human":"Salmos 53"},"next":{"usfm":"PSA.54","human":"Salmos 54","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A corrupção do pecador e sua redenção"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Ao mestre de canto. Salmo didático de Davi, para cítara"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Diz o insensato no seu coração:","Não há Deus.","Corrompem-se e praticam iniquidade;","já não há quem faça o bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Do céu, olha Deus para os filhos dos homens,","para ver se há quem entenda,","se há quem busque a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Todos se extraviaram e juntamente se corromperam;","não há quem faça o bem, não há nem sequer um."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Acaso, não entendem os obreiros da iniquidade?","Esses, que devoram o meu povo como quem come pão?","Eles não invocam a Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Tomam-se de grande pavor,","onde não há a quem temer;","porque Deus dispersa os ossos daquele que te sitia;","tu os envergonhas, porque Deus os rejeita."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Quem me dera que de Sião viesse já o livramento de Israel!","Quando Deus restaurar a sorte do seu povo,","então, exultará Jacó, e Israel se alegrará."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.52.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.54.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.53",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.52",
+      "human": "Salmos 52"
+    },
+    "current": {
+      "usfm": "PSA.53",
+      "human": "Salmos 53"
+    },
+    "next": {
+      "usfm": "PSA.54",
+      "human": "Salmos 54"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A corrupção do pecador e sua redenção"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Ao mestre de canto. Salmo didático de Davi, para cítara"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Diz o insensato no seu coração:",
+          "Não há Deus.",
+          "Corrompem-se e praticam iniquidade;",
+          "já não há quem faça o bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Do céu, olha Deus para os filhos dos homens,",
+          "para ver se há quem entenda,",
+          "se há quem busque a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Todos se extraviaram e juntamente se corromperam;",
+          "não há quem faça o bem, não há nem sequer um."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Acaso, não entendem os obreiros da iniquidade?",
+          "Esses, que devoram o meu povo como quem come pão?",
+          "Eles não invocam a Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Tomam-se de grande pavor,",
+          "onde não há a quem temer;",
+          "porque Deus dispersa os ossos daquele que te sitia;",
+          "tu os envergonhas, porque Deus os rejeita."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Quem me dera que de Sião viesse já o livramento de Israel!",
+          "Quando Deus restaurar a sorte do seu povo,",
+          "então, exultará Jacó, e Israel se alegrará."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

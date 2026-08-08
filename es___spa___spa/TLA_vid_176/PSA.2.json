@@ -1,1 +1,196 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.2","is_chapter":true,"previous":{"usfm":"PSA.1","human":"Salmos 1","canonical":true,"toc":true},"current":{"usfm":"PSA.2","human":"Salmos 2"},"next":{"usfm":"PSA.3","human":"Salmos 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Dios y su rey"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1,2],"lines":["¿Por qué se rebelan contra Dios","las naciones y los pueblos?","¿Por qué estudian la manera","de luchar contra él y contra su rey?","¡Inútiles son los planes","de los reyes de este mundo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¡Quieren acabar con su poder!","¡Quieren librarse de su dominio!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero Dios desde su trono","se ríe y se burla de ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Luego se enoja y los reprende,","se enfurece y los asusta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los amenaza diciendo:","«Ya elegí al rey","que gobernará desde el monte Sión,","que es mi montaña santa»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Voy a dar a conocer","lo que Dios ha decidido.","Él me dijo:","«Tú eres mi hijo;","desde hoy soy tu padre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¡Pídeme lo que quieras!","Te daré como herencia las naciones;","¡todo el mundo será tuyo!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Gobernarás a las naciones","con mano de hierro;","¡las destrozarás","como a ollas de barro!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Ustedes los reyes,","pónganse a pensar;","déjense enseñar,","gobernantes de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Adoren a Dios con reverencia;","y con alegría ríndanle culto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Adoren a Dios,","para que no se enoje,","pues fácilmente se enfurece,","y podría quitarles la vida.","¡Dios bendice","a todos los que en él confían!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.3.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.1",
+      "human": "Salmos 1"
+    },
+    "current": {
+      "usfm": "PSA.2",
+      "human": "Salmos 2"
+    },
+    "next": {
+      "usfm": "PSA.3",
+      "human": "Salmos 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios y su rey"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1,
+          2
+        ],
+        "lines": [
+          "¿Por qué se rebelan contra Dios",
+          "las naciones y los pueblos?",
+          "¿Por qué estudian la manera",
+          "de luchar contra él y contra su rey?",
+          "¡Inútiles son los planes",
+          "de los reyes de este mundo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¡Quieren acabar con su poder!",
+          "¡Quieren librarse de su dominio!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero Dios desde su trono",
+          "se ríe y se burla de ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Luego se enoja y los reprende,",
+          "se enfurece y los asusta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los amenaza diciendo:",
+          "«Ya elegí al rey",
+          "que gobernará desde el monte Sión,",
+          "que es mi montaña santa»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Voy a dar a conocer",
+          "lo que Dios ha decidido.",
+          "Él me dijo:",
+          "«Tú eres mi hijo;",
+          "desde hoy soy tu padre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¡Pídeme lo que quieras!",
+          "Te daré como herencia las naciones;",
+          "¡todo el mundo será tuyo!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Gobernarás a las naciones",
+          "con mano de hierro;",
+          "¡las destrozarás",
+          "como a ollas de barro!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Ustedes los reyes,",
+          "pónganse a pensar;",
+          "déjense enseñar,",
+          "gobernantes de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Adoren a Dios con reverencia;",
+          "y con alegría ríndanle culto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Adoren a Dios,",
+          "para que no se enoje,",
+          "pues fácilmente se enfurece,",
+          "y podría quitarles la vida.",
+          "¡Dios bendice",
+          "a todos los que en él confían!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

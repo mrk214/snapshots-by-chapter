@@ -1,1 +1,120 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Psalm 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Psalm 128"},"next":{"usfm":"PSA.129","human":"Psalm 129","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Blessed is every one that feareth the LORD;","That walketh in his ways."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["For thou shalt eat the labour of thine hands:","Happy shalt thou be, and it shall be well with thee."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Thy wife shall be as a fruitful vine by the sides of thine house: Thy children like olive plants round about thy table."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Behold, that thus shall the man be blessed that feareth the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The LORD shall bless thee out of Zion:","And thou shalt see the good of Jerusalem all the days of thy life."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Yea, thou shalt see thy children's children,","And peace upon Israel."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Psalm 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Psalm 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Psalm 129"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Blessed is every one that feareth the LORD;",
+          "That walketh in his ways."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "For thou shalt eat the labour of thine hands:",
+          "Happy shalt thou be, and it shall be well with thee."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Thy wife shall be as a fruitful vine by the sides of thine house: Thy children like olive plants round about thy table."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Behold, that thus shall the man be blessed that feareth the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The LORD shall bless thee out of Zion:",
+          "And thou shalt see the good of Jerusalem all the days of thy life."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Yea, thou shalt see thy children's children,",
+          "And peace upon Israel."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

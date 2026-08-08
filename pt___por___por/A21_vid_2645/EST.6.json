@@ -1,1 +1,196 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.6","is_chapter":true,"previous":{"usfm":"EST.5","human":"Ester 5","canonical":true,"toc":true},"current":{"usfm":"EST.6","human":"Ester 6"},"next":{"usfm":"EST.7","human":"Ester 7","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["O rei ordena que Mardoqueu seja honrado"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Naquela mesma noite, o rei perdeu o sono. Então mandou trazer o livro de registro das crônicas, as quais foram lidas para o rei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["E achou-se escrito que Mardoqueu tinha denunciado Bigtã e Teres, dois dos oficiais do rei, que guardavam a porta e tinham conspirado para tirar a vida do rei Xerxes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["E o rei perguntou: Que honra e reconhecimento foram conferidos a Mardoqueu por isso? Os oficiais do rei que o serviam responderam: Não foi feito nada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Então o rei perguntou: Quem está no pátio? Hamã tinha acabado de entrar no pátio exterior do palácio real para falar com o rei e lhe pedir que se enforcasse Mardoqueu na forca que havia preparado para ele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["E os oficiais do rei lhe responderam: Quem está no pátio é Hamã. O rei ordenou que ele entrasse."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Quando Hamã entrou, o rei lhe perguntou: O que se deve fazer ao homem a quem o rei tem prazer de honrar? Então Hamã pensou consigo: A quem o rei teria prazer de honrar senão a mim?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por isso Hamã respondeu ao rei: Ao homem que o rei tem prazer de honrar"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["sejam trazidos trajes reais que o rei tenha usado e o cavalo que o rei costuma montar, e se ponha uma coroa real sobre sua cabeça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["E que os trajes e o cavalo sejam entregues a alguns dos príncipes mais nobres do rei, e que vistam os trajes no homem a quem o rei tem prazer de honrar e o conduzam sobre o cavalo pelas ruas da cidade, proclamando diante dele: Assim se faz ao homem a quem o rei tem prazer em honrar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Então o rei disse a Hamã: Depressa, toma os trajes e o cavalo, como disseste, e faze assim para com o judeu Mardoqueu, que está sentado à porta do palácio real. E não te esqueças de coisa alguma do que disseste."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Então Hamã pegou os trajes, e o cavalo, vestiu os trajes em Mardoqueu e o conduziu sobre o cavalo pelas ruas da cidade, proclamando diante dele: Assim se faz ao homem a quem o rei tem prazer em honrar!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Depois disso, Mardoqueu voltou para a porta do palácio real. Mas Hamã apressou-se em voltar para casa, abatido e com o rosto coberto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["E Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo o que lhe tinha acontecido. Então os seus conselheiros e Zeres, sua mulher, lhe disseram: Se este Mardoqueu, diante do qual já começaste a cair, é da linhagem dos judeus, não prevalecerás contra ele, mas certamente cairás diante dele."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Enquanto estes ainda falavam com ele, chegaram os oficiais do rei e se apressaram em levar Hamã ao banquete que Ester tinha preparado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EST.5.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EST.7.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.6",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.5",
+      "human": "Ester 5"
+    },
+    "current": {
+      "usfm": "EST.6",
+      "human": "Ester 6"
+    },
+    "next": {
+      "usfm": "EST.7",
+      "human": "Ester 7"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "O rei ordena que Mardoqueu seja honrado"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Naquela mesma noite, o rei perdeu o sono. Então mandou trazer o livro de registro das crônicas, as quais foram lidas para o rei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "E achou-se escrito que Mardoqueu tinha denunciado Bigtã e Teres, dois dos oficiais do rei, que guardavam a porta e tinham conspirado para tirar a vida do rei Xerxes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "E o rei perguntou: Que honra e reconhecimento foram conferidos a Mardoqueu por isso? Os oficiais do rei que o serviam responderam: Não foi feito nada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Então o rei perguntou: Quem está no pátio? Hamã tinha acabado de entrar no pátio exterior do palácio real para falar com o rei e lhe pedir que se enforcasse Mardoqueu na forca que havia preparado para ele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "E os oficiais do rei lhe responderam: Quem está no pátio é Hamã. O rei ordenou que ele entrasse."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Quando Hamã entrou, o rei lhe perguntou: O que se deve fazer ao homem a quem o rei tem prazer de honrar? Então Hamã pensou consigo: A quem o rei teria prazer de honrar senão a mim?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por isso Hamã respondeu ao rei: Ao homem que o rei tem prazer de honrar"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "sejam trazidos trajes reais que o rei tenha usado e o cavalo que o rei costuma montar, e se ponha uma coroa real sobre sua cabeça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "E que os trajes e o cavalo sejam entregues a alguns dos príncipes mais nobres do rei, e que vistam os trajes no homem a quem o rei tem prazer de honrar e o conduzam sobre o cavalo pelas ruas da cidade, proclamando diante dele: Assim se faz ao homem a quem o rei tem prazer em honrar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Então o rei disse a Hamã: Depressa, toma os trajes e o cavalo, como disseste, e faze assim para com o judeu Mardoqueu, que está sentado à porta do palácio real. E não te esqueças de coisa alguma do que disseste."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Então Hamã pegou os trajes, e o cavalo, vestiu os trajes em Mardoqueu e o conduziu sobre o cavalo pelas ruas da cidade, proclamando diante dele: Assim se faz ao homem a quem o rei tem prazer em honrar!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Depois disso, Mardoqueu voltou para a porta do palácio real. Mas Hamã apressou-se em voltar para casa, abatido e com o rosto coberto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "E Hamã contou a Zeres, sua mulher, e a todos os seus amigos tudo o que lhe tinha acontecido. Então os seus conselheiros e Zeres, sua mulher, lhe disseram: Se este Mardoqueu, diante do qual já começaste a cair, é da linhagem dos judeus, não prevalecerás contra ele, mas certamente cairás diante dele."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Enquanto estes ainda falavam com ele, chegaram os oficiais do rei e se apressaram em levar Hamã ao banquete que Ester tinha preparado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

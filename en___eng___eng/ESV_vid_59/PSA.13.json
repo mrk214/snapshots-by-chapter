@@ -1,1 +1,131 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.13","is_chapter":true,"previous":{"usfm":"PSA.12","human":"Psalm 12","canonical":true,"toc":true},"current":{"usfm":"PSA.13","human":"Psalm 13"},"next":{"usfm":"PSA.14","human":"Psalm 14","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["How Long, O Lord?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["How long, O Lord? Will you forget me forever?","How long will you hide your face from me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["How long must I take counsel in my soul","and have sorrow in my heart all the day?","How long shall my enemy be exalted over me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Consider and answer me, O Lord my God;","light up my eyes, lest I sleep the sleep of death,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["lest my enemy say, “I have prevailed over him,”","lest my foes rejoice because I am shaken."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But I have trusted in your steadfast love;","my heart shall rejoice in your salvation."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I will sing to the Lord,","because he has dealt bountifully with me."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.12.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.14.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.13",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.12",
+      "human": "Psalm 12"
+    },
+    "current": {
+      "usfm": "PSA.13",
+      "human": "Psalm 13"
+    },
+    "next": {
+      "usfm": "PSA.14",
+      "human": "Psalm 14"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "How Long, O Lord?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "How long, O Lord? Will you forget me forever?",
+          "How long will you hide your face from me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "How long must I take counsel in my soul",
+          "and have sorrow in my heart all the day?",
+          "How long shall my enemy be exalted over me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Consider and answer me, O Lord my God;",
+          "light up my eyes, lest I sleep the sleep of death,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "lest my enemy say, “I have prevailed over him,”",
+          "lest my foes rejoice because I am shaken."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But I have trusted in your steadfast love;",
+          "my heart shall rejoice in your salvation."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I will sing to the Lord,",
+          "because he has dealt bountifully with me."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

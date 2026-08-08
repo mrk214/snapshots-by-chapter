@@ -1,1 +1,283 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.88","is_chapter":true,"previous":{"usfm":"PSA.87","human":"Psalms 87","canonical":true,"toc":true},"current":{"usfm":"PSA.88","human":"Psalms 88"},"next":{"usfm":"PSA.89","human":"Psalms 89","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Prayer for Help in Despondency"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song. A Psalm of the sons of Korah. To the Chief Musician. Set to “Mahalath Leannoth.” A Contemplation of Heman the Ezrahite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["O Lord, God of my salvation,","I have cried out day and night before You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let my prayer come before You;","Incline Your ear to my cry."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For my soul is full of troubles,","And my life draws near to the grave."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["I am counted with those who go down to the pit;","I am like a man who has no strength,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Adrift among the dead,","Like the slain who lie in the grave,","Whom You remember no more,","And who are cut off from Your hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You have laid me in the lowest pit,","In darkness, in the depths."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Your wrath lies heavy upon me,","And You have afflicted me with all Your waves."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["You have put away my acquaintances far from me;","You have made me an abomination to them;","I am shut up, and I cannot get out;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["My eye wastes away because of affliction.","Lord, I have called daily upon You;","I have stretched out my hands to You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Will You work wonders for the dead?","Shall the dead arise and praise You?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Shall Your lovingkindness be declared in the grave?","Or Your faithfulness in the place of destruction?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Shall Your wonders be known in the dark?","And Your righteousness in the land of forgetfulness?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["But to You I have cried out, O Lord,","And in the morning my prayer comes before You."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Lord, why do You cast off my soul?","Why do You hide Your face from me?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["I have been afflicted and ready to die from my youth;","I suffer Your terrors;","I am distraught."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Your fierce wrath has gone over me;","Your terrors have cut me off."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["They came around me all day long like water;","They engulfed me altogether."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Loved one and friend You have put far from me,","And my acquaintances into darkness."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.87.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.89.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.88",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.87",
+      "human": "Psalms 87"
+    },
+    "current": {
+      "usfm": "PSA.88",
+      "human": "Psalms 88"
+    },
+    "next": {
+      "usfm": "PSA.89",
+      "human": "Psalms 89"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Prayer for Help in Despondency"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song. A Psalm of the sons of Korah. To the Chief Musician. Set to “Mahalath Leannoth.” A Contemplation of Heman the Ezrahite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "O Lord, God of my salvation,",
+          "I have cried out day and night before You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let my prayer come before You;",
+          "Incline Your ear to my cry."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For my soul is full of troubles,",
+          "And my life draws near to the grave."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "I am counted with those who go down to the pit;",
+          "I am like a man who has no strength,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Adrift among the dead,",
+          "Like the slain who lie in the grave,",
+          "Whom You remember no more,",
+          "And who are cut off from Your hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You have laid me in the lowest pit,",
+          "In darkness, in the depths."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Your wrath lies heavy upon me,",
+          "And You have afflicted me with all Your waves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "You have put away my acquaintances far from me;",
+          "You have made me an abomination to them;",
+          "I am shut up, and I cannot get out;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "My eye wastes away because of affliction.",
+          "Lord, I have called daily upon You;",
+          "I have stretched out my hands to You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Will You work wonders for the dead?",
+          "Shall the dead arise and praise You?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Shall Your lovingkindness be declared in the grave?",
+          "Or Your faithfulness in the place of destruction?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Shall Your wonders be known in the dark?",
+          "And Your righteousness in the land of forgetfulness?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "But to You I have cried out, O Lord,",
+          "And in the morning my prayer comes before You."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Lord, why do You cast off my soul?",
+          "Why do You hide Your face from me?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "I have been afflicted and ready to die from my youth;",
+          "I suffer Your terrors;",
+          "I am distraught."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Your fierce wrath has gone over me;",
+          "Your terrors have cut me off."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "They came around me all day long like water;",
+          "They engulfed me altogether."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Loved one and friend You have put far from me,",
+          "And my acquaintances into darkness."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

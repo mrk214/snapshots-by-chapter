@@ -1,1 +1,256 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.7","is_chapter":true,"previous":{"usfm":"PSA.6","human":"Salmo 6","canonical":true,"toc":true},"current":{"usfm":"PSA.7","human":"Salmo 7"},"next":{"usfm":"PSA.8","human":"Salmo 8","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Sigaión de David, que cantó al Señor acerca de Cus el benjamita."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Sálvame, Señor mi Dios, porque en ti busco refugio!","¡Líbrame de todos mis perseguidores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["De lo contrario, me devorarán como leones;","me despedazarán y no habrá quien me libre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Señor mi Dios, ¿qué es lo que he hecho?","¿Qué maldad hay en mis manos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Si he perjudicado al que estaba en paz conmigo,","si he despojado sin razón al que me oprime,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["entonces que mi enemigo me persiga y me alcance;","que me haga morder el polvo","y arrastre mi honra por el suelo."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡Levántate, Señor, en tu ira!","¡Enfréntate al furor de mis enemigos!","¡Despierta e imparte justicia!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Que los pueblos se junten a tu alrededor;","reina sobre ellos desde lo alto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["¡El Señor juzgará a los pueblos!","Júzgame, Señor, conforme a mi justicia;","págame conforme a mi integridad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Dios justo que examinas la mente y el corazón,","acaba con la maldad de los malvados","y mantén firme al que es justo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Mi escudo está en Dios","que salva a los de corazón sincero."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Dios es un juez justo,","un Dios que cada día manifiesta su enojo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Si el malvado no se arrepiente,","Dios afilará la espada","y tensará el arco;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["ya ha preparado sus mortíferas armas;","ya tiene listas sus llameantes saetas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Miren al preñado de maldad:","concibió iniquidad y parirá mentira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Cavó una fosa y la ahondó,","y en esa misma fosa caerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Su iniquidad se volverá contra él;","su violencia recaerá sobre su cabeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["¡Alabaré al Señor por su justicia!","¡Al nombre del Señor Altísimo cantaré salmos!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PSA.8.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.6",
+      "human": "Salmo 6"
+    },
+    "current": {
+      "usfm": "PSA.7",
+      "human": "Salmo 7"
+    },
+    "next": {
+      "usfm": "PSA.8",
+      "human": "Salmo 8"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Sigaión de David, que cantó al Señor acerca de Cus el benjamita."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Sálvame, Señor mi Dios, porque en ti busco refugio!",
+          "¡Líbrame de todos mis perseguidores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "De lo contrario, me devorarán como leones;",
+          "me despedazarán y no habrá quien me libre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Señor mi Dios, ¿qué es lo que he hecho?",
+          "¿Qué maldad hay en mis manos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Si he perjudicado al que estaba en paz conmigo,",
+          "si he despojado sin razón al que me oprime,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "entonces que mi enemigo me persiga y me alcance;",
+          "que me haga morder el polvo",
+          "y arrastre mi honra por el suelo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡Levántate, Señor, en tu ira!",
+          "¡Enfréntate al furor de mis enemigos!",
+          "¡Despierta e imparte justicia!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Que los pueblos se junten a tu alrededor;",
+          "reina sobre ellos desde lo alto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "¡El Señor juzgará a los pueblos!",
+          "Júzgame, Señor, conforme a mi justicia;",
+          "págame conforme a mi integridad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Dios justo que examinas la mente y el corazón,",
+          "acaba con la maldad de los malvados",
+          "y mantén firme al que es justo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Mi escudo está en Dios",
+          "que salva a los de corazón sincero."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Dios es un juez justo,",
+          "un Dios que cada día manifiesta su enojo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Si el malvado no se arrepiente,",
+          "Dios afilará la espada",
+          "y tensará el arco;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "ya ha preparado sus mortíferas armas;",
+          "ya tiene listas sus llameantes saetas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Miren al preñado de maldad:",
+          "concibió iniquidad y parirá mentira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Cavó una fosa y la ahondó,",
+          "y en esa misma fosa caerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Su iniquidad se volverá contra él;",
+          "su violencia recaerá sobre su cabeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "¡Alabaré al Señor por su justicia!",
+          "¡Al nombre del Señor Altísimo cantaré salmos!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

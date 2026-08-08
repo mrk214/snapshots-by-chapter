@@ -1,1 +1,156 @@
-{"version":{"version_id":2645,"local_abbreviation":"A21","local_title":"Biblia Almeida Século 21","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Sociedade Religiosa Edições Vida Nova"},"copyright":{"html":"<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>","text":"Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"}},"book":{"book_usfm":"JON","name":"Jonas"},"chapter":{"chapter_usfm":"JON.2","is_chapter":true,"previous":{"usfm":"JON.1","human":"Jonas 1","canonical":true,"toc":true},"current":{"usfm":"JON.2","human":"Jonas 2"},"next":{"usfm":"JON.3","human":"Jonas 3","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A oração de Jonas no ventre do peixe"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Do ventre do peixe, Jonas orou ao Senhor, seu Deus,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["e disse: Clamei ao Senhor na minha angústia, e ele me respondeu; do ventre do Sheol gritei, e tu ouviste a minha voz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pois me lançaste nas profundezas, no coração dos mares, e a corrente das águas me cercou; todas as tuas torrentes e ondas passaram por cima de mim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Eu disse: Fui expulso da tua presença; como poderei ver o teu santo templo novamente?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["As águas me cercaram até a alma, o abismo me rodeou, e as algas se enrolaram na minha cabeça."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Afundei até os fundamentos dos montes; a terra me aprisionou para sempre com as suas trancas; mas tu fizeste subir a minha vida da sepultura, Senhor, meu Deus."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Eu me lembrei do Senhor quando minha vida desfalecia; e a minha oração chegou a ti, no teu santo templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Os que se apegam aos ídolos inúteis afastam de si a misericórdia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Mas eu te oferecerei sacrifício com voz de ação de graças; pagarei o meu voto. A salvação pertence ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["O Senhor deu ordens ao peixe, e este vomitou Jonas na terra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JON.1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JON.3.json"
+  },
+  "book": {
+    "book_usfm": "JON",
+    "name": "Jonas"
+  },
+  "chapter": {
+    "chapter_usfm": "JON.2",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JON.1",
+      "human": "Jonas 1"
+    },
+    "current": {
+      "usfm": "JON.2",
+      "human": "Jonas 2"
+    },
+    "next": {
+      "usfm": "JON.3",
+      "human": "Jonas 3"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A oração de Jonas no ventre do peixe"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Do ventre do peixe, Jonas orou ao Senhor, seu Deus,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "e disse: Clamei ao Senhor na minha angústia, e ele me respondeu; do ventre do Sheol gritei, e tu ouviste a minha voz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pois me lançaste nas profundezas, no coração dos mares, e a corrente das águas me cercou; todas as tuas torrentes e ondas passaram por cima de mim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Eu disse: Fui expulso da tua presença; como poderei ver o teu santo templo novamente?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "As águas me cercaram até a alma, o abismo me rodeou, e as algas se enrolaram na minha cabeça."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Afundei até os fundamentos dos montes; a terra me aprisionou para sempre com as suas trancas; mas tu fizeste subir a minha vida da sepultura, Senhor, meu Deus."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Eu me lembrei do Senhor quando minha vida desfalecia; e a minha oração chegou a ti, no teu santo templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Os que se apegam aos ídolos inúteis afastam de si a misericórdia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Mas eu te oferecerei sacrifício com voz de ação de graças; pagarei o meu voto. A salvação pertence ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "O Senhor deu ordens ao peixe, e este vomitou Jonas na terra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2645,
+    "local_abbreviation": "A21",
+    "local_title": "Biblia Almeida Século 21",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Sociedade Religiosa Edições Vida Nova"
+    },
+    "copyright": {
+      "html": "<p>Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova</p>",
+      "text": "Bíblia Almeida Século 21, Copyright © 2008 Edições Vida Nova"
+    }
+  }
+}

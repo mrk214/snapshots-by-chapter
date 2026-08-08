@@ -1,1 +1,243 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Psalm 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Psalm 81"},"next":{"usfm":"PSA.82","human":"Psalm 82","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician upon Gittith, A Psalm of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Sing aloud unto God our strength:","Make a joyful noise unto the God of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Take a psalm, and bring hither the timbrel,","The pleasant harp with the psaltery."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Blow up the trumpet in the new moon,","In the time appointed, on our solemn feast day."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["For this was a statute for Israel,","And a law of the God of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["This he ordained in Joseph for a testimony,","When he went out through the land of Egypt:","Where I heard a language that I understood not."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I removed his shoulder from the burden:","His hands were delivered from the pots."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Thou calledst in trouble, and I delivered thee;","I answered thee in the secret place of thunder:","I proved thee","At the waters of Meribah."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Hear, O my people, and I will testify unto thee:","O Israel, if thou wilt hearken unto me;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["There shall no strange god be in thee;","Neither shalt thou worship any strange god."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["I am the LORD thy God, which brought thee out of the land of Egypt:","Open thy mouth wide, and I will fill it."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["But my people would not hearken to my voice;","And Israel would none of me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["So I gave them up unto their own hearts' lust:","And they walked in their own counsels."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Oh that my people had hearkened unto me,","And Israel had walked in my ways!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["I should soon have subdued their enemies,","And turned my hand against their adversaries."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["The haters of the LORD should have submitted themselves unto him:","But their time should have endured for ever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["He should have fed them also with the finest of the wheat:","And with honey out of the rock should I have satisfied thee."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Psalm 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Psalm 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Psalm 82"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician upon Gittith, A Psalm of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Sing aloud unto God our strength:",
+          "Make a joyful noise unto the God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Take a psalm, and bring hither the timbrel,",
+          "The pleasant harp with the psaltery."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Blow up the trumpet in the new moon,",
+          "In the time appointed, on our solemn feast day."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "For this was a statute for Israel,",
+          "And a law of the God of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "This he ordained in Joseph for a testimony,",
+          "When he went out through the land of Egypt:",
+          "Where I heard a language that I understood not."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I removed his shoulder from the burden:",
+          "His hands were delivered from the pots."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Thou calledst in trouble, and I delivered thee;",
+          "I answered thee in the secret place of thunder:",
+          "I proved thee",
+          "At the waters of Meribah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Hear, O my people, and I will testify unto thee:",
+          "O Israel, if thou wilt hearken unto me;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "There shall no strange god be in thee;",
+          "Neither shalt thou worship any strange god."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "I am the LORD thy God, which brought thee out of the land of Egypt:",
+          "Open thy mouth wide, and I will fill it."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "But my people would not hearken to my voice;",
+          "And Israel would none of me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "So I gave them up unto their own hearts' lust:",
+          "And they walked in their own counsels."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Oh that my people had hearkened unto me,",
+          "And Israel had walked in my ways!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "I should soon have subdued their enemies,",
+          "And turned my hand against their adversaries."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "The haters of the LORD should have submitted themselves unto him:",
+          "But their time should have endured for ever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "He should have fed them also with the finest of the wheat:",
+          "And with honey out of the rock should I have satisfied thee."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

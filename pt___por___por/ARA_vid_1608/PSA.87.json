@@ -1,1 +1,142 @@
-{"version":{"version_id":1608,"local_abbreviation":"ARA","local_title":"Almeida Revista e Atualizada","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Brazil"},"copyright":{"html":"<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>","text":"A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Salmos 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Salmos 87"},"next":{"usfm":"PSA.88","human":"Salmos 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Jerusalém, amada de Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo dos filhos de Corá. Cântico"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Fundada por ele sobre os montes santos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["o Senhor ama as portas de Sião","mais do que as habitações todas de Jacó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Gloriosas coisas se têm dito de ti,","ó cidade de Deus!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dentre os que me conhecem, farei menção de Raabe e da Babilônia;","eis aí Filístia e Tiro com Etiópia;","lá, nasceram."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["E com respeito a Sião se dirá:","Este e aquele nasceram nela;","e o próprio Altíssimo a estabelecerá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["O Senhor, ao registrar os povos, dirá:","Este nasceu lá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Todos os cantores, saltando de júbilo, entoarão:","Todas as minhas fontes são em ti."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Salmos 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Salmos 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Salmos 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Jerusalém, amada de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo dos filhos de Corá. Cântico"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Fundada por ele sobre os montes santos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "o Senhor ama as portas de Sião",
+          "mais do que as habitações todas de Jacó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Gloriosas coisas se têm dito de ti,",
+          "ó cidade de Deus!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dentre os que me conhecem, farei menção de Raabe e da Babilônia;",
+          "eis aí Filístia e Tiro com Etiópia;",
+          "lá, nasceram."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "E com respeito a Sião se dirá:",
+          "Este e aquele nasceram nela;",
+          "e o próprio Altíssimo a estabelecerá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "O Senhor, ao registrar os povos, dirá:",
+          "Este nasceu lá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Todos os cantores, saltando de júbilo, entoarão:",
+          "Todas as minhas fontes são em ti."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1608,
+    "local_abbreviation": "ARA",
+    "local_title": "Almeida Revista e Atualizada",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Brazil"
+    },
+    "copyright": {
+      "html": "<p>A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil.</p>",
+      "text": "A Sociedade Bíblica do Brasil tem a missão de semear a Palavra que transforma vidas, tornando-a relevante para as pessoas. Junte-se a nós! ARA © 1993 Sociedade Bíblica do Brasil."
+    }
+  }
+}

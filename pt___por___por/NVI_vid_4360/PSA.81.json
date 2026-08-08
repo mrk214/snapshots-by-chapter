@@ -1,1 +1,243 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.81","is_chapter":true,"previous":{"usfm":"PSA.80","human":"Salmos 80","canonical":true,"toc":true},"current":{"usfm":"PSA.81","human":"Salmos 81"},"next":{"usfm":"PSA.82","human":"Salmos 82","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Para o mestre de música. De acordo com a melodia Os Lagares. Da família de Asafe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cantem de alegria a Deus, nossa força;","aclamem o Deus de Jacó!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Comecem o louvor, façam ressoar o tamborim,","toquem a lira e a harpa melodiosa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Toquem a trombeta na lua nova","e no dia de lua cheia, dia da nossa festa;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["porque este é um decreto para Israel,","uma ordenança do Deus de Jacó,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["que ele estabeleceu como estatuto para José,","quando atacou o Egito.","Ali ouvimos uma língua que não conhecíamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ele diz: “Tirei o peso dos seus ombros;","suas mãos ficaram livres dos cestos de cargas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Na sua aflição vocês clamaram e eu os livrei,","do esconderijo dos trovões lhes respondi;","eu os pus à prova nas águas de Meribá."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Pausa"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["“Ouça, meu povo, as minhas advertências;","se tão somente você me escutasse, ó Israel!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Não tenha deus estrangeiro no seu meio;","não se incline perante nenhum deus estranho."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Eu sou o Senhor, o seu Deus,","que o tirei da terra do Egito.","Abra a sua boca, e eu o alimentarei."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["“Mas o meu povo não quis ouvir-me;","Israel não quis obedecer-me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Por isso os entreguei ao seu coração obstinado,","para seguirem os seus próprios planos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["“Se o meu povo apenas me ouvisse,","se Israel seguisse os meus caminhos,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["com rapidez eu subjugaria os seus inimigos","e voltaria a minha mão contra os seus adversários!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Os que odeiam o Senhor se renderiam diante dele","e receberiam um castigo perpétuo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Mas eu sustentaria Israel com o melhor trigo,","e com o mel da rocha eu o satisfaria”."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.80.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.82.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.81",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.80",
+      "human": "Salmos 80"
+    },
+    "current": {
+      "usfm": "PSA.81",
+      "human": "Salmos 81"
+    },
+    "next": {
+      "usfm": "PSA.82",
+      "human": "Salmos 82"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para o mestre de música. De acordo com a melodia Os Lagares. Da família de Asafe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cantem de alegria a Deus, nossa força;",
+          "aclamem o Deus de Jacó!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Comecem o louvor, façam ressoar o tamborim,",
+          "toquem a lira e a harpa melodiosa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Toquem a trombeta na lua nova",
+          "e no dia de lua cheia, dia da nossa festa;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "porque este é um decreto para Israel,",
+          "uma ordenança do Deus de Jacó,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "que ele estabeleceu como estatuto para José,",
+          "quando atacou o Egito.",
+          "Ali ouvimos uma língua que não conhecíamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ele diz: “Tirei o peso dos seus ombros;",
+          "suas mãos ficaram livres dos cestos de cargas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Na sua aflição vocês clamaram e eu os livrei,",
+          "do esconderijo dos trovões lhes respondi;",
+          "eu os pus à prova nas águas de Meribá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Pausa"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "“Ouça, meu povo, as minhas advertências;",
+          "se tão somente você me escutasse, ó Israel!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Não tenha deus estrangeiro no seu meio;",
+          "não se incline perante nenhum deus estranho."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Eu sou o Senhor, o seu Deus,",
+          "que o tirei da terra do Egito.",
+          "Abra a sua boca, e eu o alimentarei."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "“Mas o meu povo não quis ouvir-me;",
+          "Israel não quis obedecer-me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Por isso os entreguei ao seu coração obstinado,",
+          "para seguirem os seus próprios planos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "“Se o meu povo apenas me ouvisse,",
+          "se Israel seguisse os meus caminhos,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "com rapidez eu subjugaria os seus inimigos",
+          "e voltaria a minha mão contra os seus adversários!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Os que odeiam o Senhor se renderiam diante dele",
+          "e receberiam um castigo perpétuo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Mas eu sustentaria Israel com o melhor trigo,",
+          "e com o mel da rocha eu o satisfaria”."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

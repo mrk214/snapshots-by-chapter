@@ -1,1 +1,145 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.82","is_chapter":true,"previous":{"usfm":"PSA.81","human":"Psalms 81","canonical":true,"toc":true},"current":{"usfm":"PSA.82","human":"Psalms 82"},"next":{"usfm":"PSA.83","human":"Psalms 83","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A psalm of Asaph."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["God presides in the great assembly;","he renders judgment among the “gods”:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["“How long will you defend the unjust","and show partiality to the wicked?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Defend the weak and the fatherless;","uphold the cause of the poor and the oppressed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Rescue the weak and the needy;","deliver them from the hand of the wicked."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“The ‘gods’ know nothing, they understand nothing.","They walk about in darkness;","all the foundations of the earth are shaken."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“I said, ‘You are “gods”;","you are all sons of the Most High.’"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["But you will die like mere mortals;","you will fall like every other ruler.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Rise up, O God, judge the earth,","for all the nations are your inheritance."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.81.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.83.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.82",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.81",
+      "human": "Psalms 81"
+    },
+    "current": {
+      "usfm": "PSA.82",
+      "human": "Psalms 82"
+    },
+    "next": {
+      "usfm": "PSA.83",
+      "human": "Psalms 83"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A psalm of Asaph."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "God presides in the great assembly;",
+          "he renders judgment among the “gods”:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "“How long will you defend the unjust",
+          "and show partiality to the wicked?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Defend the weak and the fatherless;",
+          "uphold the cause of the poor and the oppressed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Rescue the weak and the needy;",
+          "deliver them from the hand of the wicked."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“The ‘gods’ know nothing, they understand nothing.",
+          "They walk about in darkness;",
+          "all the foundations of the earth are shaken."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“I said, ‘You are “gods”;",
+          "you are all sons of the Most High.’"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "But you will die like mere mortals;",
+          "you will fall like every other ruler.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Rise up, O God, judge the earth,",
+          "for all the nations are your inheritance."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

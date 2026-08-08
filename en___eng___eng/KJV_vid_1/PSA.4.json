@@ -1,1 +1,162 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.4","is_chapter":true,"previous":{"usfm":"PSA.3","human":"Psalm 3","canonical":true,"toc":true},"current":{"usfm":"PSA.4","human":"Psalm 4"},"next":{"usfm":"PSA.5","human":"Psalm 5","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["To the chief Musician on Neginoth, A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hear me when I call, O God of my righteousness:","Thou hast enlarged me when I was in distress; Have mercy upon me, and hear my prayer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O ye sons of men, how long will ye turn my glory into shame?","How long will ye love vanity, and seek after leasing?"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["But know that the LORD hath set apart him that is godly for himself:","The LORD will hear when I call unto him."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Stand in awe, and sin not:","Commune with your own heart upon your bed, and be still."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Offer the sacrifices of righteousness,","And put your trust in the LORD."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["There be many that say,","Who will shew us any good?","LORD, lift thou up","The light of thy countenance upon us."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Thou hast put gladness in my heart,","More than in the time that their corn and their wine increased."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["I will both lay me down in peace, and sleep:","For thou, LORD, only makest me dwell in safety."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.5.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.3",
+      "human": "Psalm 3"
+    },
+    "current": {
+      "usfm": "PSA.4",
+      "human": "Psalm 4"
+    },
+    "next": {
+      "usfm": "PSA.5",
+      "human": "Psalm 5"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the chief Musician on Neginoth, A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hear me when I call, O God of my righteousness:",
+          "Thou hast enlarged me when I was in distress; Have mercy upon me, and hear my prayer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O ye sons of men, how long will ye turn my glory into shame?",
+          "How long will ye love vanity, and seek after leasing?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "But know that the LORD hath set apart him that is godly for himself:",
+          "The LORD will hear when I call unto him."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Stand in awe, and sin not:",
+          "Commune with your own heart upon your bed, and be still."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Offer the sacrifices of righteousness,",
+          "And put your trust in the LORD."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "There be many that say,",
+          "Who will shew us any good?",
+          "LORD, lift thou up",
+          "The light of thy countenance upon us."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Thou hast put gladness in my heart,",
+          "More than in the time that their corn and their wine increased."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "I will both lay me down in peace, and sleep:",
+          "For thou, LORD, only makest me dwell in safety."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

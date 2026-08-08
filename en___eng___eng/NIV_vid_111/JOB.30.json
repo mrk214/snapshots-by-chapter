@@ -1,1 +1,395 @@
-{"version":{"version_id":111,"local_abbreviation":"NIV","local_title":"New International Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>","text":"The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.30","is_chapter":true,"previous":{"usfm":"JOB.29","human":"Job 29","canonical":true,"toc":true},"current":{"usfm":"JOB.30","human":"Job 30"},"next":{"usfm":"JOB.31","human":"Job 31","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["“But now they mock me,","men younger than I,","whose fathers I would have disdained","to put with my sheep dogs."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Of what use was the strength of their hands to me,","since their vigor had gone from them?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Haggard from want and hunger,","they roamed the parched land","in desolate wastelands at night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["In the brush they gathered salt herbs,","and their food was the root of the broom bush."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["They were banished from human society,","shouted at as if they were thieves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["They were forced to live in the dry stream beds,","among the rocks and in holes in the ground."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["They brayed among the bushes","and huddled in the undergrowth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["A base and nameless brood,","they were driven out of the land."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["“And now those young men mock me in song;","I have become a byword among them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They detest me and keep their distance;","they do not hesitate to spit in my face."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Now that God has unstrung my bow and afflicted me,","they throw off restraint in my presence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["On my right the tribe attacks;","they lay snares for my feet,","they build their siege ramps against me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["They break up my road;","they succeed in destroying me.","‘No one can help him,’ they say."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["They advance as through a gaping breach;","amid the ruins they come rolling in."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Terrors overwhelm me;","my dignity is driven away as by the wind,","my safety vanishes like a cloud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["“And now my life ebbs away;","days of suffering grip me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Night pierces my bones;","my gnawing pains never rest."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["In his great power God becomes like clothing to me;","he binds me like the neck of my garment."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["He throws me into the mud,","and I am reduced to dust and ashes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["“I cry out to you, God, but you do not answer;","I stand up, but you merely look at me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["You turn on me ruthlessly;","with the might of your hand you attack me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["You snatch me up and drive me before the wind;","you toss me about in the storm."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["I know you will bring me down to death,","to the place appointed for all the living."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["“Surely no one lays a hand on a broken man","when he cries for help in his distress."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["Have I not wept for those in trouble?","Has not my soul grieved for the poor?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["Yet when I hoped for good, evil came;","when I looked for light, then came darkness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["The churning inside me never stops;","days of suffering confront me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["I go about blackened, but not by the sun;","I stand up in the assembly and cry for help."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["I have become a brother of jackals,","a companion of owls."],"rlw_lines":[]},{"type":"verse","verse_numbers":[30],"lines":["My skin grows black and peels;","my body burns with fever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[31],"lines":["My lyre is tuned to mourning,","and my pipe to the sound of wailing."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.29.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOB.31.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.30",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.29",
+      "human": "Job 29"
+    },
+    "current": {
+      "usfm": "JOB.30",
+      "human": "Job 30"
+    },
+    "next": {
+      "usfm": "JOB.31",
+      "human": "Job 31"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "“But now they mock me,",
+          "men younger than I,",
+          "whose fathers I would have disdained",
+          "to put with my sheep dogs."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Of what use was the strength of their hands to me,",
+          "since their vigor had gone from them?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Haggard from want and hunger,",
+          "they roamed the parched land",
+          "in desolate wastelands at night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "In the brush they gathered salt herbs,",
+          "and their food was the root of the broom bush."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "They were banished from human society,",
+          "shouted at as if they were thieves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "They were forced to live in the dry stream beds,",
+          "among the rocks and in holes in the ground."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "They brayed among the bushes",
+          "and huddled in the undergrowth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "A base and nameless brood,",
+          "they were driven out of the land."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "“And now those young men mock me in song;",
+          "I have become a byword among them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They detest me and keep their distance;",
+          "they do not hesitate to spit in my face."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Now that God has unstrung my bow and afflicted me,",
+          "they throw off restraint in my presence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "On my right the tribe attacks;",
+          "they lay snares for my feet,",
+          "they build their siege ramps against me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "They break up my road;",
+          "they succeed in destroying me.",
+          "‘No one can help him,’ they say."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "They advance as through a gaping breach;",
+          "amid the ruins they come rolling in."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Terrors overwhelm me;",
+          "my dignity is driven away as by the wind,",
+          "my safety vanishes like a cloud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "“And now my life ebbs away;",
+          "days of suffering grip me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Night pierces my bones;",
+          "my gnawing pains never rest."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "In his great power God becomes like clothing to me;",
+          "he binds me like the neck of my garment."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "He throws me into the mud,",
+          "and I am reduced to dust and ashes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "“I cry out to you, God, but you do not answer;",
+          "I stand up, but you merely look at me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "You turn on me ruthlessly;",
+          "with the might of your hand you attack me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "You snatch me up and drive me before the wind;",
+          "you toss me about in the storm."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "I know you will bring me down to death,",
+          "to the place appointed for all the living."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "“Surely no one lays a hand on a broken man",
+          "when he cries for help in his distress."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "Have I not wept for those in trouble?",
+          "Has not my soul grieved for the poor?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "Yet when I hoped for good, evil came;",
+          "when I looked for light, then came darkness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "The churning inside me never stops;",
+          "days of suffering confront me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "I go about blackened, but not by the sun;",
+          "I stand up in the assembly and cry for help."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "I have become a brother of jackals,",
+          "a companion of owls."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          30
+        ],
+        "lines": [
+          "My skin grows black and peels;",
+          "my body burns with fever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          31
+        ],
+        "lines": [
+          "My lyre is tuned to mourning,",
+          "and my pipe to the sound of wailing."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 111,
+    "local_abbreviation": "NIV",
+    "local_title": "New International Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New International Version® NIV®</p> <p>Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.®</p> <p>Used by Permission of Biblica, Inc.® All rights reserved worldwide.</p>",
+      "text": "The Holy Bible, New International Version® NIV® Copyright © 1973, 1978, 1984, 2011 by Biblica, Inc.® Used by Permission of Biblica, Inc.® All rights reserved worldwide."
+    }
+  }
+}

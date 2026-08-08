@@ -1,1 +1,202 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.61","is_chapter":true,"previous":{"usfm":"ISA.60","human":"Isaías 60","canonical":true,"toc":true},"current":{"usfm":"ISA.61","human":"Isaías 61"},"next":{"usfm":"ISA.62","human":"Isaías 62","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Buenas nuevas de salvación"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El Espíritu del Señor Dios está sobre mí,","Porque me ha ungido el Señor","Para traer buenas nuevas a los afligidos.","Me ha enviado para vendar a los quebrantados de corazón,","Para proclamar libertad a los cautivos","Y liberación a los prisioneros;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Para proclamar el año favorable del Señor,","Y el día de venganza de nuestro Dios;","Para consolar a todos los que lloran,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Para conceder que a los que lloran en Sión","Se les dé diadema en vez de ceniza,","Aceite de alegría en vez de luto,","Manto de alabanza en vez de espíritu abatido;","Para que sean llamados robles de justicia,","Plantío del Señor, para que Él sea glorificado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¶Entonces reedificarán las ruinas antiguas,","Levantarán los lugares devastados de antaño,","Y restaurarán las ciudades arruinadas,","Los lugares devastados de muchas generaciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Se presentarán extraños y apacentarán los rebaños de ustedes,","E hijos de extranjeros serán sus labradores y sus viñadores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Y ustedes serán llamados sacerdotes del Señor;","Ministros de nuestro Dios se les llamará.","Comerán las riquezas de las naciones,","Y en su gloria se jactarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["En vez de su vergüenza tendrán doble porción,","Y en vez de humillación ellos gritarán de júbilo por su herencia.","Por tanto, poseerán el doble en su tierra,","Y tendrán alegría eterna."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Porque Yo, el Señor, amo el derecho,","Odio el robo en el holocausto.","Fielmente les daré su recompensa,","Y haré con ellos un pacto eterno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces su descendencia será conocida entre las naciones,","Y sus vástagos en medio de los pueblos.","Todos los que los vean los reconocerán,","Porque son la simiente que el Señor ha bendecido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¶En gran manera me gozaré en el Señor,","Mi alma se regocijará en mi Dios.","Porque Él me ha vestido de ropas de salvación,","Me ha envuelto en manto de justicia","Como el novio se engalana con una corona,","Como la novia se adorna con sus joyas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Porque como la tierra produce sus renuevos,","Y como el huerto hace brotar lo sembrado en él,","Así el Señor Dios hará que la justicia y la alabanza","Broten en presencia de todas las naciones."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ISA.60.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ISA.62.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.61",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.60",
+      "human": "Isaías 60"
+    },
+    "current": {
+      "usfm": "ISA.61",
+      "human": "Isaías 61"
+    },
+    "next": {
+      "usfm": "ISA.62",
+      "human": "Isaías 62"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Buenas nuevas de salvación"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El Espíritu del Señor Dios está sobre mí,",
+          "Porque me ha ungido el Señor",
+          "Para traer buenas nuevas a los afligidos.",
+          "Me ha enviado para vendar a los quebrantados de corazón,",
+          "Para proclamar libertad a los cautivos",
+          "Y liberación a los prisioneros;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Para proclamar el año favorable del Señor,",
+          "Y el día de venganza de nuestro Dios;",
+          "Para consolar a todos los que lloran,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Para conceder que a los que lloran en Sión",
+          "Se les dé diadema en vez de ceniza,",
+          "Aceite de alegría en vez de luto,",
+          "Manto de alabanza en vez de espíritu abatido;",
+          "Para que sean llamados robles de justicia,",
+          "Plantío del Señor, para que Él sea glorificado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¶Entonces reedificarán las ruinas antiguas,",
+          "Levantarán los lugares devastados de antaño,",
+          "Y restaurarán las ciudades arruinadas,",
+          "Los lugares devastados de muchas generaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Se presentarán extraños y apacentarán los rebaños de ustedes,",
+          "E hijos de extranjeros serán sus labradores y sus viñadores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Y ustedes serán llamados sacerdotes del Señor;",
+          "Ministros de nuestro Dios se les llamará.",
+          "Comerán las riquezas de las naciones,",
+          "Y en su gloria se jactarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "En vez de su vergüenza tendrán doble porción,",
+          "Y en vez de humillación ellos gritarán de júbilo por su herencia.",
+          "Por tanto, poseerán el doble en su tierra,",
+          "Y tendrán alegría eterna."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Porque Yo, el Señor, amo el derecho,",
+          "Odio el robo en el holocausto.",
+          "Fielmente les daré su recompensa,",
+          "Y haré con ellos un pacto eterno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces su descendencia será conocida entre las naciones,",
+          "Y sus vástagos en medio de los pueblos.",
+          "Todos los que los vean los reconocerán,",
+          "Porque son la simiente que el Señor ha bendecido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¶En gran manera me gozaré en el Señor,",
+          "Mi alma se regocijará en mi Dios.",
+          "Porque Él me ha vestido de ropas de salvación,",
+          "Me ha envuelto en manto de justicia",
+          "Como el novio se engalana con una corona,",
+          "Como la novia se adorna con sus joyas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Porque como la tierra produce sus renuevos,",
+          "Y como el huerto hace brotar lo sembrado en él,",
+          "Así el Señor Dios hará que la justicia y la alabanza",
+          "Broten en presencia de todas las naciones."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

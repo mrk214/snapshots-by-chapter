@@ -1,1 +1,213 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.42","is_chapter":true,"previous":{"usfm":"PSA.41","human":"Salmo 41","canonical":true,"toc":true},"current":{"usfm":"PSA.42","human":"Salmo 42"},"next":{"usfm":"PSA.43","human":"Salmo 43","canonical":true,"toc":true},"items":[{"type":"section1","verse_numbers":[],"lines":["LIBRO II"],"rlw_lines":[]},{"type":"section2","verse_numbers":[],"lines":["Salmos 42–72"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Al director musical. Masquil de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cual ciervo jadeante en busca del agua,","así te busca, oh Dios, todo mi ser."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Tengo sed de Dios, del Dios de la vida.","¿Cuándo podré presentarme ante Dios?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mis lágrimas son mi pan de día y de noche,","mientras me echan en cara a todas horas:","«¿Dónde está tu Dios?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Recuerdo esto y me deshago en llanto:","yo solía ir con la multitud,","y la conducía a la casa de Dios.","Entre voces de alegría y acciones de gracias","hacíamos gran celebración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿Por qué voy a inquietarme?","¿Por qué me voy a angustiar?","En Dios pondré mi esperanza","y todavía lo alabaré.","¡Él es mi Salvador y mi Dios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Me siento sumamente angustiado;","por eso, mi Dios, pienso en ti","desde la tierra del Jordán,","desde las alturas del Hermón,","desde el monte Mizar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Un abismo llama a otro abismo","en el rugir de tus cascadas;","todas tus ondas y tus olas","se han precipitado sobre mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Esta es la oración al Dios de mi vida:","que de día el Señor mande su amor,","y de noche su canto me acompañe."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Y le digo a Dios, a mi Roca:","«¿Por qué me has olvidado?","¿Por qué debo andar de luto","y oprimido por el enemigo?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Mortal agonía me penetra hasta los huesos","ante la burla de mis adversarios,","mientras me echan en cara a todas horas:","«¿Dónde está tu Dios?»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¿Por qué voy a inquietarme?","¿Por qué me voy a angustiar?","En Dios pondré mi esperanza,","y todavía lo alabaré.","¡Él es mi Salvador y mi Dios!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.41.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.43.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.42",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.41",
+      "human": "Salmo 41"
+    },
+    "current": {
+      "usfm": "PSA.42",
+      "human": "Salmo 42"
+    },
+    "next": {
+      "usfm": "PSA.43",
+      "human": "Salmo 43"
+    },
+    "items": [
+      {
+        "type": "section1",
+        "verse_numbers": [],
+        "lines": [
+          "LIBRO II"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "section2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmos 42–72"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Masquil de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cual ciervo jadeante en busca del agua,",
+          "así te busca, oh Dios, todo mi ser."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Tengo sed de Dios, del Dios de la vida.",
+          "¿Cuándo podré presentarme ante Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mis lágrimas son mi pan de día y de noche,",
+          "mientras me echan en cara a todas horas:",
+          "«¿Dónde está tu Dios?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Recuerdo esto y me deshago en llanto:",
+          "yo solía ir con la multitud,",
+          "y la conducía a la casa de Dios.",
+          "Entre voces de alegría y acciones de gracias",
+          "hacíamos gran celebración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿Por qué voy a inquietarme?",
+          "¿Por qué me voy a angustiar?",
+          "En Dios pondré mi esperanza",
+          "y todavía lo alabaré.",
+          "¡Él es mi Salvador y mi Dios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Me siento sumamente angustiado;",
+          "por eso, mi Dios, pienso en ti",
+          "desde la tierra del Jordán,",
+          "desde las alturas del Hermón,",
+          "desde el monte Mizar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Un abismo llama a otro abismo",
+          "en el rugir de tus cascadas;",
+          "todas tus ondas y tus olas",
+          "se han precipitado sobre mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Esta es la oración al Dios de mi vida:",
+          "que de día el Señor mande su amor,",
+          "y de noche su canto me acompañe."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Y le digo a Dios, a mi Roca:",
+          "«¿Por qué me has olvidado?",
+          "¿Por qué debo andar de luto",
+          "y oprimido por el enemigo?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Mortal agonía me penetra hasta los huesos",
+          "ante la burla de mis adversarios,",
+          "mientras me echan en cara a todas horas:",
+          "«¿Dónde está tu Dios?»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¿Por qué voy a inquietarme?",
+          "¿Por qué me voy a angustiar?",
+          "En Dios pondré mi esperanza,",
+          "y todavía lo alabaré.",
+          "¡Él es mi Salvador y mi Dios!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

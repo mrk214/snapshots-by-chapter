@@ -1,1 +1,114 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.127","is_chapter":true,"previous":{"usfm":"PSA.126","human":"Salmos 126","canonical":true,"toc":true},"current":{"usfm":"PSA.127","human":"Salmos 127"},"next":{"usfm":"PSA.128","human":"Salmos 128","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Segurança, prosperidade e fecundidade vêm só de Deus"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico dos degraus, de Salomão"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["SE o Senhor não edificar a casa, em vão trabalham os que edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Inútil vos será levantar de madrugada, repousar tarde, comer o pão de dores, pois assim dá ele aos seus amados o sono."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Eis que os filhos são herança do Senhor, e o fruto do ventre o seu galardão."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Como frechas na mão do valente, assim são os filhos da mocidade."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Bem-aventurado o homem que enche deles a sua aljava: não serão confundidos, quando falarem com os seus inimigos à porta."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.126.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.128.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.127",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.126",
+      "human": "Salmos 126"
+    },
+    "current": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "next": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Segurança, prosperidade e fecundidade vêm só de Deus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico dos degraus, de Salomão"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "SE o Senhor não edificar a casa, em vão trabalham os que edificam; se o Senhor não guardar a cidade, em vão vigia a sentinela."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Inútil vos será levantar de madrugada, repousar tarde, comer o pão de dores, pois assim dá ele aos seus amados o sono."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Eis que os filhos são herança do Senhor, e o fruto do ventre o seu galardão."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Como frechas na mão do valente, assim são os filhos da mocidade."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Bem-aventurado o homem que enche deles a sua aljava: não serão confundidos, quando falarem com os seus inimigos à porta."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

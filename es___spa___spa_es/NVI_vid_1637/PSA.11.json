@@ -1,1 +1,139 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.11","is_chapter":true,"previous":{"usfm":"PSA.10","human":"Salmo 10","canonical":true,"toc":true},"current":{"usfm":"PSA.11","human":"Salmo 11"},"next":{"usfm":"PSA.12","human":"Salmo 12","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En el Señor hallo refugio.","¿Cómo, pues, os atrevéis a decirme:","«Huye al monte, como las aves»?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Ved cómo tensan sus arcos los malvados:","preparan las flechas sobre la cuerda","para disparar desde las sombras","contra los rectos de corazón."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Cuando los fundamentos son destruidos,","¿qué le queda al justo?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El Señor está en su santo templo,","en los cielos tiene el Señor su trono,","y atentamente observa al ser humano;","con sus propios ojos lo examina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El Señor examina a justos y a malvados,","y aborrece a los que aman la violencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Hará llover sobre los malvados","ardientes brasas y candente azufre;","¡un viento abrasador será su suerte!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Justo es el Señor, y ama la justicia;","por eso los íntegros contemplarán su rostro."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.12.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.10",
+      "human": "Salmo 10"
+    },
+    "current": {
+      "usfm": "PSA.11",
+      "human": "Salmo 11"
+    },
+    "next": {
+      "usfm": "PSA.12",
+      "human": "Salmo 12"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En el Señor hallo refugio.",
+          "¿Cómo, pues, os atrevéis a decirme:",
+          "«Huye al monte, como las aves»?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Ved cómo tensan sus arcos los malvados:",
+          "preparan las flechas sobre la cuerda",
+          "para disparar desde las sombras",
+          "contra los rectos de corazón."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Cuando los fundamentos son destruidos,",
+          "¿qué le queda al justo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El Señor está en su santo templo,",
+          "en los cielos tiene el Señor su trono,",
+          "y atentamente observa al ser humano;",
+          "con sus propios ojos lo examina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El Señor examina a justos y a malvados,",
+          "y aborrece a los que aman la violencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Hará llover sobre los malvados",
+          "ardientes brasas y candente azufre;",
+          "¡un viento abrasador será su suerte!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Justo es el Señor, y ama la justicia;",
+          "por eso los íntegros contemplarán su rostro."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

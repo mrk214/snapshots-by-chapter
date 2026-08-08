@@ -1,1 +1,314 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"WIS","name":"Sabiduría"},"chapter":{"chapter_usfm":"WIS.15","is_chapter":true,"previous":{"usfm":"WIS.14","human":"Sabiduría 14","canonical":true,"toc":true},"current":{"usfm":"WIS.15","human":"Sabiduría 15"},"next":{"usfm":"WIS.16","human":"Sabiduría 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Israel no adora a falsos dioses"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Tú, Dios nuestro, eres bueno y fiel,","eres paciente y todo lo gobiernas con misericordia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Aunque pequemos, somos tuyos y reconocemos tu poder;","pero no pecaremos, sabiendo que nos consideras tuyos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Conocerte a ti es rectitud perfecta,","y reconocer tu poder es la raíz de la inmortalidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pues no nos hemos dejado engañar","por esos ídolos inventados por la habilidad perversa de los hombres","y por el infructuoso trabajo de los pintores,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["cuya vista despierta pasiones en los hombres sin razón","que se entusiasman con la imagen sin vida de un ídolo muerto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tanto los que hacen ídolos","como los que los aman y les dan culto,","están enamorados del mal","y no merecen esperar nada mejor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Ejemplo del alfarero"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El alfarero, por ejemplo,","amasa laboriosamente el barro blando","y moldea cada vasija que necesitamos;","pero del mismo barro hace por igual","las que sirven para usos nobles","y las que sirven para otros usos;","es él, sin embargo, quien decide","cuál ha de servir para este o aquel uso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Luego, dedicándose a una labor reprobable,","modela con el mismo barro un falso dios;","lo hace un hombre que ayer mismo nació de la tierra","y que pronto volverá a la tierra de donde fue sacado,","cuando tenga que entregar la vida que recibió prestada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["En vez de pensar en que tiene que morir","y en que su vida es corta,","hace competencia a los que trabajan el oro y la plata,","imita a los que labran el bronce","y se siente orgulloso de hacer falsificaciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Su corazón es como ceniza,","su esperanza, más despreciable que la tierra,","su vida vale menos que el barro,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["porque no reconoció a Dios, que lo formó a él,","le infundió un alma activa","y le comunicó aliento de vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El alfarero pensó que la vida es un juego,","y la existencia, un mercado para obtener ganancias.","Dijo: «De todo, hasta del mal,","hay que valerse para hacer dinero.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Este hombre, que hace con el mismo barro","lo mismo ídolos que vasijas que se rompen,","sabe mejor que nadie que comete una acción mala."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Error de los egipcios"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Pero los más faltos de inteligencia","y peores que niños sin razón","fueron los enemigos que oprimieron a tu pueblo,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["pues aceptaron como dioses","a todos los ídolos de las demás naciones,","ídolos que tienen ojos y no pueden ver,","que tienen narices y no pueden respirar,","que tienen oídos y no pueden oír,","que tienen dedos y no pueden tocar,","que tienen pies y no pueden caminar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Ídolos hechos por los hombres,","formados por un ser con vida prestada,","pues ningún hombre es capaz de hacer un dios igual a él;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["siendo mortal, sus manos pecadoras","solo fabrican algo sin vida;","él vale más que los objetos que adora,","pues al menos él tiene vida, y ellos no."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Los egipcios adoran, además,","a los animales más repugnantes,","que, comparados con los demás,","resultan los más estúpidos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["no tienen belleza alguna que los haga atractivos,","como la tienen otros animales;","son animales que no recibieron","la aprobación y bendición de Dios."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.16.json"
+  },
+  "book": {
+    "book_usfm": "WIS",
+    "name": "Sabiduría"
+  },
+  "chapter": {
+    "chapter_usfm": "WIS.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "WIS.14",
+      "human": "Sabiduría 14"
+    },
+    "current": {
+      "usfm": "WIS.15",
+      "human": "Sabiduría 15"
+    },
+    "next": {
+      "usfm": "WIS.16",
+      "human": "Sabiduría 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Israel no adora a falsos dioses"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Tú, Dios nuestro, eres bueno y fiel,",
+          "eres paciente y todo lo gobiernas con misericordia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Aunque pequemos, somos tuyos y reconocemos tu poder;",
+          "pero no pecaremos, sabiendo que nos consideras tuyos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Conocerte a ti es rectitud perfecta,",
+          "y reconocer tu poder es la raíz de la inmortalidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pues no nos hemos dejado engañar",
+          "por esos ídolos inventados por la habilidad perversa de los hombres",
+          "y por el infructuoso trabajo de los pintores,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "cuya vista despierta pasiones en los hombres sin razón",
+          "que se entusiasman con la imagen sin vida de un ídolo muerto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tanto los que hacen ídolos",
+          "como los que los aman y les dan culto,",
+          "están enamorados del mal",
+          "y no merecen esperar nada mejor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ejemplo del alfarero"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El alfarero, por ejemplo,",
+          "amasa laboriosamente el barro blando",
+          "y moldea cada vasija que necesitamos;",
+          "pero del mismo barro hace por igual",
+          "las que sirven para usos nobles",
+          "y las que sirven para otros usos;",
+          "es él, sin embargo, quien decide",
+          "cuál ha de servir para este o aquel uso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Luego, dedicándose a una labor reprobable,",
+          "modela con el mismo barro un falso dios;",
+          "lo hace un hombre que ayer mismo nació de la tierra",
+          "y que pronto volverá a la tierra de donde fue sacado,",
+          "cuando tenga que entregar la vida que recibió prestada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "En vez de pensar en que tiene que morir",
+          "y en que su vida es corta,",
+          "hace competencia a los que trabajan el oro y la plata,",
+          "imita a los que labran el bronce",
+          "y se siente orgulloso de hacer falsificaciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Su corazón es como ceniza,",
+          "su esperanza, más despreciable que la tierra,",
+          "su vida vale menos que el barro,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "porque no reconoció a Dios, que lo formó a él,",
+          "le infundió un alma activa",
+          "y le comunicó aliento de vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El alfarero pensó que la vida es un juego,",
+          "y la existencia, un mercado para obtener ganancias.",
+          "Dijo: «De todo, hasta del mal,",
+          "hay que valerse para hacer dinero.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Este hombre, que hace con el mismo barro",
+          "lo mismo ídolos que vasijas que se rompen,",
+          "sabe mejor que nadie que comete una acción mala."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Error de los egipcios"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Pero los más faltos de inteligencia",
+          "y peores que niños sin razón",
+          "fueron los enemigos que oprimieron a tu pueblo,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "pues aceptaron como dioses",
+          "a todos los ídolos de las demás naciones,",
+          "ídolos que tienen ojos y no pueden ver,",
+          "que tienen narices y no pueden respirar,",
+          "que tienen oídos y no pueden oír,",
+          "que tienen dedos y no pueden tocar,",
+          "que tienen pies y no pueden caminar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Ídolos hechos por los hombres,",
+          "formados por un ser con vida prestada,",
+          "pues ningún hombre es capaz de hacer un dios igual a él;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "siendo mortal, sus manos pecadoras",
+          "solo fabrican algo sin vida;",
+          "él vale más que los objetos que adora,",
+          "pues al menos él tiene vida, y ellos no."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Los egipcios adoran, además,",
+          "a los animales más repugnantes,",
+          "que, comparados con los demás,",
+          "resultan los más estúpidos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "no tienen belleza alguna que los haga atractivos,",
+          "como la tienen otros animales;",
+          "son animales que no recibieron",
+          "la aprobación y bendición de Dios."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

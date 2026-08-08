@@ -1,1 +1,144 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.121","is_chapter":true,"previous":{"usfm":"PSA.120","human":"Psalm 120","canonical":true,"toc":true},"current":{"usfm":"PSA.121","human":"Psalm 121"},"next":{"usfm":"PSA.122","human":"Psalm 122","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Song of degrees."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I will lift up mine eyes unto the hills,","From whence cometh my help."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["My help cometh from the LORD,","Which made heaven and earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["He will not suffer thy foot to be moved:","He that keepeth thee will not slumber."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Behold, he that keepeth Israel","Shall neither slumber nor sleep."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The LORD is thy keeper:","The LORD is thy shade upon thy right hand."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The sun shall not smite thee by day,","Nor the moon by night."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["The LORD shall preserve thee from all evil:","He shall preserve thy soul."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The LORD shall preserve thy going out and thy coming in","From this time forth, and even for evermore."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.120.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.122.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.121",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.120",
+      "human": "Psalm 120"
+    },
+    "current": {
+      "usfm": "PSA.121",
+      "human": "Psalm 121"
+    },
+    "next": {
+      "usfm": "PSA.122",
+      "human": "Psalm 122"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of degrees."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I will lift up mine eyes unto the hills,",
+          "From whence cometh my help."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "My help cometh from the LORD,",
+          "Which made heaven and earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "He will not suffer thy foot to be moved:",
+          "He that keepeth thee will not slumber."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Behold, he that keepeth Israel",
+          "Shall neither slumber nor sleep."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The LORD is thy keeper:",
+          "The LORD is thy shade upon thy right hand."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The sun shall not smite thee by day,",
+          "Nor the moon by night."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "The LORD shall preserve thee from all evil:",
+          "He shall preserve thy soul."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The LORD shall preserve thy going out and thy coming in",
+          "From this time forth, and even for evermore."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

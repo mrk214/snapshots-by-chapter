@@ -1,1 +1,145 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.11","is_chapter":true,"previous":{"usfm":"PSA.10","human":"Psalm 10","canonical":true,"toc":true},"current":{"usfm":"PSA.11","human":"Psalm 11"},"next":{"usfm":"PSA.12","human":"Psalm 12","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord Is in His Holy Temple"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster. Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["In the Lord I take refuge;","how can you say to my soul,","“Flee like a bird to your mountain,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["for behold, the wicked bend the bow;","they have fitted their arrow to the string","to shoot in the dark at the upright in heart;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["if the foundations are destroyed,","what can the righteous do?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["The Lord is in his holy temple;","the Lord’s throne is in heaven;","his eyes see, his eyelids test the children of man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["The Lord tests the righteous,","but his soul hates the wicked and the one who loves violence."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Let him rain coals on the wicked;","fire and sulfur and a scorching wind shall be the portion of their cup."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["For the Lord is righteous;","he loves righteous deeds;","the upright shall behold his face."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.10.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.12.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.11",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.10",
+      "human": "Psalm 10"
+    },
+    "current": {
+      "usfm": "PSA.11",
+      "human": "Psalm 11"
+    },
+    "next": {
+      "usfm": "PSA.12",
+      "human": "Psalm 12"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord Is in His Holy Temple"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster. Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "In the Lord I take refuge;",
+          "how can you say to my soul,",
+          "“Flee like a bird to your mountain,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "for behold, the wicked bend the bow;",
+          "they have fitted their arrow to the string",
+          "to shoot in the dark at the upright in heart;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "if the foundations are destroyed,",
+          "what can the righteous do?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "The Lord is in his holy temple;",
+          "the Lord’s throne is in heaven;",
+          "his eyes see, his eyelids test the children of man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "The Lord tests the righteous,",
+          "but his soul hates the wicked and the one who loves violence."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Let him rain coals on the wicked;",
+          "fire and sulfur and a scorching wind shall be the portion of their cup."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "For the Lord is righteous;",
+          "he loves righteous deeds;",
+          "the upright shall behold his face."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

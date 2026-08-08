@@ -1,1 +1,234 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"JAS","name":"Santiago"},"chapter":{"chapter_usfm":"JAS.4","is_chapter":true,"previous":{"usfm":"JAS.3","human":"Santiago 3","canonical":true,"toc":true},"current":{"usfm":"JAS.4","human":"Santiago 4"},"next":{"usfm":"JAS.5","human":"Santiago 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Guerras y conflictos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¿De dónde vienen las guerras y los conflictos entre vosotros? ¿No vienen de vuestras pasiones que combaten en vuestros miembros?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Codiciáis y no tenéis, por eso cometéis homicidio. Sois envidiosos y no podéis obtener, por eso combatís y hacéis guerra. No tenéis, porque no pedís."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Pedís y no recibís, porque pedís con malos propósitos, para gastarlo en vuestros placeres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad hacia Dios? Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¿O pensáis que la Escritura dice en vano: El celosamente anhela el Espíritu que ha hecho morar en nosotros?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Pero Él da mayor gracia. Por eso dice: Dios resiste a los soberbios pero da gracia a los humildes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por tanto, someteos a Dios. Resistid, pues, al diablo y huirá de vosotros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Acercaos a Dios, y Él se acercará a vosotros. Limpiad vuestras manos, pecadores; y vosotros de doble ánimo, purificad vuestros corazones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Afligíos, lamentad y llorad; que vuestra risa se torne en llanto y vuestro gozo en tristeza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Humillaos en la presencia del Señor y Él os exaltará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Hermanos, no habléis mal los unos de los otros. El que habla mal de un hermano o juzga a su hermano, habla mal de la ley y juzga a la ley; pero si tú juzgas a la ley, no eres cumplidor de la ley, sino juez de ella."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Solo hay un dador de la ley y juez, que es poderoso para salvar y para destruir; pero tú, ¿quién eres que juzgas a tu prójimo?"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["La incertidumbre de la vida"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Oíd ahora, los que decís: Hoy o mañana iremos a tal o cual ciudad y pasaremos allá un año, haremos negocio y tendremos ganancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Sin embargo, no sabéis cómo será vuestra vida mañana. Solo sois un vapor que aparece por un poco de tiempo y luego se desvanece."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Más bien, debierais decir: Si el Señor quiere, viviremos y haremos esto o aquello."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Pero ahora os jactáis en vuestra arrogancia; toda jactancia semejante es mala."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JAS.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JAS.5.json"
+  },
+  "book": {
+    "book_usfm": "JAS",
+    "name": "Santiago"
+  },
+  "chapter": {
+    "chapter_usfm": "JAS.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JAS.3",
+      "human": "Santiago 3"
+    },
+    "current": {
+      "usfm": "JAS.4",
+      "human": "Santiago 4"
+    },
+    "next": {
+      "usfm": "JAS.5",
+      "human": "Santiago 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Guerras y conflictos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¿De dónde vienen las guerras y los conflictos entre vosotros? ¿No vienen de vuestras pasiones que combaten en vuestros miembros?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Codiciáis y no tenéis, por eso cometéis homicidio. Sois envidiosos y no podéis obtener, por eso combatís y hacéis guerra. No tenéis, porque no pedís."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Pedís y no recibís, porque pedís con malos propósitos, para gastarlo en vuestros placeres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Oh almas adúlteras! ¿No sabéis que la amistad del mundo es enemistad hacia Dios? Por tanto, el que quiere ser amigo del mundo, se constituye enemigo de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¿O pensáis que la Escritura dice en vano: El celosamente anhela el Espíritu que ha hecho morar en nosotros?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Pero Él da mayor gracia. Por eso dice: Dios resiste a los soberbios pero da gracia a los humildes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por tanto, someteos a Dios. Resistid, pues, al diablo y huirá de vosotros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Acercaos a Dios, y Él se acercará a vosotros. Limpiad vuestras manos, pecadores; y vosotros de doble ánimo, purificad vuestros corazones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Afligíos, lamentad y llorad; que vuestra risa se torne en llanto y vuestro gozo en tristeza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Humillaos en la presencia del Señor y Él os exaltará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Hermanos, no habléis mal los unos de los otros. El que habla mal de un hermano o juzga a su hermano, habla mal de la ley y juzga a la ley; pero si tú juzgas a la ley, no eres cumplidor de la ley, sino juez de ella."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Solo hay un dador de la ley y juez, que es poderoso para salvar y para destruir; pero tú, ¿quién eres que juzgas a tu prójimo?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "La incertidumbre de la vida"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Oíd ahora, los que decís: Hoy o mañana iremos a tal o cual ciudad y pasaremos allá un año, haremos negocio y tendremos ganancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Sin embargo, no sabéis cómo será vuestra vida mañana. Solo sois un vapor que aparece por un poco de tiempo y luego se desvanece."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Más bien, debierais decir: Si el Señor quiere, viviremos y haremos esto o aquello."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Pero ahora os jactáis en vuestra arrogancia; toda jactancia semejante es mala."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "A aquel, pues, que sabe hacer lo bueno y no lo hace, le es pecado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

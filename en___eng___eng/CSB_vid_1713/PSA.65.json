@@ -1,1 +1,218 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.65","is_chapter":true,"previous":{"usfm":"PSA.64","human":"Psalms 64","canonical":true,"toc":true},"current":{"usfm":"PSA.65","human":"Psalms 65"},"next":{"usfm":"PSA.66","human":"Psalms 66","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["God’s Care for the Earth"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director. A psalm of David. A song."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Praise is rightfully yours,","God, in Zion;","vows to you will be fulfilled."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["All humanity will come to you,","the one who hears prayer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Iniquities overwhelm me;","only you can atone for our rebellions."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["How happy is the one you choose","and bring near to live in your courts!","We will be satisfied with the goodness of your house,","the holiness of your temple. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["You answer us in righteousness,","with awe-inspiring works,","God of our salvation,","the hope of all the ends of the earth","and of the distant seas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["You establish the mountains by your power;","you are robed with strength."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["You silence the roar of the seas,","the roar of their waves,","and the tumult of the nations."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Those who live far away are awed by your signs;","you make east and west shout for joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["You visit the earth and water it abundantly,","enriching it greatly.","God’s stream is filled with water,","for you prepare the earth in this way,","providing people with grain."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["You soften it with showers and bless its growth,","soaking its furrows and leveling its ridges."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["You crown the year with your goodness;","your carts overflow with plenty. ,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["The wilderness pastures overflow,","and the hills are robed with joy."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["The pastures are clothed with flocks","and the valleys covered with grain.","They shout in triumph; indeed, they sing."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.64.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.66.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.65",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.64",
+      "human": "Psalms 64"
+    },
+    "current": {
+      "usfm": "PSA.65",
+      "human": "Psalms 65"
+    },
+    "next": {
+      "usfm": "PSA.66",
+      "human": "Psalms 66"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "God’s Care for the Earth"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director. A psalm of David. A song."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Praise is rightfully yours,",
+          "God, in Zion;",
+          "vows to you will be fulfilled."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "All humanity will come to you,",
+          "the one who hears prayer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Iniquities overwhelm me;",
+          "only you can atone for our rebellions."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "How happy is the one you choose",
+          "and bring near to live in your courts!",
+          "We will be satisfied with the goodness of your house,",
+          "the holiness of your temple. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "You answer us in righteousness,",
+          "with awe-inspiring works,",
+          "God of our salvation,",
+          "the hope of all the ends of the earth",
+          "and of the distant seas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "You establish the mountains by your power;",
+          "you are robed with strength."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "You silence the roar of the seas,",
+          "the roar of their waves,",
+          "and the tumult of the nations."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Those who live far away are awed by your signs;",
+          "you make east and west shout for joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "You visit the earth and water it abundantly,",
+          "enriching it greatly.",
+          "God’s stream is filled with water,",
+          "for you prepare the earth in this way,",
+          "providing people with grain."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "You soften it with showers and bless its growth,",
+          "soaking its furrows and leveling its ridges."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "You crown the year with your goodness;",
+          "your carts overflow with plenty. ,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "The wilderness pastures overflow,",
+          "and the hills are robed with joy."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "The pastures are clothed with flocks",
+          "and the valleys covered with grain.",
+          "They shout in triumph; indeed, they sing."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

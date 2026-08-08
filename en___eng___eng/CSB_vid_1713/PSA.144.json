@@ -1,1 +1,242 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.144","is_chapter":true,"previous":{"usfm":"PSA.143","human":"Psalms 143","canonical":true,"toc":true},"current":{"usfm":"PSA.144","human":"Psalms 144"},"next":{"usfm":"PSA.145","human":"Psalms 145","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A King’s Prayer"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Blessed be the Lord, my rock","who trains my hands for battle","and my fingers for warfare."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["He is my faithful love and my fortress,","my stronghold and my deliverer.","He is my shield, and I take refuge in him;","he subdues my people under me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Lord, what is a human that you care for him,","a son of man that you think of him?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["A human is like a breath;","his days are like a passing shadow."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Lord, part your heavens and come down.","Touch the mountains, and they will smoke."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Flash your lightning and scatter the foe;","shoot your arrows and rout them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Reach down from on high;","rescue me from deep water, and set me free","from the grasp of foreigners"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["whose mouths speak lies,","whose right hands are deceptive."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["God, I will sing a new song to you;","I will play on a ten-stringed harp for you —"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["the one who gives victory to kings,","who frees his servant David","from the deadly sword."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Set me free and rescue me","from foreigners","whose mouths speak lies,","whose right hands are deceptive."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Then our sons will be like plants","nurtured in their youth,","our daughters, like corner pillars","that are carved in the palace style."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Our storehouses will be full,","supplying all kinds of produce;","our flocks will increase by thousands","and tens of thousands in our open fields."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Our cattle will be well fed.","There will be no breach in the walls,","no going into captivity,","and no cry of lament in our public squares."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Happy are the people with such blessings.","Happy are the people whose God is the Lord."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.143.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.145.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.144",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.143",
+      "human": "Psalms 143"
+    },
+    "current": {
+      "usfm": "PSA.144",
+      "human": "Psalms 144"
+    },
+    "next": {
+      "usfm": "PSA.145",
+      "human": "Psalms 145"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A King’s Prayer"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Blessed be the Lord, my rock",
+          "who trains my hands for battle",
+          "and my fingers for warfare."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "He is my faithful love and my fortress,",
+          "my stronghold and my deliverer.",
+          "He is my shield, and I take refuge in him;",
+          "he subdues my people under me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Lord, what is a human that you care for him,",
+          "a son of man that you think of him?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "A human is like a breath;",
+          "his days are like a passing shadow."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Lord, part your heavens and come down.",
+          "Touch the mountains, and they will smoke."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Flash your lightning and scatter the foe;",
+          "shoot your arrows and rout them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Reach down from on high;",
+          "rescue me from deep water, and set me free",
+          "from the grasp of foreigners"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "whose mouths speak lies,",
+          "whose right hands are deceptive."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "God, I will sing a new song to you;",
+          "I will play on a ten-stringed harp for you —"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "the one who gives victory to kings,",
+          "who frees his servant David",
+          "from the deadly sword."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Set me free and rescue me",
+          "from foreigners",
+          "whose mouths speak lies,",
+          "whose right hands are deceptive."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Then our sons will be like plants",
+          "nurtured in their youth,",
+          "our daughters, like corner pillars",
+          "that are carved in the palace style."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Our storehouses will be full,",
+          "supplying all kinds of produce;",
+          "our flocks will increase by thousands",
+          "and tens of thousands in our open fields."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Our cattle will be well fed.",
+          "There will be no breach in the walls,",
+          "no going into captivity,",
+          "and no cry of lament in our public squares."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Happy are the people with such blessings.",
+          "Happy are the people whose God is the Lord."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}

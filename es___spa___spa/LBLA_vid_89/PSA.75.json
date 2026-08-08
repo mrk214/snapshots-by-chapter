@@ -1,1 +1,192 @@
-{"version":{"version_id":89,"local_abbreviation":"LBLA","local_title":"La Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997 by The Lockman Foundation","text":"1986, 1995, 1997 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.75","is_chapter":true,"previous":{"usfm":"PSA.74","human":"Salmo 74","canonical":true,"toc":true},"current":{"usfm":"PSA.75","human":"Salmo 75"},"next":{"usfm":"PSA.76","human":"Salmo 76","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 75"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Dios humilla al orgulloso y exalta al justo"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Para el director del coro; según tonada de No destruyas. Salmo de Asaf. Cántico."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Te damos gracias, oh Dios, te damos gracias,","pues cercano está tu nombre;","los hombres declaran tus maravillas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Cuando yo escoja el tiempo oportuno,","seré yo quien juzgará con equidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tiemblan la tierra y todos sus moradores,","mas yo sostengo sus columnas."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Dije a los orgullosos: No os jactéis;","y a los impíos: No alcéis la frente;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["no levantéis en alto vuestra frente;","no habléis con orgullo insolente."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Porque ni del oriente ni del occidente,","ni del desierto viene el enaltecimiento;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["sino que Dios es el juez;","a uno humilla y a otro ensalza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Porque hay un cáliz en la mano del Señor, y el vino fermenta,","lleno de mixtura, y de este Él sirve;","ciertamente lo sorberán hasta las heces y lo beberán todos los impíos de la tierra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¶Pero yo lo anunciaré para siempre;","cantaré alabanzas al Dios de Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Quebraré todo el poderío de los impíos,","pero el poderío del justo será ensalzado."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.74.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/PSA.76.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.75",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.74",
+      "human": "Salmo 74"
+    },
+    "current": {
+      "usfm": "PSA.75",
+      "human": "Salmo 75"
+    },
+    "next": {
+      "usfm": "PSA.76",
+      "human": "Salmo 76"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 75"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Dios humilla al orgulloso y exalta al justo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Para el director del coro; según tonada de No destruyas. Salmo de Asaf. Cántico."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Te damos gracias, oh Dios, te damos gracias,",
+          "pues cercano está tu nombre;",
+          "los hombres declaran tus maravillas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Cuando yo escoja el tiempo oportuno,",
+          "seré yo quien juzgará con equidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tiemblan la tierra y todos sus moradores,",
+          "mas yo sostengo sus columnas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Dije a los orgullosos: No os jactéis;",
+          "y a los impíos: No alcéis la frente;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "no levantéis en alto vuestra frente;",
+          "no habléis con orgullo insolente."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Porque ni del oriente ni del occidente,",
+          "ni del desierto viene el enaltecimiento;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "sino que Dios es el juez;",
+          "a uno humilla y a otro ensalza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Porque hay un cáliz en la mano del Señor, y el vino fermenta,",
+          "lleno de mixtura, y de este Él sirve;",
+          "ciertamente lo sorberán hasta las heces y lo beberán todos los impíos de la tierra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¶Pero yo lo anunciaré para siempre;",
+          "cantaré alabanzas al Dios de Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Quebraré todo el poderío de los impíos,",
+          "pero el poderío del justo será ensalzado."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 89,
+    "local_abbreviation": "LBLA",
+    "local_title": "La Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997 by The Lockman Foundation",
+      "text": "1986, 1995, 1997 by The Lockman Foundation"
+    }
+  }
+}

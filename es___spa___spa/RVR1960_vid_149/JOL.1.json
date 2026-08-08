@@ -1,1 +1,256 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"JOL","name":"Joel"},"chapter":{"chapter_usfm":"JOL.1","is_chapter":true,"previous":{"usfm":"JOL.INTRO1","human":"Joel JOEL","canonical":false,"toc":true},"current":{"usfm":"JOL.1","human":"Joel 1"},"next":{"usfm":"JOL.2","human":"Joel 2","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Devastación de la tierra por la langosta"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Palabra de Jehová que vino a Joel, hijo de Petuel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Oíd esto, ancianos, y escuchad, todos los moradores de la tierra. ¿Ha acontecido esto en vuestros días, o en los días de vuestros padres?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["De esto contaréis a vuestros hijos, y vuestros hijos a sus hijos, y sus hijos a la otra generación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Lo que quedó de la oruga comió el saltón, y lo que quedó del saltón comió el revoltón; y la langosta comió lo que del revoltón había quedado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Despertad, borrachos, y llorad; gemid, todos los que bebéis vino, a causa del mosto, porque os es quitado de vuestra boca."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque pueblo fuerte e innumerable subió a mi tierra; sus dientes son dientes de león, y sus muelas, muelas de león."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Asoló mi vid, y descortezó mi higuera; del todo la desnudó y derribó; sus ramas quedaron blancas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Llora tú como joven vestida de cilicio por el marido de su juventud."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Desapareció de la casa de Jehová la ofrenda y la libación; los sacerdotes ministros de Jehová están de duelo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El campo está asolado, se enlutó la tierra; porque el trigo fue destruido, se secó el mosto, se perdió el aceite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Confundíos, labradores; gemid, viñeros, por el trigo y la cebada, porque se perdió la mies del campo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["La vid está seca, y pereció la higuera; el granado también, la palmera y el manzano; todos los árboles del campo se secaron, por lo cual se extinguió el gozo de los hijos de los hombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Ceñíos y lamentad, sacerdotes; gemid, ministros del altar; venid, dormid en cilicio, ministros de mi Dios; porque quitada es de la casa de vuestro Dios la ofrenda y la libación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Proclamad ayuno, convocad a asamblea; congregad a los ancianos y a todos los moradores de la tierra en la casa de Jehová vuestro Dios, y clamad a Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["¡Ay del día! porque cercano está el día de Jehová, y vendrá como destrucción por el Todopoderoso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["¿No fue arrebatado el alimento de delante de nuestros ojos, la alegría y el placer de la casa de nuestro Dios?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El grano se pudrió debajo de los terrones, los graneros fueron asolados, los alfolíes destruidos; porque se secó el trigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["¡Cómo gimieron las bestias! ¡Cuán turbados anduvieron los hatos de los bueyes, porque no tuvieron pastos! También fueron asolados los rebaños de las ovejas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["A ti, oh Jehová, clamaré; porque fuego consumió los pastos del desierto, y llama abrasó todos los árboles del campo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Las bestias del campo bramarán también a ti, porque se secaron los arroyos de las aguas, y fuego consumió las praderas del desierto."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOL.INTRO1.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JOL.2.json"
+  },
+  "book": {
+    "book_usfm": "JOL",
+    "name": "Joel"
+  },
+  "chapter": {
+    "chapter_usfm": "JOL.1",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOL.INTRO1",
+      "human": "Joel JOEL"
+    },
+    "current": {
+      "usfm": "JOL.1",
+      "human": "Joel 1"
+    },
+    "next": {
+      "usfm": "JOL.2",
+      "human": "Joel 2"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Devastación de la tierra por la langosta"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Palabra de Jehová que vino a Joel, hijo de Petuel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Oíd esto, ancianos, y escuchad, todos los moradores de la tierra. ¿Ha acontecido esto en vuestros días, o en los días de vuestros padres?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "De esto contaréis a vuestros hijos, y vuestros hijos a sus hijos, y sus hijos a la otra generación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Lo que quedó de la oruga comió el saltón, y lo que quedó del saltón comió el revoltón; y la langosta comió lo que del revoltón había quedado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Despertad, borrachos, y llorad; gemid, todos los que bebéis vino, a causa del mosto, porque os es quitado de vuestra boca."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque pueblo fuerte e innumerable subió a mi tierra; sus dientes son dientes de león, y sus muelas, muelas de león."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Asoló mi vid, y descortezó mi higuera; del todo la desnudó y derribó; sus ramas quedaron blancas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Llora tú como joven vestida de cilicio por el marido de su juventud."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Desapareció de la casa de Jehová la ofrenda y la libación; los sacerdotes ministros de Jehová están de duelo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El campo está asolado, se enlutó la tierra; porque el trigo fue destruido, se secó el mosto, se perdió el aceite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Confundíos, labradores; gemid, viñeros, por el trigo y la cebada, porque se perdió la mies del campo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "La vid está seca, y pereció la higuera; el granado también, la palmera y el manzano; todos los árboles del campo se secaron, por lo cual se extinguió el gozo de los hijos de los hombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Ceñíos y lamentad, sacerdotes; gemid, ministros del altar; venid, dormid en cilicio, ministros de mi Dios; porque quitada es de la casa de vuestro Dios la ofrenda y la libación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Proclamad ayuno, convocad a asamblea; congregad a los ancianos y a todos los moradores de la tierra en la casa de Jehová vuestro Dios, y clamad a Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "¡Ay del día! porque cercano está el día de Jehová, y vendrá como destrucción por el Todopoderoso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "¿No fue arrebatado el alimento de delante de nuestros ojos, la alegría y el placer de la casa de nuestro Dios?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El grano se pudrió debajo de los terrones, los graneros fueron asolados, los alfolíes destruidos; porque se secó el trigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "¡Cómo gimieron las bestias! ¡Cuán turbados anduvieron los hatos de los bueyes, porque no tuvieron pastos! También fueron asolados los rebaños de las ovejas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "A ti, oh Jehová, clamaré; porque fuego consumió los pastos del desierto, y llama abrasó todos los árboles del campo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Las bestias del campo bramarán también a ti, porque se secaron los arroyos de las aguas, y fuego consumió las praderas del desierto."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

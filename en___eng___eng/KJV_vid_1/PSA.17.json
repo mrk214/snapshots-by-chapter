@@ -1,1 +1,222 @@
-{"version":{"version_id":1,"local_abbreviation":"KJV","local_title":"King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Cambridge Univ. Press & BFBS"},"copyright":{"html":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.","text":"Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.17","is_chapter":true,"previous":{"usfm":"PSA.16","human":"Psalm 16","canonical":true,"toc":true},"current":{"usfm":"PSA.17","human":"Psalm 17"},"next":{"usfm":"PSA.18","human":"Psalm 18","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A Prayer of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Hear the right, O LORD, attend unto my cry,","Give ear unto my prayer, that goeth not out of feigned lips."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let my sentence come forth from thy presence;","Let thine eyes behold the things that are equal."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Thou hast proved mine heart; thou hast visited me in the night; Thou hast tried me, and shalt find nothing;","I am purposed that my mouth shall not transgress."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Concerning the works of men, by the word of thy lips","I have kept me from the paths of the destroyer."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Hold up my goings in thy paths, that my footsteps slip not."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["I have called upon thee, for thou wilt hear me, O God:","Incline thine ear unto me, and hear my speech."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee","From those that rise up against them."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Keep me as the apple of the eye,","Hide me under the shadow of thy wings,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["From the wicked that oppress me,","From my deadly enemies, who compass me about."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["They are inclosed in their own fat:","With their mouth they speak proudly."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["They have now compassed us in our steps:","They have set their eyes bowing down to the earth;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Like as a lion that is greedy of his prey,","And as it were a young lion lurking in secret places."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Arise, O LORD, disappoint him, cast him down:","Deliver my soul from the wicked, which is thy sword:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["From men which are thy hand, O LORD, from men of the world,","Which have their portion in this life, and whose belly thou fillest with thy hid treasure:","They are full of children,","And leave the rest of their substance to their babes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["As for me, I will behold thy face in righteousness:","I shall be satisfied, when I awake, with thy likeness."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.16.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.18.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.17",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.16",
+      "human": "Psalm 16"
+    },
+    "current": {
+      "usfm": "PSA.17",
+      "human": "Psalm 17"
+    },
+    "next": {
+      "usfm": "PSA.18",
+      "human": "Psalm 18"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Prayer of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Hear the right, O LORD, attend unto my cry,",
+          "Give ear unto my prayer, that goeth not out of feigned lips."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let my sentence come forth from thy presence;",
+          "Let thine eyes behold the things that are equal."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Thou hast proved mine heart; thou hast visited me in the night; Thou hast tried me, and shalt find nothing;",
+          "I am purposed that my mouth shall not transgress."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Concerning the works of men, by the word of thy lips",
+          "I have kept me from the paths of the destroyer."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Hold up my goings in thy paths, that my footsteps slip not."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "I have called upon thee, for thou wilt hear me, O God:",
+          "Incline thine ear unto me, and hear my speech."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Shew thy marvellous lovingkindness, O thou that savest by thy right hand them which put their trust in thee",
+          "From those that rise up against them."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Keep me as the apple of the eye,",
+          "Hide me under the shadow of thy wings,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "From the wicked that oppress me,",
+          "From my deadly enemies, who compass me about."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "They are inclosed in their own fat:",
+          "With their mouth they speak proudly."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "They have now compassed us in our steps:",
+          "They have set their eyes bowing down to the earth;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Like as a lion that is greedy of his prey,",
+          "And as it were a young lion lurking in secret places."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Arise, O LORD, disappoint him, cast him down:",
+          "Deliver my soul from the wicked, which is thy sword:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "From men which are thy hand, O LORD, from men of the world,",
+          "Which have their portion in this life, and whose belly thou fillest with thy hid treasure:",
+          "They are full of children,",
+          "And leave the rest of their substance to their babes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "As for me, I will behold thy face in righteousness:",
+          "I shall be satisfied, when I awake, with thy likeness."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1,
+    "local_abbreviation": "KJV",
+    "local_title": "King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Cambridge Univ. Press & BFBS"
+    },
+    "copyright": {
+      "html": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press.",
+      "text": "Rights in the Authorized (King James) Version in the United Kingdom are vested in the Crown. Published by permission of the Crown’s patentee, Cambridge University Press."
+    }
+  }
+}

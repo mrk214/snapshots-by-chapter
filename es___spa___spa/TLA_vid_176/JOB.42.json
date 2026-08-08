@@ -1,1 +1,249 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.42","is_chapter":true,"previous":{"usfm":"JOB.41","human":"Job 41","canonical":true,"toc":true},"current":{"usfm":"JOB.42","human":"Job 42"},"next":{"usfm":"PSA.INTRO1","human":"Salmos Introducción","canonical":false,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Respuesta final de Job"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces Job le respondió a Dios:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Reconozco tu gran poder;","nadie puede impedirte","llevar a cabo tus planes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Tú preguntas quién soy yo,","que siendo un ignorante","he puesto en duda tu sabiduría.","Reconozco que he dicho cosas","que no alcanzo a comprender,","cosas que son maravillosas","y que en realidad no conozco."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["»Tú dijiste:","“Ahora yo voy a hablar,","y tú me vas a escuchar”."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Lo que antes sabía de ti","era lo que me habían contado,","pero ahora mis ojos te han visto,","y he llegado a conocerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Así que retiro lo dicho,","y te ruego me perdones»."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Un final feliz"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Después de haber hablado con Job, Dios se dirigió a Elifaz y le dijo:","«Estoy muy enojado contigo y con tus dos amigos. Lo que han dicho ustedes de mí no es verdad; en cambio, es verdad lo que ha dicho Job."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así que ahora acompañen a Job, y quemen en mi honor siete toros y siete carneros, para que yo los perdone. Job me rogará por ustedes, y en atención a sus ruegos no los haré quedar en vergüenza. Pero reconozcan que, a diferencia de Job, lo que han dicho ustedes de mí no es verdad»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Entonces Elifaz, Bildad y Zofar fueron y cumplieron con lo que Dios les mandó hacer, y Dios atendió a los ruegos de Job."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Después de que Job oró por sus amigos, Dios hizo que Job volviera a prosperar, y le devolvió el doble de lo que antes tenía."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Todos sus hermanos y hermanas, y todos los que antes lo habían conocido, fueron a visitarlo y celebraron una gran fiesta. Lo animaron y lo consolaron por todas las tragedias que Dios le había enviado, y cada uno de ellos le regaló una moneda de plata y un anillo de oro."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["En sus últimos años de vida, Job recibió de Dios más bendiciones que en los primeros, pues llegó a tener catorce mil ovejas, seis mil camellos, dos mil bueyes y mil burras;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["además, tuvo catorce hijos y tres hijas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["A la primera de ellas la llamó Paloma, a la segunda la llamó Jazmín, y a la tercera la llamó Azucena."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Estas tres hijas de Job eran las mujeres más hermosas del país, y tanto a ellas como a sus hermanos, Job les dejó una herencia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Job vivió todavía ciento cuarenta años, y llegó a ver a sus hijos y nietos, hasta la cuarta generación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Luego de haber disfrutado de una larga vida, murió siendo ya muy anciano."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JOB.41.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.INTRO1.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.42",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.41",
+      "human": "Job 41"
+    },
+    "current": {
+      "usfm": "JOB.42",
+      "human": "Job 42"
+    },
+    "next": {
+      "usfm": "PSA.INTRO1",
+      "human": "Salmos Introducción"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Respuesta final de Job"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces Job le respondió a Dios:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Reconozco tu gran poder;",
+          "nadie puede impedirte",
+          "llevar a cabo tus planes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Tú preguntas quién soy yo,",
+          "que siendo un ignorante",
+          "he puesto en duda tu sabiduría.",
+          "Reconozco que he dicho cosas",
+          "que no alcanzo a comprender,",
+          "cosas que son maravillosas",
+          "y que en realidad no conozco."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "»Tú dijiste:",
+          "“Ahora yo voy a hablar,",
+          "y tú me vas a escuchar”."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Lo que antes sabía de ti",
+          "era lo que me habían contado,",
+          "pero ahora mis ojos te han visto,",
+          "y he llegado a conocerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Así que retiro lo dicho,",
+          "y te ruego me perdones»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Un final feliz"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Después de haber hablado con Job, Dios se dirigió a Elifaz y le dijo:",
+          "«Estoy muy enojado contigo y con tus dos amigos. Lo que han dicho ustedes de mí no es verdad; en cambio, es verdad lo que ha dicho Job."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así que ahora acompañen a Job, y quemen en mi honor siete toros y siete carneros, para que yo los perdone. Job me rogará por ustedes, y en atención a sus ruegos no los haré quedar en vergüenza. Pero reconozcan que, a diferencia de Job, lo que han dicho ustedes de mí no es verdad»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Entonces Elifaz, Bildad y Zofar fueron y cumplieron con lo que Dios les mandó hacer, y Dios atendió a los ruegos de Job."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Después de que Job oró por sus amigos, Dios hizo que Job volviera a prosperar, y le devolvió el doble de lo que antes tenía."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Todos sus hermanos y hermanas, y todos los que antes lo habían conocido, fueron a visitarlo y celebraron una gran fiesta. Lo animaron y lo consolaron por todas las tragedias que Dios le había enviado, y cada uno de ellos le regaló una moneda de plata y un anillo de oro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "En sus últimos años de vida, Job recibió de Dios más bendiciones que en los primeros, pues llegó a tener catorce mil ovejas, seis mil camellos, dos mil bueyes y mil burras;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "además, tuvo catorce hijos y tres hijas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "A la primera de ellas la llamó Paloma, a la segunda la llamó Jazmín, y a la tercera la llamó Azucena."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Estas tres hijas de Job eran las mujeres más hermosas del país, y tanto a ellas como a sus hermanos, Job les dejó una herencia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Job vivió todavía ciento cuarenta años, y llegó a ver a sus hijos y nietos, hasta la cuarta generación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Luego de haber disfrutado de una larga vida, murió siendo ya muy anciano."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

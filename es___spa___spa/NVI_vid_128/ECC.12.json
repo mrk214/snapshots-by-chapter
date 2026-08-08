@@ -1,1 +1,228 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"ECC","name":"Eclesiastés"},"chapter":{"chapter_usfm":"ECC.12","is_chapter":true,"previous":{"usfm":"ECC.11","human":"Eclesiastés 11","canonical":true,"toc":true},"current":{"usfm":"ECC.12","human":"Eclesiastés 12"},"next":{"usfm":"SNG.1","human":"Cantares 1","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["Acuérdate de tu Creador","en los días de tu juventud,","antes de que lleguen los días malos","y vengan los años en que digas:","«No encuentro en ellos placer alguno»;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["antes de que dejen de brillar","el sol y la luz, la luna y las estrellas,","y vuelvan las nubes después de la lluvia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Un día temblarán los guardianes de la casa","y los fuertes caminarán encorvados;","se detendrán las que muelen por ser pocas,","y verán borrosos los que miran por las ventanas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se irán cerrando las puertas de la calle,","irá disminuyendo el ruido del molino;","las aves elevarán su canto,","pero apagados se oirán sus trinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Sobrevendrá el temor por las alturas","y por los peligros del camino.","Florecerá el almendro,","la langosta resultará onerosa","y se perderá el deseo,","pues el hombre se encamina al hogar eterno","y rondan ya en la calle los que lloran su muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Acuérdate de tu Creador","antes de que se rompa el cordón de plata","y se quiebre la vasija de oro,","y se estrelle el cántaro contra la fuente","y se rompa la polea del pozo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Volverá entonces el polvo a la tierra,","como antes fue","y el espíritu volverá a Dios,","que es quien lo dio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Vanidad de vanidades,","¡todo es vanidad!","—dice el Maestro."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Epílogo"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Además de ser sabio, el Maestro impartió conocimientos a la gente. Ponderó, investigó y ordenó muchísimos proverbios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Procuró también hallar las palabras más adecuadas y escribirlas con honradez y veracidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Las palabras de los sabios son como aguijones. Como clavos bien puestos son sus colecciones de dichos, dados por un solo pastor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Además de ellas, hijo mío, ten presente que el hacer muchos libros es algo interminable y que el mucho leer causa fatiga."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El fin de este asunto","es que ya se ha escuchado todo.","Teme a Dios y cumple sus mandamientos,","porque esto es todo para el hombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Pues Dios juzgará toda obra,","buena o mala,","aun la realizada en secreto."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ECC.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/SNG.1.json"
+  },
+  "book": {
+    "book_usfm": "ECC",
+    "name": "Eclesiastés"
+  },
+  "chapter": {
+    "chapter_usfm": "ECC.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ECC.11",
+      "human": "Eclesiastés 11"
+    },
+    "current": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
+    },
+    "next": {
+      "usfm": "SNG.1",
+      "human": "Cantares 1"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Acuérdate de tu Creador",
+          "en los días de tu juventud,",
+          "antes de que lleguen los días malos",
+          "y vengan los años en que digas:",
+          "«No encuentro en ellos placer alguno»;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "antes de que dejen de brillar",
+          "el sol y la luz, la luna y las estrellas,",
+          "y vuelvan las nubes después de la lluvia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Un día temblarán los guardianes de la casa",
+          "y los fuertes caminarán encorvados;",
+          "se detendrán las que muelen por ser pocas,",
+          "y verán borrosos los que miran por las ventanas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se irán cerrando las puertas de la calle,",
+          "irá disminuyendo el ruido del molino;",
+          "las aves elevarán su canto,",
+          "pero apagados se oirán sus trinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Sobrevendrá el temor por las alturas",
+          "y por los peligros del camino.",
+          "Florecerá el almendro,",
+          "la langosta resultará onerosa",
+          "y se perderá el deseo,",
+          "pues el hombre se encamina al hogar eterno",
+          "y rondan ya en la calle los que lloran su muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Acuérdate de tu Creador",
+          "antes de que se rompa el cordón de plata",
+          "y se quiebre la vasija de oro,",
+          "y se estrelle el cántaro contra la fuente",
+          "y se rompa la polea del pozo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Volverá entonces el polvo a la tierra,",
+          "como antes fue",
+          "y el espíritu volverá a Dios,",
+          "que es quien lo dio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Vanidad de vanidades,",
+          "¡todo es vanidad!",
+          "—dice el Maestro."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Epílogo"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Además de ser sabio, el Maestro impartió conocimientos a la gente. Ponderó, investigó y ordenó muchísimos proverbios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Procuró también hallar las palabras más adecuadas y escribirlas con honradez y veracidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Las palabras de los sabios son como aguijones. Como clavos bien puestos son sus colecciones de dichos, dados por un solo pastor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Además de ellas, hijo mío, ten presente que el hacer muchos libros es algo interminable y que el mucho leer causa fatiga."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El fin de este asunto",
+          "es que ya se ha escuchado todo.",
+          "Teme a Dios y cumple sus mandamientos,",
+          "porque esto es todo para el hombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Pues Dios juzgará toda obra,",
+          "buena o mala,",
+          "aun la realizada en secreto."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

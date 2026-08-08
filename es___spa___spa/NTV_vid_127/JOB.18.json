@@ -1,1 +1,287 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.18","is_chapter":true,"previous":{"usfm":"JOB.17","human":"Job 17","canonical":true,"toc":true},"current":{"usfm":"JOB.18","human":"Job 18"},"next":{"usfm":"JOB.19","human":"Job 19","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Segunda respuesta de Bildad a Job"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Entonces Bildad el suhita respondió:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«¿Cuánto tiempo pasará hasta que dejes de hablar?","¡Habla con sentido si quieres que te respondamos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Crees que somos animales?","¿Piensas que somos tontos?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Aunque con enojo te arranques el pelo,","¿se destruirá la tierra por eso?","¿Hará que las rocas tiemblen?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["»Ciertamente la luz de los malvados se apagará;","las chispas de su fuego no brillarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["La luz en su carpa se oscurecerá;","la lámpara colgada del techo se extinguirá."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["La zancada confiada de los malvados se acortará.","Sus propias artimañas provocarán su ruina."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Los malos quedan atrapados por una red;","caen en el pozo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Una trampa los agarra por los talones;","el cepo los aprieta con fuerza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Un lazo está escondido en el suelo;","una cuerda atraviesa su camino."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["»El terror rodea a los malvados","y les causa problemas a cada paso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El hambre agota sus fuerzas","y la calamidad queda a la espera de que tropiecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["La enfermedad les carcome la piel;","la muerte devora sus miembros."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Son arrancados de la seguridad de sus hogares","y llevados al rey de los terrores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Los hogares de los malvados se quemarán por completo;","azufre ardiente llueve sobre sus casas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Sus raíces se secarán","y sus ramas se marchitarán."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Desaparecerá de la tierra todo recuerdo de su existencia;","nadie se acordará de sus nombres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Serán sacados de la luz, arrojados a las tinieblas","y expulsados del mundo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["No tendrán hijos ni nietos,","ni habrá sobrevivientes donde habitaban."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["La gente del occidente se queda consternada por su destino,","y la gente del oriente está horrorizada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Dirán: “Este fue el hogar de una persona malvada,","el lugar de alguien que rechazó a Dios”»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.17.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.19.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.18",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.17",
+      "human": "Job 17"
+    },
+    "current": {
+      "usfm": "JOB.18",
+      "human": "Job 18"
+    },
+    "next": {
+      "usfm": "JOB.19",
+      "human": "Job 19"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Segunda respuesta de Bildad a Job"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Entonces Bildad el suhita respondió:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«¿Cuánto tiempo pasará hasta que dejes de hablar?",
+          "¡Habla con sentido si quieres que te respondamos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Crees que somos animales?",
+          "¿Piensas que somos tontos?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Aunque con enojo te arranques el pelo,",
+          "¿se destruirá la tierra por eso?",
+          "¿Hará que las rocas tiemblen?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "»Ciertamente la luz de los malvados se apagará;",
+          "las chispas de su fuego no brillarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "La luz en su carpa se oscurecerá;",
+          "la lámpara colgada del techo se extinguirá."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "La zancada confiada de los malvados se acortará.",
+          "Sus propias artimañas provocarán su ruina."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Los malos quedan atrapados por una red;",
+          "caen en el pozo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Una trampa los agarra por los talones;",
+          "el cepo los aprieta con fuerza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Un lazo está escondido en el suelo;",
+          "una cuerda atraviesa su camino."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "»El terror rodea a los malvados",
+          "y les causa problemas a cada paso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El hambre agota sus fuerzas",
+          "y la calamidad queda a la espera de que tropiecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "La enfermedad les carcome la piel;",
+          "la muerte devora sus miembros."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Son arrancados de la seguridad de sus hogares",
+          "y llevados al rey de los terrores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Los hogares de los malvados se quemarán por completo;",
+          "azufre ardiente llueve sobre sus casas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Sus raíces se secarán",
+          "y sus ramas se marchitarán."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Desaparecerá de la tierra todo recuerdo de su existencia;",
+          "nadie se acordará de sus nombres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Serán sacados de la luz, arrojados a las tinieblas",
+          "y expulsados del mundo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "No tendrán hijos ni nietos,",
+          "ni habrá sobrevivientes donde habitaban."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "La gente del occidente se queda consternada por su destino,",
+          "y la gente del oriente está horrorizada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Dirán: “Este fue el hogar de una persona malvada,",
+          "el lugar de alguien que rechazó a Dios”»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

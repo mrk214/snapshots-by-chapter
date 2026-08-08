@@ -1,1 +1,258 @@
-{"version":{"version_id":116,"local_abbreviation":"NLT","local_title":"New Living Translation","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>","text":" Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.7","is_chapter":true,"previous":{"usfm":"PSA.6","human":"Psalms 6","canonical":true,"toc":true},"current":{"usfm":"PSA.7","human":"Psalms 7"},"next":{"usfm":"PSA.8","human":"Psalms 8","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["A psalm of David, which he sang to the Lord concerning Cush of the tribe of Benjamin."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["I come to you for protection, O Lord my God.","Save me from my persecutors—rescue me!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["If you don’t, they will maul me like a lion,","tearing me to pieces with no one to rescue me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["O Lord my God, if I have done wrong","or am guilty of injustice,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["if I have betrayed a friend","or plundered my enemy without cause,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["then let my enemies capture me.","Let them trample me into the ground","and drag my honor in the dust."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interlude"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Arise, O Lord, in anger!","Stand up against the fury of my enemies!","Wake up, my God, and bring justice!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Gather the nations before you.","Rule over them from on high."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["The Lord judges the nations.","Declare me righteous, O Lord,","for I am innocent, O Most High!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["End the evil of those who are wicked,","and defend the righteous.","For you look deep within the mind and heart,","O righteous God."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["God is my shield,","saving those whose hearts are true and right."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["God is an honest judge.","He is angry with the wicked every day."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["If a person does not repent,","God will sharpen his sword;","he will bend and string his bow."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["He will prepare his deadly weapons","and shoot his flaming arrows."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["The wicked conceive evil;","they are pregnant with trouble","and give birth to lies."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["They dig a deep pit to trap others,","then fall into it themselves."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["The trouble they make for others backfires on them.","The violence they plan falls on their own heads."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["I will thank the Lord because he is just;","I will sing praise to the name of the Lord Most High."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.8.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.6",
+      "human": "Psalms 6"
+    },
+    "current": {
+      "usfm": "PSA.7",
+      "human": "Psalms 7"
+    },
+    "next": {
+      "usfm": "PSA.8",
+      "human": "Psalms 8"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A psalm of David, which he sang to the Lord concerning Cush of the tribe of Benjamin."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "I come to you for protection, O Lord my God.",
+          "Save me from my persecutors—rescue me!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "If you don’t, they will maul me like a lion,",
+          "tearing me to pieces with no one to rescue me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "O Lord my God, if I have done wrong",
+          "or am guilty of injustice,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "if I have betrayed a friend",
+          "or plundered my enemy without cause,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "then let my enemies capture me.",
+          "Let them trample me into the ground",
+          "and drag my honor in the dust."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interlude"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Arise, O Lord, in anger!",
+          "Stand up against the fury of my enemies!",
+          "Wake up, my God, and bring justice!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Gather the nations before you.",
+          "Rule over them from on high."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "The Lord judges the nations.",
+          "Declare me righteous, O Lord,",
+          "for I am innocent, O Most High!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "End the evil of those who are wicked,",
+          "and defend the righteous.",
+          "For you look deep within the mind and heart,",
+          "O righteous God."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "God is my shield,",
+          "saving those whose hearts are true and right."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "God is an honest judge.",
+          "He is angry with the wicked every day."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "If a person does not repent,",
+          "God will sharpen his sword;",
+          "he will bend and string his bow."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "He will prepare his deadly weapons",
+          "and shoot his flaming arrows."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "The wicked conceive evil;",
+          "they are pregnant with trouble",
+          "and give birth to lies."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "They dig a deep pit to trap others,",
+          "then fall into it themselves."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "The trouble they make for others backfires on them.",
+          "The violence they plan falls on their own heads."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "I will thank the Lord because he is just;",
+          "I will sing praise to the name of the Lord Most High."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 116,
+    "local_abbreviation": "NLT",
+    "local_title": "New Living Translation",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p> <em>Holy Bible</em>, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": " Holy Bible, New Living Translation, copyright © 1996, 2004, 2015 by Tyndale House Foundation. All rights reserved. Used by permission of Tyndale House Publishers, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

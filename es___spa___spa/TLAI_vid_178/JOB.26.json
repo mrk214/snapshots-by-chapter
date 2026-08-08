@@ -1,1 +1,193 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.26","is_chapter":true,"previous":{"usfm":"JOB.25","human":"Job 25","canonical":true,"toc":true},"current":{"usfm":"JOB.26","human":"Job 26"},"next":{"usfm":"JOB.27","human":"Job 27","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Job interrumpe a Bildad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["En tono burlón, Job contestó:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2,3,4],"lines":["«¿Es así como ayudas al necesitado,","al que ya no tiene fuerzas?","¡Vaya, vaya!","¡Qué discurso tan hermoso","has pronunciado!","¡Qué buen amigo resultaste!","¡Qué consejos tan buenos sabes dar","a los ignorantes como yo!","¡Qué inteligencia has demostrado!»"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Bildad continúa su discurso"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["«En lo más profundo de la tierra,","los muertos tiemblan de miedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["De Dios nadie puede esconderse,","ni siquiera la muerte destructora."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7,8,9],"lines":["Dios extendió cielo y tierra","donde antes no había nada,","y en el cielo puso su trono.","»Dios guarda agua en las nubes,","y no deja que llueva."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Traza una línea en el horizonte,","y así divide el día y la noche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Reprende a las montañas","que sostienen el cielo,","y las hace temblar de miedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Usa su poder y sabiduría","y con ellos vence al mar;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["da muerte con su propia mano","al gran monstruo marino.","Con un soplo de su boca","deja el cielo despejado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["»Esto es apenas un murmullo","que alcanzamos a escuchar;","es tan solo una muestra","del gran poder de Dios,","que jamás podremos comprender»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.25.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.27.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.26",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.25",
+      "human": "Job 25"
+    },
+    "current": {
+      "usfm": "JOB.26",
+      "human": "Job 26"
+    },
+    "next": {
+      "usfm": "JOB.27",
+      "human": "Job 27"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Job interrumpe a Bildad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "En tono burlón, Job contestó:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2,
+          3,
+          4
+        ],
+        "lines": [
+          "«¿Es así como ayudas al necesitado,",
+          "al que ya no tiene fuerzas?",
+          "¡Vaya, vaya!",
+          "¡Qué discurso tan hermoso",
+          "has pronunciado!",
+          "¡Qué buen amigo resultaste!",
+          "¡Qué consejos tan buenos sabes dar",
+          "a los ignorantes como yo!",
+          "¡Qué inteligencia has demostrado!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Bildad continúa su discurso"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "«En lo más profundo de la tierra,",
+          "los muertos tiemblan de miedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "De Dios nadie puede esconderse,",
+          "ni siquiera la muerte destructora."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7,
+          8,
+          9
+        ],
+        "lines": [
+          "Dios extendió cielo y tierra",
+          "donde antes no había nada,",
+          "y en el cielo puso su trono.",
+          "»Dios guarda agua en las nubes,",
+          "y no deja que llueva."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Traza una línea en el horizonte,",
+          "y así divide el día y la noche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Reprende a las montañas",
+          "que sostienen el cielo,",
+          "y las hace temblar de miedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Usa su poder y sabiduría",
+          "y con ellos vence al mar;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "da muerte con su propia mano",
+          "al gran monstruo marino.",
+          "Con un soplo de su boca",
+          "deja el cielo despejado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "»Esto es apenas un murmullo",
+          "que alcanzamos a escuchar;",
+          "es tan solo una muestra",
+          "del gran poder de Dios,",
+          "que jamás podremos comprender»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

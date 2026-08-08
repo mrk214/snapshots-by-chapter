@@ -1,1 +1,211 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"MIC","name":"Miqueas"},"chapter":{"chapter_usfm":"MIC.3","is_chapter":true,"previous":{"usfm":"MIC.2","human":"Miqueas 2","canonical":true,"toc":true},"current":{"usfm":"MIC.3","human":"Miqueas 3"},"next":{"usfm":"MIC.4","human":"Miqueas 4","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Juicio contra los líderes de Israel"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Yo dije: «¡Escuchen, líderes de Israel!","Ustedes deberían saber cómo distinguir entre lo bueno y lo malo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sin embargo, ustedes mismos son los","que odian lo bueno y aman lo malo.","Despellejan vivo a mi pueblo","y le arrancan la carne de sus huesos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sí, devoran la carne de mi pueblo,","le arrancan la piel","y le rompen los huesos.","Los cortan en pedazos,","como carne para la olla."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Y luego, cuando tienen problemas, suplican la ayuda del Señor!","¿Realmente esperan que él les responda?","Después de todo el mal que han hecho,","¡ni siquiera los mirará!»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Esto es lo que dice el Señor:","«¡Ustedes, falsos profetas, llevan a mi pueblo por mal camino!","Prometen paz a quienes les dan de comer,","pero le declaran la guerra a quienes se niegan a alimentarlos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ahora la noche caerá sobre ustedes","y acabará con todas sus visiones.","La oscuridad los cubrirá","y pondrá fin a sus predicciones.","El sol se pondrá para ustedes, profetas,","y su día terminará."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Entonces ustedes, videntes, serán avergonzados","y ustedes, adivinadores, serán deshonrados.","Cubrirán sus rostros,","porque no hay respuesta de Dios»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Yo, en cambio, estoy lleno de poder,","lleno del Espíritu del Señor.","Estoy lleno de justicia y de fuerza","para denunciar con valentía el pecado y la rebelión de Israel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Escúchenme, líderes de Israel!","Ustedes odian la justicia y tuercen todo lo recto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Construyen Jerusalén","sobre cimientos de crimen y corrupción."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Ustedes, gobernantes, toman decisiones con base en sobornos;","ustedes, sacerdotes, enseñan las leyes de Dios solo por dinero;","ustedes, profetas, no profetizan a menos que se les pague.","Sin embargo, todos alegan depender del Señor.","«Nada malo nos puede suceder —dicen ustedes—","porque el Señor está entre nosotros»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Por causa de ustedes, el monte Sion quedará arado como un campo abierto;","¡Jerusalén será reducida a escombros!","Un matorral crecerá en las cumbres,","donde ahora se encuentra el templo."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/MIC.2.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/MIC.4.json"
+  },
+  "book": {
+    "book_usfm": "MIC",
+    "name": "Miqueas"
+  },
+  "chapter": {
+    "chapter_usfm": "MIC.3",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "MIC.2",
+      "human": "Miqueas 2"
+    },
+    "current": {
+      "usfm": "MIC.3",
+      "human": "Miqueas 3"
+    },
+    "next": {
+      "usfm": "MIC.4",
+      "human": "Miqueas 4"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Juicio contra los líderes de Israel"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Yo dije: «¡Escuchen, líderes de Israel!",
+          "Ustedes deberían saber cómo distinguir entre lo bueno y lo malo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sin embargo, ustedes mismos son los",
+          "que odian lo bueno y aman lo malo.",
+          "Despellejan vivo a mi pueblo",
+          "y le arrancan la carne de sus huesos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sí, devoran la carne de mi pueblo,",
+          "le arrancan la piel",
+          "y le rompen los huesos.",
+          "Los cortan en pedazos,",
+          "como carne para la olla."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Y luego, cuando tienen problemas, suplican la ayuda del Señor!",
+          "¿Realmente esperan que él les responda?",
+          "Después de todo el mal que han hecho,",
+          "¡ni siquiera los mirará!»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Esto es lo que dice el Señor:",
+          "«¡Ustedes, falsos profetas, llevan a mi pueblo por mal camino!",
+          "Prometen paz a quienes les dan de comer,",
+          "pero le declaran la guerra a quienes se niegan a alimentarlos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ahora la noche caerá sobre ustedes",
+          "y acabará con todas sus visiones.",
+          "La oscuridad los cubrirá",
+          "y pondrá fin a sus predicciones.",
+          "El sol se pondrá para ustedes, profetas,",
+          "y su día terminará."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Entonces ustedes, videntes, serán avergonzados",
+          "y ustedes, adivinadores, serán deshonrados.",
+          "Cubrirán sus rostros,",
+          "porque no hay respuesta de Dios»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Yo, en cambio, estoy lleno de poder,",
+          "lleno del Espíritu del Señor.",
+          "Estoy lleno de justicia y de fuerza",
+          "para denunciar con valentía el pecado y la rebelión de Israel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Escúchenme, líderes de Israel!",
+          "Ustedes odian la justicia y tuercen todo lo recto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Construyen Jerusalén",
+          "sobre cimientos de crimen y corrupción."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Ustedes, gobernantes, toman decisiones con base en sobornos;",
+          "ustedes, sacerdotes, enseñan las leyes de Dios solo por dinero;",
+          "ustedes, profetas, no profetizan a menos que se les pague.",
+          "Sin embargo, todos alegan depender del Señor.",
+          "«Nada malo nos puede suceder —dicen ustedes—",
+          "porque el Señor está entre nosotros»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Por causa de ustedes, el monte Sion quedará arado como un campo abierto;",
+          "¡Jerusalén será reducida a escombros!",
+          "Un matorral crecerá en las cumbres,",
+          "donde ahora se encuentra el templo."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

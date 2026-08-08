@@ -1,1 +1,235 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.144","is_chapter":true,"previous":{"usfm":"PSA.143","human":"Salmos 143","canonical":true,"toc":true},"current":{"usfm":"PSA.144","human":"Salmos 144"},"next":{"usfm":"PSA.145","human":"Salmos 145","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Oración pidiendo socorro y prosperidad"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Bendito sea Jehová, mi roca,","Quien adiestra mis manos para la batalla,","Y mis dedos para la guerra;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Misericordia mía y mi castillo,","Fortaleza mía y mi libertador,","Escudo mío, en quien he confiado;","El que sujeta a mi pueblo debajo de mí."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Oh Jehová, ¿qué es el hombre, para que en él pienses,","O el hijo de hombre, para que lo estimes?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El hombre es semejante a la vanidad;","Sus días son como la sombra que pasa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Oh Jehová, inclina tus cielos y desciende;","Toca los montes, y humeen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Despide relámpagos y disípalos,","Envía tus saetas y túrbalos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Envía tu mano desde lo alto;","Redímeme, y sácame de las muchas aguas,","De la mano de los hombres extraños,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Cuya boca habla vanidad,","Y cuya diestra es diestra de mentira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Oh Dios, a ti cantaré cántico nuevo;","Con salterio, con decacordio cantaré a ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Tú, el que da victoria a los reyes,","El que rescata de maligna espada a David su siervo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Rescátame, y líbrame de la mano de los hombres extraños,","Cuya boca habla vanidad,","Y cuya diestra es diestra de mentira."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Sean nuestros hijos como plantas crecidas en su juventud,","Nuestras hijas como esquinas labradas como las de un palacio;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Nuestros graneros llenos, provistos de toda suerte de grano;","Nuestros ganados, que se multipliquen a millares y decenas de millares en nuestros campos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Nuestros bueyes estén fuertes para el trabajo;","No tengamos asalto, ni que hacer salida,","Ni grito de alarma en nuestras plazas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Bienaventurado el pueblo que tiene esto;","Bienaventurado el pueblo cuyo Dios es Jehová."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.143.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/PSA.145.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.144",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.143",
+      "human": "Salmos 143"
+    },
+    "current": {
+      "usfm": "PSA.144",
+      "human": "Salmos 144"
+    },
+    "next": {
+      "usfm": "PSA.145",
+      "human": "Salmos 145"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Oración pidiendo socorro y prosperidad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Bendito sea Jehová, mi roca,",
+          "Quien adiestra mis manos para la batalla,",
+          "Y mis dedos para la guerra;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Misericordia mía y mi castillo,",
+          "Fortaleza mía y mi libertador,",
+          "Escudo mío, en quien he confiado;",
+          "El que sujeta a mi pueblo debajo de mí."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Oh Jehová, ¿qué es el hombre, para que en él pienses,",
+          "O el hijo de hombre, para que lo estimes?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El hombre es semejante a la vanidad;",
+          "Sus días son como la sombra que pasa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Oh Jehová, inclina tus cielos y desciende;",
+          "Toca los montes, y humeen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Despide relámpagos y disípalos,",
+          "Envía tus saetas y túrbalos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Envía tu mano desde lo alto;",
+          "Redímeme, y sácame de las muchas aguas,",
+          "De la mano de los hombres extraños,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Cuya boca habla vanidad,",
+          "Y cuya diestra es diestra de mentira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Oh Dios, a ti cantaré cántico nuevo;",
+          "Con salterio, con decacordio cantaré a ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Tú, el que da victoria a los reyes,",
+          "El que rescata de maligna espada a David su siervo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Rescátame, y líbrame de la mano de los hombres extraños,",
+          "Cuya boca habla vanidad,",
+          "Y cuya diestra es diestra de mentira."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Sean nuestros hijos como plantas crecidas en su juventud,",
+          "Nuestras hijas como esquinas labradas como las de un palacio;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Nuestros graneros llenos, provistos de toda suerte de grano;",
+          "Nuestros ganados, que se multipliquen a millares y decenas de millares en nuestros campos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Nuestros bueyes estén fuertes para el trabajo;",
+          "No tengamos asalto, ni que hacer salida,",
+          "Ni grito de alarma en nuestras plazas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Bienaventurado el pueblo que tiene esto;",
+          "Bienaventurado el pueblo cuyo Dios es Jehová."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

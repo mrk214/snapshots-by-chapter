@@ -1,1 +1,123 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"JOB","name":"Job"},"chapter":{"chapter_usfm":"JOB.25","is_chapter":true,"previous":{"usfm":"JOB.24","human":"Job 24","canonical":true,"toc":true},"current":{"usfm":"JOB.25","human":"Job 25"},"next":{"usfm":"JOB.26","human":"Job 26","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Tercera participación de Bildad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Bildad respondió:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["«Es tan grande el poder de Dios","que nos hace temblar de miedo.","Dios es quien pone orden en el cielo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["¿Puede alguien contar sus ejércitos?","¿Hay alguien a quien el sol no alumbre?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Ante Dios no hay nadie","que pueda declararse inocente!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Si a los ojos de Dios nada vale","el brillo de la luna","ni tampoco el de las estrellas"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¡mucho menos valemos nosotros,","que somos simples gusanos!»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JOB.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/JOB.26.json"
+  },
+  "book": {
+    "book_usfm": "JOB",
+    "name": "Job"
+  },
+  "chapter": {
+    "chapter_usfm": "JOB.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "JOB.24",
+      "human": "Job 24"
+    },
+    "current": {
+      "usfm": "JOB.25",
+      "human": "Job 25"
+    },
+    "next": {
+      "usfm": "JOB.26",
+      "human": "Job 26"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Tercera participación de Bildad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Bildad respondió:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "«Es tan grande el poder de Dios",
+          "que nos hace temblar de miedo.",
+          "Dios es quien pone orden en el cielo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "¿Puede alguien contar sus ejércitos?",
+          "¿Hay alguien a quien el sol no alumbre?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Ante Dios no hay nadie",
+          "que pueda declararse inocente!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Si a los ojos de Dios nada vale",
+          "el brillo de la luna",
+          "ni tampoco el de las estrellas"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¡mucho menos valemos nosotros,",
+          "que somos simples gusanos!»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

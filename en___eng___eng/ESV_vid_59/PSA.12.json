@@ -1,1 +1,154 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.12","is_chapter":true,"previous":{"usfm":"PSA.11","human":"Psalm 11","canonical":true,"toc":true},"current":{"usfm":"PSA.12","human":"Psalm 12"},"next":{"usfm":"PSA.13","human":"Psalm 13","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Faithful Have Vanished"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["To the choirmaster: according to The Sheminith. A Psalm of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Save, O Lord, for the godly one is gone;","for the faithful have vanished from among the children of man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Everyone utters lies to his neighbor;","with flattering lips and a double heart they speak."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["May the Lord cut off all flattering lips,","the tongue that makes great boasts,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["those who say, “With our tongue we will prevail,","our lips are with us; who is master over us?”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["“Because the poor are plundered, because the needy groan,","I will now arise,” says the Lord;","“I will place him in the safety for which he longs.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The words of the Lord are pure words,","like silver refined in a furnace on the ground,","purified seven times."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["You, O Lord, will keep them;","you will guard us from this generation forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["On every side the wicked prowl,","as vileness is exalted among the children of man."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.13.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.11",
+      "human": "Psalm 11"
+    },
+    "current": {
+      "usfm": "PSA.12",
+      "human": "Psalm 12"
+    },
+    "next": {
+      "usfm": "PSA.13",
+      "human": "Psalm 13"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Faithful Have Vanished"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "To the choirmaster: according to The Sheminith. A Psalm of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Save, O Lord, for the godly one is gone;",
+          "for the faithful have vanished from among the children of man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Everyone utters lies to his neighbor;",
+          "with flattering lips and a double heart they speak."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "May the Lord cut off all flattering lips,",
+          "the tongue that makes great boasts,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "those who say, “With our tongue we will prevail,",
+          "our lips are with us; who is master over us?”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "“Because the poor are plundered, because the needy groan,",
+          "I will now arise,” says the Lord;",
+          "“I will place him in the safety for which he longs.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The words of the Lord are pure words,",
+          "like silver refined in a furnace on the ground,",
+          "purified seven times."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "You, O Lord, will keep them;",
+          "you will guard us from this generation forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "On every side the wicked prowl,",
+          "as vileness is exalted among the children of man."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

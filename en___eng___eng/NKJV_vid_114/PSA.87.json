@@ -1,1 +1,159 @@
-{"version":{"version_id":114,"local_abbreviation":"NKJV","local_title":"New King James Version","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Thomas Nelson, Inc."},"copyright":{"html":"<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>","text":"The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.87","is_chapter":true,"previous":{"usfm":"PSA.86","human":"Psalms 86","canonical":true,"toc":true},"current":{"usfm":"PSA.87","human":"Psalms 87"},"next":{"usfm":"PSA.88","human":"Psalms 88","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Glories of the City of God"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Psalm of the sons of Korah. A Song."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["His foundation is in the holy mountains."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The Lord loves the gates of Zion","More than all the dwellings of Jacob."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Glorious things are spoken of you,","O city of God!"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["“I will make mention of Rahab and Babylon to those who know Me;","Behold, O Philistia and Tyre, with Ethiopia:","‘This one was born there.’ ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And of Zion it will be said,","“This one and that one were born in her;","And the Most High Himself shall establish her.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["The Lord will record,","When He registers the peoples:","“This one was born there.”"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Both the singers and the players on instruments say,","“All my springs are in you.”"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.86.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PSA.88.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.87",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Psalms 86"
+    },
+    "current": {
+      "usfm": "PSA.87",
+      "human": "Psalms 87"
+    },
+    "next": {
+      "usfm": "PSA.88",
+      "human": "Psalms 88"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Glories of the City of God"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Psalm of the sons of Korah. A Song."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "His foundation is in the holy mountains."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The Lord loves the gates of Zion",
+          "More than all the dwellings of Jacob."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Glorious things are spoken of you,",
+          "O city of God!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "“I will make mention of Rahab and Babylon to those who know Me;",
+          "Behold, O Philistia and Tyre, with Ethiopia:",
+          "‘This one was born there.’ ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And of Zion it will be said,",
+          "“This one and that one were born in her;",
+          "And the Most High Himself shall establish her.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "The Lord will record,",
+          "When He registers the peoples:",
+          "“This one was born there.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Both the singers and the players on instruments say,",
+          "“All my springs are in you.”"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 114,
+    "local_abbreviation": "NKJV",
+    "local_title": "New King James Version",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Thomas Nelson, Inc."
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved.</p>",
+      "text": "The Holy Bible, New King James Version, Copyright © 1982 Thomas Nelson. All rights reserved."
+    }
+  }
+}

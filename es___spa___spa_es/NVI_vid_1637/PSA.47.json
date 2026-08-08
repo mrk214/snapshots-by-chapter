@@ -1,1 +1,174 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.47","is_chapter":true,"previous":{"usfm":"PSA.46","human":"Salmo 46","canonical":true,"toc":true},"current":{"usfm":"PSA.47","human":"Salmo 47"},"next":{"usfm":"PSA.48","human":"Salmo 48","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Salmo de los hijos de Coré."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Aplaudid, pueblos todos;","aclamad a Dios con gritos de alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["¡Cuán imponente es el Señor Altísimo,","el gran rey de toda la tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Sometió a nuestro dominio las naciones;","puso a los pueblos bajo nuestros pies;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["escogió para nosotros una heredad","que es el orgullo de Jacob, a quien amó."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Selah"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Dios el Señor ha ascendido","entre gritos de alegría y toques de trompeta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Cantad salmos a Dios, cantadle salmos;","cantad, cantadle salmos a nuestro rey."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Dios es el rey de toda la tierra;","por eso, cantadle un salmo solemne."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Dios reina sobre las naciones;","Dios está sentado en su santo trono."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Los nobles de los pueblos se reúnen","con el pueblo del Dios de Abraham,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["pues de Dios son los imperios de la tierra.","¡Él es grandemente enaltecido!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.46.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.48.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.47",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.46",
+      "human": "Salmo 46"
+    },
+    "current": {
+      "usfm": "PSA.47",
+      "human": "Salmo 47"
+    },
+    "next": {
+      "usfm": "PSA.48",
+      "human": "Salmo 48"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Salmo de los hijos de Coré."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Aplaudid, pueblos todos;",
+          "aclamad a Dios con gritos de alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "¡Cuán imponente es el Señor Altísimo,",
+          "el gran rey de toda la tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Sometió a nuestro dominio las naciones;",
+          "puso a los pueblos bajo nuestros pies;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "escogió para nosotros una heredad",
+          "que es el orgullo de Jacob, a quien amó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Selah"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Dios el Señor ha ascendido",
+          "entre gritos de alegría y toques de trompeta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Cantad salmos a Dios, cantadle salmos;",
+          "cantad, cantadle salmos a nuestro rey."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Dios es el rey de toda la tierra;",
+          "por eso, cantadle un salmo solemne."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Dios reina sobre las naciones;",
+          "Dios está sentado en su santo trono."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Los nobles de los pueblos se reúnen",
+          "con el pueblo del Dios de Abraham,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "pues de Dios son los imperios de la tierra.",
+          "¡Él es grandemente enaltecido!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

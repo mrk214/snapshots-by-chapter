@@ -1,1 +1,207 @@
-{"version":{"version_id":127,"local_abbreviation":"NTV","local_title":"Nueva Traducción Viviente","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Tyndale House Publishers Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>","text":"Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.32","is_chapter":true,"previous":{"usfm":"PSA.31","human":"Salmos 31","canonical":true,"toc":true},"current":{"usfm":"PSA.32","human":"Salmos 32"},"next":{"usfm":"PSA.33","human":"Salmos 33","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["¡Oh, qué alegría para aquellos","a quienes se les perdona la desobediencia,","a quienes se les cubre su pecado!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Sí, ¡qué alegría para aquellos","a quienes el Señor les borró la culpa de su cuenta,","los que llevan una vida de total transparencia!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Mientras me negué a confesar mi pecado,","mi cuerpo se consumió,","y gemía todo el día."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Día y noche tu mano de disciplina pesaba sobre mí;","mi fuerza se evaporó como agua al calor del verano."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Finalmente te confesé todos mis pecados","y ya no intenté ocultar mi culpa.","Me dije: «Le confesaré mis rebeliones al Señor»,","¡y tú me perdonaste! Toda mi culpa desapareció."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Por lo tanto, que todos los justos oren a ti, mientras aún haya tiempo,","para que no se ahoguen en las desbordantes aguas del juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pues tú eres mi escondite;","me proteges de las dificultades","y me rodeas con canciones de victoria."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Interludio"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El Señor dice: «Te guiaré por el mejor sendero para tu vida;","te aconsejaré y velaré por ti."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No seas como el mulo o el caballo, que no tienen entendimiento,","que necesitan un freno y una brida para mantenerse controlados»."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Muchos son los dolores de los malvados,","pero el amor inagotable rodea a los que confían en el Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["¡Así que alégrense en el Señor y estén contentos, ustedes los que lo obedecen!","¡Griten de alegría, ustedes de corazón puro!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.31.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PSA.33.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.32",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.31",
+      "human": "Salmos 31"
+    },
+    "current": {
+      "usfm": "PSA.32",
+      "human": "Salmos 32"
+    },
+    "next": {
+      "usfm": "PSA.33",
+      "human": "Salmos 33"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "¡Oh, qué alegría para aquellos",
+          "a quienes se les perdona la desobediencia,",
+          "a quienes se les cubre su pecado!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Sí, ¡qué alegría para aquellos",
+          "a quienes el Señor les borró la culpa de su cuenta,",
+          "los que llevan una vida de total transparencia!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Mientras me negué a confesar mi pecado,",
+          "mi cuerpo se consumió,",
+          "y gemía todo el día."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Día y noche tu mano de disciplina pesaba sobre mí;",
+          "mi fuerza se evaporó como agua al calor del verano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Finalmente te confesé todos mis pecados",
+          "y ya no intenté ocultar mi culpa.",
+          "Me dije: «Le confesaré mis rebeliones al Señor»,",
+          "¡y tú me perdonaste! Toda mi culpa desapareció."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Por lo tanto, que todos los justos oren a ti, mientras aún haya tiempo,",
+          "para que no se ahoguen en las desbordantes aguas del juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pues tú eres mi escondite;",
+          "me proteges de las dificultades",
+          "y me rodeas con canciones de victoria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Interludio"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El Señor dice: «Te guiaré por el mejor sendero para tu vida;",
+          "te aconsejaré y velaré por ti."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No seas como el mulo o el caballo, que no tienen entendimiento,",
+          "que necesitan un freno y una brida para mantenerse controlados»."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Muchos son los dolores de los malvados,",
+          "pero el amor inagotable rodea a los que confían en el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "¡Así que alégrense en el Señor y estén contentos, ustedes los que lo obedecen!",
+          "¡Griten de alegría, ustedes de corazón puro!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 127,
+    "local_abbreviation": "NTV",
+    "local_title": "Nueva Traducción Viviente",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Tyndale House Publishers Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved.</p>",
+      "text": "Santa Biblia, Nueva Traducción Viviente, copyright © 2010 by Tyndale House Foundation. Used by permission of Tyndale House Publishers, a Division of Tyndale House Ministries, Carol Stream, Illinois 60188. All rights reserved."
+    }
+  }
+}

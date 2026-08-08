@@ -1,1 +1,123 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.125","is_chapter":true,"previous":{"usfm":"PSA.124","human":"Psalm 124","canonical":true,"toc":true},"current":{"usfm":"PSA.125","human":"Psalm 125"},"next":{"usfm":"PSA.126","human":"Psalm 126","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["The Lord Surrounds His People"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Those who trust in the Lord are like Mount Zion,","which cannot be moved, but abides forever."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["As the mountains surround Jerusalem,","so the Lord surrounds his people,","from this time forth and forevermore."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["For the scepter of wickedness shall not rest","on the land allotted to the righteous,","lest the righteous stretch out","their hands to do wrong."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Do good, O Lord, to those who are good,","and to those who are upright in their hearts!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["But those who turn aside to their crooked ways","the Lord will lead away with evildoers!","Peace be upon Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.124.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.126.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.125",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.124",
+      "human": "Psalm 124"
+    },
+    "current": {
+      "usfm": "PSA.125",
+      "human": "Psalm 125"
+    },
+    "next": {
+      "usfm": "PSA.126",
+      "human": "Psalm 126"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "The Lord Surrounds His People"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Those who trust in the Lord are like Mount Zion,",
+          "which cannot be moved, but abides forever."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "As the mountains surround Jerusalem,",
+          "so the Lord surrounds his people,",
+          "from this time forth and forevermore."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "For the scepter of wickedness shall not rest",
+          "on the land allotted to the righteous,",
+          "lest the righteous stretch out",
+          "their hands to do wrong."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Do good, O Lord, to those who are good,",
+          "and to those who are upright in their hearts!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "But those who turn aside to their crooked ways",
+          "the Lord will lead away with evildoers!",
+          "Peace be upon Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

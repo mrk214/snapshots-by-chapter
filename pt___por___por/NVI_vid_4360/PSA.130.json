@@ -1,1 +1,144 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.130","is_chapter":true,"previous":{"usfm":"PSA.129","human":"Salmos 129","canonical":true,"toc":true},"current":{"usfm":"PSA.130","human":"Salmos 130"},"next":{"usfm":"PSA.131","human":"Salmos 131","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cântico de Peregrinação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Das profundezas clamo a ti, Senhor;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["ouve, Senhor, a minha voz!","Estejam atentos os teus ouvidos às minhas súplicas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Se tu, Soberano Senhor,","registrasses os pecados, quem escaparia?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Mas contigo está o perdão","para que sejas temido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Espero no Senhor com todo o meu ser","e na sua palavra ponho a minha esperança."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Espero pelo Senhor","mais do que as sentinelas pela manhã;","sim, mais do que as sentinelas esperam pela manhã!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ponha a sua esperança no Senhor, ó Israel,","pois no Senhor há amor leal e plena redenção."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Ele próprio redimirá Israel","de todas as suas culpas."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.129.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.131.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.130",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "current": {
+      "usfm": "PSA.130",
+      "human": "Salmos 130"
+    },
+    "next": {
+      "usfm": "PSA.131",
+      "human": "Salmos 131"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de Peregrinação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Das profundezas clamo a ti, Senhor;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "ouve, Senhor, a minha voz!",
+          "Estejam atentos os teus ouvidos às minhas súplicas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Se tu, Soberano Senhor,",
+          "registrasses os pecados, quem escaparia?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Mas contigo está o perdão",
+          "para que sejas temido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Espero no Senhor com todo o meu ser",
+          "e na sua palavra ponho a minha esperança."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Espero pelo Senhor",
+          "mais do que as sentinelas pela manhã;",
+          "sim, mais do que as sentinelas esperam pela manhã!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ponha a sua esperança no Senhor, ó Israel,",
+          "pois no Senhor há amor leal e plena redenção."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Ele próprio redimirá Israel",
+          "de todas as suas culpas."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

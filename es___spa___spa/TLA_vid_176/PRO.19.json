@@ -1,1 +1,403 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.19","is_chapter":true,"previous":{"usfm":"PRO.18","human":"Proverbios 18","canonical":true,"toc":true},"current":{"usfm":"PRO.19","human":"Proverbios 19"},"next":{"usfm":"PRO.20","human":"Proverbios 20","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["El sabio oye consejos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Más vale ser pobre y honrado,","que ser necio y tramposo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["No es bueno actuar sin pensar;","la prisa es madre del error."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["El tonto fracasa en todo,","y luego dice:","«¡Dios tiene la culpa!»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["El rico tiene muchos amigos;","el pobre no tiene ninguno."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No hay testigo falso","que salga bien librado;","todo mentiroso recibe su castigo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["A los ricos les sobran amigos;","todo el mundo busca su amistad","por los regalos que dan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Al pobre ni sus hermanos lo quieren;","¡mucho menos lo buscan sus amigos!","Cuando más los necesita,","no están para ayudarlo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Si en verdad te aprecias, estudia.","Bien harás en practicar lo aprendido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["No hay testigo falso","que salga bien librado;","todos los mentirosos serán destruidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["No hay nada más absurdo","que un tonto viviendo entre lujos,","y un esclavo gobernando a reyes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Es de sabios tener paciencia,","y es más honroso perdonar la ofensa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Cuando el rey se enoja,","grita como león furioso.","Cuando el rey está contento,","reanima como fresca lluvia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["El hijo tonto arruina a su padre,","y la mujer peleona","poco a poco arruina al marido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["La casa y el dinero","son regalo de los padres;","la esposa inteligente","es un regalo de Dios."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Tanto duerme el perezoso","que acaba pasando hambre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El que respeta una orden","se respeta a sí mismo;","el que deja de cumplirla","dicta su sentencia de muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Prestarle al pobre","es como prestarle a Dios.","¡Y Dios siempre paga sus deudas!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Corrige a tu hijo","antes de que sea muy tarde;","no te hagas culpable de su muerte."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Quien fácilmente se enoja","sufrirá las consecuencias;","no tiene caso calmarlo,","pues se enciende más su enojo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["El que oye consejo","y acepta que lo corrijan","acabará siendo sabio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["El hombre propone,","y Dios dispone."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["Todo el mundo quiere tener","a alguien en quien confiar;","todo el mundo prefiere al pobre","más que al mentiroso."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Obedece a Dios y vivirás;","así dormirás tranquilo","y no tendrás ningún temor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["Hay gente tan perezosa","que hasta de comer se cansa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["El tonto solo aprende","a través del castigo;","al que es sabio le basta","con solo ser reprendido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["No hay hijo más malo","ni más sinvergüenza","que el que roba a su padre","y echa a la calle a su madre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["Querido jovencito,","si no aceptas la corrección,","te apartarás de los sabios consejos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["Un testigo malvado","se burla de la justicia;","su alimento es la maldad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["Para el malcriado, el castigo;","para el tonto, los azotes."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.18.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.20.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.19",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.18",
+      "human": "Proverbios 18"
+    },
+    "current": {
+      "usfm": "PRO.19",
+      "human": "Proverbios 19"
+    },
+    "next": {
+      "usfm": "PRO.20",
+      "human": "Proverbios 20"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El sabio oye consejos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Más vale ser pobre y honrado,",
+          "que ser necio y tramposo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "No es bueno actuar sin pensar;",
+          "la prisa es madre del error."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "El tonto fracasa en todo,",
+          "y luego dice:",
+          "«¡Dios tiene la culpa!»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "El rico tiene muchos amigos;",
+          "el pobre no tiene ninguno."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No hay testigo falso",
+          "que salga bien librado;",
+          "todo mentiroso recibe su castigo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "A los ricos les sobran amigos;",
+          "todo el mundo busca su amistad",
+          "por los regalos que dan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Al pobre ni sus hermanos lo quieren;",
+          "¡mucho menos lo buscan sus amigos!",
+          "Cuando más los necesita,",
+          "no están para ayudarlo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Si en verdad te aprecias, estudia.",
+          "Bien harás en practicar lo aprendido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "No hay testigo falso",
+          "que salga bien librado;",
+          "todos los mentirosos serán destruidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "No hay nada más absurdo",
+          "que un tonto viviendo entre lujos,",
+          "y un esclavo gobernando a reyes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Es de sabios tener paciencia,",
+          "y es más honroso perdonar la ofensa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Cuando el rey se enoja,",
+          "grita como león furioso.",
+          "Cuando el rey está contento,",
+          "reanima como fresca lluvia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "El hijo tonto arruina a su padre,",
+          "y la mujer peleona",
+          "poco a poco arruina al marido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "La casa y el dinero",
+          "son regalo de los padres;",
+          "la esposa inteligente",
+          "es un regalo de Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Tanto duerme el perezoso",
+          "que acaba pasando hambre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El que respeta una orden",
+          "se respeta a sí mismo;",
+          "el que deja de cumplirla",
+          "dicta su sentencia de muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Prestarle al pobre",
+          "es como prestarle a Dios.",
+          "¡Y Dios siempre paga sus deudas!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Corrige a tu hijo",
+          "antes de que sea muy tarde;",
+          "no te hagas culpable de su muerte."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Quien fácilmente se enoja",
+          "sufrirá las consecuencias;",
+          "no tiene caso calmarlo,",
+          "pues se enciende más su enojo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "El que oye consejo",
+          "y acepta que lo corrijan",
+          "acabará siendo sabio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "El hombre propone,",
+          "y Dios dispone."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "Todo el mundo quiere tener",
+          "a alguien en quien confiar;",
+          "todo el mundo prefiere al pobre",
+          "más que al mentiroso."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Obedece a Dios y vivirás;",
+          "así dormirás tranquilo",
+          "y no tendrás ningún temor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "Hay gente tan perezosa",
+          "que hasta de comer se cansa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "El tonto solo aprende",
+          "a través del castigo;",
+          "al que es sabio le basta",
+          "con solo ser reprendido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "No hay hijo más malo",
+          "ni más sinvergüenza",
+          "que el que roba a su padre",
+          "y echa a la calle a su madre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "Querido jovencito,",
+          "si no aceptas la corrección,",
+          "te apartarás de los sabios consejos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "Un testigo malvado",
+          "se burla de la justicia;",
+          "su alimento es la maldad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "Para el malcriado, el castigo;",
+          "para el tonto, los azotes."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

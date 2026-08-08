@@ -1,1 +1,107 @@
-{"version":{"version_id":2692,"local_abbreviation":"NASB2020","local_title":"New American Standard Bible - NASB","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>","text":"NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"}},"book":{"book_usfm":"PSA","name":"Psalm"},"chapter":{"chapter_usfm":"PSA.131","is_chapter":true,"previous":{"usfm":"PSA.130","human":"Psalm 130","canonical":true,"toc":true},"current":{"usfm":"PSA.131","human":"Psalm 131"},"next":{"usfm":"PSA.132","human":"Psalm 132","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Psalm 131"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Childlike Trust in the Lord."],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["A Song of Ascents, of David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Lord, my heart is not proud, nor my eyes arrogant;","Nor do I involve myself in great matters,","Or in things too difficult for me."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["I have certainly soothed and quieted my soul;","Like a weaned child resting against his mother,","My soul within me is like a weaned child."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Israel, wait for the Lord","From this time on and forever."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.130.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.132.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalm"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.131",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.130",
+      "human": "Psalm 130"
+    },
+    "current": {
+      "usfm": "PSA.131",
+      "human": "Psalm 131"
+    },
+    "next": {
+      "usfm": "PSA.132",
+      "human": "Psalm 132"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Psalm 131"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Childlike Trust in the Lord."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "A Song of Ascents, of David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Lord, my heart is not proud, nor my eyes arrogant;",
+          "Nor do I involve myself in great matters,",
+          "Or in things too difficult for me."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "I have certainly soothed and quieted my soul;",
+          "Like a weaned child resting against his mother,",
+          "My soul within me is like a weaned child."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Israel, wait for the Lord",
+          "From this time on and forever."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 2692,
+    "local_abbreviation": "NASB2020",
+    "local_title": "New American Standard Bible - NASB",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "<p>NEW AMERICAN STANDARD BIBLE® NASB®</p> <p>Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation</p> <p>A Corporation Not for Profit</p> <p>La Habra, CA</p> <p>All Rights Reserved</p> <p>www.lockman.org</p>",
+      "text": "NEW AMERICAN STANDARD BIBLE® NASB® Copyright © 1960, 1971, 1977,1995, 2020 by The Lockman Foundation A Corporation Not for Profit La Habra, CA All Rights Reserved www.lockman.org"
+    }
+  }
+}

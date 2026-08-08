@@ -1,1 +1,165 @@
-{"version":{"version_id":178,"local_abbreviation":"TLAI","local_title":"Traducción en Lenguaje Actual Interconfesional","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"EST","name":"Ester"},"chapter":{"chapter_usfm":"EST.7","is_chapter":true,"previous":{"usfm":"EST.6","human":"Ester 6","canonical":true,"toc":true},"current":{"usfm":"EST.7","human":"Ester 7"},"next":{"usfm":"EST.8","human":"Ester 8","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Ester ofrece otro banquete"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["El rey Asuero y Amán fueron al banquete que les ofrecía la reina Ester."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Mientras bebían vino, el rey le volvió a preguntar a Ester:","—¿Dime qué deseas, reina Ester? Hasta la mitad de mi reino te daría, si me lo pidieras."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ester le respondió:","—Si Su Majestad en verdad me ama, y si le parece bien, le pido que salve mi vida y la de mi pueblo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Se ha puesto precio a nuestra vida, y se nos quiere destruir. Si hubiéramos sido vendidos como esclavos y esclavas, yo me callaría, y no molestaría a Su Majestad por algo sin importancia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["El rey Asuero le preguntó:","—¿Y quién se atrevió a hacer esto? ¿Dónde está?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Ester, señalando a Amán, le respondió:","—¡Nuestro enemigo es este malvado!","Al oír esto, Amán se quedó paralizado de miedo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El rey Asuero se levantó de la mesa muy enojado, y salió al jardín para calmarse. Cuando Amán se dio cuenta de que el rey estaba decidido a matarlo, se quedó en la sala para rogarle a la reina que lo salvara."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Amán muere en la horca"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8,9],"lines":["Cuando el rey regresó del jardín y entró a la sala, vio que Amán estaba demasiado cerca de Ester. Entonces el rey exclamó:","—¡Solo eso me faltaba! ¡Que le faltes al respeto a mi esposa ante mis ojos, y en mi propia casa!","Cuando los guardias oyeron los gritos del rey, entraron y le cubrieron la cara a Amán. Uno de los guardias, llamado Harboná, dijo:","—En la casa de Amán hay una horca de veintidós metros de alto. Él la preparó para Mardoqueo, el judío que le salvó la vida a Su Majestad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Entonces el rey ordenó:","—¡Cuélguenlo allí!","Los guardias colgaron a Amán en la horca que él había preparado para Mardoqueo, y así el rey se tranquilizó."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/EST.6.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/EST.8.json"
+  },
+  "book": {
+    "book_usfm": "EST",
+    "name": "Ester"
+  },
+  "chapter": {
+    "chapter_usfm": "EST.7",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EST.6",
+      "human": "Ester 6"
+    },
+    "current": {
+      "usfm": "EST.7",
+      "human": "Ester 7"
+    },
+    "next": {
+      "usfm": "EST.8",
+      "human": "Ester 8"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Ester ofrece otro banquete"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El rey Asuero y Amán fueron al banquete que les ofrecía la reina Ester."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Mientras bebían vino, el rey le volvió a preguntar a Ester:",
+          "—¿Dime qué deseas, reina Ester? Hasta la mitad de mi reino te daría, si me lo pidieras."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ester le respondió:",
+          "—Si Su Majestad en verdad me ama, y si le parece bien, le pido que salve mi vida y la de mi pueblo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Se ha puesto precio a nuestra vida, y se nos quiere destruir. Si hubiéramos sido vendidos como esclavos y esclavas, yo me callaría, y no molestaría a Su Majestad por algo sin importancia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "El rey Asuero le preguntó:",
+          "—¿Y quién se atrevió a hacer esto? ¿Dónde está?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Ester, señalando a Amán, le respondió:",
+          "—¡Nuestro enemigo es este malvado!",
+          "Al oír esto, Amán se quedó paralizado de miedo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El rey Asuero se levantó de la mesa muy enojado, y salió al jardín para calmarse. Cuando Amán se dio cuenta de que el rey estaba decidido a matarlo, se quedó en la sala para rogarle a la reina que lo salvara."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Amán muere en la horca"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8,
+          9
+        ],
+        "lines": [
+          "Cuando el rey regresó del jardín y entró a la sala, vio que Amán estaba demasiado cerca de Ester. Entonces el rey exclamó:",
+          "—¡Solo eso me faltaba! ¡Que le faltes al respeto a mi esposa ante mis ojos, y en mi propia casa!",
+          "Cuando los guardias oyeron los gritos del rey, entraron y le cubrieron la cara a Amán. Uno de los guardias, llamado Harboná, dijo:",
+          "—En la casa de Amán hay una horca de veintidós metros de alto. Él la preparó para Mardoqueo, el judío que le salvó la vida a Su Majestad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Entonces el rey ordenó:",
+          "—¡Cuélguenlo allí!",
+          "Los guardias colgaron a Amán en la horca que él había preparado para Mardoqueo, y así el rey se tranquilizó."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 178,
+    "local_abbreviation": "TLAI",
+    "local_title": "Traducción en Lenguaje Actual Interconfesional",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

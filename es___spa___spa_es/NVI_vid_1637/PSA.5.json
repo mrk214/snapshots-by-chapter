@@ -1,1 +1,198 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.5","is_chapter":true,"previous":{"usfm":"PSA.4","human":"Salmo 4","canonical":true,"toc":true},"current":{"usfm":"PSA.5","human":"Salmo 5"},"next":{"usfm":"PSA.6","human":"Salmo 6","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Al director musical. Acompáñese con flautas. Salmo de David."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Atiende, Señor, a mis palabras;","toma en cuenta mis gemidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Escucha mis súplicas, rey mío y Dios mío,","porque a ti elevo mi plegaria."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por la mañana, Señor, escuchas mi clamor;","por la mañana te presento mis ruegos,","y quedo esperando tu respuesta."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tú no eres un Dios que se complazca en lo malo;","a tu lado no tienen cabida los malvados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["No hay lugar en tu presencia para los altivos,","pues aborreces a todos los malhechores."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Tú destruyes a los mentirosos","y aborreces a los tramposos y asesinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Pero yo, por tu gran amor","puedo entrar en tu casa;","puedo postrarme reverente","hacia tu santo templo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Señor, por causa de mis enemigos,","dirígeme en tu justicia;","endereza delante de mí tu senda."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["En sus palabras no hay sinceridad;","en su interior solo hay corrupción.","Su garganta es un sepulcro abierto;","con su lengua profieren engaños."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["¡Condénalos, oh Dios!","¡Que caigan por sus propias intrigas!","¡Recházalos por la multitud de sus crímenes,","porque se han rebelado contra ti!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Pero que se alegren todos los que en ti buscan refugio;","¡que canten siempre jubilosos!","Extiéndeles tu protección, y que en ti se regocijen","todos los que aman tu nombre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Porque tú, Señor, bendices a los justos;","cual escudo los rodeas con tu buena voluntad."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.4.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.6.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.5",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.4",
+      "human": "Salmo 4"
+    },
+    "current": {
+      "usfm": "PSA.5",
+      "human": "Salmo 5"
+    },
+    "next": {
+      "usfm": "PSA.6",
+      "human": "Salmo 6"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Al director musical. Acompáñese con flautas. Salmo de David."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Atiende, Señor, a mis palabras;",
+          "toma en cuenta mis gemidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Escucha mis súplicas, rey mío y Dios mío,",
+          "porque a ti elevo mi plegaria."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por la mañana, Señor, escuchas mi clamor;",
+          "por la mañana te presento mis ruegos,",
+          "y quedo esperando tu respuesta."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tú no eres un Dios que se complazca en lo malo;",
+          "a tu lado no tienen cabida los malvados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "No hay lugar en tu presencia para los altivos,",
+          "pues aborreces a todos los malhechores."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Tú destruyes a los mentirosos",
+          "y aborreces a los tramposos y asesinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Pero yo, por tu gran amor",
+          "puedo entrar en tu casa;",
+          "puedo postrarme reverente",
+          "hacia tu santo templo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Señor, por causa de mis enemigos,",
+          "dirígeme en tu justicia;",
+          "endereza delante de mí tu senda."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "En sus palabras no hay sinceridad;",
+          "en su interior solo hay corrupción.",
+          "Su garganta es un sepulcro abierto;",
+          "con su lengua profieren engaños."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "¡Condénalos, oh Dios!",
+          "¡Que caigan por sus propias intrigas!",
+          "¡Recházalos por la multitud de sus crímenes,",
+          "porque se han rebelado contra ti!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Pero que se alegren todos los que en ti buscan refugio;",
+          "¡que canten siempre jubilosos!",
+          "Extiéndeles tu protección, y que en ti se regocijen",
+          "todos los que aman tu nombre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Porque tú, Señor, bendices a los justos;",
+          "cual escudo los rodeas con tu buena voluntad."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

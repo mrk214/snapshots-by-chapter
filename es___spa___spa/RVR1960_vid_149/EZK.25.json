@@ -1,1 +1,250 @@
-{"version":{"version_id":149,"local_abbreviation":"RVR1960","local_title":"Biblia Reina Valera 1960","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>","text":"Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."}},"book":{"book_usfm":"EZK","name":"Ezequiel"},"chapter":{"chapter_usfm":"EZK.25","is_chapter":true,"previous":{"usfm":"EZK.24","human":"Ezequiel 24","canonical":true,"toc":true},"current":{"usfm":"EZK.25","human":"Ezequiel 25"},"next":{"usfm":"EZK.26","human":"Ezequiel 26","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Profecía contra Amón"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vino a mí palabra de Jehová, diciendo:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Hijo de hombre, pon tu rostro hacia los hijos de Amón, y profetiza contra ellos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Y dirás a los hijos de Amón: Oíd palabra de Jehová el Señor. Así dice Jehová el Señor: Por cuanto dijiste: ¡Ea, bien!, cuando mi santuario era profanado, y la tierra de Israel era asolada, y llevada en cautiverio la casa de Judá;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["por tanto, he aquí yo te entrego por heredad a los orientales, y pondrán en ti sus apriscos y plantarán en ti sus tiendas; ellos comerán tus sementeras, y beberán tu leche."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Y pondré a Rabá por habitación de camellos, y a los hijos de Amón por majada de ovejas; y sabréis que yo soy Jehová."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Porque así ha dicho Jehová el Señor: Por cuanto batiste tus manos, y golpeaste con tu pie, y te gozaste en el alma con todo tu menosprecio para la tierra de Israel,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["por tanto, he aquí yo extenderé mi mano contra ti, y te entregaré a las naciones para ser saqueada; te cortaré de entre los pueblos, y te destruiré de entre las tierras; te exterminaré, y sabrás que yo soy Jehová."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Profecía contra Moab"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Así ha dicho Jehová el Señor: Por cuanto dijo Moab y Seir: He aquí la casa de Judá es como todas las naciones;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["por tanto, he aquí yo abro el lado de Moab desde las ciudades, desde sus ciudades que están en su confín, las tierras deseables de Bet-jesimot, Baal-meón y Quiriataim,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["a los hijos del oriente contra los hijos de Amón; y la entregaré por heredad, para que no haya más memoria de los hijos de Amón entre las naciones."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["También en Moab haré juicios, y sabrán que yo soy Jehová."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Profecía contra Edom"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Así ha dicho Jehová el Señor: Por lo que hizo Edom, tomando venganza de la casa de Judá, pues delinquieron en extremo, y se vengaron de ellos;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["por tanto, así ha dicho Jehová el Señor: Yo también extenderé mi mano sobre Edom, y cortaré de ella hombres y bestias, y la asolaré; desde Temán hasta Dedán caerán a espada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Y pondré mi venganza contra Edom en manos de mi pueblo Israel, y harán en Edom según mi enojo y conforme a mi ira; y conocerán mi venganza, dice Jehová el Señor."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Profecía contra los filisteos"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Así ha dicho Jehová el Señor: Por lo que hicieron los filisteos con venganza, cuando se vengaron con despecho de ánimo, destruyendo por antiguas enemistades;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["por tanto, así ha dicho Jehová: He aquí yo extiendo mi mano contra los filisteos, y cortaré a los cereteos, y destruiré el resto que queda en la costa del mar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Y haré en ellos grandes venganzas con reprensiones de ira; y sabrán que yo soy Jehová, cuando haga mi venganza en ellos."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/EZK.24.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/EZK.26.json"
+  },
+  "book": {
+    "book_usfm": "EZK",
+    "name": "Ezequiel"
+  },
+  "chapter": {
+    "chapter_usfm": "EZK.25",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "EZK.24",
+      "human": "Ezequiel 24"
+    },
+    "current": {
+      "usfm": "EZK.25",
+      "human": "Ezequiel 25"
+    },
+    "next": {
+      "usfm": "EZK.26",
+      "human": "Ezequiel 26"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra Amón"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vino a mí palabra de Jehová, diciendo:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Hijo de hombre, pon tu rostro hacia los hijos de Amón, y profetiza contra ellos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Y dirás a los hijos de Amón: Oíd palabra de Jehová el Señor. Así dice Jehová el Señor: Por cuanto dijiste: ¡Ea, bien!, cuando mi santuario era profanado, y la tierra de Israel era asolada, y llevada en cautiverio la casa de Judá;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "por tanto, he aquí yo te entrego por heredad a los orientales, y pondrán en ti sus apriscos y plantarán en ti sus tiendas; ellos comerán tus sementeras, y beberán tu leche."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Y pondré a Rabá por habitación de camellos, y a los hijos de Amón por majada de ovejas; y sabréis que yo soy Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Porque así ha dicho Jehová el Señor: Por cuanto batiste tus manos, y golpeaste con tu pie, y te gozaste en el alma con todo tu menosprecio para la tierra de Israel,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "por tanto, he aquí yo extenderé mi mano contra ti, y te entregaré a las naciones para ser saqueada; te cortaré de entre los pueblos, y te destruiré de entre las tierras; te exterminaré, y sabrás que yo soy Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra Moab"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Así ha dicho Jehová el Señor: Por cuanto dijo Moab y Seir: He aquí la casa de Judá es como todas las naciones;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "por tanto, he aquí yo abro el lado de Moab desde las ciudades, desde sus ciudades que están en su confín, las tierras deseables de Bet-jesimot, Baal-meón y Quiriataim,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "a los hijos del oriente contra los hijos de Amón; y la entregaré por heredad, para que no haya más memoria de los hijos de Amón entre las naciones."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "También en Moab haré juicios, y sabrán que yo soy Jehová."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra Edom"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Así ha dicho Jehová el Señor: Por lo que hizo Edom, tomando venganza de la casa de Judá, pues delinquieron en extremo, y se vengaron de ellos;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "por tanto, así ha dicho Jehová el Señor: Yo también extenderé mi mano sobre Edom, y cortaré de ella hombres y bestias, y la asolaré; desde Temán hasta Dedán caerán a espada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Y pondré mi venganza contra Edom en manos de mi pueblo Israel, y harán en Edom según mi enojo y conforme a mi ira; y conocerán mi venganza, dice Jehová el Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra los filisteos"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Así ha dicho Jehová el Señor: Por lo que hicieron los filisteos con venganza, cuando se vengaron con despecho de ánimo, destruyendo por antiguas enemistades;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "por tanto, así ha dicho Jehová: He aquí yo extiendo mi mano contra los filisteos, y cortaré a los cereteos, y destruiré el resto que queda en la costa del mar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Y haré en ellos grandes venganzas con reprensiones de ira; y sabrán que yo soy Jehová, cuando haga mi venganza en ellos."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 149,
+    "local_abbreviation": "RVR1960",
+    "local_title": "Biblia Reina Valera 1960",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas.</p>",
+      "text": "Texto bíblico Reina-Valera 1960® © Sociedades Bíblicas en América Latina, 1960. Derechos renovados 1988, Sociedades Bíblicas Unidas."
+    }
+  }
+}

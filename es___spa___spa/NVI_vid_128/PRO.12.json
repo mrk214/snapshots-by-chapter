@@ -1,1 +1,356 @@
-{"version":{"version_id":128,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Español","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PRO","name":"Proverbios"},"chapter":{"chapter_usfm":"PRO.12","is_chapter":true,"previous":{"usfm":"PRO.11","human":"Proverbios 11","canonical":true,"toc":true},"current":{"usfm":"PRO.12","human":"Proverbios 12"},"next":{"usfm":"PRO.13","human":"Proverbios 13","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["El que ama la disciplina ama el conocimiento,","pero el que la aborrece es un necio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["El hombre bueno recibe el favor del Señor,","pero el intrigante recibe su condena."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Nadie puede afirmarse por medio de la maldad;","solo queda firme la raíz de los justos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["La mujer ejemplar es corona de su esposo;","la desvergonzada corroe los huesos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["En los planes del justo hay justicia,","pero en los consejos del malvado hay engaño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Las palabras del malvado son insidias de muerte,","pero la boca de los justos los pone a salvo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Los malvados se derrumban y dejan de existir,","pero las familias de los justos permanecen."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Al hombre se le alaba según su sabiduría,","pero al de malos pensamientos se le desprecia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Vale más un despreciado con criado","que un vanaglorioso sin pan."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["El justo atiende a las necesidades de su bestia,","pero el malvado es cruel."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El que trabaja su tierra tendrá abundante comida,","pero el que sueña despierto es falto de juicio."],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["El codicioso anhela el botín de los perversos;","pero la raíz de los justos da fruto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["En el pecado de sus labios se enreda el malvado,","pero el justo sale del aprieto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Cada uno se sacia del buen fruto de sus labios","y de la obra de sus manos recibe su recompensa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Al necio le parece bien lo que emprende,","pero el sabio escucha el consejo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["El necio muestra enseguida su enojo,","pero el prudente pasa por alto el insulto."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["El testigo veraz declara lo que es justo,","pero el testigo falso engaña."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["El charlatán hiere con la lengua como con una espada,","pero la lengua del sabio brinda sanidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Los labios sinceros permanecen para siempre,","pero la lengua mentirosa dura solo un instante."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["En los que planean el mal habita el engaño,","pero hay gozo para los que promueven la paz."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["Al justo no le sobrevendrá ningún daño,","pero al malvado lo cubrirá la desgracia."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["El Señor aborrece a los de labios mentirosos,","pero se complace en los que actúan con lealtad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["El hombre prudente no muestra lo que sabe,","pero del corazón de los necios brota necedad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["El de manos diligentes gobernará;","pero el perezoso será subyugado."],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["La angustia abate el corazón del hombre,","pero una palabra amable lo alegra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["El justo es guía de su prójimo,","pero el camino del malvado lo hace errar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["El perezoso no pone a asar lo que ha cazado,","pero el diligente ya posee una gran riqueza."],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["En el camino de la justicia se halla la vida;","por ese camino se evita la muerte."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.11.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.13.json"
+  },
+  "book": {
+    "book_usfm": "PRO",
+    "name": "Proverbios"
+  },
+  "chapter": {
+    "chapter_usfm": "PRO.12",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PRO.11",
+      "human": "Proverbios 11"
+    },
+    "current": {
+      "usfm": "PRO.12",
+      "human": "Proverbios 12"
+    },
+    "next": {
+      "usfm": "PRO.13",
+      "human": "Proverbios 13"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "El que ama la disciplina ama el conocimiento,",
+          "pero el que la aborrece es un necio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "El hombre bueno recibe el favor del Señor,",
+          "pero el intrigante recibe su condena."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Nadie puede afirmarse por medio de la maldad;",
+          "solo queda firme la raíz de los justos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "La mujer ejemplar es corona de su esposo;",
+          "la desvergonzada corroe los huesos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "En los planes del justo hay justicia,",
+          "pero en los consejos del malvado hay engaño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Las palabras del malvado son insidias de muerte,",
+          "pero la boca de los justos los pone a salvo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Los malvados se derrumban y dejan de existir,",
+          "pero las familias de los justos permanecen."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Al hombre se le alaba según su sabiduría,",
+          "pero al de malos pensamientos se le desprecia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Vale más un despreciado con criado",
+          "que un vanaglorioso sin pan."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "El justo atiende a las necesidades de su bestia,",
+          "pero el malvado es cruel."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El que trabaja su tierra tendrá abundante comida,",
+          "pero el que sueña despierto es falto de juicio."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "El codicioso anhela el botín de los perversos;",
+          "pero la raíz de los justos da fruto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "En el pecado de sus labios se enreda el malvado,",
+          "pero el justo sale del aprieto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Cada uno se sacia del buen fruto de sus labios",
+          "y de la obra de sus manos recibe su recompensa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Al necio le parece bien lo que emprende,",
+          "pero el sabio escucha el consejo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "El necio muestra enseguida su enojo,",
+          "pero el prudente pasa por alto el insulto."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "El testigo veraz declara lo que es justo,",
+          "pero el testigo falso engaña."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "El charlatán hiere con la lengua como con una espada,",
+          "pero la lengua del sabio brinda sanidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Los labios sinceros permanecen para siempre,",
+          "pero la lengua mentirosa dura solo un instante."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "En los que planean el mal habita el engaño,",
+          "pero hay gozo para los que promueven la paz."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "Al justo no le sobrevendrá ningún daño,",
+          "pero al malvado lo cubrirá la desgracia."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "El Señor aborrece a los de labios mentirosos,",
+          "pero se complace en los que actúan con lealtad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "El hombre prudente no muestra lo que sabe,",
+          "pero del corazón de los necios brota necedad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "El de manos diligentes gobernará;",
+          "pero el perezoso será subyugado."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "La angustia abate el corazón del hombre,",
+          "pero una palabra amable lo alegra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "El justo es guía de su prójimo,",
+          "pero el camino del malvado lo hace errar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "El perezoso no pone a asar lo que ha cazado,",
+          "pero el diligente ya posee una gran riqueza."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "En el camino de la justicia se halla la vida;",
+          "por ese camino se evita la muerte."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 128,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Español",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, Nueva Versión Internacional® NVI®</p> <p>© 1999, 2015, 2022 por Biblica, Inc.</p> <p>Usado con permiso. Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, Nueva Versión Internacional® NVI® © 1999, 2015, 2022 por Biblica, Inc. Usado con permiso. Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

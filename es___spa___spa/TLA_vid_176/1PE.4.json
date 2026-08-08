@@ -1,1 +1,262 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"1PE","name":"1 Pedro"},"chapter":{"chapter_usfm":"1PE.4","is_chapter":true,"previous":{"usfm":"1PE.3","human":"1 Pedro 3","canonical":true,"toc":true},"current":{"usfm":"1PE.4","human":"1 Pedro 4"},"next":{"usfm":"1PE.5","human":"1 Pedro 5","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Vivir como Dios quiere"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Ustedes deben estar dispuestos a sufrir, así como Cristo sufrió mientras estuvo aquí en la tierra. Si ustedes sufren como Cristo, ya no seguirán pecando."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Eso demostrará que han dejado de seguir sus malos deseos, y que dedicarán el resto de su vida a hacer lo que Dios quiere."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por mucho tiempo ustedes vivieron haciendo lo mismo que hacen los que no creen en Dios. Tenían vicios y malos deseos, se emborrachaban, participaban en fiestas escandalosas y, lo más terrible de todo, adoraban ídolos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Pero como ustedes ya no se juntan con ellos, ahora ellos hablan mal de ustedes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["¡Pero ya tendrán que darle cuentas a Dios, el Juez que está preparado para juzgar a los vivos y a los muertos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Para eso anunció Cristo la buena noticia, aun a los muertos: para que después de que Dios los juzgue por lo que hicieron en vida, sus espíritus puedan vivir con Dios."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El servicio a los demás"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Ya se acerca el fin del mundo. Por eso, sean responsables y cuidadosos en la oración."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Sobre todo, ámense mucho unos a otros, porque el amor borra los pecados."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Reciban en su casa a los demás, y no hablen mal de ellos, sino hagan que se sientan bienvenidos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Cada uno de ustedes ha recibido de Dios alguna capacidad especial. Úsela bien en el servicio a los demás."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["Si alguno sabe hablar bien, que anuncie el mensaje de Dios. Si alguno sabe cómo ayudar a los demás, que lo haga con la fuerza que Dios le da para hacerlo. De este modo, todo lo que ustedes hagan servirá para que los demás alaben a Dios por medio de Jesucristo, que es maravilloso y poderoso para siempre. Amén."],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["El sufrimiento del cristiano"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["Queridos hermanos en Cristo, no se sorprendan si tienen que afrontar problemas que pongan a prueba su confianza en Dios. Eso no es nada extraño."],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["Al contrario, alégrense de poder sufrir como Cristo sufrió, para que también se alegren cuando Cristo regrese y muestre su gloria y su poder."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["Si alguien los insulta por confiar en Cristo, consideren ese insulto como una bendición de Dios. Eso significa que el maravilloso Espíritu de Dios está siempre con ustedes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Si alguno de ustedes sufre, que no sea por ser asesino, ladrón o bandido, ni por meterse en asuntos ajenos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Si alguno sufre por ser cristiano, no debe sentir vergüenza, sino darle gracias a Dios por ser cristiano."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Ha llegado ya el momento de que Dios juzgue a todos, y de que empiece por juzgar a su propio pueblo. Y si empieza por nosotros y nos hace sufrir así, ¡imagínense lo que les espera a los que no obedecen la palabra de Dios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["Y si con dificultad se salvan los que hacen el bien, ¡ya se pueden imaginar lo que les pasará a los malvados y a los pecadores!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["Por eso, los que sufren porque Dios así lo quiere, deben seguir haciendo el bien y dejar que Dios los cuide, pues él es su creador y cumple lo que promete."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/1PE.3.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/1PE.5.json"
+  },
+  "book": {
+    "book_usfm": "1PE",
+    "name": "1 Pedro"
+  },
+  "chapter": {
+    "chapter_usfm": "1PE.4",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "1PE.3",
+      "human": "1 Pedro 3"
+    },
+    "current": {
+      "usfm": "1PE.4",
+      "human": "1 Pedro 4"
+    },
+    "next": {
+      "usfm": "1PE.5",
+      "human": "1 Pedro 5"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Vivir como Dios quiere"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Ustedes deben estar dispuestos a sufrir, así como Cristo sufrió mientras estuvo aquí en la tierra. Si ustedes sufren como Cristo, ya no seguirán pecando."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Eso demostrará que han dejado de seguir sus malos deseos, y que dedicarán el resto de su vida a hacer lo que Dios quiere."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por mucho tiempo ustedes vivieron haciendo lo mismo que hacen los que no creen en Dios. Tenían vicios y malos deseos, se emborrachaban, participaban en fiestas escandalosas y, lo más terrible de todo, adoraban ídolos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Pero como ustedes ya no se juntan con ellos, ahora ellos hablan mal de ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "¡Pero ya tendrán que darle cuentas a Dios, el Juez que está preparado para juzgar a los vivos y a los muertos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Para eso anunció Cristo la buena noticia, aun a los muertos: para que después de que Dios los juzgue por lo que hicieron en vida, sus espíritus puedan vivir con Dios."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El servicio a los demás"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Ya se acerca el fin del mundo. Por eso, sean responsables y cuidadosos en la oración."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Sobre todo, ámense mucho unos a otros, porque el amor borra los pecados."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Reciban en su casa a los demás, y no hablen mal de ellos, sino hagan que se sientan bienvenidos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Cada uno de ustedes ha recibido de Dios alguna capacidad especial. Úsela bien en el servicio a los demás."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "Si alguno sabe hablar bien, que anuncie el mensaje de Dios. Si alguno sabe cómo ayudar a los demás, que lo haga con la fuerza que Dios le da para hacerlo. De este modo, todo lo que ustedes hagan servirá para que los demás alaben a Dios por medio de Jesucristo, que es maravilloso y poderoso para siempre. Amén."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "El sufrimiento del cristiano"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "Queridos hermanos en Cristo, no se sorprendan si tienen que afrontar problemas que pongan a prueba su confianza en Dios. Eso no es nada extraño."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "Al contrario, alégrense de poder sufrir como Cristo sufrió, para que también se alegren cuando Cristo regrese y muestre su gloria y su poder."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "Si alguien los insulta por confiar en Cristo, consideren ese insulto como una bendición de Dios. Eso significa que el maravilloso Espíritu de Dios está siempre con ustedes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Si alguno de ustedes sufre, que no sea por ser asesino, ladrón o bandido, ni por meterse en asuntos ajenos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Si alguno sufre por ser cristiano, no debe sentir vergüenza, sino darle gracias a Dios por ser cristiano."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Ha llegado ya el momento de que Dios juzgue a todos, y de que empiece por juzgar a su propio pueblo. Y si empieza por nosotros y nos hace sufrir así, ¡imagínense lo que les espera a los que no obedecen la palabra de Dios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "Y si con dificultad se salvan los que hacen el bien, ¡ya se pueden imaginar lo que les pasará a los malvados y a los pecadores!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "Por eso, los que sufren porque Dios así lo quiere, deben seguir haciendo el bien y dejar que Dios los cuide, pues él es su creador y cumple lo que promete."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

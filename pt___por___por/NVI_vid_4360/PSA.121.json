@@ -1,1 +1,144 @@
-{"version":{"version_id":4360,"local_abbreviation":"NVI","local_title":"Nova Versão Internacional 2011","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por","local_name":"Português (Brasil)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>","text":"Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.121","is_chapter":true,"previous":{"usfm":"PSA.120","human":"Salmos 120","canonical":true,"toc":true},"current":{"usfm":"PSA.121","human":"Salmos 121"},"next":{"usfm":"PSA.122","human":"Salmos 122","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cântico de Peregrinação."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Levanto os meus olhos para os montes e pergunto:","De onde me vem o socorro?"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["O meu socorro vem do Senhor,","que fez os céus e a terra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Ele não permitirá que você tropece;","o seu protetor se manterá alerta,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["sim, o protetor de Israel não dormirá;","ele está sempre alerta!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor é o seu protetor;","como sombra que o protege, ele está à sua direita."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["De dia o sol não o ferirá;","nem a lua, de noite."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["O Senhor o protegerá de todo o mal,","protegerá a sua vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["O Senhor protegerá a sua saída e a sua chegada,","desde agora e para sempre."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.120.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/PSA.122.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.121",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.120",
+      "human": "Salmos 120"
+    },
+    "current": {
+      "usfm": "PSA.121",
+      "human": "Salmos 121"
+    },
+    "next": {
+      "usfm": "PSA.122",
+      "human": "Salmos 122"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico de Peregrinação."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Levanto os meus olhos para os montes e pergunto:",
+          "De onde me vem o socorro?"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "O meu socorro vem do Senhor,",
+          "que fez os céus e a terra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Ele não permitirá que você tropece;",
+          "o seu protetor se manterá alerta,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "sim, o protetor de Israel não dormirá;",
+          "ele está sempre alerta!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor é o seu protetor;",
+          "como sombra que o protege, ele está à sua direita."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "De dia o sol não o ferirá;",
+          "nem a lua, de noite."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "O Senhor o protegerá de todo o mal,",
+          "protegerá a sua vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "O Senhor protegerá a sua saída e a sua chegada,",
+          "desde agora e para sempre."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 4360,
+    "local_abbreviation": "NVI",
+    "local_title": "Nova Versão Internacional 2011",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por",
+      "local_name": "Português (Brasil)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Biblia Sagrada, Nova Versão Internacional®, NVI®</p> <p>Copyright © 1993, 2000, 2011 by Biblica, Inc.®</p> <p>All rights reserved worldwide.</p>",
+      "text": "Biblia Sagrada, Nova Versão Internacional®, NVI®\nCopyright © 1993, 2000, 2011 by Biblica, Inc.®\nAll rights reserved worldwide."
+    }
+  }
+}

@@ -1,1 +1,168 @@
-{"version":{"version_id":176,"local_abbreviation":"TLA","local_title":"Traducción en Lenguaje Actual","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>","text":"Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.137","is_chapter":true,"previous":{"usfm":"PSA.136","human":"Salmos 136","canonical":true,"toc":true},"current":{"usfm":"PSA.137","human":"Salmos 137"},"next":{"usfm":"PSA.138","human":"Salmos 138","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Una canción en tierra extraña"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Cuando estábamos en Babilonia,","lejos de nuestro país,","acostumbrábamos sentarnos","a la orilla de sus ríos.","¡No podíamos contener el llanto","al acordarnos de Jerusalén!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["En las ramas de los árboles","que crecen junto a esos ríos","colgamos nuestras arpas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Los mismos soldados","que nos sacaron de Israel","y nos hacían trabajar,","nos pedían estar alegres;","¡querían oírnos cantar!","¡Querían que les cantáramos","canciones de nuestra tierra!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["¡Jamás cantaríamos","en tierra de extranjeros","alabanzas a nuestro Dios!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5,6],"lines":["¡Jerusalén, Jerusalén!","Si llegara yo a olvidarte,","¡que la mano derecha se me seque!","¡Que me corten la lengua","si por estar alegre","dejo de pensar en ti!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["El día que Jerusalén cayó,","los edomitas gritaban:","«¡Acaben con la ciudad!","¡Que no quede rastro de ella!»","Dios mío,","¡no te olvides de esos gritos!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Un día, ciudad de Babilonia,","¡también tú serás destruida!","¡Dios habrá de bendecir","a los que te paguen","con la misma moneda!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["¡Dios habrá de bendecir","a los que agarren a tus hijos","y los estrellen contra los muros!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.136.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PSA.138.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.137",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.136",
+      "human": "Salmos 136"
+    },
+    "current": {
+      "usfm": "PSA.137",
+      "human": "Salmos 137"
+    },
+    "next": {
+      "usfm": "PSA.138",
+      "human": "Salmos 138"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Una canción en tierra extraña"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Cuando estábamos en Babilonia,",
+          "lejos de nuestro país,",
+          "acostumbrábamos sentarnos",
+          "a la orilla de sus ríos.",
+          "¡No podíamos contener el llanto",
+          "al acordarnos de Jerusalén!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "En las ramas de los árboles",
+          "que crecen junto a esos ríos",
+          "colgamos nuestras arpas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Los mismos soldados",
+          "que nos sacaron de Israel",
+          "y nos hacían trabajar,",
+          "nos pedían estar alegres;",
+          "¡querían oírnos cantar!",
+          "¡Querían que les cantáramos",
+          "canciones de nuestra tierra!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "¡Jamás cantaríamos",
+          "en tierra de extranjeros",
+          "alabanzas a nuestro Dios!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5,
+          6
+        ],
+        "lines": [
+          "¡Jerusalén, Jerusalén!",
+          "Si llegara yo a olvidarte,",
+          "¡que la mano derecha se me seque!",
+          "¡Que me corten la lengua",
+          "si por estar alegre",
+          "dejo de pensar en ti!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "El día que Jerusalén cayó,",
+          "los edomitas gritaban:",
+          "«¡Acaben con la ciudad!",
+          "¡Que no quede rastro de ella!»",
+          "Dios mío,",
+          "¡no te olvides de esos gritos!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Un día, ciudad de Babilonia,",
+          "¡también tú serás destruida!",
+          "¡Dios habrá de bendecir",
+          "a los que te paguen",
+          "con la misma moneda!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "¡Dios habrá de bendecir",
+          "a los que agarren a tus hijos",
+          "y los estrellen contra los muros!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 176,
+    "local_abbreviation": "TLA",
+    "local_title": "Traducción en Lenguaje Actual",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004.</p>",
+      "text": "Traducción en lenguaje actual ® © Sociedades Bíblicas Unidas, 2002, 2004."
+    }
+  }
+}

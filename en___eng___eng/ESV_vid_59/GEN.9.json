@@ -1,1 +1,354 @@
-{"version":{"version_id":59,"local_abbreviation":"ESV","local_title":"English Standard Version 2016","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"Crossway / Good News Publishers"},"copyright":{"html":"<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>","text":"The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."}},"book":{"book_usfm":"GEN","name":"Genesis"},"chapter":{"chapter_usfm":"GEN.9","is_chapter":true,"previous":{"usfm":"GEN.8","human":"Genesis 8","canonical":true,"toc":true},"current":{"usfm":"GEN.9","human":"Genesis 9"},"next":{"usfm":"GEN.10","human":"Genesis 10","canonical":true,"toc":true},"items":[{"type":"verse","verse_numbers":[1],"lines":["And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["But you shall not eat flesh with its life, that is, its blood."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["“Whoever sheds the blood of man,","by man shall his blood be shed,","for God made man in his own image."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["And you, be fruitful and multiply, increase greatly on the earth and multiply in it.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Then God said to Noah and to his sons with him,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["“Behold, I establish my covenant with you and your offspring after you,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["And God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["When I bring clouds over the earth and the bow is seen in the clouds,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Noah’s Descendants"],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"],"rlw_lines":[]},{"type":"verse","verse_numbers":[19],"lines":["These three were the sons of Noah, and from these the people of the whole earth were dispersed."],"rlw_lines":[]},{"type":"verse","verse_numbers":[20],"lines":["Noah began to be a man of the soil, and he planted a vineyard."],"rlw_lines":[]},{"type":"verse","verse_numbers":[21],"lines":["He drank of the wine and became drunk and lay uncovered in his tent."],"rlw_lines":[]},{"type":"verse","verse_numbers":[22],"lines":["And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside."],"rlw_lines":[]},{"type":"verse","verse_numbers":[23],"lines":["Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father’s nakedness."],"rlw_lines":[]},{"type":"verse","verse_numbers":[24],"lines":["When Noah awoke from his wine and knew what his youngest son had done to him,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[25],"lines":["he said,","“Cursed be Canaan;","a servant of servants shall he be to his brothers.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[26],"lines":["He also said,","“Blessed be the Lord, the God of Shem;","and let Canaan be his servant."],"rlw_lines":[]},{"type":"verse","verse_numbers":[27],"lines":["May God enlarge Japheth,","and let him dwell in the tents of Shem,","and let Canaan be his servant.”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[28],"lines":["After the flood Noah lived 350 years."],"rlw_lines":[]},{"type":"verse","verse_numbers":[29],"lines":["All the days of Noah were 950 years, and he died."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.8.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/GEN.10.json"
+  },
+  "book": {
+    "book_usfm": "GEN",
+    "name": "Genesis"
+  },
+  "chapter": {
+    "chapter_usfm": "GEN.9",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "GEN.8",
+      "human": "Genesis 8"
+    },
+    "current": {
+      "usfm": "GEN.9",
+      "human": "Genesis 9"
+    },
+    "next": {
+      "usfm": "GEN.10",
+      "human": "Genesis 10"
+    },
+    "items": [
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "And God blessed Noah and his sons and said to them, “Be fruitful and multiply and fill the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "The fear of you and the dread of you shall be upon every beast of the earth and upon every bird of the heavens, upon everything that creeps on the ground and all the fish of the sea. Into your hand they are delivered."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Every moving thing that lives shall be food for you. And as I gave you the green plants, I give you everything."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "But you shall not eat flesh with its life, that is, its blood."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "And for your lifeblood I will require a reckoning: from every beast I will require it and from man. From his fellow man I will require a reckoning for the life of man."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "“Whoever sheds the blood of man,",
+          "by man shall his blood be shed,",
+          "for God made man in his own image."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "And you, be fruitful and multiply, increase greatly on the earth and multiply in it.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Then God said to Noah and to his sons with him,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "“Behold, I establish my covenant with you and your offspring after you,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "and with every living creature that is with you, the birds, the livestock, and every beast of the earth with you, as many as came out of the ark; it is for every beast of the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "I establish my covenant with you, that never again shall all flesh be cut off by the waters of the flood, and never again shall there be a flood to destroy the earth.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "And God said, “This is the sign of the covenant that I make between me and you and every living creature that is with you, for all future generations:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "I have set my bow in the cloud, and it shall be a sign of the covenant between me and the earth."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "When I bring clouds over the earth and the bow is seen in the clouds,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "I will remember my covenant that is between me and you and every living creature of all flesh. And the waters shall never again become a flood to destroy all flesh."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "When the bow is in the clouds, I will see it and remember the everlasting covenant between God and every living creature of all flesh that is on the earth.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "God said to Noah, “This is the sign of the covenant that I have established between me and all flesh that is on the earth.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Noah’s Descendants"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "The sons of Noah who went forth from the ark were Shem, Ham, and Japheth. (Ham was the father of Canaan.)"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          19
+        ],
+        "lines": [
+          "These three were the sons of Noah, and from these the people of the whole earth were dispersed."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          20
+        ],
+        "lines": [
+          "Noah began to be a man of the soil, and he planted a vineyard."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          21
+        ],
+        "lines": [
+          "He drank of the wine and became drunk and lay uncovered in his tent."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          22
+        ],
+        "lines": [
+          "And Ham, the father of Canaan, saw the nakedness of his father and told his two brothers outside."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          23
+        ],
+        "lines": [
+          "Then Shem and Japheth took a garment, laid it on both their shoulders, and walked backward and covered the nakedness of their father. Their faces were turned backward, and they did not see their father’s nakedness."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          24
+        ],
+        "lines": [
+          "When Noah awoke from his wine and knew what his youngest son had done to him,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          25
+        ],
+        "lines": [
+          "he said,",
+          "“Cursed be Canaan;",
+          "a servant of servants shall he be to his brothers.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          26
+        ],
+        "lines": [
+          "He also said,",
+          "“Blessed be the Lord, the God of Shem;",
+          "and let Canaan be his servant."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          27
+        ],
+        "lines": [
+          "May God enlarge Japheth,",
+          "and let him dwell in the tents of Shem,",
+          "and let Canaan be his servant.”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          28
+        ],
+        "lines": [
+          "After the flood Noah lived 350 years."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          29
+        ],
+        "lines": [
+          "All the days of Noah were 950 years, and he died."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 59,
+    "local_abbreviation": "ESV",
+    "local_title": "English Standard Version 2016",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "Crossway / Good News Publishers"
+    },
+    "copyright": {
+      "html": "<p>The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers.</p>",
+      "text": "The Holy Bible, English Standard Version® (ESV®), copyright © 2001 by Crossway, a publishing ministry of Good News Publishers."
+    }
+  }
+}

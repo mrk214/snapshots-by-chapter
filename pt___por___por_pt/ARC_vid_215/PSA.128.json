@@ -1,1 +1,124 @@
-{"version":{"version_id":215,"local_abbreviation":"ARC","local_title":"Almeida Revista e Corrigida (Portugal)","language":{"iso_639_1":"pt","iso_639_3":"por","language_tag":"por_pt","local_name":"Português (Portugal) ","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-pt-por","publisher":{"name":"Bible Society of Portugal"},"copyright":{"html":"<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>","text":"Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Salmos 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Salmos 128"},"next":{"usfm":"PSA.129","human":"Salmos 129","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Aquele que teme a Deus será abençoado na sua família"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["Cântico dos degraus"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["BEM-AVENTURADO aquele que teme ao Senhor e anda nos seus caminhos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Pois comerás do trabalho das tuas mãos: feliz serás, e te irá bem."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["A tua mulher será como a videira frutífera aos lados da tua casa; os teus filhos como plantas de oliveira à roda da tua mesa."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Eis que assim será abençoado o homem que teme ao Senhor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["O Senhor te abençoará desde Sião, e tu verás os bens de Jerusalém, em todos os dias da tua vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["E verás os filhos dos teus filhos, e a paz sobre Israel."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Salmos 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Salmos 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Salmos 129"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Aquele que teme a Deus será abençoado na sua família"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cântico dos degraus"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "BEM-AVENTURADO aquele que teme ao Senhor e anda nos seus caminhos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Pois comerás do trabalho das tuas mãos: feliz serás, e te irá bem."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "A tua mulher será como a videira frutífera aos lados da tua casa; os teus filhos como plantas de oliveira à roda da tua mesa."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Eis que assim será abençoado o homem que teme ao Senhor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "O Senhor te abençoará desde Sião, e tu verás os bens de Jerusalém, em todos os dias da tua vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "E verás os filhos dos teus filhos, e a paz sobre Israel."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 215,
+    "local_abbreviation": "ARC",
+    "local_title": "Almeida Revista e Corrigida (Portugal)",
+    "language": {
+      "iso_639_1": "pt",
+      "iso_639_3": "por",
+      "language_tag": "por_pt",
+      "local_name": "Português (Portugal) ",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-pt-por",
+    "publisher": {
+      "name": "Bible Society of Portugal"
+    },
+    "copyright": {
+      "html": "<p>Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal.</p>",
+      "text": "Tradução de João Ferreira de Almeida, Edição Revista e Corrigida. Copyright © 2001 Sociedade Bíblica de Portugal."
+    }
+  }
+}

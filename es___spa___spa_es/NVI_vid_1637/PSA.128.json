@@ -1,1 +1,125 @@
-{"version":{"version_id":1637,"local_abbreviation":"NVI","local_title":"Nueva Versión Internacional - Castellano","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa_es","local_name":"Español (España)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"Biblica, Inc."},"copyright":{"html":"<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>","text":"Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.128","is_chapter":true,"previous":{"usfm":"PSA.127","human":"Salmo 127","canonical":true,"toc":true},"current":{"usfm":"PSA.128","human":"Salmo 128"},"next":{"usfm":"PSA.129","human":"Salmo 129","canonical":true,"toc":true},"items":[{"type":"label","verse_numbers":[],"lines":["Cántico de los peregrinos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Dichosos todos los que temen al Señor,","los que van por sus caminos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Lo que ganes con tus manos, eso comerás;","gozarás de dicha y prosperidad."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["En el seno de tu hogar,","tu esposa será como vid llena de uvas;","alrededor de tu mesa,","tus hijos serán como vástagos de olivo."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Tales son las bendiciones","de los que temen al Señor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Que el Señor te bendiga desde Sión,","y veas la prosperidad de Jerusalén","todos los días de tu vida."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Que vivas para ver a los hijos de tus hijos.","¡Que haya paz en Israel!"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.127.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.129.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.128",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.127",
+      "human": "Salmo 127"
+    },
+    "current": {
+      "usfm": "PSA.128",
+      "human": "Salmo 128"
+    },
+    "next": {
+      "usfm": "PSA.129",
+      "human": "Salmo 129"
+    },
+    "items": [
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "Cántico de los peregrinos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Dichosos todos los que temen al Señor,",
+          "los que van por sus caminos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Lo que ganes con tus manos, eso comerás;",
+          "gozarás de dicha y prosperidad."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "En el seno de tu hogar,",
+          "tu esposa será como vid llena de uvas;",
+          "alrededor de tu mesa,",
+          "tus hijos serán como vástagos de olivo."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Tales son las bendiciones",
+          "de los que temen al Señor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Que el Señor te bendiga desde Sión,",
+          "y veas la prosperidad de Jerusalén",
+          "todos los días de tu vida."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Que vivas para ver a los hijos de tus hijos.",
+          "¡Que haya paz en Israel!"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1637,
+    "local_abbreviation": "NVI",
+    "local_title": "Nueva Versión Internacional - Castellano",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa_es",
+      "local_name": "Español (España)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "Biblica, Inc."
+    },
+    "copyright": {
+      "html": "<p>Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano)</p> <p>© 1999, 2005, 2017 por Biblica, Inc.®</p> <p>Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo.</p>",
+      "text": "Santa Biblia, NUEVA VERSIÓN INTERNACIONAL® NVI® (Castellano) © 1999, 2005, 2017 por Biblica, Inc.® Usado con permiso de Biblica, Inc.® Reservados todos los derechos en todo el mundo."
+    }
+  }
+}

@@ -1,1 +1,187 @@
-{"version":{"version_id":103,"local_abbreviation":"NBLA","local_title":"Nueva Biblia de las Américas","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"The Lockman Foundation"},"copyright":{"html":"1986, 1995, 1997, 2005 by The Lockman Foundation","text":"1986, 1995, 1997, 2005 by The Lockman Foundation"}},"book":{"book_usfm":"PSA","name":"Salmo"},"chapter":{"chapter_usfm":"PSA.95","is_chapter":true,"previous":{"usfm":"PSA.94","human":"Salmo 94","canonical":true,"toc":true},"current":{"usfm":"PSA.95","human":"Salmo 95"},"next":{"usfm":"PSA.96","human":"Salmo 96","canonical":true,"toc":true},"items":[{"type":"heading2","verse_numbers":[],"lines":["Salmo 95"],"rlw_lines":[]},{"type":"heading1","verse_numbers":[],"lines":["Alabanza al Señor y advertencia contra la incredulidad"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Vengan, cantemos con gozo al Señor,","Aclamemos con júbilo a la roca de nuestra salvación."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Vengamos ante Su presencia con acción de gracias;","Aclamemos a Él con salmos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Porque Dios grande es el Señor,","Y Rey grande sobre todos los dioses,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["En cuya mano están las profundidades de la tierra;","Suyas son también las cumbres de los montes."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Suyo es el mar, pues Él lo hizo,","Y Sus manos formaron la tierra firme."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["¶Vengan, adoremos y postrémonos;","Doblemos la rodilla ante el Señor nuestro Hacedor."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Porque Él es nuestro Dios,","Y nosotros el pueblo de Su prado y las ovejas de Su mano.","Si ustedes oyen hoy Su voz,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["No endurezcan su corazón como en Meriba,","Como en el día de Masah en el desierto,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Cuando sus padres me tentaron,","Me pusieron a prueba, aunque habían visto Mi obra."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por cuarenta años me repugnó aquella generación,","Y dije: «Es un pueblo que se desvía en su corazón","Y no conocen Mis caminos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["-»Por tanto, juré en Mi ira:","Ciertamente no entrarán en Mi reposo»."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.94.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.96.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmo"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.95",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.94",
+      "human": "Salmo 94"
+    },
+    "current": {
+      "usfm": "PSA.95",
+      "human": "Salmo 95"
+    },
+    "next": {
+      "usfm": "PSA.96",
+      "human": "Salmo 96"
+    },
+    "items": [
+      {
+        "type": "heading2",
+        "verse_numbers": [],
+        "lines": [
+          "Salmo 95"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Alabanza al Señor y advertencia contra la incredulidad"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Vengan, cantemos con gozo al Señor,",
+          "Aclamemos con júbilo a la roca de nuestra salvación."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Vengamos ante Su presencia con acción de gracias;",
+          "Aclamemos a Él con salmos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Porque Dios grande es el Señor,",
+          "Y Rey grande sobre todos los dioses,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "En cuya mano están las profundidades de la tierra;",
+          "Suyas son también las cumbres de los montes."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Suyo es el mar, pues Él lo hizo,",
+          "Y Sus manos formaron la tierra firme."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "¶Vengan, adoremos y postrémonos;",
+          "Doblemos la rodilla ante el Señor nuestro Hacedor."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Porque Él es nuestro Dios,",
+          "Y nosotros el pueblo de Su prado y las ovejas de Su mano.",
+          "Si ustedes oyen hoy Su voz,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "No endurezcan su corazón como en Meriba,",
+          "Como en el día de Masah en el desierto,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Cuando sus padres me tentaron,",
+          "Me pusieron a prueba, aunque habían visto Mi obra."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por cuarenta años me repugnó aquella generación,",
+          "Y dije: «Es un pueblo que se desvía en su corazón",
+          "Y no conocen Mis caminos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "-»Por tanto, juré en Mi ira:",
+          "Ciertamente no entrarán en Mi reposo»."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 103,
+    "local_abbreviation": "NBLA",
+    "local_title": "Nueva Biblia de las Américas",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "The Lockman Foundation"
+    },
+    "copyright": {
+      "html": "1986, 1995, 1997, 2005 by The Lockman Foundation",
+      "text": "1986, 1995, 1997, 2005 by The Lockman Foundation"
+    }
+  }
+}

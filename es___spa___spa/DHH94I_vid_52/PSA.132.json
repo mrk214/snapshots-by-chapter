@@ -1,1 +1,266 @@
-{"version":{"version_id":52,"local_abbreviation":"DHH94I","local_title":"Biblia Dios Habla Hoy","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>","text":"Texto © Sociedades Bíblicas Unidas, 1994."}},"book":{"book_usfm":"PSA","name":"Salmos"},"chapter":{"chapter_usfm":"PSA.132","is_chapter":true,"previous":{"usfm":"PSA.131","human":"Salmos 131","canonical":true,"toc":true},"current":{"usfm":"PSA.132","human":"Salmos 132"},"next":{"usfm":"PSA.133","human":"Salmos 133","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Las promesas de Dios a David"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["1a (1a) Cántico de las subidas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["1 (1b) Acuérdate, Señor, de David","y de todas sus aflicciones;"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["acuérdate del firme juramento,","que te hizo a ti, el Poderoso de Jacob:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["«No me pondré bajo techo","ni me acostaré a descansar,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["no cerraré los ojos","ni dormiré un solo instante,"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["mientras no encuentre casa","para el Señor, el Poderoso de Jacob.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["En Efrata oímos hablar del arca de la alianza,","y la encontramos en los campos de Jáar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["¡Vayamos al santuario del Señor!","¡Arrodillémonos ante el estrado de sus pies!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["Levántate, Señor, con tu arca poderosa,","y ven al monte donde has de descansar."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Que tus sacerdotes se revistan de justicia;","que tus fieles griten de alegría."],"rlw_lines":[]},{"type":"verse","verse_numbers":[10],"lines":["Por consideración a David, tu siervo,","no rechaces al rey que has escogido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[11],"lines":["El Señor hizo a David un firme juramento,","juramento del que no va a desdecirse:"],"rlw_lines":[]},{"type":"verse","verse_numbers":[12],"lines":["«Pondré en tu trono a uno de tus descendientes.","Si tus hijos cumplen con mi alianza","y con los mandatos que voy a enseñarles,","también los hijos de ellos","ocuparán tu trono para siempre.»"],"rlw_lines":[]},{"type":"verse","verse_numbers":[13],"lines":["¡El Señor ha escogido el monte Sión!","¡Lo ha elegido para vivir allí!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[14],"lines":["«Este es el monte donde siempre quiero estar;","en él viviré, porque así me agradó."],"rlw_lines":[]},{"type":"verse","verse_numbers":[15],"lines":["Bendeciré mucho sus alimentos","y saciaré el hambre de sus pobres."],"rlw_lines":[]},{"type":"verse","verse_numbers":[16],"lines":["Revestiré de salvación a sus sacerdotes","y haré que griten de alegría los que le son fieles."],"rlw_lines":[]},{"type":"verse","verse_numbers":[17],"lines":["Allí haré que renazca el poder de David.","Ya he preparado una lámpara","para el rey que he escogido."],"rlw_lines":[]},{"type":"verse","verse_numbers":[18],"lines":["A sus enemigos los llenaré de vergüenza,","pero a él lo cubriré de esplendor.»"],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.131.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/PSA.133.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Salmos"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.132",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.131",
+      "human": "Salmos 131"
+    },
+    "current": {
+      "usfm": "PSA.132",
+      "human": "Salmos 132"
+    },
+    "next": {
+      "usfm": "PSA.133",
+      "human": "Salmos 133"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Las promesas de Dios a David"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "1a (1a) Cántico de las subidas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "1 (1b) Acuérdate, Señor, de David",
+          "y de todas sus aflicciones;"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "acuérdate del firme juramento,",
+          "que te hizo a ti, el Poderoso de Jacob:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "«No me pondré bajo techo",
+          "ni me acostaré a descansar,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "no cerraré los ojos",
+          "ni dormiré un solo instante,"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "mientras no encuentre casa",
+          "para el Señor, el Poderoso de Jacob.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "En Efrata oímos hablar del arca de la alianza,",
+          "y la encontramos en los campos de Jáar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "¡Vayamos al santuario del Señor!",
+          "¡Arrodillémonos ante el estrado de sus pies!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "Levántate, Señor, con tu arca poderosa,",
+          "y ven al monte donde has de descansar."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Que tus sacerdotes se revistan de justicia;",
+          "que tus fieles griten de alegría."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          10
+        ],
+        "lines": [
+          "Por consideración a David, tu siervo,",
+          "no rechaces al rey que has escogido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          11
+        ],
+        "lines": [
+          "El Señor hizo a David un firme juramento,",
+          "juramento del que no va a desdecirse:"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          12
+        ],
+        "lines": [
+          "«Pondré en tu trono a uno de tus descendientes.",
+          "Si tus hijos cumplen con mi alianza",
+          "y con los mandatos que voy a enseñarles,",
+          "también los hijos de ellos",
+          "ocuparán tu trono para siempre.»"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          13
+        ],
+        "lines": [
+          "¡El Señor ha escogido el monte Sión!",
+          "¡Lo ha elegido para vivir allí!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          14
+        ],
+        "lines": [
+          "«Este es el monte donde siempre quiero estar;",
+          "en él viviré, porque así me agradó."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          15
+        ],
+        "lines": [
+          "Bendeciré mucho sus alimentos",
+          "y saciaré el hambre de sus pobres."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          16
+        ],
+        "lines": [
+          "Revestiré de salvación a sus sacerdotes",
+          "y haré que griten de alegría los que le son fieles."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          17
+        ],
+        "lines": [
+          "Allí haré que renazca el poder de David.",
+          "Ya he preparado una lámpara",
+          "para el rey que he escogido."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          18
+        ],
+        "lines": [
+          "A sus enemigos los llenaré de vergüenza,",
+          "pero a él lo cubriré de esplendor.»"
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 52,
+    "local_abbreviation": "DHH94I",
+    "local_title": "Biblia Dios Habla Hoy",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Texto © Sociedades Bíblicas Unidas, 1994.</p>",
+      "text": "Texto © Sociedades Bíblicas Unidas, 1994."
+    }
+  }
+}

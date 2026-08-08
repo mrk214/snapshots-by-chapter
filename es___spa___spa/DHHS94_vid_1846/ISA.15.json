@@ -1,1 +1,174 @@
-{"version":{"version_id":1846,"local_abbreviation":"DHHS94","local_title":"Dios habla Hoy Estándar","language":{"iso_639_1":"es","iso_639_3":"spa","language_tag":"spa","local_name":"Español (América Latina)","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-es-spa","publisher":{"name":"United Bible Societies"},"copyright":{"html":"<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>","text":"Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"}},"book":{"book_usfm":"ISA","name":"Isaías"},"chapter":{"chapter_usfm":"ISA.15","is_chapter":true,"previous":{"usfm":"ISA.14","human":"Isaías 14","canonical":true,"toc":true},"current":{"usfm":"ISA.15","human":"Isaías 15"},"next":{"usfm":"ISA.16","human":"Isaías 16","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["Profecía contra Moab"],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["Profecía contra Moab:","En la noche en que Ar fue destruida,","ocurrió la ruina de Moab;","en la noche en que Quir fue destruida,","ocurrió la ruina de Moab."],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["La gente de Dibón sube a llorar","al templo situado en la colina.","Moab se lamenta de la destrucción","de Nebo y de Medebá.","Todos tienen la cabeza rapada,","la barba cortada."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Por las calles va la gente con ropas ásperas;","en las terrazas gritan de dolor.","En las plazas todo el mundo se lamenta","y se deshace en lágrimas."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Hesbón y Elalé piden socorro;","hasta en Jahas se oyen sus gritos.","Por eso se acobardan los guerreros de Moab","y se llenan de terror."],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["Mi corazón pide socorro para Moab;","su gente sale huyendo hasta Sóar, hasta Eglat-selisiya.","Por la cuesta de Luhit suben llorando;","por el camino de Horonaim","lanzan gritos de dolor ante el desastre."],"rlw_lines":[]},{"type":"verse","verse_numbers":[6],"lines":["Los pozos de Nimrim han quedado secos,","la hierba está marchita, muerta la vegetación,","no queda ni una hoja verde."],"rlw_lines":[]},{"type":"verse","verse_numbers":[7],"lines":["Por eso la gente recoge sus riquezas","y las lleva más allá del arroyo de los Álamos."],"rlw_lines":[]},{"type":"verse","verse_numbers":[8],"lines":["El grito de socorro da la vuelta","por las fronteras de Moab;","los lamentos llegan hasta Eglaim","y hasta Beer-elim."],"rlw_lines":[]},{"type":"verse","verse_numbers":[9],"lines":["Aunque los pozos de Dimón están llenos de sangre,","aún le enviaré mayores males;","un león devorará a los que se salven de Moab,","a los que queden con vida en la tierra."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.14.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.16.json"
+  },
+  "book": {
+    "book_usfm": "ISA",
+    "name": "Isaías"
+  },
+  "chapter": {
+    "chapter_usfm": "ISA.15",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "ISA.14",
+      "human": "Isaías 14"
+    },
+    "current": {
+      "usfm": "ISA.15",
+      "human": "Isaías 15"
+    },
+    "next": {
+      "usfm": "ISA.16",
+      "human": "Isaías 16"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "Profecía contra Moab"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "Profecía contra Moab:",
+          "En la noche en que Ar fue destruida,",
+          "ocurrió la ruina de Moab;",
+          "en la noche en que Quir fue destruida,",
+          "ocurrió la ruina de Moab."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "La gente de Dibón sube a llorar",
+          "al templo situado en la colina.",
+          "Moab se lamenta de la destrucción",
+          "de Nebo y de Medebá.",
+          "Todos tienen la cabeza rapada,",
+          "la barba cortada."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Por las calles va la gente con ropas ásperas;",
+          "en las terrazas gritan de dolor.",
+          "En las plazas todo el mundo se lamenta",
+          "y se deshace en lágrimas."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Hesbón y Elalé piden socorro;",
+          "hasta en Jahas se oyen sus gritos.",
+          "Por eso se acobardan los guerreros de Moab",
+          "y se llenan de terror."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "Mi corazón pide socorro para Moab;",
+          "su gente sale huyendo hasta Sóar, hasta Eglat-selisiya.",
+          "Por la cuesta de Luhit suben llorando;",
+          "por el camino de Horonaim",
+          "lanzan gritos de dolor ante el desastre."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          6
+        ],
+        "lines": [
+          "Los pozos de Nimrim han quedado secos,",
+          "la hierba está marchita, muerta la vegetación,",
+          "no queda ni una hoja verde."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          7
+        ],
+        "lines": [
+          "Por eso la gente recoge sus riquezas",
+          "y las lleva más allá del arroyo de los Álamos."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          8
+        ],
+        "lines": [
+          "El grito de socorro da la vuelta",
+          "por las fronteras de Moab;",
+          "los lamentos llegan hasta Eglaim",
+          "y hasta Beer-elim."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          9
+        ],
+        "lines": [
+          "Aunque los pozos de Dimón están llenos de sangre,",
+          "aún le enviaré mayores males;",
+          "un león devorará a los que se salven de Moab,",
+          "a los que queden con vida en la tierra."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1846,
+    "local_abbreviation": "DHHS94",
+    "local_title": "Dios habla Hoy Estándar",
+    "language": {
+      "iso_639_1": "es",
+      "iso_639_3": "spa",
+      "language_tag": "spa",
+      "local_name": "Español (América Latina)",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-es-spa",
+    "publisher": {
+      "name": "United Bible Societies"
+    },
+    "copyright": {
+      "html": "<p>Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996</p> <p>Todos los derechos reservados. www.unitedbiblesocieties.org/</p>",
+      "text": "Bible text: LA BIBLIA DIOS HABLA HOY, Tercera edición © Sociedades Bíblicas Unidas 1966, 1970, 1979, 1983, 1994, 1996 Todos los derechos reservados. www.unitedbiblesocieties.org/"
+    }
+  }
+}

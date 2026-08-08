@@ -1,1 +1,124 @@
-{"version":{"version_id":1713,"local_abbreviation":"CSB","local_title":"Christian Standard Bible","language":{"iso_639_1":"en","iso_639_3":"eng","language_tag":"eng","local_name":"English","text_direction":"ltr"},"repository":"https://github.com/mrk214/bible-data-en-eng","publisher":{"name":"LifeWay Christian Resources"},"copyright":{"html":"<p>© 2017 Holman Bible Publishers</p>","text":"© 2017 Holman Bible Publishers"}},"book":{"book_usfm":"PSA","name":"Psalms"},"chapter":{"chapter_usfm":"PSA.70","is_chapter":true,"previous":{"usfm":"PSA.69","human":"Psalms 69","canonical":true,"toc":true},"current":{"usfm":"PSA.70","human":"Psalms 70"},"next":{"usfm":"PSA.71","human":"Psalms 71","canonical":true,"toc":true},"items":[{"type":"heading1","verse_numbers":[],"lines":["A Call for Deliverance"],"rlw_lines":[]},{"type":"label","verse_numbers":[],"lines":["For the choir director. Of David. To bring remembrance."],"rlw_lines":[]},{"type":"verse","verse_numbers":[1],"lines":["God, hurry to rescue me.","Lord, hurry to help me!"],"rlw_lines":[]},{"type":"verse","verse_numbers":[2],"lines":["Let those who seek to kill me","be disgraced and confounded;","let those who wish me harm","be turned back and humiliated."],"rlw_lines":[]},{"type":"verse","verse_numbers":[3],"lines":["Let those who say, “Aha, aha! ”","retreat because of their shame."],"rlw_lines":[]},{"type":"verse","verse_numbers":[4],"lines":["Let all who seek you rejoice and be glad in you;","let those who love your salvation","continually say, “God is great! ”"],"rlw_lines":[]},{"type":"verse","verse_numbers":[5],"lines":["I am oppressed and needy;","hurry to me, God.","You are my help and my deliverer;","Lord, do not delay."],"rlw_lines":[]}]}}
+{
+  "_links": {
+    "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.69.json",
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.71.json"
+  },
+  "book": {
+    "book_usfm": "PSA",
+    "name": "Psalms"
+  },
+  "chapter": {
+    "chapter_usfm": "PSA.70",
+    "is_chapter": true,
+    "previous": {
+      "usfm": "PSA.69",
+      "human": "Psalms 69"
+    },
+    "current": {
+      "usfm": "PSA.70",
+      "human": "Psalms 70"
+    },
+    "next": {
+      "usfm": "PSA.71",
+      "human": "Psalms 71"
+    },
+    "items": [
+      {
+        "type": "heading1",
+        "verse_numbers": [],
+        "lines": [
+          "A Call for Deliverance"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "label",
+        "verse_numbers": [],
+        "lines": [
+          "For the choir director. Of David. To bring remembrance."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          1
+        ],
+        "lines": [
+          "God, hurry to rescue me.",
+          "Lord, hurry to help me!"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          2
+        ],
+        "lines": [
+          "Let those who seek to kill me",
+          "be disgraced and confounded;",
+          "let those who wish me harm",
+          "be turned back and humiliated."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          3
+        ],
+        "lines": [
+          "Let those who say, “Aha, aha! ”",
+          "retreat because of their shame."
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          4
+        ],
+        "lines": [
+          "Let all who seek you rejoice and be glad in you;",
+          "let those who love your salvation",
+          "continually say, “God is great! ”"
+        ],
+        "rlw_lines": []
+      },
+      {
+        "type": "verse",
+        "verse_numbers": [
+          5
+        ],
+        "lines": [
+          "I am oppressed and needy;",
+          "hurry to me, God.",
+          "You are my help and my deliverer;",
+          "Lord, do not delay."
+        ],
+        "rlw_lines": []
+      }
+    ]
+  },
+  "version": {
+    "version_id": 1713,
+    "local_abbreviation": "CSB",
+    "local_title": "Christian Standard Bible",
+    "language": {
+      "iso_639_1": "en",
+      "iso_639_3": "eng",
+      "language_tag": "eng",
+      "local_name": "English",
+      "text_direction": "ltr"
+    },
+    "repository": "https://github.com/mrk214/bible-data-en-eng",
+    "publisher": {
+      "name": "LifeWay Christian Resources"
+    },
+    "copyright": {
+      "html": "<p>© 2017 Holman Bible Publishers</p>",
+      "text": "© 2017 Holman Bible Publishers"
+    }
+  }
+}
