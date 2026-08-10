@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.51.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.53.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.53.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.52",
-    "previous": {
-      "usfm": "PSA.51",
-      "human": "Psalm 51"
-    },
     "current": {
       "usfm": "PSA.52",
       "human": "Psalm 52"
+    },
+    "previous": {
+      "usfm": "PSA.51",
+      "human": "Psalm 51"
     },
     "next": {
       "usfm": "PSA.53",

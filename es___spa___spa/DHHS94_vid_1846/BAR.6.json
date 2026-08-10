@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/BAR.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/BAR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/BAR.6.json"
   },
   "book": {
     "book_usfm": "BAR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "BAR.6",
-    "previous": {
-      "usfm": "BAR.5",
-      "human": "Baruc 5"
-    },
     "current": {
       "usfm": "BAR.6",
       "human": "Baruc 6"
+    },
+    "previous": {
+      "usfm": "BAR.5",
+      "human": "Baruc 5"
     },
     "next": {
       "usfm": "DAG.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1PE.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/2PE.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/2PE.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/2PE.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/2PE.3.json"
   },
   "book": {
     "book_usfm": "2PE",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2PE.1",
-    "previous": {
-      "usfm": "1PE.5",
-      "human": "1 Pedro 5"
-    },
     "current": {
       "usfm": "2PE.1",
       "human": "2 Pedro 1"
+    },
+    "previous": {
+      "usfm": "1PE.5",
+      "human": "1 Pedro 5"
     },
     "next": {
       "usfm": "2PE.2",

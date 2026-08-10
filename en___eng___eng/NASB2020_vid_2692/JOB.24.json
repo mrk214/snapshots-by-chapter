@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JOB.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JOB.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JOB.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.24",
-    "previous": {
-      "usfm": "JOB.23",
-      "human": "Job 23"
-    },
     "current": {
       "usfm": "JOB.24",
       "human": "Job 24"
+    },
+    "previous": {
+      "usfm": "JOB.23",
+      "human": "Job 23"
     },
     "next": {
       "usfm": "JOB.25",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.6",
-    "previous": {
-      "usfm": "NUM.5",
-      "human": "Números 5"
-    },
     "current": {
       "usfm": "NUM.6",
       "human": "Números 6"
+    },
+    "previous": {
+      "usfm": "NUM.5",
+      "human": "Números 5"
     },
     "next": {
       "usfm": "NUM.7",

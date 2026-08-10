@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MAT.27.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MRK.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MRK.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.28",
-    "previous": {
-      "usfm": "MAT.27",
-      "human": "Mateo 27"
-    },
     "current": {
       "usfm": "MAT.28",
       "human": "Mateo 28"
+    },
+    "previous": {
+      "usfm": "MAT.27",
+      "human": "Mateo 27"
     },
     "next": {
       "usfm": "MRK.1",

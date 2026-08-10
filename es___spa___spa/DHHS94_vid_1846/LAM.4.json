@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/LAM.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/LAM.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/LAM.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/LAM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/LAM.5.json"
   },
   "book": {
     "book_usfm": "LAM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LAM.4",
-    "previous": {
-      "usfm": "LAM.3",
-      "human": "Lamentaciones 3"
-    },
     "current": {
       "usfm": "LAM.4",
       "human": "Lamentaciones 4"
+    },
+    "previous": {
+      "usfm": "LAM.3",
+      "human": "Lamentaciones 3"
     },
     "next": {
       "usfm": "LAM.5",

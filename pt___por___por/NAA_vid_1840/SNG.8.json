@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/SNG.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/SNG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/SNG.8.json"
   },
   "book": {
     "book_usfm": "SNG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SNG.8",
-    "previous": {
-      "usfm": "SNG.7",
-      "human": "Cântico dos Cânticos 7"
-    },
     "current": {
       "usfm": "SNG.8",
       "human": "Cântico dos Cânticos 8"
+    },
+    "previous": {
+      "usfm": "SNG.7",
+      "human": "Cântico dos Cânticos 7"
     },
     "next": {
       "usfm": "ISA.1",

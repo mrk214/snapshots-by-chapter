@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOB.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOB.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOB.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.9",
-    "previous": {
-      "usfm": "JOB.8",
-      "human": "Job 8"
-    },
     "current": {
       "usfm": "JOB.9",
       "human": "Job 9"
+    },
+    "previous": {
+      "usfm": "JOB.8",
+      "human": "Job 8"
     },
     "next": {
       "usfm": "JOB.10",

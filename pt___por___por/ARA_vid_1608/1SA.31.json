@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/1SA.30.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/2SA.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/2SA.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.31",
-    "previous": {
-      "usfm": "1SA.30",
-      "human": "1Samuel 30"
-    },
     "current": {
       "usfm": "1SA.31",
       "human": "1Samuel 31"
+    },
+    "previous": {
+      "usfm": "1SA.30",
+      "human": "1Samuel 30"
     },
     "next": {
       "usfm": "2SA.1",

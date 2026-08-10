@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ESG.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ESG.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ESG.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ESG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ESG.10.json"
   },
   "book": {
     "book_usfm": "ESG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ESG.5",
-    "previous": {
-      "usfm": "ESG.4",
-      "human": "Ester (dc) 4"
-    },
     "current": {
       "usfm": "ESG.5",
       "human": "Ester (dc) 5"
+    },
+    "previous": {
+      "usfm": "ESG.4",
+      "human": "Ester (dc) 4"
     },
     "next": {
       "usfm": "ESG.6",

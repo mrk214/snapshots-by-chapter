@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.9",
-    "previous": {
-      "usfm": "PRO.8",
-      "human": "Proverbios 8"
-    },
     "current": {
       "usfm": "PRO.9",
       "human": "Proverbios 9"
+    },
+    "previous": {
+      "usfm": "PRO.8",
+      "human": "Proverbios 8"
     },
     "next": {
       "usfm": "PRO.10",

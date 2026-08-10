@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.66.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.68.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.68.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.67",
-    "previous": {
-      "usfm": "PSA.66",
-      "human": "Psalm 66"
-    },
     "current": {
       "usfm": "PSA.67",
       "human": "Psalm 67"
+    },
+    "previous": {
+      "usfm": "PSA.66",
+      "human": "Psalm 66"
     },
     "next": {
       "usfm": "PSA.68",

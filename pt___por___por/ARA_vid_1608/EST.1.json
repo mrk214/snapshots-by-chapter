@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NEH.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EST.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EST.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.1",
-    "previous": {
-      "usfm": "NEH.13",
-      "human": "Neemias 13"
-    },
     "current": {
       "usfm": "EST.1",
       "human": "Ester 1"
+    },
+    "previous": {
+      "usfm": "NEH.13",
+      "human": "Neemias 13"
     },
     "next": {
       "usfm": "EST.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOS.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOS.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOS.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.15",
-    "previous": {
-      "usfm": "JOS.14",
-      "human": "Josué 14"
-    },
     "current": {
       "usfm": "JOS.15",
       "human": "Josué 15"
+    },
+    "previous": {
+      "usfm": "JOS.14",
+      "human": "Josué 14"
     },
     "next": {
       "usfm": "JOS.16",

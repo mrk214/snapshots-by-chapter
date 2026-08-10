@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.19",
-    "previous": {
-      "usfm": "JER.18",
-      "human": "Jeremiah 18"
-    },
     "current": {
       "usfm": "JER.19",
       "human": "Jeremiah 19"
+    },
+    "previous": {
+      "usfm": "JER.18",
+      "human": "Jeremiah 18"
     },
     "next": {
       "usfm": "JER.20",

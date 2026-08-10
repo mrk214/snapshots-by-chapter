@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/LUK.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/LUK.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/LUK.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.8",
-    "previous": {
-      "usfm": "LUK.7",
-      "human": "Luke 7"
-    },
     "current": {
       "usfm": "LUK.8",
       "human": "Luke 8"
+    },
+    "previous": {
+      "usfm": "LUK.7",
+      "human": "Luke 7"
     },
     "next": {
       "usfm": "LUK.9",

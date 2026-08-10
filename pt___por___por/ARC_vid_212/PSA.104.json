@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.103.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.105.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.105.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.104",
-    "previous": {
-      "usfm": "PSA.103",
-      "human": "Salmos 103"
-    },
     "current": {
       "usfm": "PSA.104",
       "human": "Salmos 104"
+    },
+    "previous": {
+      "usfm": "PSA.103",
+      "human": "Salmos 103"
     },
     "next": {
       "usfm": "PSA.105",

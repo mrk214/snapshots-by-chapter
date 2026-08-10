@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.67.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.69.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.69.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.68",
-    "previous": {
-      "usfm": "PSA.67",
-      "human": "Salmos 67"
-    },
     "current": {
       "usfm": "PSA.68",
       "human": "Salmos 68"
+    },
+    "previous": {
+      "usfm": "PSA.67",
+      "human": "Salmos 67"
     },
     "next": {
       "usfm": "PSA.69",

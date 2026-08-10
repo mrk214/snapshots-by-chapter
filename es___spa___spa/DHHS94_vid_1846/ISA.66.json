@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.65.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JER.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JER.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.66",
-    "previous": {
-      "usfm": "ISA.65",
-      "human": "Isaías 65"
-    },
     "current": {
       "usfm": "ISA.66",
       "human": "Isaías 66"
+    },
+    "previous": {
+      "usfm": "ISA.65",
+      "human": "Isaías 65"
     },
     "next": {
       "usfm": "JER.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAT.28.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MRK.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MRK.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.1",
-    "previous": {
-      "usfm": "MAT.28",
-      "human": "S. Mateo 28"
-    },
     "current": {
       "usfm": "MRK.1",
       "human": "S. Marcos 1"
+    },
+    "previous": {
+      "usfm": "MAT.28",
+      "human": "S. Mateo 28"
     },
     "next": {
       "usfm": "MRK.2",

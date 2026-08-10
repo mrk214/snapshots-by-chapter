@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOS.15.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOS.17.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOS.17.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.16",
-    "previous": {
-      "usfm": "JOS.15",
-      "human": "Joshua 15"
-    },
     "current": {
       "usfm": "JOS.16",
       "human": "Joshua 16"
+    },
+    "previous": {
+      "usfm": "JOS.15",
+      "human": "Joshua 15"
     },
     "next": {
       "usfm": "JOS.17",

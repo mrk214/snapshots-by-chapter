@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LUK.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LUK.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LUK.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.9",
-    "previous": {
-      "usfm": "LUK.8",
-      "human": "Luke 8"
-    },
     "current": {
       "usfm": "LUK.9",
       "human": "Luke 9"
+    },
+    "previous": {
+      "usfm": "LUK.8",
+      "human": "Luke 8"
     },
     "next": {
       "usfm": "LUK.10",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TH.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TH.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TH.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TH.5.json"
   },
   "book": {
     "book_usfm": "1TH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TH.2",
-    "previous": {
-      "usfm": "1TH.1",
-      "human": "1 Tesalonicenses 1"
-    },
     "current": {
       "usfm": "1TH.2",
       "human": "1 Tesalonicenses 2"
+    },
+    "previous": {
+      "usfm": "1TH.1",
+      "human": "1 Tesalonicenses 1"
     },
     "next": {
       "usfm": "1TH.3",

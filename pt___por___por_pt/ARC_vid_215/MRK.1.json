@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MAT.28.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MRK.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MRK.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.1",
-    "previous": {
-      "usfm": "MAT.28",
-      "human": "Mateus 28"
-    },
     "current": {
       "usfm": "MRK.1",
       "human": "Marcos 1"
+    },
+    "previous": {
+      "usfm": "MAT.28",
+      "human": "Mateus 28"
     },
     "next": {
       "usfm": "MRK.2",

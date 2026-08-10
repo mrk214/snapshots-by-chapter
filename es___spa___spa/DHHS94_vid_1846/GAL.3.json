@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/GAL.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/GAL.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/GAL.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/GAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/GAL.6.json"
   },
   "book": {
     "book_usfm": "GAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GAL.3",
-    "previous": {
-      "usfm": "GAL.2",
-      "human": "Gálatas 2"
-    },
     "current": {
       "usfm": "GAL.3",
       "human": "Gálatas 3"
+    },
+    "previous": {
+      "usfm": "GAL.2",
+      "human": "Gálatas 2"
     },
     "next": {
       "usfm": "GAL.4",

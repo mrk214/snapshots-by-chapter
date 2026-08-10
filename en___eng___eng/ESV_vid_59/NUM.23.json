@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.23",
-    "previous": {
-      "usfm": "NUM.22",
-      "human": "Numbers 22"
-    },
     "current": {
       "usfm": "NUM.23",
       "human": "Numbers 23"
+    },
+    "previous": {
+      "usfm": "NUM.22",
+      "human": "Numbers 22"
     },
     "next": {
       "usfm": "NUM.24",

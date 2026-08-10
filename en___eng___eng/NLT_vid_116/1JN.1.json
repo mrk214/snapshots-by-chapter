@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/2PE.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.5.json"
   },
   "book": {
     "book_usfm": "1JN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1JN.1",
-    "previous": {
-      "usfm": "2PE.3",
-      "human": "2 Peter 3"
-    },
     "current": {
       "usfm": "1JN.1",
       "human": "1 John 1"
+    },
+    "previous": {
+      "usfm": "2PE.3",
+      "human": "2 Peter 3"
     },
     "next": {
       "usfm": "1JN.2",

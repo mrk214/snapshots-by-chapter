@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/AMO.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JON.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JON.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/OBA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/OBA.1.json"
   },
   "book": {
     "book_usfm": "OBA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "OBA.1",
-    "previous": {
-      "usfm": "AMO.9",
-      "human": "Amós 9"
-    },
     "current": {
       "usfm": "OBA.1",
       "human": "Abdías 1"
+    },
+    "previous": {
+      "usfm": "AMO.9",
+      "human": "Amós 9"
     },
     "next": {
       "usfm": "JON.1",

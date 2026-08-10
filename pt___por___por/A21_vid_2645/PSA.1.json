@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOB.42.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.1",
-    "previous": {
-      "usfm": "JOB.42",
-      "human": "Jó 42"
-    },
     "current": {
       "usfm": "PSA.1",
       "human": "Salmos 1"
+    },
+    "previous": {
+      "usfm": "JOB.42",
+      "human": "Jó 42"
     },
     "next": {
       "usfm": "PSA.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ACT.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ACT.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.1",
-    "previous": {
-      "usfm": "JHN.21",
-      "human": "Juan 21"
-    },
     "current": {
       "usfm": "ACT.1",
       "human": "Hechos 1"
+    },
+    "previous": {
+      "usfm": "JHN.21",
+      "human": "Juan 21"
     },
     "next": {
       "usfm": "ACT.2",

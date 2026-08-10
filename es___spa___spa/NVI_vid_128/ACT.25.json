@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.24.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.26.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.26.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.25",
-    "previous": {
-      "usfm": "ACT.24",
-      "human": "Hechos 24"
-    },
     "current": {
       "usfm": "ACT.25",
       "human": "Hechos 25"
+    },
+    "previous": {
+      "usfm": "ACT.24",
+      "human": "Hechos 24"
     },
     "next": {
       "usfm": "ACT.26",

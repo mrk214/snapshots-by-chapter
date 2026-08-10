@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.19",
-    "previous": {
-      "usfm": "PSA.18",
-      "human": "Salmos 18"
-    },
     "current": {
       "usfm": "PSA.19",
       "human": "Salmos 19"
+    },
+    "previous": {
+      "usfm": "PSA.18",
+      "human": "Salmos 18"
     },
     "next": {
       "usfm": "PSA.20",

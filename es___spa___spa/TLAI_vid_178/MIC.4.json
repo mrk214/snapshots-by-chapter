@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MIC.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MIC.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MIC.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MIC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MIC.7.json"
   },
   "book": {
     "book_usfm": "MIC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MIC.4",
-    "previous": {
-      "usfm": "MIC.3",
-      "human": "Miqueas 3"
-    },
     "current": {
       "usfm": "MIC.4",
       "human": "Miqueas 4"
+    },
+    "previous": {
+      "usfm": "MIC.3",
+      "human": "Miqueas 3"
     },
     "next": {
       "usfm": "MIC.5",

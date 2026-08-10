@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDT.15.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDT.16.json"
   },
   "book": {
     "book_usfm": "JDT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDT.16",
-    "previous": {
-      "usfm": "JDT.15",
-      "human": "Judit 15"
-    },
     "current": {
       "usfm": "JDT.16",
       "human": "Judit 16"
+    },
+    "previous": {
+      "usfm": "JDT.15",
+      "human": "Judit 15"
     },
     "next": {
       "usfm": "ESG.1",

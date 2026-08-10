@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.7",
-    "previous": {
-      "usfm": "1CO.6",
-      "human": "1 Corinthians 6"
-    },
     "current": {
       "usfm": "1CO.7",
       "human": "1 Corinthians 7"
+    },
+    "previous": {
+      "usfm": "1CO.6",
+      "human": "1 Corinthians 6"
     },
     "next": {
       "usfm": "1CO.8",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LUK.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LUK.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LUK.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.3",
-    "previous": {
-      "usfm": "LUK.2",
-      "human": "S. Lucas 2"
-    },
     "current": {
       "usfm": "LUK.3",
       "human": "S. Lucas 3"
+    },
+    "previous": {
+      "usfm": "LUK.2",
+      "human": "S. Lucas 2"
     },
     "next": {
       "usfm": "LUK.4",

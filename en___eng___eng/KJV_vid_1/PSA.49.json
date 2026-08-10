@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.48.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.50.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.50.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.49",
-    "previous": {
-      "usfm": "PSA.48",
-      "human": "Psalm 48"
-    },
     "current": {
       "usfm": "PSA.49",
       "human": "Psalm 49"
+    },
+    "previous": {
+      "usfm": "PSA.48",
+      "human": "Psalm 48"
     },
     "next": {
       "usfm": "PSA.50",

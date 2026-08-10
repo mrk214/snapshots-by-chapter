@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/EST.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/EST.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/EST.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.8",
-    "previous": {
-      "usfm": "EST.7",
-      "human": "Esther 7"
-    },
     "current": {
       "usfm": "EST.8",
       "human": "Esther 8"
+    },
+    "previous": {
+      "usfm": "EST.7",
+      "human": "Esther 7"
     },
     "next": {
       "usfm": "EST.9",

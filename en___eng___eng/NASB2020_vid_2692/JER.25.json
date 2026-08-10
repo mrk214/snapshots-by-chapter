@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JER.24.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JER.26.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JER.26.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.25",
-    "previous": {
-      "usfm": "JER.24",
-      "human": "Jeremiah 24"
-    },
     "current": {
       "usfm": "JER.25",
       "human": "Jeremiah 25"
+    },
+    "previous": {
+      "usfm": "JER.24",
+      "human": "Jeremiah 24"
     },
     "next": {
       "usfm": "JER.26",

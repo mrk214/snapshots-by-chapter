@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LEV.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LEV.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LEV.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.7",
-    "previous": {
-      "usfm": "LEV.6",
-      "human": "Levítico 6"
-    },
     "current": {
       "usfm": "LEV.7",
       "human": "Levítico 7"
+    },
+    "previous": {
+      "usfm": "LEV.6",
+      "human": "Levítico 6"
     },
     "next": {
       "usfm": "LEV.8",

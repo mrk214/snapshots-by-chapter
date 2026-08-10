@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/HOS.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/HOS.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/HOS.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.5",
-    "previous": {
-      "usfm": "HOS.4",
-      "human": "Oseias 4"
-    },
     "current": {
       "usfm": "HOS.5",
       "human": "Oseias 5"
+    },
+    "previous": {
+      "usfm": "HOS.4",
+      "human": "Oseias 4"
     },
     "next": {
       "usfm": "HOS.6",

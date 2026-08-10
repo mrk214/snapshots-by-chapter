@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.19",
-    "previous": {
-      "usfm": "PSA.18",
-      "human": "Psalm 18"
-    },
     "current": {
       "usfm": "PSA.19",
       "human": "Psalm 19"
+    },
+    "previous": {
+      "usfm": "PSA.18",
+      "human": "Psalm 18"
     },
     "next": {
       "usfm": "PSA.20",

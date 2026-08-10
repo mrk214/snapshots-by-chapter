@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.64.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.66.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.66.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.65",
-    "previous": {
-      "usfm": "PSA.64",
-      "human": "Psalms 64"
-    },
     "current": {
       "usfm": "PSA.65",
       "human": "Psalms 65"
+    },
+    "previous": {
+      "usfm": "PSA.64",
+      "human": "Psalms 64"
     },
     "next": {
       "usfm": "PSA.66",

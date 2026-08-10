@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/2CH.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/2CH.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/2CH.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/2CH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/2CH.36.json"
   },
   "book": {
     "book_usfm": "2CH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CH.14",
-    "previous": {
-      "usfm": "2CH.13",
-      "human": "2 Chronicles 13"
-    },
     "current": {
       "usfm": "2CH.14",
       "human": "2 Chronicles 14"
+    },
+    "previous": {
+      "usfm": "2CH.13",
+      "human": "2 Chronicles 13"
     },
     "next": {
       "usfm": "2CH.15",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.28.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ROM.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ROM.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.1",
-    "previous": {
-      "usfm": "ACT.28",
-      "human": "Atos 28"
-    },
     "current": {
       "usfm": "ROM.1",
       "human": "Romanos 1"
+    },
+    "previous": {
+      "usfm": "ACT.28",
+      "human": "Atos 28"
     },
     "next": {
       "usfm": "ROM.2",

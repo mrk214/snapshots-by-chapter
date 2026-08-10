@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.38.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.40.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.40.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.39",
-    "previous": {
-      "usfm": "ISA.38",
-      "human": "Isaiah 38"
-    },
     "current": {
       "usfm": "ISA.39",
       "human": "Isaiah 39"
+    },
+    "previous": {
+      "usfm": "ISA.38",
+      "human": "Isaiah 38"
     },
     "next": {
       "usfm": "ISA.40",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.10",
-    "previous": {
-      "usfm": "HEB.9",
-      "human": "Hebrews 9"
-    },
     "current": {
       "usfm": "HEB.10",
       "human": "Hebrews 10"
+    },
+    "previous": {
+      "usfm": "HEB.9",
+      "human": "Hebrews 9"
     },
     "next": {
       "usfm": "HEB.11",

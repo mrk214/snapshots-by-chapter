@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ROM.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ROM.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ROM.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.11",
-    "previous": {
-      "usfm": "ROM.10",
-      "human": "Romans 10"
-    },
     "current": {
       "usfm": "ROM.11",
       "human": "Romans 11"
+    },
+    "previous": {
+      "usfm": "ROM.10",
+      "human": "Romans 10"
     },
     "next": {
       "usfm": "ROM.12",

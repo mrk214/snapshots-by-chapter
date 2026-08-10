@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.86.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.88.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.88.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.87",
-    "previous": {
-      "usfm": "PSA.86",
-      "human": "Psalm 86"
-    },
     "current": {
       "usfm": "PSA.87",
       "human": "Psalm 87"
+    },
+    "previous": {
+      "usfm": "PSA.86",
+      "human": "Psalm 86"
     },
     "next": {
       "usfm": "PSA.88",

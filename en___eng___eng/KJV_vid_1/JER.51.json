@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.50.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.52.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.52.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.51",
-    "previous": {
-      "usfm": "JER.50",
-      "human": "Jeremiah 50"
-    },
     "current": {
       "usfm": "JER.51",
       "human": "Jeremiah 51"
+    },
+    "previous": {
+      "usfm": "JER.50",
+      "human": "Jeremiah 50"
     },
     "next": {
       "usfm": "JER.52",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.52.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.54.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.54.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.53",
-    "previous": {
-      "usfm": "ISA.52",
-      "human": "Isaiah 52"
-    },
     "current": {
       "usfm": "ISA.53",
       "human": "Isaiah 53"
+    },
+    "previous": {
+      "usfm": "ISA.52",
+      "human": "Isaiah 52"
     },
     "next": {
       "usfm": "ISA.54",

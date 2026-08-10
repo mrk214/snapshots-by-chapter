@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.16.json"
   },
   "book": {
     "book_usfm": "1MA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1MA.5",
-    "previous": {
-      "usfm": "1MA.4",
-      "human": "1 Macabeos 4"
-    },
     "current": {
       "usfm": "1MA.5",
       "human": "1 Macabeos 5"
+    },
+    "previous": {
+      "usfm": "1MA.4",
+      "human": "1 Macabeos 4"
     },
     "next": {
       "usfm": "1MA.6",

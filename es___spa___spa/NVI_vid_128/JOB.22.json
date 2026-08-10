@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.22",
-    "previous": {
-      "usfm": "JOB.21",
-      "human": "Job 21"
-    },
     "current": {
       "usfm": "JOB.22",
       "human": "Job 22"
+    },
+    "previous": {
+      "usfm": "JOB.21",
+      "human": "Job 21"
     },
     "next": {
       "usfm": "JOB.23",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.24",
-    "previous": {
-      "usfm": "JOB.23",
-      "human": "Jó 23"
-    },
     "current": {
       "usfm": "JOB.24",
       "human": "Jó 24"
+    },
+    "previous": {
+      "usfm": "JOB.23",
+      "human": "Jó 23"
     },
     "next": {
       "usfm": "JOB.25",

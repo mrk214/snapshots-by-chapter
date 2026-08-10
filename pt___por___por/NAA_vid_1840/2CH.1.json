@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1CH.29.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2CH.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2CH.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2CH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2CH.36.json"
   },
   "book": {
     "book_usfm": "2CH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CH.1",
-    "previous": {
-      "usfm": "1CH.29",
-      "human": "1Crônicas 29"
-    },
     "current": {
       "usfm": "2CH.1",
       "human": "2Crônicas 1"
+    },
+    "previous": {
+      "usfm": "1CH.29",
+      "human": "1Crônicas 29"
     },
     "next": {
       "usfm": "2CH.2",

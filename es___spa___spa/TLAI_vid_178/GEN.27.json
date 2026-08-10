@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GEN.26.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GEN.28.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GEN.28.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.27",
-    "previous": {
-      "usfm": "GEN.26",
-      "human": "Génesis 26"
-    },
     "current": {
       "usfm": "GEN.27",
       "human": "Génesis 27"
+    },
+    "previous": {
+      "usfm": "GEN.26",
+      "human": "Génesis 26"
     },
     "next": {
       "usfm": "GEN.28",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/REV.21.json",
-    "next": null
+    "next": null,
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.22",
-    "previous": {
-      "usfm": "REV.21",
-      "human": "Apocalipsis 21"
-    },
     "current": {
       "usfm": "REV.22",
       "human": "Apocalipsis 22"
+    },
+    "previous": {
+      "usfm": "REV.21",
+      "human": "Apocalipsis 21"
     },
     "next": null,
     "items": [

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.49.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.51.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.51.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.50",
-    "previous": {
-      "usfm": "ISA.49",
-      "human": "Isaiah 49"
-    },
     "current": {
       "usfm": "ISA.50",
       "human": "Isaiah 50"
+    },
+    "previous": {
+      "usfm": "ISA.49",
+      "human": "Isaiah 49"
     },
     "next": {
       "usfm": "ISA.51",

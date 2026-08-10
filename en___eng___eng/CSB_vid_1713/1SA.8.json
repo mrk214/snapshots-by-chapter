@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1SA.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1SA.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1SA.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.8",
-    "previous": {
-      "usfm": "1SA.7",
-      "human": "1 Samuel 7"
-    },
     "current": {
       "usfm": "1SA.8",
       "human": "1 Samuel 8"
+    },
+    "previous": {
+      "usfm": "1SA.7",
+      "human": "1 Samuel 7"
     },
     "next": {
       "usfm": "1SA.9",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.24",
-    "previous": {
-      "usfm": "MAT.23",
-      "human": "Matthew 23"
-    },
     "current": {
       "usfm": "MAT.24",
       "human": "Matthew 24"
+    },
+    "previous": {
+      "usfm": "MAT.23",
+      "human": "Matthew 23"
     },
     "next": {
       "usfm": "MAT.25",

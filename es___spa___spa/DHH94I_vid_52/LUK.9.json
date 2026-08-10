@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/LUK.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/LUK.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/LUK.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.9",
-    "previous": {
-      "usfm": "LUK.8",
-      "human": "San Lucas 8"
-    },
     "current": {
       "usfm": "LUK.9",
       "human": "San Lucas 9"
+    },
+    "previous": {
+      "usfm": "LUK.8",
+      "human": "San Lucas 8"
     },
     "next": {
       "usfm": "LUK.10",

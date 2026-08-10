@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JHN.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JHN.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JHN.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.12",
-    "previous": {
-      "usfm": "JHN.11",
-      "human": "John 11"
-    },
     "current": {
       "usfm": "JHN.12",
       "human": "John 12"
+    },
+    "previous": {
+      "usfm": "JHN.11",
+      "human": "John 11"
     },
     "next": {
       "usfm": "JHN.13",

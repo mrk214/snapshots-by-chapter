@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/NUM.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/NUM.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/NUM.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.5",
-    "previous": {
-      "usfm": "NUM.4",
-      "human": "Números 4"
-    },
     "current": {
       "usfm": "NUM.5",
       "human": "Números 5"
+    },
+    "previous": {
+      "usfm": "NUM.4",
+      "human": "Números 4"
     },
     "next": {
       "usfm": "NUM.6",

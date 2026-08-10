@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EPH.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EPH.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EPH.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EPH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EPH.6.json"
   },
   "book": {
     "book_usfm": "EPH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EPH.4",
-    "previous": {
-      "usfm": "EPH.3",
-      "human": "Efesios 3"
-    },
     "current": {
       "usfm": "EPH.4",
       "human": "Efesios 4"
+    },
+    "previous": {
+      "usfm": "EPH.3",
+      "human": "Efesios 3"
     },
     "next": {
       "usfm": "EPH.5",

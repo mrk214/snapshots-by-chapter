@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/GEN.38.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/GEN.40.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/GEN.40.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.39",
-    "previous": {
-      "usfm": "GEN.38",
-      "human": "Gênesis 38"
-    },
     "current": {
       "usfm": "GEN.39",
       "human": "Gênesis 39"
+    },
+    "previous": {
+      "usfm": "GEN.38",
+      "human": "Gênesis 38"
     },
     "next": {
       "usfm": "GEN.40",

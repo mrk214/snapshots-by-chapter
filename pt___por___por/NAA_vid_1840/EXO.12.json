@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EXO.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EXO.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EXO.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.12",
-    "previous": {
-      "usfm": "EXO.11",
-      "human": "Êxodo 11"
-    },
     "current": {
       "usfm": "EXO.12",
       "human": "Êxodo 12"
+    },
+    "previous": {
+      "usfm": "EXO.11",
+      "human": "Êxodo 11"
     },
     "next": {
       "usfm": "EXO.13",

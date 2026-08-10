@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EXO.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EXO.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EXO.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.13",
-    "previous": {
-      "usfm": "EXO.12",
-      "human": "Éxodo 12"
-    },
     "current": {
       "usfm": "EXO.13",
       "human": "Éxodo 13"
+    },
+    "previous": {
+      "usfm": "EXO.12",
+      "human": "Éxodo 12"
     },
     "next": {
       "usfm": "EXO.14",

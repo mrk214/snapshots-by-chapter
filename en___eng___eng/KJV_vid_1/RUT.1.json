@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JDG.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/RUT.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/RUT.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/RUT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/RUT.4.json"
   },
   "book": {
     "book_usfm": "RUT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "RUT.1",
-    "previous": {
-      "usfm": "JDG.21",
-      "human": "Judges 21"
-    },
     "current": {
       "usfm": "RUT.1",
       "human": "Ruth 1"
+    },
+    "previous": {
+      "usfm": "JDG.21",
+      "human": "Judges 21"
     },
     "next": {
       "usfm": "RUT.2",

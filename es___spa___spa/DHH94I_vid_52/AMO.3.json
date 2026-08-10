@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/AMO.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/AMO.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/AMO.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/AMO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/AMO.9.json"
   },
   "book": {
     "book_usfm": "AMO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "AMO.3",
-    "previous": {
-      "usfm": "AMO.2",
-      "human": "Amós 2"
-    },
     "current": {
       "usfm": "AMO.3",
       "human": "Amós 3"
+    },
+    "previous": {
+      "usfm": "AMO.2",
+      "human": "Amós 2"
     },
     "next": {
       "usfm": "AMO.4",

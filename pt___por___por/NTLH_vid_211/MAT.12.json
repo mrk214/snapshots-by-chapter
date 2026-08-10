@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/MAT.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/MAT.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/MAT.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.12",
-    "previous": {
-      "usfm": "MAT.11",
-      "human": "Mateus 11"
-    },
     "current": {
       "usfm": "MAT.12",
       "human": "Mateus 12"
+    },
+    "previous": {
+      "usfm": "MAT.11",
+      "human": "Mateus 11"
     },
     "next": {
       "usfm": "MAT.13",

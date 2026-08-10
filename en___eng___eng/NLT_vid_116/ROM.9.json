@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ROM.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ROM.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ROM.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.9",
-    "previous": {
-      "usfm": "ROM.8",
-      "human": "Romans 8"
-    },
     "current": {
       "usfm": "ROM.9",
       "human": "Romans 9"
+    },
+    "previous": {
+      "usfm": "ROM.8",
+      "human": "Romans 8"
     },
     "next": {
       "usfm": "ROM.10",

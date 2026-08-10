@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.11",
-    "previous": {
-      "usfm": "PRO.10",
-      "human": "Proverbs 10"
-    },
     "current": {
       "usfm": "PRO.11",
       "human": "Proverbs 11"
+    },
+    "previous": {
+      "usfm": "PRO.10",
+      "human": "Proverbs 10"
     },
     "next": {
       "usfm": "PRO.12",

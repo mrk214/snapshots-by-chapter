@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.5.json"
   },
   "book": {
     "book_usfm": "JAS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JAS.2",
-    "previous": {
-      "usfm": "JAS.1",
-      "human": "Santiago 1"
-    },
     "current": {
       "usfm": "JAS.2",
       "human": "Santiago 2"
+    },
+    "previous": {
+      "usfm": "JAS.1",
+      "human": "Santiago 1"
     },
     "next": {
       "usfm": "JAS.3",

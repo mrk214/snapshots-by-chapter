@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ZEC.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ZEC.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ZEC.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.5",
-    "previous": {
-      "usfm": "ZEC.4",
-      "human": "Zacarías 4"
-    },
     "current": {
       "usfm": "ZEC.5",
       "human": "Zacarías 5"
+    },
+    "previous": {
+      "usfm": "ZEC.4",
+      "human": "Zacarías 4"
     },
     "next": {
       "usfm": "ZEC.6",

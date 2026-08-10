@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ACT.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ACT.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ACT.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.5",
-    "previous": {
-      "usfm": "ACT.4",
-      "human": "Hechos 4"
-    },
     "current": {
       "usfm": "ACT.5",
       "human": "Hechos 5"
+    },
+    "previous": {
+      "usfm": "ACT.4",
+      "human": "Hechos 4"
     },
     "next": {
       "usfm": "ACT.6",

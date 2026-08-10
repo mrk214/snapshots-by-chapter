@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.143.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.145.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.145.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.144",
-    "previous": {
-      "usfm": "PSA.143",
-      "human": "Psalms 143"
-    },
     "current": {
       "usfm": "PSA.144",
       "human": "Psalms 144"
+    },
+    "previous": {
+      "usfm": "PSA.143",
+      "human": "Psalms 143"
     },
     "next": {
       "usfm": "PSA.145",

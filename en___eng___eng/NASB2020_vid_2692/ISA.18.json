@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ISA.17.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ISA.19.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ISA.19.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.18",
-    "previous": {
-      "usfm": "ISA.17",
-      "human": "Isaiah 17"
-    },
     "current": {
       "usfm": "ISA.18",
       "human": "Isaiah 18"
+    },
+    "previous": {
+      "usfm": "ISA.17",
+      "human": "Isaiah 17"
     },
     "next": {
       "usfm": "ISA.19",

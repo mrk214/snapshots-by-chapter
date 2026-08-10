@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.82.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.84.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.84.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.83",
-    "previous": {
-      "usfm": "PSA.82",
-      "human": "Salmo 82"
-    },
     "current": {
       "usfm": "PSA.83",
       "human": "Salmo 83"
+    },
+    "previous": {
+      "usfm": "PSA.82",
+      "human": "Salmo 82"
     },
     "next": {
       "usfm": "PSA.84",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ROM.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ROM.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ROM.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.10",
-    "previous": {
-      "usfm": "ROM.9",
-      "human": "Romans 9"
-    },
     "current": {
       "usfm": "ROM.10",
       "human": "Romans 10"
+    },
+    "previous": {
+      "usfm": "ROM.9",
+      "human": "Romans 9"
     },
     "next": {
       "usfm": "ROM.11",

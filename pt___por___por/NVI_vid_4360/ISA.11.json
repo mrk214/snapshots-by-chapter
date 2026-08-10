@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.11",
-    "previous": {
-      "usfm": "ISA.10",
-      "human": "Isaías 10"
-    },
     "current": {
       "usfm": "ISA.11",
       "human": "Isaías 11"
+    },
+    "previous": {
+      "usfm": "ISA.10",
+      "human": "Isaías 10"
     },
     "next": {
       "usfm": "ISA.12",

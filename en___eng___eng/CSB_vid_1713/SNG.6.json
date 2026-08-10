@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/SNG.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/SNG.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/SNG.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/SNG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/SNG.8.json"
   },
   "book": {
     "book_usfm": "SNG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SNG.6",
-    "previous": {
-      "usfm": "SNG.5",
-      "human": "Song of Songs 5"
-    },
     "current": {
       "usfm": "SNG.6",
       "human": "Song of Songs 6"
+    },
+    "previous": {
+      "usfm": "SNG.5",
+      "human": "Song of Songs 5"
     },
     "next": {
       "usfm": "SNG.7",

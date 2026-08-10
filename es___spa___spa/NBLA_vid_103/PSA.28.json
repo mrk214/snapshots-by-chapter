@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.27.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.29.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.29.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.28",
-    "previous": {
-      "usfm": "PSA.27",
-      "human": "Salmo 27"
-    },
     "current": {
       "usfm": "PSA.28",
       "human": "Salmo 28"
+    },
+    "previous": {
+      "usfm": "PSA.27",
+      "human": "Salmo 27"
     },
     "next": {
       "usfm": "PSA.29",

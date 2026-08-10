@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MAT.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MAT.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MAT.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.4",
-    "previous": {
-      "usfm": "MAT.3",
-      "human": "Matthew 3"
-    },
     "current": {
       "usfm": "MAT.4",
       "human": "Matthew 4"
+    },
+    "previous": {
+      "usfm": "MAT.3",
+      "human": "Matthew 3"
     },
     "next": {
       "usfm": "MAT.5",

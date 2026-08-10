@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ACT.28.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ROM.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ROM.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.1",
-    "previous": {
-      "usfm": "ACT.28",
-      "human": "Hechos 28"
-    },
     "current": {
       "usfm": "ROM.1",
       "human": "Romanos 1"
+    },
+    "previous": {
+      "usfm": "ACT.28",
+      "human": "Hechos 28"
     },
     "next": {
       "usfm": "ROM.2",

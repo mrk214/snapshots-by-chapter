@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.22",
-    "previous": {
-      "usfm": "DEU.21",
-      "human": "Deuteronomio 21"
-    },
     "current": {
       "usfm": "DEU.22",
       "human": "Deuteronomio 22"
+    },
+    "previous": {
+      "usfm": "DEU.21",
+      "human": "Deuteronomio 21"
     },
     "next": {
       "usfm": "DEU.23",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MAT.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MAT.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MAT.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.14",
-    "previous": {
-      "usfm": "MAT.13",
-      "human": "Mateo 13"
-    },
     "current": {
       "usfm": "MAT.14",
       "human": "Mateo 14"
+    },
+    "previous": {
+      "usfm": "MAT.13",
+      "human": "Mateo 13"
     },
     "next": {
       "usfm": "MAT.15",

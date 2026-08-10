@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JON.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MIC.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MIC.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MIC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MIC.7.json"
   },
   "book": {
     "book_usfm": "MIC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MIC.1",
-    "previous": {
-      "usfm": "JON.4",
-      "human": "Jonah 4"
-    },
     "current": {
       "usfm": "MIC.1",
       "human": "Micah 1"
+    },
+    "previous": {
+      "usfm": "JON.4",
+      "human": "Jonah 4"
     },
     "next": {
       "usfm": "MIC.2",

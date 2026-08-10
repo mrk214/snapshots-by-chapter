@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/DEU.34.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOS.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOS.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.1",
-    "previous": {
-      "usfm": "DEU.34",
-      "human": "Deuteronomio 34"
-    },
     "current": {
       "usfm": "JOS.1",
       "human": "Josué 1"
+    },
+    "previous": {
+      "usfm": "DEU.34",
+      "human": "Deuteronomio 34"
     },
     "next": {
       "usfm": "JOS.2",

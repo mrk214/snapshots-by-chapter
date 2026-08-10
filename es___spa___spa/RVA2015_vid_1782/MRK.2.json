@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MRK.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MRK.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MRK.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.2",
-    "previous": {
-      "usfm": "MRK.1",
-      "human": "Marcos 1"
-    },
     "current": {
       "usfm": "MRK.2",
       "human": "Marcos 2"
+    },
+    "previous": {
+      "usfm": "MRK.1",
+      "human": "Marcos 1"
     },
     "next": {
       "usfm": "MRK.3",

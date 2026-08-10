@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2SA.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2SA.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2SA.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2SA.24.json"
   },
   "book": {
     "book_usfm": "2SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2SA.22",
-    "previous": {
-      "usfm": "2SA.21",
-      "human": "2Samuel 21"
-    },
     "current": {
       "usfm": "2SA.22",
       "human": "2Samuel 22"
+    },
+    "previous": {
+      "usfm": "2SA.21",
+      "human": "2Samuel 21"
     },
     "next": {
       "usfm": "2SA.23",

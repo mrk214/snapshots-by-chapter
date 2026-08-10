@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1PE.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2PE.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2PE.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2PE.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2PE.3.json"
   },
   "book": {
     "book_usfm": "2PE",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2PE.1",
-    "previous": {
-      "usfm": "1PE.5",
-      "human": "I Peter 5"
-    },
     "current": {
       "usfm": "2PE.1",
       "human": "II Peter 1"
+    },
+    "previous": {
+      "usfm": "1PE.5",
+      "human": "I Peter 5"
     },
     "next": {
       "usfm": "2PE.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.31.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.33.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.33.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.32",
-    "previous": {
-      "usfm": "EZK.31",
-      "human": "Ezekiel 31"
-    },
     "current": {
       "usfm": "EZK.32",
       "human": "Ezekiel 32"
+    },
+    "previous": {
+      "usfm": "EZK.31",
+      "human": "Ezekiel 31"
     },
     "next": {
       "usfm": "EZK.33",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.9",
-    "previous": {
-      "usfm": "DEU.8",
-      "human": "Deuteronomio 8"
-    },
     "current": {
       "usfm": "DEU.9",
       "human": "Deuteronomio 9"
+    },
+    "previous": {
+      "usfm": "DEU.8",
+      "human": "Deuteronomio 8"
     },
     "next": {
       "usfm": "DEU.10",

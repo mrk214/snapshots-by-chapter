@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ZEP.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.2.json"
   },
   "book": {
     "book_usfm": "HAG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HAG.1",
-    "previous": {
-      "usfm": "ZEP.3",
-      "human": "Sofonias 3"
-    },
     "current": {
       "usfm": "HAG.1",
       "human": "Ageu 1"
+    },
+    "previous": {
+      "usfm": "ZEP.3",
+      "human": "Sofonias 3"
     },
     "next": {
       "usfm": "HAG.2",

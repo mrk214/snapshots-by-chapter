@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.25.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.27.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.27.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.26",
-    "previous": {
-      "usfm": "PRO.25",
-      "human": "Provérbios 25"
-    },
     "current": {
       "usfm": "PRO.26",
       "human": "Provérbios 26"
+    },
+    "previous": {
+      "usfm": "PRO.25",
+      "human": "Provérbios 25"
     },
     "next": {
       "usfm": "PRO.27",

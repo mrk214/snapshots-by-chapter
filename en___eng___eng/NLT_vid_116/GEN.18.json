@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.17.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.19.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.19.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.18",
-    "previous": {
-      "usfm": "GEN.17",
-      "human": "Genesis 17"
-    },
     "current": {
       "usfm": "GEN.18",
       "human": "Genesis 18"
+    },
+    "previous": {
+      "usfm": "GEN.17",
+      "human": "Genesis 17"
     },
     "next": {
       "usfm": "GEN.19",

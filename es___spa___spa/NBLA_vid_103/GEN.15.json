@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.15",
-    "previous": {
-      "usfm": "GEN.14",
-      "human": "Génesis 14"
-    },
     "current": {
       "usfm": "GEN.15",
       "human": "Génesis 15"
+    },
+    "previous": {
+      "usfm": "GEN.14",
+      "human": "Génesis 14"
     },
     "next": {
       "usfm": "GEN.16",

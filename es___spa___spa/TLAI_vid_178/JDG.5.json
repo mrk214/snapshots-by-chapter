@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDG.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDG.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDG.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.5",
-    "previous": {
-      "usfm": "JDG.4",
-      "human": "Jueces 4"
-    },
     "current": {
       "usfm": "JDG.5",
       "human": "Jueces 5"
+    },
+    "previous": {
+      "usfm": "JDG.4",
+      "human": "Jueces 4"
     },
     "next": {
       "usfm": "JDG.6",

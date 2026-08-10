@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": null,
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GEN.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GEN.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,11 +11,11 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.1",
-    "previous": null,
     "current": {
       "usfm": "GEN.1",
       "human": "Génesis 1"
     },
+    "previous": null,
     "next": {
       "usfm": "GEN.2",
       "human": "Génesis 2"

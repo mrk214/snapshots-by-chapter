@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/SNG.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/SNG.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/SNG.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/SNG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/SNG.8.json"
   },
   "book": {
     "book_usfm": "SNG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SNG.5",
-    "previous": {
-      "usfm": "SNG.4",
-      "human": "Cântico dos Cânticos 4"
-    },
     "current": {
       "usfm": "SNG.5",
       "human": "Cântico dos Cânticos 5"
+    },
+    "previous": {
+      "usfm": "SNG.4",
+      "human": "Cântico dos Cânticos 4"
     },
     "next": {
       "usfm": "SNG.6",

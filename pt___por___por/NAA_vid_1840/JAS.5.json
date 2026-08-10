@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JAS.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1PE.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1PE.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JAS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JAS.5.json"
   },
   "book": {
     "book_usfm": "JAS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JAS.5",
-    "previous": {
-      "usfm": "JAS.4",
-      "human": "Tiago 4"
-    },
     "current": {
       "usfm": "JAS.5",
       "human": "Tiago 5"
+    },
+    "previous": {
+      "usfm": "JAS.4",
+      "human": "Tiago 4"
     },
     "next": {
       "usfm": "1PE.1",

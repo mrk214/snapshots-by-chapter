@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.8",
-    "previous": {
-      "usfm": "DAN.7",
-      "human": "Daniel 7"
-    },
     "current": {
       "usfm": "DAN.8",
       "human": "Daniel 8"
+    },
+    "previous": {
+      "usfm": "DAN.7",
+      "human": "Daniel 7"
     },
     "next": {
       "usfm": "DAN.9",

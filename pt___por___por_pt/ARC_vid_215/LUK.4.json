@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LUK.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LUK.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LUK.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.4",
-    "previous": {
-      "usfm": "LUK.3",
-      "human": "Lucas 3"
-    },
     "current": {
       "usfm": "LUK.4",
       "human": "Lucas 4"
+    },
+    "previous": {
+      "usfm": "LUK.3",
+      "human": "Lucas 3"
     },
     "next": {
       "usfm": "LUK.5",

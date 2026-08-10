@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MRK.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MRK.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MRK.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.12",
-    "previous": {
-      "usfm": "MRK.11",
-      "human": "San Marcos 11"
-    },
     "current": {
       "usfm": "MRK.12",
       "human": "San Marcos 12"
+    },
+    "previous": {
+      "usfm": "MRK.11",
+      "human": "San Marcos 11"
     },
     "next": {
       "usfm": "MRK.13",

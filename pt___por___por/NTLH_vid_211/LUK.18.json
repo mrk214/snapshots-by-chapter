@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LUK.17.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LUK.19.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LUK.19.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.18",
-    "previous": {
-      "usfm": "LUK.17",
-      "human": "Lucas 17"
-    },
     "current": {
       "usfm": "LUK.18",
       "human": "Lucas 18"
+    },
+    "previous": {
+      "usfm": "LUK.17",
+      "human": "Lucas 17"
     },
     "next": {
       "usfm": "LUK.19",

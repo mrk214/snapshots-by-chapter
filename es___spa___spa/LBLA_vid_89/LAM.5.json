@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/LAM.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/EZK.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/EZK.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/LAM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/LAM.5.json"
   },
   "book": {
     "book_usfm": "LAM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LAM.5",
-    "previous": {
-      "usfm": "LAM.4",
-      "human": "Lamentaciones 4"
-    },
     "current": {
       "usfm": "LAM.5",
       "human": "Lamentaciones 5"
+    },
+    "previous": {
+      "usfm": "LAM.4",
+      "human": "Lamentaciones 4"
     },
     "next": {
       "usfm": "EZK.1",

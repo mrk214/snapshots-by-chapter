@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1SA.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1SA.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1SA.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.14",
-    "previous": {
-      "usfm": "1SA.13",
-      "human": "1 Samuel 13"
-    },
     "current": {
       "usfm": "1SA.14",
       "human": "1 Samuel 14"
+    },
+    "previous": {
+      "usfm": "1SA.13",
+      "human": "1 Samuel 13"
     },
     "next": {
       "usfm": "1SA.15",

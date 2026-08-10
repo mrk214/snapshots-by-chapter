@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.19",
-    "previous": {
-      "usfm": "JHN.18",
-      "human": "Juan 18"
-    },
     "current": {
       "usfm": "JHN.19",
       "human": "Juan 19"
+    },
+    "previous": {
+      "usfm": "JHN.18",
+      "human": "Juan 18"
     },
     "next": {
       "usfm": "JHN.20",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DEU.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DEU.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DEU.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.12",
-    "previous": {
-      "usfm": "DEU.11",
-      "human": "Deuteronômio 11"
-    },
     "current": {
       "usfm": "DEU.12",
       "human": "Deuteronômio 12"
+    },
+    "previous": {
+      "usfm": "DEU.11",
+      "human": "Deuteronômio 11"
     },
     "next": {
       "usfm": "DEU.13",

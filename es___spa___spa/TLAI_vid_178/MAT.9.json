@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MAT.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MAT.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MAT.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.9",
-    "previous": {
-      "usfm": "MAT.8",
-      "human": "Mateo 8"
-    },
     "current": {
       "usfm": "MAT.9",
       "human": "Mateo 9"
+    },
+    "previous": {
+      "usfm": "MAT.8",
+      "human": "Mateo 8"
     },
     "next": {
       "usfm": "MAT.10",

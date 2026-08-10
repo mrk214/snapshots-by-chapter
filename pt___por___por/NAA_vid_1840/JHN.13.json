@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JHN.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JHN.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JHN.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.13",
-    "previous": {
-      "usfm": "JHN.12",
-      "human": "João 12"
-    },
     "current": {
       "usfm": "JHN.13",
       "human": "João 13"
+    },
+    "previous": {
+      "usfm": "JHN.12",
+      "human": "João 12"
     },
     "next": {
       "usfm": "JHN.14",

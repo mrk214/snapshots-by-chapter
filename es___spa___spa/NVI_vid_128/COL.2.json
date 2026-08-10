@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/COL.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/COL.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/COL.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/COL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/COL.4.json"
   },
   "book": {
     "book_usfm": "COL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "COL.2",
-    "previous": {
-      "usfm": "COL.1",
-      "human": "Colosenses 1"
-    },
     "current": {
       "usfm": "COL.2",
       "human": "Colosenses 2"
+    },
+    "previous": {
+      "usfm": "COL.1",
+      "human": "Colosenses 1"
     },
     "next": {
       "usfm": "COL.3",

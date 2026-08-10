@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HEB.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HEB.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HEB.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.10",
-    "previous": {
-      "usfm": "HEB.9",
-      "human": "Hebreos 9"
-    },
     "current": {
       "usfm": "HEB.10",
       "human": "Hebreos 10"
+    },
+    "previous": {
+      "usfm": "HEB.9",
+      "human": "Hebreos 9"
     },
     "next": {
       "usfm": "HEB.11",

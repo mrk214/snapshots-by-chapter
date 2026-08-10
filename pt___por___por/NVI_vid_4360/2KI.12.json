@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2KI.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2KI.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2KI.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.12",
-    "previous": {
-      "usfm": "2KI.11",
-      "human": "2 Reis 11"
-    },
     "current": {
       "usfm": "2KI.12",
       "human": "2 Reis 12"
+    },
+    "previous": {
+      "usfm": "2KI.11",
+      "human": "2 Reis 11"
     },
     "next": {
       "usfm": "2KI.13",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAT.26.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAT.28.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAT.28.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.27",
-    "previous": {
-      "usfm": "MAT.26",
-      "human": "San Mateo 26"
-    },
     "current": {
       "usfm": "MAT.27",
       "human": "San Mateo 27"
+    },
+    "previous": {
+      "usfm": "MAT.26",
+      "human": "San Mateo 26"
     },
     "next": {
       "usfm": "MAT.28",

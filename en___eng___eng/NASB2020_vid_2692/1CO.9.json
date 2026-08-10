@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/1CO.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/1CO.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/1CO.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.9",
-    "previous": {
-      "usfm": "1CO.8",
-      "human": "1 Corinthians 8"
-    },
     "current": {
       "usfm": "1CO.9",
       "human": "1 Corinthians 9"
+    },
+    "previous": {
+      "usfm": "1CO.8",
+      "human": "1 Corinthians 8"
     },
     "next": {
       "usfm": "1CO.10",

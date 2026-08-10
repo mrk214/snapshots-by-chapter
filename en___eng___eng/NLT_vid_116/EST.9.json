@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EST.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EST.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EST.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.9",
-    "previous": {
-      "usfm": "EST.8",
-      "human": "Esther 8"
-    },
     "current": {
       "usfm": "EST.9",
       "human": "Esther 9"
+    },
+    "previous": {
+      "usfm": "EST.8",
+      "human": "Esther 8"
     },
     "next": {
       "usfm": "EST.10",

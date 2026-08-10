@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JDG.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JDG.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JDG.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.19",
-    "previous": {
-      "usfm": "JDG.18",
-      "human": "Jueces 18"
-    },
     "current": {
       "usfm": "JDG.19",
       "human": "Jueces 19"
+    },
+    "previous": {
+      "usfm": "JDG.18",
+      "human": "Jueces 18"
     },
     "next": {
       "usfm": "JDG.20",

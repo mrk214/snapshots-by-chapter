@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TI.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2TI.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/2TI.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TI.6.json"
   },
   "book": {
     "book_usfm": "1TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TI.6",
-    "previous": {
-      "usfm": "1TI.5",
-      "human": "I Timothy 5"
-    },
     "current": {
       "usfm": "1TI.6",
       "human": "I Timothy 6"
+    },
+    "previous": {
+      "usfm": "1TI.5",
+      "human": "I Timothy 5"
     },
     "next": {
       "usfm": "2TI.1",

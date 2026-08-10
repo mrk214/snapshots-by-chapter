@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ROM.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ROM.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ROM.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.3",
-    "previous": {
-      "usfm": "ROM.2",
-      "human": "Romanos 2"
-    },
     "current": {
       "usfm": "ROM.3",
       "human": "Romanos 3"
+    },
+    "previous": {
+      "usfm": "ROM.2",
+      "human": "Romanos 2"
     },
     "next": {
       "usfm": "ROM.4",

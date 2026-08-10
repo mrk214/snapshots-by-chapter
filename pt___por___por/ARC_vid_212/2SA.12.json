@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2SA.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2SA.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2SA.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2SA.24.json"
   },
   "book": {
     "book_usfm": "2SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2SA.12",
-    "previous": {
-      "usfm": "2SA.11",
-      "human": "2Samuel 11"
-    },
     "current": {
       "usfm": "2SA.12",
       "human": "2Samuel 12"
+    },
+    "previous": {
+      "usfm": "2SA.11",
+      "human": "2Samuel 11"
     },
     "next": {
       "usfm": "2SA.13",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZK.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZK.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZK.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.4",
-    "previous": {
-      "usfm": "EZK.3",
-      "human": "Ezekiel 3"
-    },
     "current": {
       "usfm": "EZK.4",
       "human": "Ezekiel 4"
+    },
+    "previous": {
+      "usfm": "EZK.3",
+      "human": "Ezekiel 3"
     },
     "next": {
       "usfm": "EZK.5",

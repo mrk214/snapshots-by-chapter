@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/2TI.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/TIT.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/TIT.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/2TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/2TI.4.json"
   },
   "book": {
     "book_usfm": "2TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2TI.4",
-    "previous": {
-      "usfm": "2TI.3",
-      "human": "2 Timoteo 3"
-    },
     "current": {
       "usfm": "2TI.4",
       "human": "2 Timoteo 4"
+    },
+    "previous": {
+      "usfm": "2TI.3",
+      "human": "2 Timoteo 3"
     },
     "next": {
       "usfm": "TIT.1",

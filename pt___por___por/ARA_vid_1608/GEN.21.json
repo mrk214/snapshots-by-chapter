@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/GEN.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/GEN.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/GEN.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.21",
-    "previous": {
-      "usfm": "GEN.20",
-      "human": "Gênesis 20"
-    },
     "current": {
       "usfm": "GEN.21",
       "human": "Gênesis 21"
+    },
+    "previous": {
+      "usfm": "GEN.20",
+      "human": "Gênesis 20"
     },
     "next": {
       "usfm": "GEN.22",

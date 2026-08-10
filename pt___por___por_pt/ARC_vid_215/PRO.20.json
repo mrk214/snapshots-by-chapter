@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.20",
-    "previous": {
-      "usfm": "PRO.19",
-      "human": "Provérbios 19"
-    },
     "current": {
       "usfm": "PRO.20",
       "human": "Provérbios 20"
+    },
+    "previous": {
+      "usfm": "PRO.19",
+      "human": "Provérbios 19"
     },
     "next": {
       "usfm": "PRO.21",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JER.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JER.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JER.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.4",
-    "previous": {
-      "usfm": "JER.3",
-      "human": "Jeremiah 3"
-    },
     "current": {
       "usfm": "JER.4",
       "human": "Jeremiah 4"
+    },
+    "previous": {
+      "usfm": "JER.3",
+      "human": "Jeremiah 3"
     },
     "next": {
       "usfm": "JER.5",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1CH.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1CH.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1CH.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1CH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1CH.29.json"
   },
   "book": {
     "book_usfm": "1CH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CH.23",
-    "previous": {
-      "usfm": "1CH.22",
-      "human": "1 Chronicles 22"
-    },
     "current": {
       "usfm": "1CH.23",
       "human": "1 Chronicles 23"
+    },
+    "previous": {
+      "usfm": "1CH.22",
+      "human": "1 Chronicles 22"
     },
     "next": {
       "usfm": "1CH.24",

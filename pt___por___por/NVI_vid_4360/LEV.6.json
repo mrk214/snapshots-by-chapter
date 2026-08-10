@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/LEV.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/LEV.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/LEV.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.6",
-    "previous": {
-      "usfm": "LEV.5",
-      "human": "Levítico 5"
-    },
     "current": {
       "usfm": "LEV.6",
       "human": "Levítico 6"
+    },
+    "previous": {
+      "usfm": "LEV.5",
+      "human": "Levítico 5"
     },
     "next": {
       "usfm": "LEV.7",

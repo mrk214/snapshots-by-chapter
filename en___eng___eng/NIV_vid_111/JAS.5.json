@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JAS.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1PE.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1PE.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JAS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JAS.5.json"
   },
   "book": {
     "book_usfm": "JAS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JAS.5",
-    "previous": {
-      "usfm": "JAS.4",
-      "human": "James 4"
-    },
     "current": {
       "usfm": "JAS.5",
       "human": "James 5"
+    },
+    "previous": {
+      "usfm": "JAS.4",
+      "human": "James 4"
     },
     "next": {
       "usfm": "1PE.1",

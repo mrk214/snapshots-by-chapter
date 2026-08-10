@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ZEC.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ZEC.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAG.2.json"
   },
   "book": {
     "book_usfm": "HAG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HAG.2",
-    "previous": {
-      "usfm": "HAG.1",
-      "human": "Ageu 1"
-    },
     "current": {
       "usfm": "HAG.2",
       "human": "Ageu 2"
+    },
+    "previous": {
+      "usfm": "HAG.1",
+      "human": "Ageu 1"
     },
     "next": {
       "usfm": "ZEC.1",

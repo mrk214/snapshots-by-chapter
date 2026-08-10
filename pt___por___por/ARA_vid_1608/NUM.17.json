@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NUM.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NUM.18.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NUM.18.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.17",
-    "previous": {
-      "usfm": "NUM.16",
-      "human": "Números 16"
-    },
     "current": {
       "usfm": "NUM.17",
       "human": "Números 17"
+    },
+    "previous": {
+      "usfm": "NUM.16",
+      "human": "Números 16"
     },
     "next": {
       "usfm": "NUM.18",

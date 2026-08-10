@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DAN.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/HOS.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/HOS.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.12",
-    "previous": {
-      "usfm": "DAN.11",
-      "human": "Daniel 11"
-    },
     "current": {
       "usfm": "DAN.12",
       "human": "Daniel 12"
+    },
+    "previous": {
+      "usfm": "DAN.11",
+      "human": "Daniel 11"
     },
     "next": {
       "usfm": "HOS.1",

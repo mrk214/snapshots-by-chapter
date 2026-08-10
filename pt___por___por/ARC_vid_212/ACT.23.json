@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ACT.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ACT.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ACT.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.23",
-    "previous": {
-      "usfm": "ACT.22",
-      "human": "Atos 22"
-    },
     "current": {
       "usfm": "ACT.23",
       "human": "Atos 23"
+    },
+    "previous": {
+      "usfm": "ACT.22",
+      "human": "Atos 22"
     },
     "next": {
       "usfm": "ACT.24",

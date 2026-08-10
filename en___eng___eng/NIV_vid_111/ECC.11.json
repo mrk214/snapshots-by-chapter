@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ECC.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ECC.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ECC.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ECC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ECC.12.json"
   },
   "book": {
     "book_usfm": "ECC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ECC.11",
-    "previous": {
-      "usfm": "ECC.10",
-      "human": "Ecclesiastes 10"
-    },
     "current": {
       "usfm": "ECC.11",
       "human": "Ecclesiastes 11"
+    },
+    "previous": {
+      "usfm": "ECC.10",
+      "human": "Ecclesiastes 10"
     },
     "next": {
       "usfm": "ECC.12",

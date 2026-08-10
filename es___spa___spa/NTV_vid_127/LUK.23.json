@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LUK.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LUK.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LUK.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.23",
-    "previous": {
-      "usfm": "LUK.22",
-      "human": "Lucas 22"
-    },
     "current": {
       "usfm": "LUK.23",
       "human": "Lucas 23"
+    },
+    "previous": {
+      "usfm": "LUK.22",
+      "human": "Lucas 22"
     },
     "next": {
       "usfm": "LUK.24",

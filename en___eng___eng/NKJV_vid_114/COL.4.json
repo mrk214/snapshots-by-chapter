@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/COL.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/COL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/COL.4.json"
   },
   "book": {
     "book_usfm": "COL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "COL.4",
-    "previous": {
-      "usfm": "COL.3",
-      "human": "Colossians 3"
-    },
     "current": {
       "usfm": "COL.4",
       "human": "Colossians 4"
+    },
+    "previous": {
+      "usfm": "COL.3",
+      "human": "Colossians 3"
     },
     "next": {
       "usfm": "1TH.1",

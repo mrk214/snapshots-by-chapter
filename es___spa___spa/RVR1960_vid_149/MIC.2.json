@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MIC.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MIC.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MIC.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MIC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MIC.7.json"
   },
   "book": {
     "book_usfm": "MIC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MIC.2",
-    "previous": {
-      "usfm": "MIC.1",
-      "human": "Miqueas 1"
-    },
     "current": {
       "usfm": "MIC.2",
       "human": "Miqueas 2"
+    },
+    "previous": {
+      "usfm": "MIC.1",
+      "human": "Miqueas 1"
     },
     "next": {
       "usfm": "MIC.3",

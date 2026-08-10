@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.8",
-    "previous": {
-      "usfm": "JOB.7",
-      "human": "Job 7"
-    },
     "current": {
       "usfm": "JOB.8",
       "human": "Job 8"
+    },
+    "previous": {
+      "usfm": "JOB.7",
+      "human": "Job 7"
     },
     "next": {
       "usfm": "JOB.9",

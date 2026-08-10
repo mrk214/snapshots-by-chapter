@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.2",
-    "previous": {
-      "usfm": "EZK.1",
-      "human": "Ezequiel 1"
-    },
     "current": {
       "usfm": "EZK.2",
       "human": "Ezequiel 2"
+    },
+    "previous": {
+      "usfm": "EZK.1",
+      "human": "Ezequiel 1"
     },
     "next": {
       "usfm": "EZK.3",

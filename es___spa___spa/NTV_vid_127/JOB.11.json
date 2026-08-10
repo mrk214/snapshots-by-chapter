@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.11",
-    "previous": {
-      "usfm": "JOB.10",
-      "human": "Job 10"
-    },
     "current": {
       "usfm": "JOB.11",
       "human": "Job 11"
+    },
+    "previous": {
+      "usfm": "JOB.10",
+      "human": "Job 10"
     },
     "next": {
       "usfm": "JOB.12",

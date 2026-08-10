@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.12.json"
   },
   "book": {
     "book_usfm": "ECC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ECC.5",
-    "previous": {
-      "usfm": "ECC.4",
-      "human": "Eclesiastés 4"
-    },
     "current": {
       "usfm": "ECC.5",
       "human": "Eclesiastés 5"
+    },
+    "previous": {
+      "usfm": "ECC.4",
+      "human": "Eclesiastés 4"
     },
     "next": {
       "usfm": "ECC.6",

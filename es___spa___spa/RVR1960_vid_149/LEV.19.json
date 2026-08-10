@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LEV.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LEV.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LEV.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.19",
-    "previous": {
-      "usfm": "LEV.18",
-      "human": "Levítico 18"
-    },
     "current": {
       "usfm": "LEV.19",
       "human": "Levítico 19"
+    },
+    "previous": {
+      "usfm": "LEV.18",
+      "human": "Levítico 18"
     },
     "next": {
       "usfm": "LEV.20",

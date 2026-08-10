@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2SA.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2SA.18.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2SA.18.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2SA.24.json"
   },
   "book": {
     "book_usfm": "2SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2SA.17",
-    "previous": {
-      "usfm": "2SA.16",
-      "human": "2 Samuel 16"
-    },
     "current": {
       "usfm": "2SA.17",
       "human": "2 Samuel 17"
+    },
+    "previous": {
+      "usfm": "2SA.16",
+      "human": "2 Samuel 16"
     },
     "next": {
       "usfm": "2SA.18",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/DEU.33.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JOS.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JOS.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.34",
-    "previous": {
-      "usfm": "DEU.33",
-      "human": "Deuteronomy 33"
-    },
     "current": {
       "usfm": "DEU.34",
       "human": "Deuteronomy 34"
+    },
+    "previous": {
+      "usfm": "DEU.33",
+      "human": "Deuteronomy 33"
     },
     "next": {
       "usfm": "JOS.1",

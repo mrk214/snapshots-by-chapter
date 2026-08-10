@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAL.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAT.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAT.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/MAL.4.json"
   },
   "book": {
     "book_usfm": "MAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAL.4",
-    "previous": {
-      "usfm": "MAL.3",
-      "human": "Malaquías 3"
-    },
     "current": {
       "usfm": "MAL.4",
       "human": "Malaquías 4"
+    },
+    "previous": {
+      "usfm": "MAL.3",
+      "human": "Malaquías 3"
     },
     "next": {
       "usfm": "MAT.1",

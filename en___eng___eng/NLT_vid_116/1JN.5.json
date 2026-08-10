@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/2JN.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/2JN.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1JN.5.json"
   },
   "book": {
     "book_usfm": "1JN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1JN.5",
-    "previous": {
-      "usfm": "1JN.4",
-      "human": "1 John 4"
-    },
     "current": {
       "usfm": "1JN.5",
       "human": "1 John 5"
+    },
+    "previous": {
+      "usfm": "1JN.4",
+      "human": "1 John 4"
     },
     "next": {
       "usfm": "2JN.1",

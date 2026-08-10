@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/RUT.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/RUT.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/RUT.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/RUT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/RUT.4.json"
   },
   "book": {
     "book_usfm": "RUT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "RUT.2",
-    "previous": {
-      "usfm": "RUT.1",
-      "human": "Rut 1"
-    },
     "current": {
       "usfm": "RUT.2",
       "human": "Rut 2"
+    },
+    "previous": {
+      "usfm": "RUT.1",
+      "human": "Rut 1"
     },
     "next": {
       "usfm": "RUT.3",

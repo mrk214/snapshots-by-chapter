@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/1JN.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/3JN.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/3JN.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/2JN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/2JN.1.json"
   },
   "book": {
     "book_usfm": "2JN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2JN.1",
-    "previous": {
-      "usfm": "1JN.5",
-      "human": "1 João 5"
-    },
     "current": {
       "usfm": "2JN.1",
       "human": "2 João 1"
+    },
+    "previous": {
+      "usfm": "1JN.5",
+      "human": "1 João 5"
     },
     "next": {
       "usfm": "3JN.1",

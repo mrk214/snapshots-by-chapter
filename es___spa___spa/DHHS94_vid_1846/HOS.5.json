@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/HOS.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/HOS.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/HOS.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.5",
-    "previous": {
-      "usfm": "HOS.4",
-      "human": "Oseas 4"
-    },
     "current": {
       "usfm": "HOS.5",
       "human": "Oseas 5"
+    },
+    "previous": {
+      "usfm": "HOS.4",
+      "human": "Oseas 4"
     },
     "next": {
       "usfm": "HOS.6",

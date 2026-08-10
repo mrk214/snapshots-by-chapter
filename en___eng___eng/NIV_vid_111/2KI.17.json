@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2KI.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2KI.18.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2KI.18.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.17",
-    "previous": {
-      "usfm": "2KI.16",
-      "human": "2 Kings 16"
-    },
     "current": {
       "usfm": "2KI.17",
       "human": "2 Kings 17"
+    },
+    "previous": {
+      "usfm": "2KI.16",
+      "human": "2 Kings 16"
     },
     "next": {
       "usfm": "2KI.18",

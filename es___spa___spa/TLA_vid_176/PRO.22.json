@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.22",
-    "previous": {
-      "usfm": "PRO.21",
-      "human": "Proverbios 21"
-    },
     "current": {
       "usfm": "PRO.22",
       "human": "Proverbios 22"
+    },
+    "previous": {
+      "usfm": "PRO.21",
+      "human": "Proverbios 21"
     },
     "next": {
       "usfm": "PRO.23",

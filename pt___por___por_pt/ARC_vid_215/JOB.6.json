@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JOB.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JOB.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JOB.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.6",
-    "previous": {
-      "usfm": "JOB.5",
-      "human": "Job 5"
-    },
     "current": {
       "usfm": "JOB.6",
       "human": "Job 6"
+    },
+    "previous": {
+      "usfm": "JOB.5",
+      "human": "Job 5"
     },
     "next": {
       "usfm": "JOB.7",

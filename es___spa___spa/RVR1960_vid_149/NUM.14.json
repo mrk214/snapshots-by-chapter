@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/NUM.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/NUM.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/NUM.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.14",
-    "previous": {
-      "usfm": "NUM.13",
-      "human": "Números 13"
-    },
     "current": {
       "usfm": "NUM.14",
       "human": "Números 14"
+    },
+    "previous": {
+      "usfm": "NUM.13",
+      "human": "Números 13"
     },
     "next": {
       "usfm": "NUM.15",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1TI.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2TI.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2TI.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2TI.4.json"
   },
   "book": {
     "book_usfm": "2TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2TI.1",
-    "previous": {
-      "usfm": "1TI.6",
-      "human": "1 Timoteo 6"
-    },
     "current": {
       "usfm": "2TI.1",
       "human": "2 Timoteo 1"
+    },
+    "previous": {
+      "usfm": "1TI.6",
+      "human": "1 Timoteo 6"
     },
     "next": {
       "usfm": "2TI.2",

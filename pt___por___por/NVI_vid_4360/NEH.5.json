@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/NEH.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/NEH.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/NEH.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/NEH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/NEH.13.json"
   },
   "book": {
     "book_usfm": "NEH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NEH.5",
-    "previous": {
-      "usfm": "NEH.4",
-      "human": "Neemias 4"
-    },
     "current": {
       "usfm": "NEH.5",
       "human": "Neemias 5"
+    },
+    "previous": {
+      "usfm": "NEH.4",
+      "human": "Neemias 4"
     },
     "next": {
       "usfm": "NEH.6",

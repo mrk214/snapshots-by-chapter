@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1KI.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1KI.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1KI.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/1KI.22.json"
   },
   "book": {
     "book_usfm": "1KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1KI.14",
-    "previous": {
-      "usfm": "1KI.13",
-      "human": "1 Kings 13"
-    },
     "current": {
       "usfm": "1KI.14",
       "human": "1 Kings 14"
+    },
+    "previous": {
+      "usfm": "1KI.13",
+      "human": "1 Kings 13"
     },
     "next": {
       "usfm": "1KI.15",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/EZK.48.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/DAN.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/DAN.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.1",
-    "previous": {
-      "usfm": "EZK.48",
-      "human": "Ezequiel 48"
-    },
     "current": {
       "usfm": "DAN.1",
       "human": "Daniel 1"
+    },
+    "previous": {
+      "usfm": "EZK.48",
+      "human": "Ezequiel 48"
     },
     "next": {
       "usfm": "DAN.2",

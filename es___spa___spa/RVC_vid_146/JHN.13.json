@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JHN.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JHN.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JHN.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.13",
-    "previous": {
-      "usfm": "JHN.12",
-      "human": "San Juan 12"
-    },
     "current": {
       "usfm": "JHN.13",
       "human": "San Juan 13"
+    },
+    "previous": {
+      "usfm": "JHN.12",
+      "human": "San Juan 12"
     },
     "next": {
       "usfm": "JHN.14",

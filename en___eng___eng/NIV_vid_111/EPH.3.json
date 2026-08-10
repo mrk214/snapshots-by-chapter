@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EPH.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EPH.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EPH.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EPH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EPH.6.json"
   },
   "book": {
     "book_usfm": "EPH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EPH.3",
-    "previous": {
-      "usfm": "EPH.2",
-      "human": "Ephesians 2"
-    },
     "current": {
       "usfm": "EPH.3",
       "human": "Ephesians 3"
+    },
+    "previous": {
+      "usfm": "EPH.2",
+      "human": "Ephesians 2"
     },
     "next": {
       "usfm": "EPH.4",

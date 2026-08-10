@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/SNG.8.json"
   },
   "book": {
     "book_usfm": "SNG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SNG.4",
-    "previous": {
-      "usfm": "SNG.3",
-      "human": "Cantar de los Cantares 3"
-    },
     "current": {
       "usfm": "SNG.4",
       "human": "Cantar de los Cantares 4"
+    },
+    "previous": {
+      "usfm": "SNG.3",
+      "human": "Cantar de los Cantares 3"
     },
     "next": {
       "usfm": "SNG.5",

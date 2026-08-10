@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1SA.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1SA.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1SA.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.24",
-    "previous": {
-      "usfm": "1SA.23",
-      "human": "1Samuel 23"
-    },
     "current": {
       "usfm": "1SA.24",
       "human": "1Samuel 24"
+    },
+    "previous": {
+      "usfm": "1SA.23",
+      "human": "1Samuel 23"
     },
     "next": {
       "usfm": "1SA.25",

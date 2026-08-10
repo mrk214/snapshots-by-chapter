@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.10",
-    "previous": {
-      "usfm": "GEN.9",
-      "human": "Génesis 9"
-    },
     "current": {
       "usfm": "GEN.10",
       "human": "Génesis 10"
+    },
+    "previous": {
+      "usfm": "GEN.9",
+      "human": "Génesis 9"
     },
     "next": {
       "usfm": "GEN.11",

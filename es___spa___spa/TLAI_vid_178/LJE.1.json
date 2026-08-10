@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/S3Y.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/S3Y.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LJE.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LJE.1.json"
   },
   "book": {
     "book_usfm": "LJE",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LJE.1",
-    "previous": {
-      "usfm": "BAR.5",
-      "human": "Baruc 5"
-    },
     "current": {
       "usfm": "LJE.1",
       "human": "Carta de Jer 6"
+    },
+    "previous": {
+      "usfm": "BAR.5",
+      "human": "Baruc 5"
     },
     "next": {
       "usfm": "S3Y.1",

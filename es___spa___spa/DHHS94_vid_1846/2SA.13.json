@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2SA.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2SA.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2SA.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2SA.24.json"
   },
   "book": {
     "book_usfm": "2SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2SA.13",
-    "previous": {
-      "usfm": "2SA.12",
-      "human": "2 Samuel 12"
-    },
     "current": {
       "usfm": "2SA.13",
       "human": "2 Samuel 13"
+    },
+    "previous": {
+      "usfm": "2SA.12",
+      "human": "2 Samuel 12"
     },
     "next": {
       "usfm": "2SA.14",

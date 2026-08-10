@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.11",
-    "previous": {
-      "usfm": "HOS.10",
-      "human": "Hosea 10"
-    },
     "current": {
       "usfm": "HOS.11",
       "human": "Hosea 11"
+    },
+    "previous": {
+      "usfm": "HOS.10",
+      "human": "Hosea 10"
     },
     "next": {
       "usfm": "HOS.12",

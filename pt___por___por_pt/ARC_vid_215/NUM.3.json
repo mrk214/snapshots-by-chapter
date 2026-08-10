@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NUM.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NUM.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NUM.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.3",
-    "previous": {
-      "usfm": "NUM.2",
-      "human": "Números 2"
-    },
     "current": {
       "usfm": "NUM.3",
       "human": "Números 3"
+    },
+    "previous": {
+      "usfm": "NUM.2",
+      "human": "Números 2"
     },
     "next": {
       "usfm": "NUM.4",

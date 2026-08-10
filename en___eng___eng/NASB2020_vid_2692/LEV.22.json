@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.22",
-    "previous": {
-      "usfm": "LEV.21",
-      "human": "Leviticus 21"
-    },
     "current": {
       "usfm": "LEV.22",
       "human": "Leviticus 22"
+    },
+    "previous": {
+      "usfm": "LEV.21",
+      "human": "Leviticus 21"
     },
     "next": {
       "usfm": "LEV.23",

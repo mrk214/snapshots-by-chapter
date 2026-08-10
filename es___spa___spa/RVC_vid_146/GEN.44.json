@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/GEN.43.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/GEN.45.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/GEN.45.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.44",
-    "previous": {
-      "usfm": "GEN.43",
-      "human": "Génesis 43"
-    },
     "current": {
       "usfm": "GEN.44",
       "human": "Génesis 44"
+    },
+    "previous": {
+      "usfm": "GEN.43",
+      "human": "Génesis 43"
     },
     "next": {
       "usfm": "GEN.45",

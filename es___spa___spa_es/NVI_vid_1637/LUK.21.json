@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/LUK.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/LUK.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/LUK.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.21",
-    "previous": {
-      "usfm": "LUK.20",
-      "human": "Lucas 20"
-    },
     "current": {
       "usfm": "LUK.21",
       "human": "Lucas 21"
+    },
+    "previous": {
+      "usfm": "LUK.20",
+      "human": "Lucas 20"
     },
     "next": {
       "usfm": "LUK.22",

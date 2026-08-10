@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2CH.32.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2CH.34.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2CH.34.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2CH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2CH.36.json"
   },
   "book": {
     "book_usfm": "2CH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CH.33",
-    "previous": {
-      "usfm": "2CH.32",
-      "human": "2 Chronicles 32"
-    },
     "current": {
       "usfm": "2CH.33",
       "human": "2 Chronicles 33"
+    },
+    "previous": {
+      "usfm": "2CH.32",
+      "human": "2 Chronicles 32"
     },
     "next": {
       "usfm": "2CH.34",

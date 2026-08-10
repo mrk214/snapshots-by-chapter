@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.21",
-    "previous": {
-      "usfm": "PRO.20",
-      "human": "Proverbs 20"
-    },
     "current": {
       "usfm": "PRO.21",
       "human": "Proverbs 21"
+    },
+    "previous": {
+      "usfm": "PRO.20",
+      "human": "Proverbs 20"
     },
     "next": {
       "usfm": "PRO.22",

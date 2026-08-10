@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EST.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EST.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EST.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.7",
-    "previous": {
-      "usfm": "EST.6",
-      "human": "Esther 6"
-    },
     "current": {
       "usfm": "EST.7",
       "human": "Esther 7"
+    },
+    "previous": {
+      "usfm": "EST.6",
+      "human": "Esther 6"
     },
     "next": {
       "usfm": "EST.8",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/DAN.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/DAN.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/DAN.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.3",
-    "previous": {
-      "usfm": "DAN.2",
-      "human": "Daniel 2"
-    },
     "current": {
       "usfm": "DAN.3",
       "human": "Daniel 3"
+    },
+    "previous": {
+      "usfm": "DAN.2",
+      "human": "Daniel 2"
     },
     "next": {
       "usfm": "DAN.4",

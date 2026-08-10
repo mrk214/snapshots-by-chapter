@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MRK.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MRK.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MRK.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.3",
-    "previous": {
-      "usfm": "MRK.2",
-      "human": "Mark 2"
-    },
     "current": {
       "usfm": "MRK.3",
       "human": "Mark 3"
+    },
+    "previous": {
+      "usfm": "MRK.2",
+      "human": "Mark 2"
     },
     "next": {
       "usfm": "MRK.4",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEC.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEC.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEC.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.6",
-    "previous": {
-      "usfm": "ZEC.5",
-      "human": "Zacarías 5"
-    },
     "current": {
       "usfm": "ZEC.6",
       "human": "Zacarías 6"
+    },
+    "previous": {
+      "usfm": "ZEC.5",
+      "human": "Zacarías 5"
     },
     "next": {
       "usfm": "ZEC.7",

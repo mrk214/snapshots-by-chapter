@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LEV.17.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LEV.19.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LEV.19.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.18",
-    "previous": {
-      "usfm": "LEV.17",
-      "human": "Leviticus 17"
-    },
     "current": {
       "usfm": "LEV.18",
       "human": "Leviticus 18"
+    },
+    "previous": {
+      "usfm": "LEV.17",
+      "human": "Leviticus 17"
     },
     "next": {
       "usfm": "LEV.19",

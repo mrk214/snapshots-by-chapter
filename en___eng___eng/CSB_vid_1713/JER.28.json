@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.27.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.29.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.29.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.28",
-    "previous": {
-      "usfm": "JER.27",
-      "human": "Jeremiah 27"
-    },
     "current": {
       "usfm": "JER.28",
       "human": "Jeremiah 28"
+    },
+    "previous": {
+      "usfm": "JER.27",
+      "human": "Jeremiah 27"
     },
     "next": {
       "usfm": "JER.29",

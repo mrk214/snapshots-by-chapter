@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/GAL.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/GAL.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/GAL.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/GAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/GAL.6.json"
   },
   "book": {
     "book_usfm": "GAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GAL.5",
-    "previous": {
-      "usfm": "GAL.4",
-      "human": "Gálatas 4"
-    },
     "current": {
       "usfm": "GAL.5",
       "human": "Gálatas 5"
+    },
+    "previous": {
+      "usfm": "GAL.4",
+      "human": "Gálatas 4"
     },
     "next": {
       "usfm": "GAL.6",

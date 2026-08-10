@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ISA.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ISA.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ISA.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.2",
-    "previous": {
-      "usfm": "ISA.1",
-      "human": "Isaiah 1"
-    },
     "current": {
       "usfm": "ISA.2",
       "human": "Isaiah 2"
+    },
+    "previous": {
+      "usfm": "ISA.1",
+      "human": "Isaiah 1"
     },
     "next": {
       "usfm": "ISA.3",

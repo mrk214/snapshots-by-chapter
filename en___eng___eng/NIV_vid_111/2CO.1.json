@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1CO.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2CO.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2CO.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2CO.13.json"
   },
   "book": {
     "book_usfm": "2CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CO.1",
-    "previous": {
-      "usfm": "1CO.16",
-      "human": "1 Corinthians 16"
-    },
     "current": {
       "usfm": "2CO.1",
       "human": "2 Corinthians 1"
+    },
+    "previous": {
+      "usfm": "1CO.16",
+      "human": "1 Corinthians 16"
     },
     "next": {
       "usfm": "2CO.2",

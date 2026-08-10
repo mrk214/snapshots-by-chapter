@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MRK.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MRK.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MRK.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.4",
-    "previous": {
-      "usfm": "MRK.3",
-      "human": "Mark 3"
-    },
     "current": {
       "usfm": "MRK.4",
       "human": "Mark 4"
+    },
+    "previous": {
+      "usfm": "MRK.3",
+      "human": "Mark 3"
     },
     "next": {
       "usfm": "MRK.5",

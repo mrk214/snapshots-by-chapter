@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.25.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.27.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.27.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.26",
-    "previous": {
-      "usfm": "EXO.25",
-      "human": "Éxodo 25"
-    },
     "current": {
       "usfm": "EXO.26",
       "human": "Éxodo 26"
+    },
+    "previous": {
+      "usfm": "EXO.25",
+      "human": "Éxodo 25"
     },
     "next": {
       "usfm": "EXO.27",

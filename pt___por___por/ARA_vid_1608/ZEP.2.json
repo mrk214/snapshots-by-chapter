@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ZEP.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ZEP.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ZEP.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ZEP.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/ZEP.3.json"
   },
   "book": {
     "book_usfm": "ZEP",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEP.2",
-    "previous": {
-      "usfm": "ZEP.1",
-      "human": "Sofonias 1"
-    },
     "current": {
       "usfm": "ZEP.2",
       "human": "Sofonias 2"
+    },
+    "previous": {
+      "usfm": "ZEP.1",
+      "human": "Sofonias 1"
     },
     "next": {
       "usfm": "ZEP.3",

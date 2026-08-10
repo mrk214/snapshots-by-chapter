@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.17.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.19.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.19.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.18",
-    "previous": {
-      "usfm": "JDG.17",
-      "human": "Judges 17"
-    },
     "current": {
       "usfm": "JDG.18",
       "human": "Judges 18"
+    },
+    "previous": {
+      "usfm": "JDG.17",
+      "human": "Judges 17"
     },
     "next": {
       "usfm": "JDG.19",

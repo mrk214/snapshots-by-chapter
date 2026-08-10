@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/REV.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/REV.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/REV.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.7",
-    "previous": {
-      "usfm": "REV.6",
-      "human": "Revelation 6"
-    },
     "current": {
       "usfm": "REV.7",
       "human": "Revelation 7"
+    },
+    "previous": {
+      "usfm": "REV.6",
+      "human": "Revelation 6"
     },
     "next": {
       "usfm": "REV.8",

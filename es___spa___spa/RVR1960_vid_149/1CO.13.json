@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1CO.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1CO.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1CO.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.13",
-    "previous": {
-      "usfm": "1CO.12",
-      "human": "1 Corintios 12"
-    },
     "current": {
       "usfm": "1CO.13",
       "human": "1 Corintios 13"
+    },
+    "previous": {
+      "usfm": "1CO.12",
+      "human": "1 Corintios 12"
     },
     "next": {
       "usfm": "1CO.14",

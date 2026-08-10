@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JER.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JER.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JER.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.10",
-    "previous": {
-      "usfm": "JER.9",
-      "human": "Jeremiah 9"
-    },
     "current": {
       "usfm": "JER.10",
       "human": "Jeremiah 10"
+    },
+    "previous": {
+      "usfm": "JER.9",
+      "human": "Jeremiah 9"
     },
     "next": {
       "usfm": "JER.11",

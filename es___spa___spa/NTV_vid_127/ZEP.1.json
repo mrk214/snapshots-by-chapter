@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HAB.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ZEP.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ZEP.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ZEP.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ZEP.3.json"
   },
   "book": {
     "book_usfm": "ZEP",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEP.1",
-    "previous": {
-      "usfm": "HAB.3",
-      "human": "Habacuc 3"
-    },
     "current": {
       "usfm": "ZEP.1",
       "human": "Sofonías 1"
+    },
+    "previous": {
+      "usfm": "HAB.3",
+      "human": "Habacuc 3"
     },
     "next": {
       "usfm": "ZEP.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HEB.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JAS.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JAS.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JAS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/JAS.5.json"
   },
   "book": {
     "book_usfm": "JAS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JAS.1",
-    "previous": {
-      "usfm": "HEB.13",
-      "human": "Hebrews 13"
-    },
     "current": {
       "usfm": "JAS.1",
       "human": "James 1"
+    },
+    "previous": {
+      "usfm": "HEB.13",
+      "human": "Hebrews 13"
     },
     "next": {
       "usfm": "JAS.2",

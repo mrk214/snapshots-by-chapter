@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JON.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JON.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JON.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JON.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JON.4.json"
   },
   "book": {
     "book_usfm": "JON",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JON.3",
-    "previous": {
-      "usfm": "JON.2",
-      "human": "Jonás 2"
-    },
     "current": {
       "usfm": "JON.3",
       "human": "Jonás 3"
+    },
+    "previous": {
+      "usfm": "JON.2",
+      "human": "Jonás 2"
     },
     "next": {
       "usfm": "JON.4",

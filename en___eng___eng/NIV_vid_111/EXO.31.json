@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.30.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.32.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.32.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.31",
-    "previous": {
-      "usfm": "EXO.30",
-      "human": "Exodus 30"
-    },
     "current": {
       "usfm": "EXO.31",
       "human": "Exodus 31"
+    },
+    "previous": {
+      "usfm": "EXO.30",
+      "human": "Exodus 30"
     },
     "next": {
       "usfm": "EXO.32",

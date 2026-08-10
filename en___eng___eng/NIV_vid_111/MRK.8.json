@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.8",
-    "previous": {
-      "usfm": "MRK.7",
-      "human": "Mark 7"
-    },
     "current": {
       "usfm": "MRK.8",
       "human": "Mark 8"
+    },
+    "previous": {
+      "usfm": "MRK.7",
+      "human": "Mark 7"
     },
     "next": {
       "usfm": "MRK.9",

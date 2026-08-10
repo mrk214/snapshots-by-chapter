@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1SA.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1SA.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1SA.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.21",
-    "previous": {
-      "usfm": "1SA.20",
-      "human": "1 Samuel 20"
-    },
     "current": {
       "usfm": "1SA.21",
       "human": "1 Samuel 21"
+    },
+    "previous": {
+      "usfm": "1SA.20",
+      "human": "1 Samuel 20"
     },
     "next": {
       "usfm": "1SA.22",

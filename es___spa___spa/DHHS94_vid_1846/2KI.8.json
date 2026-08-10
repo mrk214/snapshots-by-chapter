@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2KI.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2KI.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2KI.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.8",
-    "previous": {
-      "usfm": "2KI.7",
-      "human": "2 Reyes 7"
-    },
     "current": {
       "usfm": "2KI.8",
       "human": "2 Reyes 8"
+    },
+    "previous": {
+      "usfm": "2KI.7",
+      "human": "2 Reyes 7"
     },
     "next": {
       "usfm": "2KI.9",

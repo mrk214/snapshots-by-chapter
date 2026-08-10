@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PRO.28.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PRO.30.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PRO.30.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.29",
-    "previous": {
-      "usfm": "PRO.28",
-      "human": "Proverbs 28"
-    },
     "current": {
       "usfm": "PRO.29",
       "human": "Proverbs 29"
+    },
+    "previous": {
+      "usfm": "PRO.28",
+      "human": "Proverbs 28"
     },
     "next": {
       "usfm": "PRO.30",

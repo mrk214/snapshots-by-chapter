@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/LUK.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/LUK.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/LUK.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.3",
-    "previous": {
-      "usfm": "LUK.2",
-      "human": "Luke 2"
-    },
     "current": {
       "usfm": "LUK.3",
       "human": "Luke 3"
+    },
+    "previous": {
+      "usfm": "LUK.2",
+      "human": "Luke 2"
     },
     "next": {
       "usfm": "LUK.4",

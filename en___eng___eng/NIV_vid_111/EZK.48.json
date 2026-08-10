@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.47.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DAN.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DAN.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.48",
-    "previous": {
-      "usfm": "EZK.47",
-      "human": "Ezekiel 47"
-    },
     "current": {
       "usfm": "EZK.48",
       "human": "Ezekiel 48"
+    },
+    "previous": {
+      "usfm": "EZK.47",
+      "human": "Ezekiel 47"
     },
     "next": {
       "usfm": "DAN.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MIC.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MIC.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MIC.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MIC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MIC.7.json"
   },
   "book": {
     "book_usfm": "MIC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MIC.5",
-    "previous": {
-      "usfm": "MIC.4",
-      "human": "Miqueias 4"
-    },
     "current": {
       "usfm": "MIC.5",
       "human": "Miqueias 5"
+    },
+    "previous": {
+      "usfm": "MIC.4",
+      "human": "Miqueias 4"
     },
     "next": {
       "usfm": "MIC.6",

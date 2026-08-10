@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.30.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.32.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.32.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.31",
-    "previous": {
-      "usfm": "DEU.30",
-      "human": "Deuteronômio 30"
-    },
     "current": {
       "usfm": "DEU.31",
       "human": "Deuteronômio 31"
+    },
+    "previous": {
+      "usfm": "DEU.30",
+      "human": "Deuteronômio 30"
     },
     "next": {
       "usfm": "DEU.32",

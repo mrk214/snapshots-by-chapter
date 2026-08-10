@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PSA.150.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.1",
-    "previous": {
-      "usfm": "PSA.150",
-      "human": "Psalms 150"
-    },
     "current": {
       "usfm": "PRO.1",
       "human": "Proverbs 1"
+    },
+    "previous": {
+      "usfm": "PSA.150",
+      "human": "Psalms 150"
     },
     "next": {
       "usfm": "PRO.2",

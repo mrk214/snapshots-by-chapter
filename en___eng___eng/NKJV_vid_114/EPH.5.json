@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.6.json"
   },
   "book": {
     "book_usfm": "EPH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EPH.5",
-    "previous": {
-      "usfm": "EPH.4",
-      "human": "Ephesians 4"
-    },
     "current": {
       "usfm": "EPH.5",
       "human": "Ephesians 5"
+    },
+    "previous": {
+      "usfm": "EPH.4",
+      "human": "Ephesians 4"
     },
     "next": {
       "usfm": "EPH.6",

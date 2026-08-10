@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2KI.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2KI.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2KI.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.13",
-    "previous": {
-      "usfm": "2KI.12",
-      "human": "2Reis 12"
-    },
     "current": {
       "usfm": "2KI.13",
       "human": "2Reis 13"
+    },
+    "previous": {
+      "usfm": "2KI.12",
+      "human": "2Reis 12"
     },
     "next": {
       "usfm": "2KI.14",

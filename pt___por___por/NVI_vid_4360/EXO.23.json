@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EXO.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EXO.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EXO.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.23",
-    "previous": {
-      "usfm": "EXO.22",
-      "human": "Êxodo 22"
-    },
     "current": {
       "usfm": "EXO.23",
       "human": "Êxodo 23"
+    },
+    "previous": {
+      "usfm": "EXO.22",
+      "human": "Êxodo 22"
     },
     "next": {
       "usfm": "EXO.24",

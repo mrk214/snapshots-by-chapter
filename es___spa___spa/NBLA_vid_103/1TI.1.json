@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/2TH.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TI.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TI.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1TI.6.json"
   },
   "book": {
     "book_usfm": "1TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TI.1",
-    "previous": {
-      "usfm": "2TH.3",
-      "human": "2 Tesalonicenses 3"
-    },
     "current": {
       "usfm": "1TI.1",
       "human": "1 Timoteo 1"
+    },
+    "previous": {
+      "usfm": "2TH.3",
+      "human": "2 Tesalonicenses 3"
     },
     "next": {
       "usfm": "1TI.2",

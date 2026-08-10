@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/2TH.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TI.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TI.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/2TH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/2TH.3.json"
   },
   "book": {
     "book_usfm": "2TH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2TH.3",
-    "previous": {
-      "usfm": "2TH.2",
-      "human": "2 Tesalonicenses 2"
-    },
     "current": {
       "usfm": "2TH.3",
       "human": "2 Tesalonicenses 3"
+    },
+    "previous": {
+      "usfm": "2TH.2",
+      "human": "2 Tesalonicenses 2"
     },
     "next": {
       "usfm": "1TI.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/2CH.36.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EZR.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EZR.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EZR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EZR.10.json"
   },
   "book": {
     "book_usfm": "EZR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZR.1",
-    "previous": {
-      "usfm": "2CH.36",
-      "human": "2Crônicas 36"
-    },
     "current": {
       "usfm": "EZR.1",
       "human": "Esdras 1"
+    },
+    "previous": {
+      "usfm": "2CH.36",
+      "human": "2Crônicas 36"
     },
     "next": {
       "usfm": "EZR.2",

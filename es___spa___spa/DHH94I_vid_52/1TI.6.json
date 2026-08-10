@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1TI.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2TI.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2TI.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1TI.6.json"
   },
   "book": {
     "book_usfm": "1TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TI.6",
-    "previous": {
-      "usfm": "1TI.5",
-      "human": "1 Timoteo 5"
-    },
     "current": {
       "usfm": "1TI.6",
       "human": "1 Timoteo 6"
+    },
+    "previous": {
+      "usfm": "1TI.5",
+      "human": "1 Timoteo 5"
     },
     "next": {
       "usfm": "2TI.1",

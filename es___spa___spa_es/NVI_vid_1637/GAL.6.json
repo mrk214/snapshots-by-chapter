@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GAL.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EPH.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/EPH.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/GAL.6.json"
   },
   "book": {
     "book_usfm": "GAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GAL.6",
-    "previous": {
-      "usfm": "GAL.5",
-      "human": "Gálatas 5"
-    },
     "current": {
       "usfm": "GAL.6",
       "human": "Gálatas 6"
+    },
+    "previous": {
+      "usfm": "GAL.5",
+      "human": "Gálatas 5"
     },
     "next": {
       "usfm": "EPH.1",

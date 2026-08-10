@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.24",
-    "previous": {
-      "usfm": "DEU.23",
-      "human": "Deuteronomio 23"
-    },
     "current": {
       "usfm": "DEU.24",
       "human": "Deuteronomio 24"
+    },
+    "previous": {
+      "usfm": "DEU.23",
+      "human": "Deuteronomio 23"
     },
     "next": {
       "usfm": "DEU.25",

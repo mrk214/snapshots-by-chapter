@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JER.15.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JER.17.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JER.17.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.16",
-    "previous": {
-      "usfm": "JER.15",
-      "human": "Jeremias 15"
-    },
     "current": {
       "usfm": "JER.16",
       "human": "Jeremias 16"
+    },
+    "previous": {
+      "usfm": "JER.15",
+      "human": "Jeremias 15"
     },
     "next": {
       "usfm": "JER.17",

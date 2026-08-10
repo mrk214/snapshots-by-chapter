@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JER.39.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JER.41.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JER.41.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.40",
-    "previous": {
-      "usfm": "JER.39",
-      "human": "Jeremias 39"
-    },
     "current": {
       "usfm": "JER.40",
       "human": "Jeremias 40"
+    },
+    "previous": {
+      "usfm": "JER.39",
+      "human": "Jeremias 39"
     },
     "next": {
       "usfm": "JER.41",

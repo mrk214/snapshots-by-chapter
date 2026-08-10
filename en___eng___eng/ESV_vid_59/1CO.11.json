@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.11",
-    "previous": {
-      "usfm": "1CO.10",
-      "human": "1 Corinthians 10"
-    },
     "current": {
       "usfm": "1CO.11",
       "human": "1 Corinthians 11"
+    },
+    "previous": {
+      "usfm": "1CO.10",
+      "human": "1 Corinthians 10"
     },
     "next": {
       "usfm": "1CO.12",

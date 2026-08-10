@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JDG.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JDG.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JDG.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.10",
-    "previous": {
-      "usfm": "JDG.9",
-      "human": "Judges 9"
-    },
     "current": {
       "usfm": "JDG.10",
       "human": "Judges 10"
+    },
+    "previous": {
+      "usfm": "JDG.9",
+      "human": "Judges 9"
     },
     "next": {
       "usfm": "JDG.11",

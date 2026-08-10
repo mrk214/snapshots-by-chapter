@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/1KI.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2KI.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2KI.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.1",
-    "previous": {
-      "usfm": "1KI.22",
-      "human": "1 Kings 22"
-    },
     "current": {
       "usfm": "2KI.1",
       "human": "2 Kings 1"
+    },
+    "previous": {
+      "usfm": "1KI.22",
+      "human": "1 Kings 22"
     },
     "next": {
       "usfm": "2KI.2",

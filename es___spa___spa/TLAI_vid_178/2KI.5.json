@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2KI.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2KI.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2KI.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2KI.25.json"
   },
   "book": {
     "book_usfm": "2KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2KI.5",
-    "previous": {
-      "usfm": "2KI.4",
-      "human": "2 Reyes 4"
-    },
     "current": {
       "usfm": "2KI.5",
       "human": "2 Reyes 5"
+    },
+    "previous": {
+      "usfm": "2KI.4",
+      "human": "2 Reyes 4"
     },
     "next": {
       "usfm": "2KI.6",

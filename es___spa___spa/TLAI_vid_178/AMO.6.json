@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/AMO.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/AMO.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/AMO.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/AMO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/AMO.9.json"
   },
   "book": {
     "book_usfm": "AMO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "AMO.6",
-    "previous": {
-      "usfm": "AMO.5",
-      "human": "Amós 5"
-    },
     "current": {
       "usfm": "AMO.6",
       "human": "Amós 6"
+    },
+    "previous": {
+      "usfm": "AMO.5",
+      "human": "Amós 5"
     },
     "next": {
       "usfm": "AMO.7",

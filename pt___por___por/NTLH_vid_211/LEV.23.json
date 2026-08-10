@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LEV.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LEV.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LEV.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.23",
-    "previous": {
-      "usfm": "LEV.22",
-      "human": "Levítico 22"
-    },
     "current": {
       "usfm": "LEV.23",
       "human": "Levítico 23"
+    },
+    "previous": {
+      "usfm": "LEV.22",
+      "human": "Levítico 22"
     },
     "next": {
       "usfm": "LEV.24",

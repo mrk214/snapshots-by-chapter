@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DEU.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DEU.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DEU.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.14",
-    "previous": {
-      "usfm": "DEU.13",
-      "human": "Deuteronomy 13"
-    },
     "current": {
       "usfm": "DEU.14",
       "human": "Deuteronomy 14"
+    },
+    "previous": {
+      "usfm": "DEU.13",
+      "human": "Deuteronomy 13"
     },
     "next": {
       "usfm": "DEU.15",

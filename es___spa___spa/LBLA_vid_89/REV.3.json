@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.3",
-    "previous": {
-      "usfm": "REV.2",
-      "human": "Apocalipsis 2"
-    },
     "current": {
       "usfm": "REV.3",
       "human": "Apocalipsis 3"
+    },
+    "previous": {
+      "usfm": "REV.2",
+      "human": "Apocalipsis 2"
     },
     "next": {
       "usfm": "REV.4",

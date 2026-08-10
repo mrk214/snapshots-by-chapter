@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LJE.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SUS.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SUS.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/S3Y.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/S3Y.1.json"
   },
   "book": {
     "book_usfm": "S3Y",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "S3Y.1",
-    "previous": {
-      "usfm": "LJE.1",
-      "human": "Carta de Jer 6"
-    },
     "current": {
       "usfm": "S3Y.1",
       "human": "Daniel (dc) 3"
+    },
+    "previous": {
+      "usfm": "LJE.1",
+      "human": "Carta de Jer 6"
     },
     "next": {
       "usfm": "SUS.1",

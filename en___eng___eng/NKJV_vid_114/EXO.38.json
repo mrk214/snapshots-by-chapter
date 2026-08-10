@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EXO.37.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EXO.39.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EXO.39.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.38",
-    "previous": {
-      "usfm": "EXO.37",
-      "human": "Exodus 37"
-    },
     "current": {
       "usfm": "EXO.38",
       "human": "Exodus 38"
+    },
+    "previous": {
+      "usfm": "EXO.37",
+      "human": "Exodus 37"
     },
     "next": {
       "usfm": "EXO.39",

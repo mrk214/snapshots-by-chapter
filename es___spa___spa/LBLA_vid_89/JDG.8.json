@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JDG.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JDG.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JDG.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.8",
-    "previous": {
-      "usfm": "JDG.7",
-      "human": "Jueces 7"
-    },
     "current": {
       "usfm": "JDG.8",
       "human": "Jueces 8"
+    },
+    "previous": {
+      "usfm": "JDG.7",
+      "human": "Jueces 7"
     },
     "next": {
       "usfm": "JDG.9",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ZEC.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ZEC.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ZEC.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.11",
-    "previous": {
-      "usfm": "ZEC.10",
-      "human": "Zechariah 10"
-    },
     "current": {
       "usfm": "ZEC.11",
       "human": "Zechariah 11"
+    },
+    "previous": {
+      "usfm": "ZEC.10",
+      "human": "Zechariah 10"
     },
     "next": {
       "usfm": "ZEC.12",

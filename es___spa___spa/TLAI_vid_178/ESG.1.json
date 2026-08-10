@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JDT.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ESG.10.json"
   },
   "book": {
     "book_usfm": "ESG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ESG.1",
-    "previous": {
-      "usfm": "JDT.16",
-      "human": "Judit 16"
-    },
     "current": {
       "usfm": "ESG.1",
       "human": "Ester (dc) 1"
+    },
+    "previous": {
+      "usfm": "JDT.16",
+      "human": "Judit 16"
     },
     "next": {
       "usfm": "ESG.2",

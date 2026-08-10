@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOL.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOL.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOL.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/JOL.3.json"
   },
   "book": {
     "book_usfm": "JOL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOL.2",
-    "previous": {
-      "usfm": "JOL.1",
-      "human": "Joel 1"
-    },
     "current": {
       "usfm": "JOL.2",
       "human": "Joel 2"
+    },
+    "previous": {
+      "usfm": "JOL.1",
+      "human": "Joel 1"
     },
     "next": {
       "usfm": "JOL.3",

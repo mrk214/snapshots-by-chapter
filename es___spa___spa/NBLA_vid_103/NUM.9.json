@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.9",
-    "previous": {
-      "usfm": "NUM.8",
-      "human": "Números 8"
-    },
     "current": {
       "usfm": "NUM.9",
       "human": "Números 9"
+    },
+    "previous": {
+      "usfm": "NUM.8",
+      "human": "Números 8"
     },
     "next": {
       "usfm": "NUM.10",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DAN.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DAN.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DAN.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.2",
-    "previous": {
-      "usfm": "DAN.1",
-      "human": "Daniel 1"
-    },
     "current": {
       "usfm": "DAN.2",
       "human": "Daniel 2"
+    },
+    "previous": {
+      "usfm": "DAN.1",
+      "human": "Daniel 1"
     },
     "next": {
       "usfm": "DAN.3",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.20",
-    "previous": {
-      "usfm": "PRO.19",
-      "human": "Proverbios 19"
-    },
     "current": {
       "usfm": "PRO.20",
       "human": "Proverbios 20"
+    },
+    "previous": {
+      "usfm": "PRO.19",
+      "human": "Proverbios 19"
     },
     "next": {
       "usfm": "PRO.21",

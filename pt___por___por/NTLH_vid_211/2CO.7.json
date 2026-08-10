@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2CO.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2CO.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2CO.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/2CO.13.json"
   },
   "book": {
     "book_usfm": "2CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CO.7",
-    "previous": {
-      "usfm": "2CO.6",
-      "human": "2Coríntios 6"
-    },
     "current": {
       "usfm": "2CO.7",
       "human": "2Coríntios 7"
+    },
+    "previous": {
+      "usfm": "2CO.6",
+      "human": "2Coríntios 6"
     },
     "next": {
       "usfm": "2CO.8",

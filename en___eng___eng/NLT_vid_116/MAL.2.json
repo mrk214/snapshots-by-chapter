@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/MAL.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/MAL.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/MAL.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/MAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/MAL.4.json"
   },
   "book": {
     "book_usfm": "MAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAL.2",
-    "previous": {
-      "usfm": "MAL.1",
-      "human": "Malachi 1"
-    },
     "current": {
       "usfm": "MAL.2",
       "human": "Malachi 2"
+    },
+    "previous": {
+      "usfm": "MAL.1",
+      "human": "Malachi 1"
     },
     "next": {
       "usfm": "MAL.3",

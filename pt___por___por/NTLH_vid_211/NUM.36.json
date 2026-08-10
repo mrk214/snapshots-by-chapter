@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.35.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/DEU.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.36",
-    "previous": {
-      "usfm": "NUM.35",
-      "human": "Números 35"
-    },
     "current": {
       "usfm": "NUM.36",
       "human": "Números 36"
+    },
+    "previous": {
+      "usfm": "NUM.35",
+      "human": "Números 35"
     },
     "next": {
       "usfm": "DEU.1",

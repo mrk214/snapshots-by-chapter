@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/2CO.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GAL.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GAL.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/GAL.6.json"
   },
   "book": {
     "book_usfm": "GAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GAL.1",
-    "previous": {
-      "usfm": "2CO.13",
-      "human": "2 Corintios 13"
-    },
     "current": {
       "usfm": "GAL.1",
       "human": "Gálatas 1"
+    },
+    "previous": {
+      "usfm": "2CO.13",
+      "human": "2 Corintios 13"
     },
     "next": {
       "usfm": "GAL.2",

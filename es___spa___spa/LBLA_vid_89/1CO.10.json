@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1CO.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1CO.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1CO.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.10",
-    "previous": {
-      "usfm": "1CO.9",
-      "human": "1 Corintios 9"
-    },
     "current": {
       "usfm": "1CO.10",
       "human": "1 Corintios 10"
+    },
+    "previous": {
+      "usfm": "1CO.9",
+      "human": "1 Corintios 9"
     },
     "next": {
       "usfm": "1CO.11",

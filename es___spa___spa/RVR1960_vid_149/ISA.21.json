@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ISA.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ISA.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ISA.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVR1960_vid_149/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.21",
-    "previous": {
-      "usfm": "ISA.20",
-      "human": "Isaías 20"
-    },
     "current": {
       "usfm": "ISA.21",
       "human": "Isaías 21"
+    },
+    "previous": {
+      "usfm": "ISA.20",
+      "human": "Isaías 20"
     },
     "next": {
       "usfm": "ISA.22",

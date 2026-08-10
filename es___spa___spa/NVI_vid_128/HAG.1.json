@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/ZEP.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HAG.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HAG.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HAG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/HAG.2.json"
   },
   "book": {
     "book_usfm": "HAG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HAG.1",
-    "previous": {
-      "usfm": "ZEP.3",
-      "human": "Sofonías 3"
-    },
     "current": {
       "usfm": "HAG.1",
       "human": "Hageo 1"
+    },
+    "previous": {
+      "usfm": "ZEP.3",
+      "human": "Sofonías 3"
     },
     "next": {
       "usfm": "HAG.2",

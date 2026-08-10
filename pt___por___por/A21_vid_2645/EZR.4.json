@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EZR.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EZR.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EZR.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EZR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EZR.10.json"
   },
   "book": {
     "book_usfm": "EZR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZR.4",
-    "previous": {
-      "usfm": "EZR.3",
-      "human": "Esdras 3"
-    },
     "current": {
       "usfm": "EZR.4",
       "human": "Esdras 4"
+    },
+    "previous": {
+      "usfm": "EZR.3",
+      "human": "Esdras 3"
     },
     "next": {
       "usfm": "EZR.5",

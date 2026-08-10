@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/EZK.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/EZK.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/EZK.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.12",
-    "previous": {
-      "usfm": "EZK.11",
-      "human": "Ezequiel 11"
-    },
     "current": {
       "usfm": "EZK.12",
       "human": "Ezequiel 12"
+    },
+    "previous": {
+      "usfm": "EZK.11",
+      "human": "Ezequiel 11"
     },
     "next": {
       "usfm": "EZK.13",

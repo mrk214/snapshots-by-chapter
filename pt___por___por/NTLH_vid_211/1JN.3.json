@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/1JN.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/1JN.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/1JN.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/1JN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/1JN.5.json"
   },
   "book": {
     "book_usfm": "1JN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1JN.3",
-    "previous": {
-      "usfm": "1JN.2",
-      "human": "1João 2"
-    },
     "current": {
       "usfm": "1JN.3",
       "human": "1João 3"
+    },
+    "previous": {
+      "usfm": "1JN.2",
+      "human": "1João 2"
     },
     "next": {
       "usfm": "1JN.4",

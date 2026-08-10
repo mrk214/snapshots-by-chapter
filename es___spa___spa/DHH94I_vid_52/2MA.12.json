@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2MA.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2MA.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2MA.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2MA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/2MA.15.json"
   },
   "book": {
     "book_usfm": "2MA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2MA.12",
-    "previous": {
-      "usfm": "2MA.11",
-      "human": "2 Macabeos 11"
-    },
     "current": {
       "usfm": "2MA.12",
       "human": "2 Macabeos 12"
+    },
+    "previous": {
+      "usfm": "2MA.11",
+      "human": "2 Macabeos 11"
     },
     "next": {
       "usfm": "2MA.13",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.19",
-    "previous": {
-      "usfm": "JOS.18",
-      "human": "Josué 18"
-    },
     "current": {
       "usfm": "JOS.19",
       "human": "Josué 19"
+    },
+    "previous": {
+      "usfm": "JOS.18",
+      "human": "Josué 18"
     },
     "next": {
       "usfm": "JOS.20",

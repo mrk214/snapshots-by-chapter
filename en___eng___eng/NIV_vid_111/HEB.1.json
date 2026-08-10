@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PHM.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HEB.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HEB.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.1",
-    "previous": {
-      "usfm": "PHM.1",
-      "human": "Philemon 1"
-    },
     "current": {
       "usfm": "HEB.1",
       "human": "Hebrews 1"
+    },
+    "previous": {
+      "usfm": "PHM.1",
+      "human": "Philemon 1"
     },
     "next": {
       "usfm": "HEB.2",

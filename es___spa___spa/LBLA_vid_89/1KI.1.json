@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/2SA.24.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1KI.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1KI.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/1KI.22.json"
   },
   "book": {
     "book_usfm": "1KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1KI.1",
-    "previous": {
-      "usfm": "2SA.24",
-      "human": "2 Samuel 24"
-    },
     "current": {
       "usfm": "1KI.1",
       "human": "1 Reyes 1"
+    },
+    "previous": {
+      "usfm": "2SA.24",
+      "human": "2 Samuel 24"
     },
     "next": {
       "usfm": "1KI.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EXO.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EXO.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EXO.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.8",
-    "previous": {
-      "usfm": "EXO.7",
-      "human": "Êxodo 7"
-    },
     "current": {
       "usfm": "EXO.8",
       "human": "Êxodo 8"
+    },
+    "previous": {
+      "usfm": "EXO.7",
+      "human": "Êxodo 7"
     },
     "next": {
       "usfm": "EXO.9",

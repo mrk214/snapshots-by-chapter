@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/PHM.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HEB.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HEB.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.1",
-    "previous": {
-      "usfm": "PHM.1",
-      "human": "Filemón 1"
-    },
     "current": {
       "usfm": "HEB.1",
       "human": "Hebreos 1"
+    },
+    "previous": {
+      "usfm": "PHM.1",
+      "human": "Filemón 1"
     },
     "next": {
       "usfm": "HEB.2",

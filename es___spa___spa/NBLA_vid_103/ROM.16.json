@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ROM.15.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1CO.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/1CO.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.16",
-    "previous": {
-      "usfm": "ROM.15",
-      "human": "Romanos 15"
-    },
     "current": {
       "usfm": "ROM.16",
       "human": "Romanos 16"
+    },
+    "previous": {
+      "usfm": "ROM.15",
+      "human": "Romanos 15"
     },
     "next": {
       "usfm": "1CO.1",

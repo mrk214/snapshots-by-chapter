@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/EXO.40.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LEV.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LEV.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.1",
-    "previous": {
-      "usfm": "EXO.40",
-      "human": "Éxodo 40"
-    },
     "current": {
       "usfm": "LEV.1",
       "human": "Levítico 1"
+    },
+    "previous": {
+      "usfm": "EXO.40",
+      "human": "Éxodo 40"
     },
     "next": {
       "usfm": "LEV.2",

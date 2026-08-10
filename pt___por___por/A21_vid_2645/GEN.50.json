@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/GEN.49.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EXO.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/EXO.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.50",
-    "previous": {
-      "usfm": "GEN.49",
-      "human": "Gênesis 49"
-    },
     "current": {
       "usfm": "GEN.50",
       "human": "Gênesis 50"
+    },
+    "previous": {
+      "usfm": "GEN.49",
+      "human": "Gênesis 49"
     },
     "next": {
       "usfm": "EXO.1",

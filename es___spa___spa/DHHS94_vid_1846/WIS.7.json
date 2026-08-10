@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/WIS.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/WIS.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/WIS.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/WIS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/WIS.19.json"
   },
   "book": {
     "book_usfm": "WIS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "WIS.7",
-    "previous": {
-      "usfm": "WIS.6",
-      "human": "Sabiduría 6"
-    },
     "current": {
       "usfm": "WIS.7",
       "human": "Sabiduría 7"
+    },
+    "previous": {
+      "usfm": "WIS.6",
+      "human": "Sabiduría 6"
     },
     "next": {
       "usfm": "WIS.8",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.15",
-    "previous": {
-      "usfm": "GEN.14",
-      "human": "Genesis 14"
-    },
     "current": {
       "usfm": "GEN.15",
       "human": "Genesis 15"
+    },
+    "previous": {
+      "usfm": "GEN.14",
+      "human": "Genesis 14"
     },
     "next": {
       "usfm": "GEN.16",

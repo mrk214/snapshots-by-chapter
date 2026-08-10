@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/LAM.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EZK.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EZK.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.1",
-    "previous": {
-      "usfm": "LAM.5",
-      "human": "Lamentações 5"
-    },
     "current": {
       "usfm": "EZK.1",
       "human": "Ezequiel 1"
+    },
+    "previous": {
+      "usfm": "LAM.5",
+      "human": "Lamentações 5"
     },
     "next": {
       "usfm": "EZK.2",

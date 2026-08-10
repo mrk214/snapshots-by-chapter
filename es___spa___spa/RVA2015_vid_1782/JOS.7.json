@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.7",
-    "previous": {
-      "usfm": "JOS.6",
-      "human": "Josué 6"
-    },
     "current": {
       "usfm": "JOS.7",
       "human": "Josué 7"
+    },
+    "previous": {
+      "usfm": "JOS.6",
+      "human": "Josué 6"
     },
     "next": {
       "usfm": "JOS.8",

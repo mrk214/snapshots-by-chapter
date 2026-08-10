@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/SIR.48.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/SIR.50.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/SIR.50.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/SIR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/SIR.51.json"
   },
   "book": {
     "book_usfm": "SIR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SIR.49",
-    "previous": {
-      "usfm": "SIR.48",
-      "human": "Eclesiástico 48"
-    },
     "current": {
       "usfm": "SIR.49",
       "human": "Eclesiástico 49"
+    },
+    "previous": {
+      "usfm": "SIR.48",
+      "human": "Eclesiástico 48"
     },
     "next": {
       "usfm": "SIR.50",

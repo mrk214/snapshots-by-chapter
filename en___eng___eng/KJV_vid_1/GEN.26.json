@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.25.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.27.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.27.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.26",
-    "previous": {
-      "usfm": "GEN.25",
-      "human": "Genesis 25"
-    },
     "current": {
       "usfm": "GEN.26",
       "human": "Genesis 26"
+    },
+    "previous": {
+      "usfm": "GEN.25",
+      "human": "Genesis 25"
     },
     "next": {
       "usfm": "GEN.27",

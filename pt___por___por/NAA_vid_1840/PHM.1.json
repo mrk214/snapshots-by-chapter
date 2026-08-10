@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/TIT.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/HEB.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/HEB.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PHM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/PHM.1.json"
   },
   "book": {
     "book_usfm": "PHM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PHM.1",
-    "previous": {
-      "usfm": "TIT.3",
-      "human": "Tito 3"
-    },
     "current": {
       "usfm": "PHM.1",
       "human": "Filemom 1"
+    },
+    "previous": {
+      "usfm": "TIT.3",
+      "human": "Tito 3"
     },
     "next": {
       "usfm": "HEB.1",

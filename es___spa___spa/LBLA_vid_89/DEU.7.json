@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.7",
-    "previous": {
-      "usfm": "DEU.6",
-      "human": "Deuteronomio 6"
-    },
     "current": {
       "usfm": "DEU.7",
       "human": "Deuteronomio 7"
+    },
+    "previous": {
+      "usfm": "DEU.6",
+      "human": "Deuteronomio 6"
     },
     "next": {
       "usfm": "DEU.8",

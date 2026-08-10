@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/TOB.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/TOB.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/TOB.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/TOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/TOB.14.json"
   },
   "book": {
     "book_usfm": "TOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "TOB.6",
-    "previous": {
-      "usfm": "TOB.5",
-      "human": "Tobit 5"
-    },
     "current": {
       "usfm": "TOB.6",
       "human": "Tobit 6"
+    },
+    "previous": {
+      "usfm": "TOB.5",
+      "human": "Tobit 5"
     },
     "next": {
       "usfm": "TOB.7",

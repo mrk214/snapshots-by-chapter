@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MRK.15.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LUK.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/LUK.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.16",
-    "previous": {
-      "usfm": "MRK.15",
-      "human": "Marcos 15"
-    },
     "current": {
       "usfm": "MRK.16",
       "human": "Marcos 16"
+    },
+    "previous": {
+      "usfm": "MRK.15",
+      "human": "Marcos 15"
     },
     "next": {
       "usfm": "LUK.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/DAN.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/DAN.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/DAN.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.9",
-    "previous": {
-      "usfm": "DAN.8",
-      "human": "Daniel 8"
-    },
     "current": {
       "usfm": "DAN.9",
       "human": "Daniel 9"
+    },
+    "previous": {
+      "usfm": "DAN.8",
+      "human": "Daniel 8"
     },
     "next": {
       "usfm": "DAN.10",

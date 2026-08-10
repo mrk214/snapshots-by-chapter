@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JER.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JER.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JER.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.5",
-    "previous": {
-      "usfm": "JER.4",
-      "human": "Jeremías 4"
-    },
     "current": {
       "usfm": "JER.5",
       "human": "Jeremías 5"
+    },
+    "previous": {
+      "usfm": "JER.4",
+      "human": "Jeremías 4"
     },
     "next": {
       "usfm": "JER.6",

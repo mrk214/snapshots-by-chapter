@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/LEV.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/LEV.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/LEV.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.21",
-    "previous": {
-      "usfm": "LEV.20",
-      "human": "Levítico 20"
-    },
     "current": {
       "usfm": "LEV.21",
       "human": "Levítico 21"
+    },
+    "previous": {
+      "usfm": "LEV.20",
+      "human": "Levítico 20"
     },
     "next": {
       "usfm": "LEV.22",

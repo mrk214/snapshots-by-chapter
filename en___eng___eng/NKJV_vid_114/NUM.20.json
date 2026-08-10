@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.20",
-    "previous": {
-      "usfm": "NUM.19",
-      "human": "Numbers 19"
-    },
     "current": {
       "usfm": "NUM.20",
       "human": "Numbers 20"
+    },
+    "previous": {
+      "usfm": "NUM.19",
+      "human": "Numbers 19"
     },
     "next": {
       "usfm": "NUM.21",

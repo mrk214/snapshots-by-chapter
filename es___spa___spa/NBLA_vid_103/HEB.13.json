@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HEB.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/JAS.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.13",
-    "previous": {
-      "usfm": "HEB.12",
-      "human": "Hebreos 12"
-    },
     "current": {
       "usfm": "HEB.13",
       "human": "Hebreos 13"
+    },
+    "previous": {
+      "usfm": "HEB.12",
+      "human": "Hebreos 12"
     },
     "next": {
       "usfm": "JAS.1",

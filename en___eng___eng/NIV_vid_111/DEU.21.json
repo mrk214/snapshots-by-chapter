@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DEU.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DEU.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DEU.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.21",
-    "previous": {
-      "usfm": "DEU.20",
-      "human": "Deuteronomy 20"
-    },
     "current": {
       "usfm": "DEU.21",
       "human": "Deuteronomy 21"
+    },
+    "previous": {
+      "usfm": "DEU.20",
+      "human": "Deuteronomy 20"
     },
     "next": {
       "usfm": "DEU.22",

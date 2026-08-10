@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EPH.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PHP.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PHP.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EPH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/EPH.6.json"
   },
   "book": {
     "book_usfm": "EPH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EPH.6",
-    "previous": {
-      "usfm": "EPH.5",
-      "human": "Ephesians 5"
-    },
     "current": {
       "usfm": "EPH.6",
       "human": "Ephesians 6"
+    },
+    "previous": {
+      "usfm": "EPH.5",
+      "human": "Ephesians 5"
     },
     "next": {
       "usfm": "PHP.1",

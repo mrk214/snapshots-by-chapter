@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1PE.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2PE.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/2PE.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1PE.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1PE.5.json"
   },
   "book": {
     "book_usfm": "1PE",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1PE.5",
-    "previous": {
-      "usfm": "1PE.4",
-      "human": "1 Peter 4"
-    },
     "current": {
       "usfm": "1PE.5",
       "human": "1 Peter 5"
+    },
+    "previous": {
+      "usfm": "1PE.4",
+      "human": "1 Peter 4"
     },
     "next": {
       "usfm": "2PE.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ROM.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ROM.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ROM.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.6",
-    "previous": {
-      "usfm": "ROM.5",
-      "human": "Romans 5"
-    },
     "current": {
       "usfm": "ROM.6",
       "human": "Romans 6"
+    },
+    "previous": {
+      "usfm": "ROM.5",
+      "human": "Romans 5"
     },
     "next": {
       "usfm": "ROM.7",

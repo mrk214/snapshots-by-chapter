@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ACT.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ACT.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ACT.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.3",
-    "previous": {
-      "usfm": "ACT.2",
-      "human": "Acts 2"
-    },
     "current": {
       "usfm": "ACT.3",
       "human": "Acts 3"
+    },
+    "previous": {
+      "usfm": "ACT.2",
+      "human": "Acts 2"
     },
     "next": {
       "usfm": "ACT.4",

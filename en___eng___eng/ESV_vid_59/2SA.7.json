@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/2SA.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/2SA.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/2SA.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/2SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/2SA.24.json"
   },
   "book": {
     "book_usfm": "2SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2SA.7",
-    "previous": {
-      "usfm": "2SA.6",
-      "human": "2 Samuel 6"
-    },
     "current": {
       "usfm": "2SA.7",
       "human": "2 Samuel 7"
+    },
+    "previous": {
+      "usfm": "2SA.6",
+      "human": "2 Samuel 6"
     },
     "next": {
       "usfm": "2SA.8",

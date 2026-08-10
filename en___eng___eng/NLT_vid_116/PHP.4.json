@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PHP.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/COL.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/COL.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PHP.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/PHP.4.json"
   },
   "book": {
     "book_usfm": "PHP",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PHP.4",
-    "previous": {
-      "usfm": "PHP.3",
-      "human": "Philippians 3"
-    },
     "current": {
       "usfm": "PHP.4",
       "human": "Philippians 4"
+    },
+    "previous": {
+      "usfm": "PHP.3",
+      "human": "Philippians 3"
     },
     "next": {
       "usfm": "COL.1",

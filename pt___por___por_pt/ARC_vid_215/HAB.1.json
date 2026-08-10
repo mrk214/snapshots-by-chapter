@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/NAM.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAB.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAB.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/HAB.3.json"
   },
   "book": {
     "book_usfm": "HAB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HAB.1",
-    "previous": {
-      "usfm": "NAM.3",
-      "human": "Naúm 3"
-    },
     "current": {
       "usfm": "HAB.1",
       "human": "Habacuc 1"
+    },
+    "previous": {
+      "usfm": "NAM.3",
+      "human": "Naúm 3"
     },
     "next": {
       "usfm": "HAB.2",

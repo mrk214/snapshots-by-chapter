@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1CO.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1CO.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1CO.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.5",
-    "previous": {
-      "usfm": "1CO.4",
-      "human": "1 Corintios 4"
-    },
     "current": {
       "usfm": "1CO.5",
       "human": "1 Corintios 5"
+    },
+    "previous": {
+      "usfm": "1CO.4",
+      "human": "1 Corintios 4"
     },
     "next": {
       "usfm": "1CO.6",

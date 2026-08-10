@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JHN.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JHN.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JHN.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.20",
-    "previous": {
-      "usfm": "JHN.19",
-      "human": "John 19"
-    },
     "current": {
       "usfm": "JHN.20",
       "human": "John 20"
+    },
+    "previous": {
+      "usfm": "JHN.19",
+      "human": "John 19"
     },
     "next": {
       "usfm": "JHN.21",

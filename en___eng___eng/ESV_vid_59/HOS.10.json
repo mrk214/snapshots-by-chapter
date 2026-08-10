@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.10",
-    "previous": {
-      "usfm": "HOS.9",
-      "human": "Hosea 9"
-    },
     "current": {
       "usfm": "HOS.10",
       "human": "Hosea 10"
+    },
+    "previous": {
+      "usfm": "HOS.9",
+      "human": "Hosea 9"
     },
     "next": {
       "usfm": "HOS.11",

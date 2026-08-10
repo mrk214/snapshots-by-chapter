@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/PRO.31.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ECC.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ECC.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ECC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ECC.12.json"
   },
   "book": {
     "book_usfm": "ECC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ECC.1",
-    "previous": {
-      "usfm": "PRO.31",
-      "human": "Proverbs 31"
-    },
     "current": {
       "usfm": "ECC.1",
       "human": "Ecclesiastes 1"
+    },
+    "previous": {
+      "usfm": "PRO.31",
+      "human": "Proverbs 31"
     },
     "next": {
       "usfm": "ECC.2",

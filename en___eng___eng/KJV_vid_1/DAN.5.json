@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/DAN.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/DAN.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/DAN.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.5",
-    "previous": {
-      "usfm": "DAN.4",
-      "human": "Daniel 4"
-    },
     "current": {
       "usfm": "DAN.5",
       "human": "Daniel 5"
+    },
+    "previous": {
+      "usfm": "DAN.4",
+      "human": "Daniel 4"
     },
     "next": {
       "usfm": "DAN.6",

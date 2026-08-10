@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BEL.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1MA.16.json"
   },
   "book": {
     "book_usfm": "1MA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1MA.1",
-    "previous": {
-      "usfm": "BEL.1",
-      "human": "Bel 14"
-    },
     "current": {
       "usfm": "1MA.1",
       "human": "1 Macabeos 1"
+    },
+    "previous": {
+      "usfm": "BEL.1",
+      "human": "Bel 14"
     },
     "next": {
       "usfm": "1MA.2",

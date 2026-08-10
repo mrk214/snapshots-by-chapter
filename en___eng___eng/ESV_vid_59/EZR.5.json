@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EZR.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EZR.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EZR.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EZR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EZR.10.json"
   },
   "book": {
     "book_usfm": "EZR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZR.5",
-    "previous": {
-      "usfm": "EZR.4",
-      "human": "Ezra 4"
-    },
     "current": {
       "usfm": "EZR.5",
       "human": "Ezra 5"
+    },
+    "previous": {
+      "usfm": "EZR.4",
+      "human": "Ezra 4"
     },
     "next": {
       "usfm": "EZR.6",

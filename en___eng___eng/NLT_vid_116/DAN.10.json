@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/DAN.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/DAN.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/DAN.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/DAN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/DAN.12.json"
   },
   "book": {
     "book_usfm": "DAN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAN.10",
-    "previous": {
-      "usfm": "DAN.9",
-      "human": "Daniel 9"
-    },
     "current": {
       "usfm": "DAN.10",
       "human": "Daniel 10"
+    },
+    "previous": {
+      "usfm": "DAN.9",
+      "human": "Daniel 9"
     },
     "next": {
       "usfm": "DAN.11",

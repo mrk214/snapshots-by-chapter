@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ACT.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ACT.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ACT.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.9",
-    "previous": {
-      "usfm": "ACT.8",
-      "human": "Acts 8"
-    },
     "current": {
       "usfm": "ACT.9",
       "human": "Acts 9"
+    },
+    "previous": {
+      "usfm": "ACT.8",
+      "human": "Acts 8"
     },
     "next": {
       "usfm": "ACT.10",

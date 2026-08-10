@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/JHN.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/JHN.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/JHN.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.4",
-    "previous": {
-      "usfm": "JHN.3",
-      "human": "João 3"
-    },
     "current": {
       "usfm": "JHN.4",
       "human": "João 4"
+    },
+    "previous": {
+      "usfm": "JHN.3",
+      "human": "João 3"
     },
     "next": {
       "usfm": "JHN.5",

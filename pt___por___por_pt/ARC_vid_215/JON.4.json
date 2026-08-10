@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JON.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MIC.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/MIC.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JON.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/JON.4.json"
   },
   "book": {
     "book_usfm": "JON",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JON.4",
-    "previous": {
-      "usfm": "JON.3",
-      "human": "Jonas 3"
-    },
     "current": {
       "usfm": "JON.4",
       "human": "Jonas 4"
+    },
+    "previous": {
+      "usfm": "JON.3",
+      "human": "Jonas 3"
     },
     "next": {
       "usfm": "MIC.1",

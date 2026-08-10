@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NBLA_vid_103/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.12",
-    "previous": {
-      "usfm": "HOS.11",
-      "human": "Oseas 11"
-    },
     "current": {
       "usfm": "HOS.12",
       "human": "Oseas 12"
+    },
+    "previous": {
+      "usfm": "HOS.11",
+      "human": "Oseas 11"
     },
     "next": {
       "usfm": "HOS.13",

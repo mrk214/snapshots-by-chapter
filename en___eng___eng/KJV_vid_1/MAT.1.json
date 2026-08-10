@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAL.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.1",
-    "previous": {
-      "usfm": "MAL.4",
-      "human": "Malachi 4"
-    },
     "current": {
       "usfm": "MAT.1",
       "human": "Matthew 1"
+    },
+    "previous": {
+      "usfm": "MAL.4",
+      "human": "Malachi 4"
     },
     "next": {
       "usfm": "MAT.2",

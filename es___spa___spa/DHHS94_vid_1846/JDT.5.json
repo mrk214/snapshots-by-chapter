@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JDT.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JDT.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JDT.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JDT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/JDT.16.json"
   },
   "book": {
     "book_usfm": "JDT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDT.5",
-    "previous": {
-      "usfm": "JDT.4",
-      "human": "Judit 4"
-    },
     "current": {
       "usfm": "JDT.5",
       "human": "Judit 5"
+    },
+    "previous": {
+      "usfm": "JDT.4",
+      "human": "Judit 4"
     },
     "next": {
       "usfm": "JDT.6",

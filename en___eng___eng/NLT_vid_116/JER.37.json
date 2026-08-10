@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JER.36.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JER.38.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JER.38.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.37",
-    "previous": {
-      "usfm": "JER.36",
-      "human": "Jeremiah 36"
-    },
     "current": {
       "usfm": "JER.37",
       "human": "Jeremiah 37"
+    },
+    "previous": {
+      "usfm": "JER.36",
+      "human": "Jeremiah 36"
     },
     "next": {
       "usfm": "JER.38",

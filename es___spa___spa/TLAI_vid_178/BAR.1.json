@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SIR.51.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/BAR.5.json"
   },
   "book": {
     "book_usfm": "BAR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "BAR.1",
-    "previous": {
-      "usfm": "SIR.51",
-      "human": "Eclesiástico 51"
-    },
     "current": {
       "usfm": "BAR.1",
       "human": "Baruc 1"
+    },
+    "previous": {
+      "usfm": "SIR.51",
+      "human": "Eclesiástico 51"
     },
     "next": {
       "usfm": "BAR.2",

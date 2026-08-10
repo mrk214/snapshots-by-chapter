@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MIC.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MIC.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MIC.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MIC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/MIC.7.json"
   },
   "book": {
     "book_usfm": "MIC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MIC.5",
-    "previous": {
-      "usfm": "MIC.4",
-      "human": "Miqueas 4"
-    },
     "current": {
       "usfm": "MIC.5",
       "human": "Miqueas 5"
+    },
+    "previous": {
+      "usfm": "MIC.4",
+      "human": "Miqueas 4"
     },
     "next": {
       "usfm": "MIC.6",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/MAT.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/MAT.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/MAT.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.10",
-    "previous": {
-      "usfm": "MAT.9",
-      "human": "Mateus 9"
-    },
     "current": {
       "usfm": "MAT.10",
       "human": "Mateus 10"
+    },
+    "previous": {
+      "usfm": "MAT.9",
+      "human": "Mateus 9"
     },
     "next": {
       "usfm": "MAT.11",

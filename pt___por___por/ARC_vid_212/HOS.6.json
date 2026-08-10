@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.6",
-    "previous": {
-      "usfm": "HOS.5",
-      "human": "Oseias 5"
-    },
     "current": {
       "usfm": "HOS.6",
       "human": "Oseias 6"
+    },
+    "previous": {
+      "usfm": "HOS.5",
+      "human": "Oseias 5"
     },
     "next": {
       "usfm": "HOS.7",

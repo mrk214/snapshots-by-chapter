@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EST.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EST.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EST.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.6",
-    "previous": {
-      "usfm": "EST.5",
-      "human": "Ester 5"
-    },
     "current": {
       "usfm": "EST.6",
       "human": "Ester 6"
+    },
+    "previous": {
+      "usfm": "EST.5",
+      "human": "Ester 5"
     },
     "next": {
       "usfm": "EST.7",

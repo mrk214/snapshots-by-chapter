@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PRO.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PRO.18.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PRO.18.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.17",
-    "previous": {
-      "usfm": "PRO.16",
-      "human": "Proverbs 16"
-    },
     "current": {
       "usfm": "PRO.17",
       "human": "Proverbs 17"
+    },
+    "previous": {
+      "usfm": "PRO.16",
+      "human": "Proverbs 16"
     },
     "next": {
       "usfm": "PRO.18",

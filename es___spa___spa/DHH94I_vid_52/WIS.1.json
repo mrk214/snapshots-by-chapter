@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/SIR.51.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.19.json"
   },
   "book": {
     "book_usfm": "WIS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "WIS.1",
-    "previous": {
-      "usfm": "SIR.51",
-      "human": "Eclesiástico 51"
-    },
     "current": {
       "usfm": "WIS.1",
       "human": "Sabiduría 1"
+    },
+    "previous": {
+      "usfm": "SIR.51",
+      "human": "Eclesiástico 51"
     },
     "next": {
       "usfm": "WIS.2",

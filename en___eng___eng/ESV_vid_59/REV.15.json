@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/REV.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/REV.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/REV.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.15",
-    "previous": {
-      "usfm": "REV.14",
-      "human": "Revelation 14"
-    },
     "current": {
       "usfm": "REV.15",
       "human": "Revelation 15"
+    },
+    "previous": {
+      "usfm": "REV.14",
+      "human": "Revelation 14"
     },
     "next": {
       "usfm": "REV.16",

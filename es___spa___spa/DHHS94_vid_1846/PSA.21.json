@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/PSA.150.json"
   },
   "book": {
     "book_usfm": "PSA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PSA.21",
-    "previous": {
-      "usfm": "PSA.20",
-      "human": "Salmos 20"
-    },
     "current": {
       "usfm": "PSA.21",
       "human": "Salmos 21"
+    },
+    "previous": {
+      "usfm": "PSA.20",
+      "human": "Salmos 20"
     },
     "next": {
       "usfm": "PSA.22",

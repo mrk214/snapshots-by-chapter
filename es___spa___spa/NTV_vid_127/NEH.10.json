@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/NEH.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/NEH.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/NEH.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/NEH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/NEH.13.json"
   },
   "book": {
     "book_usfm": "NEH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NEH.10",
-    "previous": {
-      "usfm": "NEH.9",
-      "human": "Nehemías 9"
-    },
     "current": {
       "usfm": "NEH.10",
       "human": "Nehemías 10"
+    },
+    "previous": {
+      "usfm": "NEH.9",
+      "human": "Nehemías 9"
     },
     "next": {
       "usfm": "NEH.11",

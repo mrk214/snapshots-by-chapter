@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ACT.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ACT.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ACT.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.12",
-    "previous": {
-      "usfm": "ACT.11",
-      "human": "Acts 11"
-    },
     "current": {
       "usfm": "ACT.12",
       "human": "Acts 12"
+    },
+    "previous": {
+      "usfm": "ACT.11",
+      "human": "Acts 11"
     },
     "next": {
       "usfm": "ACT.13",

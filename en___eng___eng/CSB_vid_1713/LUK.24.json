@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LUK.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JHN.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JHN.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.24",
-    "previous": {
-      "usfm": "LUK.23",
-      "human": "Luke 23"
-    },
     "current": {
       "usfm": "LUK.24",
       "human": "Luke 24"
+    },
+    "previous": {
+      "usfm": "LUK.23",
+      "human": "Luke 23"
     },
     "next": {
       "usfm": "JHN.1",

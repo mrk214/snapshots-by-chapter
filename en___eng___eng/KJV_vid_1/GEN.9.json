@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.9",
-    "previous": {
-      "usfm": "GEN.8",
-      "human": "Genesis 8"
-    },
     "current": {
       "usfm": "GEN.9",
       "human": "Genesis 9"
+    },
+    "previous": {
+      "usfm": "GEN.8",
+      "human": "Genesis 8"
     },
     "next": {
       "usfm": "GEN.10",

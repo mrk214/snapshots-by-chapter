@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/GAL.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/EPH.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/EPH.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/EPH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/EPH.6.json"
   },
   "book": {
     "book_usfm": "EPH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EPH.1",
-    "previous": {
-      "usfm": "GAL.6",
-      "human": "Gálatas 6"
-    },
     "current": {
       "usfm": "EPH.1",
       "human": "Efesios 1"
+    },
+    "previous": {
+      "usfm": "GAL.6",
+      "human": "Gálatas 6"
     },
     "next": {
       "usfm": "EPH.2",

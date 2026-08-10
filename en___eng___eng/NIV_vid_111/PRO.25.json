@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.24.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.26.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.26.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.25",
-    "previous": {
-      "usfm": "PRO.24",
-      "human": "Proverbs 24"
-    },
     "current": {
       "usfm": "PRO.25",
       "human": "Proverbs 25"
+    },
+    "previous": {
+      "usfm": "PRO.24",
+      "human": "Proverbs 24"
     },
     "next": {
       "usfm": "PRO.26",

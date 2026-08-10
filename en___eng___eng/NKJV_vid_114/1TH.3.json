@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1TH.5.json"
   },
   "book": {
     "book_usfm": "1TH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TH.3",
-    "previous": {
-      "usfm": "1TH.2",
-      "human": "I Thessalonians 2"
-    },
     "current": {
       "usfm": "1TH.3",
       "human": "I Thessalonians 3"
+    },
+    "previous": {
+      "usfm": "1TH.2",
+      "human": "I Thessalonians 2"
     },
     "next": {
       "usfm": "1TH.4",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JOB.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JOB.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JOB.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.21",
-    "previous": {
-      "usfm": "JOB.20",
-      "human": "Jó 20"
-    },
     "current": {
       "usfm": "JOB.21",
       "human": "Jó 21"
+    },
+    "previous": {
+      "usfm": "JOB.20",
+      "human": "Jó 20"
     },
     "next": {
       "usfm": "JOB.22",

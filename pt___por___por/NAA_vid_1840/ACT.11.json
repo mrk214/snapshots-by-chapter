@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ACT.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ACT.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ACT.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.11",
-    "previous": {
-      "usfm": "ACT.10",
-      "human": "Atos 10"
-    },
     "current": {
       "usfm": "ACT.11",
       "human": "Atos 11"
+    },
+    "previous": {
+      "usfm": "ACT.10",
+      "human": "Atos 10"
     },
     "next": {
       "usfm": "ACT.12",

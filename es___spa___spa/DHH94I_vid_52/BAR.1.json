@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/WIS.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/BAR.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/BAR.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/BAR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/BAR.6.json"
   },
   "book": {
     "book_usfm": "BAR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "BAR.1",
-    "previous": {
-      "usfm": "WIS.19",
-      "human": "Sabiduría 19"
-    },
     "current": {
       "usfm": "BAR.1",
       "human": "Baruc 1"
+    },
+    "previous": {
+      "usfm": "WIS.19",
+      "human": "Sabiduría 19"
     },
     "next": {
       "usfm": "BAR.2",

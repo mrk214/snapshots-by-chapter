@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/REV.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/REV.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/REV.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.7",
-    "previous": {
-      "usfm": "REV.6",
-      "human": "Apocalipsis 6"
-    },
     "current": {
       "usfm": "REV.7",
       "human": "Apocalipsis 7"
+    },
+    "previous": {
+      "usfm": "REV.6",
+      "human": "Apocalipsis 6"
     },
     "next": {
       "usfm": "REV.8",

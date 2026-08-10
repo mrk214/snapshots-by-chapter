@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ISA.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ISA.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ISA.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.10",
-    "previous": {
-      "usfm": "ISA.9",
-      "human": "Isaías 9"
-    },
     "current": {
       "usfm": "ISA.10",
       "human": "Isaías 10"
+    },
+    "previous": {
+      "usfm": "ISA.9",
+      "human": "Isaías 9"
     },
     "next": {
       "usfm": "ISA.11",

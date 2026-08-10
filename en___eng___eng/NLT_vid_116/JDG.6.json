@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.6",
-    "previous": {
-      "usfm": "JDG.5",
-      "human": "Judges 5"
-    },
     "current": {
       "usfm": "JDG.6",
       "human": "Judges 6"
+    },
+    "previous": {
+      "usfm": "JDG.5",
+      "human": "Judges 5"
     },
     "next": {
       "usfm": "JDG.7",

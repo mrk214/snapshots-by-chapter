@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.44.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.46.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.46.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.45",
-    "previous": {
-      "usfm": "GEN.44",
-      "human": "Genesis 44"
-    },
     "current": {
       "usfm": "GEN.45",
       "human": "Genesis 45"
+    },
+    "previous": {
+      "usfm": "GEN.44",
+      "human": "Genesis 44"
     },
     "next": {
       "usfm": "GEN.46",

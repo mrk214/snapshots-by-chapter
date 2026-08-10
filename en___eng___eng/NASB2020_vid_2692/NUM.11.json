@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/NUM.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/NUM.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/NUM.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.11",
-    "previous": {
-      "usfm": "NUM.10",
-      "human": "Numbers 10"
-    },
     "current": {
       "usfm": "NUM.11",
       "human": "Numbers 11"
+    },
+    "previous": {
+      "usfm": "NUM.10",
+      "human": "Numbers 10"
     },
     "next": {
       "usfm": "NUM.12",

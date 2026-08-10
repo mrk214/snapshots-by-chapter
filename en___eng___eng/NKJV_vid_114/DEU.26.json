@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.25.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.27.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.27.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/DEU.34.json"
   },
   "book": {
     "book_usfm": "DEU",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DEU.26",
-    "previous": {
-      "usfm": "DEU.25",
-      "human": "Deuteronomy 25"
-    },
     "current": {
       "usfm": "DEU.26",
       "human": "Deuteronomy 26"
+    },
+    "previous": {
+      "usfm": "DEU.25",
+      "human": "Deuteronomy 25"
     },
     "next": {
       "usfm": "DEU.27",

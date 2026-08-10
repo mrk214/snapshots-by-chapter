@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ACT.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ACT.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ACT.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.8",
-    "previous": {
-      "usfm": "ACT.7",
-      "human": "Hechos 7"
-    },
     "current": {
       "usfm": "ACT.8",
       "human": "Hechos 8"
+    },
+    "previous": {
+      "usfm": "ACT.7",
+      "human": "Hechos 7"
     },
     "next": {
       "usfm": "ACT.9",

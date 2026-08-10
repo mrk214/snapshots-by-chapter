@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ZEC.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ZEC.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ZEC.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.7",
-    "previous": {
-      "usfm": "ZEC.6",
-      "human": "Zacarias 6"
-    },
     "current": {
       "usfm": "ZEC.7",
       "human": "Zacarias 7"
+    },
+    "previous": {
+      "usfm": "ZEC.6",
+      "human": "Zacarias 6"
     },
     "next": {
       "usfm": "ZEC.8",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1TH.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1TH.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1TH.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1TH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/1TH.5.json"
   },
   "book": {
     "book_usfm": "1TH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TH.4",
-    "previous": {
-      "usfm": "1TH.3",
-      "human": "1Tessalonicenses 3"
-    },
     "current": {
       "usfm": "1TH.4",
       "human": "1Tessalonicenses 4"
+    },
+    "previous": {
+      "usfm": "1TH.3",
+      "human": "1Tessalonicenses 3"
     },
     "next": {
       "usfm": "1TH.5",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MRK.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LUK.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LUK.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LUK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/LUK.24.json"
   },
   "book": {
     "book_usfm": "LUK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LUK.1",
-    "previous": {
-      "usfm": "MRK.16",
-      "human": "Mark 16"
-    },
     "current": {
       "usfm": "LUK.1",
       "human": "Luke 1"
+    },
+    "previous": {
+      "usfm": "MRK.16",
+      "human": "Mark 16"
     },
     "next": {
       "usfm": "LUK.2",

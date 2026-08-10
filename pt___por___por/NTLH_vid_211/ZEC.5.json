@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ZEC.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ZEC.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ZEC.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.5",
-    "previous": {
-      "usfm": "ZEC.4",
-      "human": "Zacarias 4"
-    },
     "current": {
       "usfm": "ZEC.5",
       "human": "Zacarias 5"
+    },
+    "previous": {
+      "usfm": "ZEC.4",
+      "human": "Zacarias 4"
     },
     "next": {
       "usfm": "ZEC.6",

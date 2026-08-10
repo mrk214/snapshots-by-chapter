@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1TI.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1TI.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1TI.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1TI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/1TI.6.json"
   },
   "book": {
     "book_usfm": "1TI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TI.3",
-    "previous": {
-      "usfm": "1TI.2",
-      "human": "1 Timothy 2"
-    },
     "current": {
       "usfm": "1TI.3",
       "human": "1 Timothy 3"
+    },
+    "previous": {
+      "usfm": "1TI.2",
+      "human": "1 Timothy 2"
     },
     "next": {
       "usfm": "1TI.4",

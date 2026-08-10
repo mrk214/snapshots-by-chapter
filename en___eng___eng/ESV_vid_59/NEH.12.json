@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NEH.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NEH.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NEH.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NEH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/NEH.13.json"
   },
   "book": {
     "book_usfm": "NEH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NEH.12",
-    "previous": {
-      "usfm": "NEH.11",
-      "human": "Nehemiah 11"
-    },
     "current": {
       "usfm": "NEH.12",
       "human": "Nehemiah 12"
+    },
+    "previous": {
+      "usfm": "NEH.11",
+      "human": "Nehemiah 11"
     },
     "next": {
       "usfm": "NEH.13",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JER.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JER.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JER.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.11",
-    "previous": {
-      "usfm": "JER.10",
-      "human": "Jeremías 10"
-    },
     "current": {
       "usfm": "JER.11",
       "human": "Jeremías 11"
+    },
+    "previous": {
+      "usfm": "JER.10",
+      "human": "Jeremías 10"
     },
     "next": {
       "usfm": "JER.12",

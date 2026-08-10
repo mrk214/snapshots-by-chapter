@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.32.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.34.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.34.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.33",
-    "previous": {
-      "usfm": "NUM.32",
-      "human": "Numbers 32"
-    },
     "current": {
       "usfm": "NUM.33",
       "human": "Numbers 33"
+    },
+    "previous": {
+      "usfm": "NUM.32",
+      "human": "Numbers 32"
     },
     "next": {
       "usfm": "NUM.34",

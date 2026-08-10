@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/MAT.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/MAT.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/MAT.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.15",
-    "previous": {
-      "usfm": "MAT.14",
-      "human": "San Mateo 14"
-    },
     "current": {
       "usfm": "MAT.15",
       "human": "San Mateo 15"
+    },
+    "previous": {
+      "usfm": "MAT.14",
+      "human": "San Mateo 14"
     },
     "next": {
       "usfm": "MAT.16",

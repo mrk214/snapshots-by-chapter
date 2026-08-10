@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/LEV.27.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/NUM.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/NUM.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.1",
-    "previous": {
-      "usfm": "LEV.27",
-      "human": "Levítico 27"
-    },
     "current": {
       "usfm": "NUM.1",
       "human": "Números 1"
+    },
+    "previous": {
+      "usfm": "LEV.27",
+      "human": "Levítico 27"
     },
     "next": {
       "usfm": "NUM.2",

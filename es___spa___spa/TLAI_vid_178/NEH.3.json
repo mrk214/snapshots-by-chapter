@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NEH.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NEH.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NEH.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NEH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/NEH.13.json"
   },
   "book": {
     "book_usfm": "NEH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NEH.3",
-    "previous": {
-      "usfm": "NEH.2",
-      "human": "Nehemías 2"
-    },
     "current": {
       "usfm": "NEH.3",
       "human": "Nehemías 3"
+    },
+    "previous": {
+      "usfm": "NEH.2",
+      "human": "Nehemías 2"
     },
     "next": {
       "usfm": "NEH.4",

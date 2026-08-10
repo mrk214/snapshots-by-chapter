@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/EZR.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/EZR.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/EZR.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/EZR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/EZR.10.json"
   },
   "book": {
     "book_usfm": "EZR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZR.7",
-    "previous": {
-      "usfm": "EZR.6",
-      "human": "Esdras 6"
-    },
     "current": {
       "usfm": "EZR.7",
       "human": "Esdras 7"
+    },
+    "previous": {
+      "usfm": "EZR.6",
+      "human": "Esdras 6"
     },
     "next": {
       "usfm": "EZR.8",

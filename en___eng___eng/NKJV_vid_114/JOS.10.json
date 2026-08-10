@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.11.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.11.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.10",
-    "previous": {
-      "usfm": "JOS.9",
-      "human": "Joshua 9"
-    },
     "current": {
       "usfm": "JOS.10",
       "human": "Joshua 10"
+    },
+    "previous": {
+      "usfm": "JOS.9",
+      "human": "Joshua 9"
     },
     "next": {
       "usfm": "JOS.11",

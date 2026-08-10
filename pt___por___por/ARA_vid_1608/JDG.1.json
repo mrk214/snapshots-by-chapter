@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JOS.24.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.1",
-    "previous": {
-      "usfm": "JOS.24",
-      "human": "Josué 24"
-    },
     "current": {
       "usfm": "JDG.1",
       "human": "Juízes 1"
+    },
+    "previous": {
+      "usfm": "JOS.24",
+      "human": "Josué 24"
     },
     "next": {
       "usfm": "JDG.2",

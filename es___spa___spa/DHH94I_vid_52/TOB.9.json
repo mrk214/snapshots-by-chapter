@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.14.json"
   },
   "book": {
     "book_usfm": "TOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "TOB.9",
-    "previous": {
-      "usfm": "TOB.8",
-      "human": "Tobit 8"
-    },
     "current": {
       "usfm": "TOB.9",
       "human": "Tobit 9"
+    },
+    "previous": {
+      "usfm": "TOB.8",
+      "human": "Tobit 8"
     },
     "next": {
       "usfm": "TOB.10",

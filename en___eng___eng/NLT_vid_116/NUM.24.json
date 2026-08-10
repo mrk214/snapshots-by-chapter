@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NUM.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NUM.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NUM.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.24",
-    "previous": {
-      "usfm": "NUM.23",
-      "human": "Numbers 23"
-    },
     "current": {
       "usfm": "NUM.24",
       "human": "Numbers 24"
+    },
+    "previous": {
+      "usfm": "NUM.23",
+      "human": "Numbers 23"
     },
     "next": {
       "usfm": "NUM.25",

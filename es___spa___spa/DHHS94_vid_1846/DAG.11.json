@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/DAG.14.json"
   },
   "book": {
     "book_usfm": "DAG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "DAG.11",
-    "previous": {
-      "usfm": "DAG.10",
-      "human": "Daniel (dc) 10"
-    },
     "current": {
       "usfm": "DAG.11",
       "human": "Daniel (dc) 11"
+    },
+    "previous": {
+      "usfm": "DAG.10",
+      "human": "Daniel (dc) 10"
     },
     "next": {
       "usfm": "DAG.12",

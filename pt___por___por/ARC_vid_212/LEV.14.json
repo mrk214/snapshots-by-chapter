@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/LEV.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/LEV.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/LEV.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.14",
-    "previous": {
-      "usfm": "LEV.13",
-      "human": "Levítico 13"
-    },
     "current": {
       "usfm": "LEV.14",
       "human": "Levítico 14"
+    },
+    "previous": {
+      "usfm": "LEV.13",
+      "human": "Levítico 13"
     },
     "next": {
       "usfm": "LEV.15",

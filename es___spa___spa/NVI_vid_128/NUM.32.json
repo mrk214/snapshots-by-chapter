@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/NUM.31.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/NUM.33.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/NUM.33.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NVI_vid_128/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.32",
-    "previous": {
-      "usfm": "NUM.31",
-      "human": "Números 31"
-    },
     "current": {
       "usfm": "NUM.32",
       "human": "Números 32"
+    },
+    "previous": {
+      "usfm": "NUM.31",
+      "human": "Números 31"
     },
     "next": {
       "usfm": "NUM.33",

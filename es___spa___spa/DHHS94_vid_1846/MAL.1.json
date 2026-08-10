@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/ZEC.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAL.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAL.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/MAL.4.json"
   },
   "book": {
     "book_usfm": "MAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAL.1",
-    "previous": {
-      "usfm": "ZEC.14",
-      "human": "Zacarías 14"
-    },
     "current": {
       "usfm": "MAL.1",
       "human": "Malaquías 1"
+    },
+    "previous": {
+      "usfm": "ZEC.14",
+      "human": "Zacarías 14"
     },
     "next": {
       "usfm": "MAL.2",

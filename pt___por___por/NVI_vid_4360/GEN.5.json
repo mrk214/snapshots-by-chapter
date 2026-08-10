@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.5",
-    "previous": {
-      "usfm": "GEN.4",
-      "human": "Gênesis 4"
-    },
     "current": {
       "usfm": "GEN.5",
       "human": "Gênesis 5"
+    },
+    "previous": {
+      "usfm": "GEN.4",
+      "human": "Gênesis 4"
     },
     "next": {
       "usfm": "GEN.6",

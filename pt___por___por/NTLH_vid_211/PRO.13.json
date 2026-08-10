@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.13",
-    "previous": {
-      "usfm": "PRO.12",
-      "human": "Provérbios 12"
-    },
     "current": {
       "usfm": "PRO.13",
       "human": "Provérbios 13"
+    },
+    "previous": {
+      "usfm": "PRO.12",
+      "human": "Provérbios 12"
     },
     "next": {
       "usfm": "PRO.14",

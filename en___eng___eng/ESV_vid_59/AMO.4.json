@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/AMO.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/AMO.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/AMO.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/AMO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/AMO.9.json"
   },
   "book": {
     "book_usfm": "AMO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "AMO.4",
-    "previous": {
-      "usfm": "AMO.3",
-      "human": "Amos 3"
-    },
     "current": {
       "usfm": "AMO.4",
       "human": "Amos 4"
+    },
+    "previous": {
+      "usfm": "AMO.3",
+      "human": "Amos 3"
     },
     "next": {
       "usfm": "AMO.5",

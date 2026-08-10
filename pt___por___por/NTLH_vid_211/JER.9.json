@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JER.8.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JER.10.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JER.10.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.9",
-    "previous": {
-      "usfm": "JER.8",
-      "human": "Jeremias 8"
-    },
     "current": {
       "usfm": "JER.9",
       "human": "Jeremias 9"
+    },
+    "previous": {
+      "usfm": "JER.8",
+      "human": "Jeremias 8"
     },
     "next": {
       "usfm": "JER.10",

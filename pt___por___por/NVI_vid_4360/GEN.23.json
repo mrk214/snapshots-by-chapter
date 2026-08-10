@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.22.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.24.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.24.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.23",
-    "previous": {
-      "usfm": "GEN.22",
-      "human": "Gênesis 22"
-    },
     "current": {
       "usfm": "GEN.23",
       "human": "Gênesis 23"
+    },
+    "previous": {
+      "usfm": "GEN.22",
+      "human": "Gênesis 22"
     },
     "next": {
       "usfm": "GEN.24",

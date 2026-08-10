@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/COL.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/COL.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/COL.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/COL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/COL.4.json"
   },
   "book": {
     "book_usfm": "COL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "COL.3",
-    "previous": {
-      "usfm": "COL.2",
-      "human": "Colosenses 2"
-    },
     "current": {
       "usfm": "COL.3",
       "human": "Colosenses 3"
+    },
+    "previous": {
+      "usfm": "COL.2",
+      "human": "Colosenses 2"
     },
     "next": {
       "usfm": "COL.4",

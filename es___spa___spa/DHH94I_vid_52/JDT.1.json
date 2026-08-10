@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/TOB.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JDT.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JDT.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JDT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/JDT.16.json"
   },
   "book": {
     "book_usfm": "JDT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDT.1",
-    "previous": {
-      "usfm": "TOB.14",
-      "human": "Tobit 14"
-    },
     "current": {
       "usfm": "JDT.1",
       "human": "Judit 1"
+    },
+    "previous": {
+      "usfm": "TOB.14",
+      "human": "Tobit 14"
     },
     "next": {
       "usfm": "JDT.2",

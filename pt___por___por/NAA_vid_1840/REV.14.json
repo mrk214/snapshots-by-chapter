@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/REV.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/REV.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/REV.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.14",
-    "previous": {
-      "usfm": "REV.13",
-      "human": "Apocalipse 13"
-    },
     "current": {
       "usfm": "REV.14",
       "human": "Apocalipse 14"
+    },
+    "previous": {
+      "usfm": "REV.13",
+      "human": "Apocalipse 13"
     },
     "next": {
       "usfm": "REV.15",

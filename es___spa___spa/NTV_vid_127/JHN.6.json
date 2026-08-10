@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JHN.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JHN.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JHN.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JHN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JHN.21.json"
   },
   "book": {
     "book_usfm": "JHN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JHN.6",
-    "previous": {
-      "usfm": "JHN.5",
-      "human": "Juan 5"
-    },
     "current": {
       "usfm": "JHN.6",
       "human": "Juan 6"
+    },
+    "previous": {
+      "usfm": "JHN.5",
+      "human": "Juan 5"
     },
     "next": {
       "usfm": "JHN.7",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ISA.13.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ISA.15.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ISA.15.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.14",
-    "previous": {
-      "usfm": "ISA.13",
-      "human": "Isaiah 13"
-    },
     "current": {
       "usfm": "ISA.14",
       "human": "Isaiah 14"
+    },
+    "previous": {
+      "usfm": "ISA.13",
+      "human": "Isaiah 13"
     },
     "next": {
       "usfm": "ISA.15",

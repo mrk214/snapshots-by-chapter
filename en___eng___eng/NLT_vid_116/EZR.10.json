@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZR.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NEH.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/NEH.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZR.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/EZR.10.json"
   },
   "book": {
     "book_usfm": "EZR",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZR.10",
-    "previous": {
-      "usfm": "EZR.9",
-      "human": "Ezra 9"
-    },
     "current": {
       "usfm": "EZR.10",
       "human": "Ezra 10"
+    },
+    "previous": {
+      "usfm": "EZR.9",
+      "human": "Ezra 9"
     },
     "next": {
       "usfm": "NEH.1",

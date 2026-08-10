@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MAT.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MAT.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MAT.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.19",
-    "previous": {
-      "usfm": "MAT.18",
-      "human": "Matthew 18"
-    },
     "current": {
       "usfm": "MAT.19",
       "human": "Matthew 19"
+    },
+    "previous": {
+      "usfm": "MAT.18",
+      "human": "Matthew 18"
     },
     "next": {
       "usfm": "MAT.20",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.22",
-    "previous": {
-      "usfm": "JOS.21",
-      "human": "Joshua 21"
-    },
     "current": {
       "usfm": "JOS.22",
       "human": "Joshua 22"
+    },
+    "previous": {
+      "usfm": "JOS.21",
+      "human": "Joshua 21"
     },
     "next": {
       "usfm": "JOS.23",

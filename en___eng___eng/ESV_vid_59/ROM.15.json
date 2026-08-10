@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.16.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.16.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.15",
-    "previous": {
-      "usfm": "ROM.14",
-      "human": "Romans 14"
-    },
     "current": {
       "usfm": "ROM.15",
       "human": "Romans 15"
+    },
+    "previous": {
+      "usfm": "ROM.14",
+      "human": "Romans 14"
     },
     "next": {
       "usfm": "ROM.16",

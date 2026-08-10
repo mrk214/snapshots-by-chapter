@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CH.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CH.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CH.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/1CH.29.json"
   },
   "book": {
     "book_usfm": "1CH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CH.19",
-    "previous": {
-      "usfm": "1CH.18",
-      "human": "I Chronicles 18"
-    },
     "current": {
       "usfm": "1CH.19",
       "human": "I Chronicles 19"
+    },
+    "previous": {
+      "usfm": "1CH.18",
+      "human": "I Chronicles 18"
     },
     "next": {
       "usfm": "1CH.20",

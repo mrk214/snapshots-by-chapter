@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/DAN.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HOS.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HOS.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.1",
-    "previous": {
-      "usfm": "DAN.12",
-      "human": "Daniel 12"
-    },
     "current": {
       "usfm": "HOS.1",
       "human": "Hosea 1"
+    },
+    "previous": {
+      "usfm": "DAN.12",
+      "human": "Daniel 12"
     },
     "next": {
       "usfm": "HOS.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2CO.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2CO.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2CO.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHHS94_vid_1846/2CO.13.json"
   },
   "book": {
     "book_usfm": "2CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2CO.11",
-    "previous": {
-      "usfm": "2CO.10",
-      "human": "2 Corintios 10"
-    },
     "current": {
       "usfm": "2CO.11",
       "human": "2 Corintios 11"
+    },
+    "previous": {
+      "usfm": "2CO.10",
+      "human": "2 Corintios 10"
     },
     "next": {
       "usfm": "2CO.12",

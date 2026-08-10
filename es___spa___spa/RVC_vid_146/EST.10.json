@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EST.9.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JOB.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/JOB.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EST.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVC_vid_146/EST.10.json"
   },
   "book": {
     "book_usfm": "EST",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EST.10",
-    "previous": {
-      "usfm": "EST.9",
-      "human": "Ester 9"
-    },
     "current": {
       "usfm": "EST.10",
       "human": "Ester 10"
+    },
+    "previous": {
+      "usfm": "EST.9",
+      "human": "Ester 9"
     },
     "next": {
       "usfm": "JOB.1",

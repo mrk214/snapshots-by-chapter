@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/HEB.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/HEB.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/HEB.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/HEB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/HEB.13.json"
   },
   "book": {
     "book_usfm": "HEB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HEB.11",
-    "previous": {
-      "usfm": "HEB.10",
-      "human": "Hebreus 10"
-    },
     "current": {
       "usfm": "HEB.11",
       "human": "Hebreus 11"
+    },
+    "previous": {
+      "usfm": "HEB.10",
+      "human": "Hebreus 10"
     },
     "next": {
       "usfm": "HEB.12",

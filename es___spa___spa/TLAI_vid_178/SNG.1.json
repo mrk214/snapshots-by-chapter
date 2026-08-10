@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/ECC.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SNG.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SNG.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SNG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/SNG.8.json"
   },
   "book": {
     "book_usfm": "SNG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "SNG.1",
-    "previous": {
-      "usfm": "ECC.12",
-      "human": "Eclesiastés 12"
-    },
     "current": {
       "usfm": "SNG.1",
       "human": "Cantares 1"
+    },
+    "previous": {
+      "usfm": "ECC.12",
+      "human": "Eclesiastés 12"
     },
     "next": {
       "usfm": "SNG.2",

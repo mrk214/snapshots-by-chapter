@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.13",
-    "previous": {
-      "usfm": "JER.12",
-      "human": "Jeremías 12"
-    },
     "current": {
       "usfm": "JER.13",
       "human": "Jeremías 13"
+    },
+    "previous": {
+      "usfm": "JER.12",
+      "human": "Jeremías 12"
     },
     "next": {
       "usfm": "JER.14",

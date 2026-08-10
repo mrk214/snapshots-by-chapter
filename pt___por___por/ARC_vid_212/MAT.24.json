@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.24",
-    "previous": {
-      "usfm": "MAT.23",
-      "human": "Mateus 23"
-    },
     "current": {
       "usfm": "MAT.24",
       "human": "Mateus 24"
+    },
+    "previous": {
+      "usfm": "MAT.23",
+      "human": "Mateus 23"
     },
     "next": {
       "usfm": "MAT.25",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.4",
-    "previous": {
-      "usfm": "PRO.3",
-      "human": "Proverbs 3"
-    },
     "current": {
       "usfm": "PRO.4",
       "human": "Proverbs 4"
+    },
+    "previous": {
+      "usfm": "PRO.3",
+      "human": "Proverbs 3"
     },
     "next": {
       "usfm": "PRO.5",

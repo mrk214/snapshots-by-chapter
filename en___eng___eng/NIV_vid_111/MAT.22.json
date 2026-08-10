@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MAT.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MAT.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MAT.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.22",
-    "previous": {
-      "usfm": "MAT.21",
-      "human": "Matthew 21"
-    },
     "current": {
       "usfm": "MAT.22",
       "human": "Matthew 22"
+    },
+    "previous": {
+      "usfm": "MAT.21",
+      "human": "Matthew 21"
     },
     "next": {
       "usfm": "MAT.23",

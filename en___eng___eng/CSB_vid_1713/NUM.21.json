@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/NUM.20.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/NUM.22.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/NUM.22.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.21",
-    "previous": {
-      "usfm": "NUM.20",
-      "human": "Numbers 20"
-    },
     "current": {
       "usfm": "NUM.21",
       "human": "Numbers 21"
+    },
+    "previous": {
+      "usfm": "NUM.20",
+      "human": "Numbers 20"
     },
     "next": {
       "usfm": "NUM.22",

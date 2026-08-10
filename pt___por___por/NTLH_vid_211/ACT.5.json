@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/ACT.28.json"
   },
   "book": {
     "book_usfm": "ACT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ACT.5",
-    "previous": {
-      "usfm": "ACT.4",
-      "human": "Atos 4"
-    },
     "current": {
       "usfm": "ACT.5",
       "human": "Atos 5"
+    },
+    "previous": {
+      "usfm": "ACT.4",
+      "human": "Atos 4"
     },
     "next": {
       "usfm": "ACT.6",

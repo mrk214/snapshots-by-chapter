@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ZEC.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ZEC.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ZEC.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.13",
-    "previous": {
-      "usfm": "ZEC.12",
-      "human": "Zechariah 12"
-    },
     "current": {
       "usfm": "ZEC.13",
       "human": "Zechariah 13"
+    },
+    "previous": {
+      "usfm": "ZEC.12",
+      "human": "Zechariah 12"
     },
     "next": {
       "usfm": "ZEC.14",

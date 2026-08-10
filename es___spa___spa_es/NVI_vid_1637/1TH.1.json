@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/COL.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TH.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TH.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa_es/NVI_vid_1637/1TH.5.json"
   },
   "book": {
     "book_usfm": "1TH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1TH.1",
-    "previous": {
-      "usfm": "COL.4",
-      "human": "Colosenses 4"
-    },
     "current": {
       "usfm": "1TH.1",
       "human": "1 Tesalonicenses 1"
+    },
+    "previous": {
+      "usfm": "COL.4",
+      "human": "Colosenses 4"
     },
     "next": {
       "usfm": "1TH.2",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JDG.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JDG.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JDG.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.2",
-    "previous": {
-      "usfm": "JDG.1",
-      "human": "Jueces 1"
-    },
     "current": {
       "usfm": "JDG.2",
       "human": "Jueces 2"
+    },
+    "previous": {
+      "usfm": "JDG.1",
+      "human": "Jueces 1"
     },
     "next": {
       "usfm": "JDG.3",

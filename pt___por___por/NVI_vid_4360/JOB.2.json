@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NVI_vid_4360/JOB.42.json"
   },
   "book": {
     "book_usfm": "JOB",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOB.2",
-    "previous": {
-      "usfm": "JOB.1",
-      "human": "Jó 1"
-    },
     "current": {
       "usfm": "JOB.2",
       "human": "Jó 2"
+    },
+    "previous": {
+      "usfm": "JOB.1",
+      "human": "Jó 1"
     },
     "next": {
       "usfm": "JOB.3",

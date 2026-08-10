@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ROM.16.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1CO.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1CO.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1CO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/1CO.16.json"
   },
   "book": {
     "book_usfm": "1CO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1CO.1",
-    "previous": {
-      "usfm": "ROM.16",
-      "human": "Romanos 16"
-    },
     "current": {
       "usfm": "1CO.1",
       "human": "1 Corintios 1"
+    },
+    "previous": {
+      "usfm": "ROM.16",
+      "human": "Romanos 16"
     },
     "next": {
       "usfm": "1CO.2",

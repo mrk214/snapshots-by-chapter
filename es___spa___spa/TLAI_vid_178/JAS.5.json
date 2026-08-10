@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JAS.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1PE.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/1PE.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JAS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLAI_vid_178/JAS.5.json"
   },
   "book": {
     "book_usfm": "JAS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JAS.5",
-    "previous": {
-      "usfm": "JAS.4",
-      "human": "Santiago 4"
-    },
     "current": {
       "usfm": "JAS.5",
       "human": "Santiago 5"
+    },
+    "previous": {
+      "usfm": "JAS.4",
+      "human": "Santiago 4"
     },
     "next": {
       "usfm": "1PE.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/NTV_vid_127/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.3",
-    "previous": {
-      "usfm": "ISA.2",
-      "human": "Isaías 2"
-    },
     "current": {
       "usfm": "ISA.3",
       "human": "Isaías 3"
+    },
+    "previous": {
+      "usfm": "ISA.2",
+      "human": "Isaías 2"
     },
     "next": {
       "usfm": "ISA.4",

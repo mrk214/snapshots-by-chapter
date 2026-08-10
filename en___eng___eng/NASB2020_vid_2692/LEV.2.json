@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.1.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.3.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.3.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NASB2020_vid_2692/LEV.27.json"
   },
   "book": {
     "book_usfm": "LEV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "LEV.2",
-    "previous": {
-      "usfm": "LEV.1",
-      "human": "Leviticus 1"
-    },
     "current": {
       "usfm": "LEV.2",
       "human": "Leviticus 2"
+    },
+    "previous": {
+      "usfm": "LEV.1",
+      "human": "Leviticus 1"
     },
     "next": {
       "usfm": "LEV.3",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/EZR.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/NEH.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/NEH.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/NEH.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/NEH.13.json"
   },
   "book": {
     "book_usfm": "NEH",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NEH.1",
-    "previous": {
-      "usfm": "EZR.10",
-      "human": "Esdras 10"
-    },
     "current": {
       "usfm": "NEH.1",
       "human": "Neemias 1"
+    },
+    "previous": {
+      "usfm": "EZR.10",
+      "human": "Esdras 10"
     },
     "next": {
       "usfm": "NEH.2",

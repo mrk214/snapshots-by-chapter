@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1KI.18.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1KI.20.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1KI.20.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1KI.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/1KI.22.json"
   },
   "book": {
     "book_usfm": "1KI",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1KI.19",
-    "previous": {
-      "usfm": "1KI.18",
-      "human": "1 Kings 18"
-    },
     "current": {
       "usfm": "1KI.19",
       "human": "1 Kings 19"
+    },
+    "previous": {
+      "usfm": "1KI.18",
+      "human": "1 Kings 18"
     },
     "next": {
       "usfm": "1KI.20",

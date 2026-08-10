@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.26.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.28.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.28.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.27",
-    "previous": {
-      "usfm": "JER.26",
-      "human": "Jeremiah 26"
-    },
     "current": {
       "usfm": "JER.27",
       "human": "Jeremiah 27"
+    },
+    "previous": {
+      "usfm": "JER.26",
+      "human": "Jeremiah 26"
     },
     "next": {
       "usfm": "JER.28",

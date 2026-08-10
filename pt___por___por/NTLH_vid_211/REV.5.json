@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/REV.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/REV.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/REV.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/REV.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NTLH_vid_211/REV.22.json"
   },
   "book": {
     "book_usfm": "REV",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "REV.5",
-    "previous": {
-      "usfm": "REV.4",
-      "human": "Apocalipse 4"
-    },
     "current": {
       "usfm": "REV.5",
       "human": "Apocalipse 5"
+    },
+    "previous": {
+      "usfm": "REV.4",
+      "human": "Apocalipse 4"
     },
     "next": {
       "usfm": "REV.6",

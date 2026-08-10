@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PRO.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PRO.7.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PRO.7.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PRO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/PRO.31.json"
   },
   "book": {
     "book_usfm": "PRO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "PRO.6",
-    "previous": {
-      "usfm": "PRO.5",
-      "human": "Provérbios 5"
-    },
     "current": {
       "usfm": "PRO.6",
       "human": "Provérbios 6"
+    },
+    "previous": {
+      "usfm": "PRO.5",
+      "human": "Provérbios 5"
     },
     "next": {
       "usfm": "PRO.7",

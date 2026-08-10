@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.33.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.35.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.35.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.34",
-    "previous": {
-      "usfm": "GEN.33",
-      "human": "Genesis 33"
-    },
     "current": {
       "usfm": "GEN.34",
       "human": "Genesis 34"
+    },
+    "previous": {
+      "usfm": "GEN.33",
+      "human": "Genesis 33"
     },
     "next": {
       "usfm": "GEN.35",

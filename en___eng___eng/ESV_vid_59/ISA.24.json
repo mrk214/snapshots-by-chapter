@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.23.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.25.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.25.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.24",
-    "previous": {
-      "usfm": "ISA.23",
-      "human": "Isaiah 23"
-    },
     "current": {
       "usfm": "ISA.24",
       "human": "Isaiah 24"
+    },
+    "previous": {
+      "usfm": "ISA.23",
+      "human": "Isaiah 23"
     },
     "next": {
       "usfm": "ISA.25",

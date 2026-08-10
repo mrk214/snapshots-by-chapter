@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.7.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.9.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.9.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.8",
-    "previous": {
-      "usfm": "JER.7",
-      "human": "Jeremiah 7"
-    },
     "current": {
       "usfm": "JER.8",
       "human": "Jeremiah 8"
+    },
+    "previous": {
+      "usfm": "JER.7",
+      "human": "Jeremiah 7"
     },
     "next": {
       "usfm": "JER.9",

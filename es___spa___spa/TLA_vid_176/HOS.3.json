@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/HOS.14.json"
   },
   "book": {
     "book_usfm": "HOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "HOS.3",
-    "previous": {
-      "usfm": "HOS.2",
-      "human": "Oseas 2"
-    },
     "current": {
       "usfm": "HOS.3",
       "human": "Oseas 3"
+    },
+    "previous": {
+      "usfm": "HOS.2",
+      "human": "Oseas 2"
     },
     "next": {
       "usfm": "HOS.4",

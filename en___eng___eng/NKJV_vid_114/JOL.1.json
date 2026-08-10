@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/HOS.14.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOL.2.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOL.2.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/JOL.3.json"
   },
   "book": {
     "book_usfm": "JOL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOL.1",
-    "previous": {
-      "usfm": "HOS.14",
-      "human": "Hosea 14"
-    },
     "current": {
       "usfm": "JOL.1",
       "human": "Joel 1"
+    },
+    "previous": {
+      "usfm": "HOS.14",
+      "human": "Hosea 14"
     },
     "next": {
       "usfm": "JOL.2",

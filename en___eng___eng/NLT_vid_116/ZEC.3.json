@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ZEC.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ZEC.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ZEC.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ZEC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ZEC.14.json"
   },
   "book": {
     "book_usfm": "ZEC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ZEC.3",
-    "previous": {
-      "usfm": "ZEC.2",
-      "human": "Zechariah 2"
-    },
     "current": {
       "usfm": "ZEC.3",
       "human": "Zechariah 3"
+    },
+    "previous": {
+      "usfm": "ZEC.2",
+      "human": "Zechariah 2"
     },
     "next": {
       "usfm": "ZEC.4",

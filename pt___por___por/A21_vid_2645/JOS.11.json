@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/JOS.24.json"
   },
   "book": {
     "book_usfm": "JOS",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JOS.11",
-    "previous": {
-      "usfm": "JOS.10",
-      "human": "Josué 10"
-    },
     "current": {
       "usfm": "JOS.11",
       "human": "Josué 11"
+    },
+    "previous": {
+      "usfm": "JOS.10",
+      "human": "Josué 10"
     },
     "next": {
       "usfm": "JOS.12",

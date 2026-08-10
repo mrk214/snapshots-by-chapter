@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ECC.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ECC.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ECC.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ECC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/DHH94I_vid_52/ECC.12.json"
   },
   "book": {
     "book_usfm": "ECC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ECC.7",
-    "previous": {
-      "usfm": "ECC.6",
-      "human": "Eclesiastés 6"
-    },
     "current": {
       "usfm": "ECC.7",
       "human": "Eclesiastés 7"
+    },
+    "previous": {
+      "usfm": "ECC.6",
+      "human": "Eclesiastés 6"
     },
     "next": {
       "usfm": "ECC.8",

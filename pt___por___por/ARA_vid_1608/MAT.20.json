@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/MAT.28.json"
   },
   "book": {
     "book_usfm": "MAT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MAT.20",
-    "previous": {
-      "usfm": "MAT.19",
-      "human": "Mateus 19"
-    },
     "current": {
       "usfm": "MAT.20",
       "human": "Mateus 20"
+    },
+    "previous": {
+      "usfm": "MAT.19",
+      "human": "Mateus 19"
     },
     "next": {
       "usfm": "MAT.21",

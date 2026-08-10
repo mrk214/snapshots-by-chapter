@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.21.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.23.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.23.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/LBLA_vid_89/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.22",
-    "previous": {
-      "usfm": "ISA.21",
-      "human": "Isaías 21"
-    },
     "current": {
       "usfm": "ISA.22",
       "human": "Isaías 22"
+    },
+    "previous": {
+      "usfm": "ISA.21",
+      "human": "Isaías 21"
     },
     "next": {
       "usfm": "ISA.23",

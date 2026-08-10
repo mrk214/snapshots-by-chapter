@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ECC.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ECC.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ECC.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ECC.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por_pt/ARC_vid_215/ECC.12.json"
   },
   "book": {
     "book_usfm": "ECC",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ECC.3",
-    "previous": {
-      "usfm": "ECC.2",
-      "human": "Eclesiastes 2"
-    },
     "current": {
       "usfm": "ECC.3",
       "human": "Eclesiastes 3"
+    },
+    "previous": {
+      "usfm": "ECC.2",
+      "human": "Eclesiastes 2"
     },
     "next": {
       "usfm": "ECC.4",

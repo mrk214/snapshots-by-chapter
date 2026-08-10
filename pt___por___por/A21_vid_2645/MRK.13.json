@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MRK.12.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MRK.14.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MRK.14.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MRK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/MRK.16.json"
   },
   "book": {
     "book_usfm": "MRK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "MRK.13",
-    "previous": {
-      "usfm": "MRK.12",
-      "human": "Marcos 12"
-    },
     "current": {
       "usfm": "MRK.13",
       "human": "Marcos 13"
+    },
+    "previous": {
+      "usfm": "MRK.12",
+      "human": "Marcos 12"
     },
     "next": {
       "usfm": "MRK.14",

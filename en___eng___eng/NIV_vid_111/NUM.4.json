@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/NUM.3.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/NUM.5.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/NUM.5.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/NUM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/NUM.36.json"
   },
   "book": {
     "book_usfm": "NUM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "NUM.4",
-    "previous": {
-      "usfm": "NUM.3",
-      "human": "Numbers 3"
-    },
     "current": {
       "usfm": "NUM.4",
       "human": "Numbers 4"
+    },
+    "previous": {
+      "usfm": "NUM.3",
+      "human": "Numbers 3"
     },
     "next": {
       "usfm": "NUM.5",

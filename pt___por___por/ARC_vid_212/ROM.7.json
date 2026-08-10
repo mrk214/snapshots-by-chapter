@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ROM.6.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ROM.8.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ROM.8.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ROM.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/ROM.16.json"
   },
   "book": {
     "book_usfm": "ROM",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ROM.7",
-    "previous": {
-      "usfm": "ROM.6",
-      "human": "Romanos 6"
-    },
     "current": {
       "usfm": "ROM.7",
       "human": "Romanos 7"
+    },
+    "previous": {
+      "usfm": "ROM.6",
+      "human": "Romanos 6"
     },
     "next": {
       "usfm": "ROM.8",

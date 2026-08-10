@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.54.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.56.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.56.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NLT_vid_116/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.55",
-    "previous": {
-      "usfm": "ISA.54",
-      "human": "Isaiah 54"
-    },
     "current": {
       "usfm": "ISA.55",
       "human": "Isaiah 55"
+    },
+    "previous": {
+      "usfm": "ISA.54",
+      "human": "Isaiah 54"
     },
     "next": {
       "usfm": "ISA.56",

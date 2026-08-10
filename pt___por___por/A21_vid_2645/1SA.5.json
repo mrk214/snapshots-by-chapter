@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1SA.4.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1SA.6.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1SA.6.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1SA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/A21_vid_2645/1SA.31.json"
   },
   "book": {
     "book_usfm": "1SA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "1SA.5",
-    "previous": {
-      "usfm": "1SA.4",
-      "human": "1Samuel 4"
-    },
     "current": {
       "usfm": "1SA.5",
       "human": "1Samuel 5"
+    },
+    "previous": {
+      "usfm": "1SA.4",
+      "human": "1Samuel 4"
     },
     "next": {
       "usfm": "1SA.6",

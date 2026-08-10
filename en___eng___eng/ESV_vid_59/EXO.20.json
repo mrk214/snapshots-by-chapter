@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EXO.19.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EXO.21.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EXO.21.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EXO.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/ESV_vid_59/EXO.40.json"
   },
   "book": {
     "book_usfm": "EXO",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EXO.20",
-    "previous": {
-      "usfm": "EXO.19",
-      "human": "Exodus 19"
-    },
     "current": {
       "usfm": "EXO.20",
       "human": "Exodus 20"
+    },
+    "previous": {
+      "usfm": "EXO.19",
+      "human": "Exodus 19"
     },
     "next": {
       "usfm": "EXO.21",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.40.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.42.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.42.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NIV_vid_111/JER.52.json"
   },
   "book": {
     "book_usfm": "JER",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JER.41",
-    "previous": {
-      "usfm": "JER.40",
-      "human": "Jeremiah 40"
-    },
     "current": {
       "usfm": "JER.41",
       "human": "Jeremiah 41"
+    },
+    "previous": {
+      "usfm": "JER.40",
+      "human": "Jeremiah 40"
     },
     "next": {
       "usfm": "JER.42",

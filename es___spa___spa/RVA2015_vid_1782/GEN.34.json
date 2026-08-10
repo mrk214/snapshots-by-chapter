@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/GEN.33.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/GEN.35.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/GEN.35.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/RVA2015_vid_1782/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.34",
-    "previous": {
-      "usfm": "GEN.33",
-      "human": "Génesis 33"
-    },
     "current": {
       "usfm": "GEN.34",
       "human": "Génesis 34"
+    },
+    "previous": {
+      "usfm": "GEN.33",
+      "human": "Génesis 33"
     },
     "next": {
       "usfm": "GEN.35",

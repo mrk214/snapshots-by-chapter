@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/GAL.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/EPH.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/GAL.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/NKJV_vid_114/GAL.6.json"
   },
   "book": {
     "book_usfm": "GAL",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GAL.6",
-    "previous": {
-      "usfm": "GAL.5",
-      "human": "Galatians 5"
-    },
     "current": {
       "usfm": "GAL.6",
       "human": "Galatians 6"
+    },
+    "previous": {
+      "usfm": "GAL.5",
+      "human": "Galatians 5"
     },
     "next": {
       "usfm": "EPH.1",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARA_vid_1608/JDG.21.json"
   },
   "book": {
     "book_usfm": "JDG",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "JDG.11",
-    "previous": {
-      "usfm": "JDG.10",
-      "human": "Juízes 10"
-    },
     "current": {
       "usfm": "JDG.11",
       "human": "Juízes 11"
+    },
+    "previous": {
+      "usfm": "JDG.10",
+      "human": "Juízes 10"
     },
     "next": {
       "usfm": "JDG.12",

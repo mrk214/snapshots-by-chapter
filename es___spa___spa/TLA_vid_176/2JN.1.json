@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/1JN.5.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/3JN.1.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/3JN.1.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/2JN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/es___spa___spa/TLA_vid_176/2JN.1.json"
   },
   "book": {
     "book_usfm": "2JN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "2JN.1",
-    "previous": {
-      "usfm": "1JN.5",
-      "human": "1 Juan 5"
-    },
     "current": {
       "usfm": "2JN.1",
       "human": "2 Juan 1"
+    },
+    "previous": {
+      "usfm": "1JN.5",
+      "human": "1 Juan 5"
     },
     "next": {
       "usfm": "3JN.1",

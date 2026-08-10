@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/GEN.11.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/GEN.13.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/GEN.13.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/GEN.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/CSB_vid_1713/GEN.50.json"
   },
   "book": {
     "book_usfm": "GEN",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "GEN.12",
-    "previous": {
-      "usfm": "GEN.11",
-      "human": "Genesis 11"
-    },
     "current": {
       "usfm": "GEN.12",
       "human": "Genesis 12"
+    },
+    "previous": {
+      "usfm": "GEN.11",
+      "human": "Genesis 11"
     },
     "next": {
       "usfm": "GEN.13",

@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/RUT.2.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/RUT.4.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/RUT.4.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/RUT.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/ARC_vid_212/RUT.4.json"
   },
   "book": {
     "book_usfm": "RUT",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "RUT.3",
-    "previous": {
-      "usfm": "RUT.2",
-      "human": "Rute 2"
-    },
     "current": {
       "usfm": "RUT.3",
       "human": "Rute 3"
+    },
+    "previous": {
+      "usfm": "RUT.2",
+      "human": "Rute 2"
     },
     "next": {
       "usfm": "RUT.4",

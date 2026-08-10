@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.50.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.52.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.52.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/pt___por___por/NAA_vid_1840/ISA.66.json"
   },
   "book": {
     "book_usfm": "ISA",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "ISA.51",
-    "previous": {
-      "usfm": "ISA.50",
-      "human": "Isaías 50"
-    },
     "current": {
       "usfm": "ISA.51",
       "human": "Isaías 51"
+    },
+    "previous": {
+      "usfm": "ISA.50",
+      "human": "Isaías 50"
     },
     "next": {
       "usfm": "ISA.52",

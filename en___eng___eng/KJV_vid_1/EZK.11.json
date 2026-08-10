@@ -1,7 +1,9 @@
 {
   "_links": {
     "prev": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/EZK.10.json",
-    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/EZK.12.json"
+    "next": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/EZK.12.json",
+    "first": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/EZK.1.json",
+    "last": "https://mrk214.github.io/snapshots-by-chapter/en___eng___eng/KJV_vid_1/EZK.48.json"
   },
   "book": {
     "book_usfm": "EZK",
@@ -9,13 +11,13 @@
   },
   "chapter": {
     "chapter_usfm": "EZK.11",
-    "previous": {
-      "usfm": "EZK.10",
-      "human": "Ezekiel 10"
-    },
     "current": {
       "usfm": "EZK.11",
       "human": "Ezekiel 11"
+    },
+    "previous": {
+      "usfm": "EZK.10",
+      "human": "Ezekiel 10"
     },
     "next": {
       "usfm": "EZK.12",
