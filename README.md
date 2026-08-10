@@ -43,7 +43,7 @@
 
 ## 👉 TypeScript Types
 
-Every chapter uses the following TypeScript definitions:
+Every JSON file uses the following TypeScript definitions:
 
 ```typescript
 export type Root = {
