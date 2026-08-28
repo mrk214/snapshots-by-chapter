@@ -48,10 +48,14 @@ Every JSON file uses the following TypeScript definitions:
 ```typescript
 export type Root = {
   _links: {
+    prev_usfm: string | null
+    next_usfm: string | null
+    book_first_usfm: string
+    book_last_usfm: string
     prev: string | null
     next: string | null
-    first: string
-    last: string
+    book_first: string
+    book_last: string
   }
   book: {
     book_usfm: string
