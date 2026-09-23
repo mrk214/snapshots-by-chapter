@@ -62,10 +62,10 @@ export type Root = {
     name: string
   }
   chapter: {
-    chapter_usfm: string
-    current: CurrPrevNext
-    previous: CurrPrevNext | null
-    next: CurrPrevNext | null
+    usfm: string
+    human: string
+    previous: PrevNext | null
+    next: PrevNext | null
     items: ChapterItem[]
   }
   version: {
@@ -79,7 +79,7 @@ export type Root = {
   }
 }
 
-export type CurrPrevNext = {
+export type PrevNext = {
   usfm: string
   human: string
 }
