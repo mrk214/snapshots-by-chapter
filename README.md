@@ -58,8 +58,8 @@ export type Root = {
     book_last: string
   }
   book: {
-    book_usfm: string
-    name: string
+    usfm: string
+    human: string
   }
   chapter: {
     usfm: string
@@ -88,7 +88,7 @@ export type ChapterItem = {
   type: ChapterItemType
   verse_numbers: number[]
   lines: string[]
-  rlw_lines: RedLetterWordsSection[][]
+  rlw_lines: RedLetterWords[][]
 }
 
 // Depending on the version, some ChapterItemTypes may appear more or less.
@@ -103,7 +103,7 @@ export type ChapterItemType =
   | 'label' //    common      - weight: 500 - italic
   | 'verse' //    very common - weight: 400 - regular text
 
-export type RedLetterWordsSection = {
+export type RedLetterWords = {
   text: string
   rl: boolean
 }
